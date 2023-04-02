@@ -1,0 +1,513 @@
+[
+  {
+    "gem_id": "AL0087",
+    "country_id": "AL",
+    "name": "UNK",
+    "shareBB": 0.4063,
+    "shareCircle": 0.2656
+  },
+  {
+    "gem_id": "AL0088",
+    "country_id": "AL",
+    "name": "UNK",
+    "shareBB": 0.4927,
+    "shareCircle": 0.432
+  },
+  {
+    "gem_id": "AL0089",
+    "country_id": "AL",
+    "name": "UNK",
+    "shareBB": 0.4419,
+    "shareCircle": 0.3011
+  },
+  {
+    "gem_id": "AL0090",
+    "country_id": "AL",
+    "name": "UNK",
+    "shareBB": 0.6804,
+    "shareCircle": 0.5089
+  },
+  {
+    "gem_id": "AL0091",
+    "country_id": "AL",
+    "name": "UNK",
+    "shareBB": 0.583,
+    "shareCircle": 0.3814
+  },
+  {
+    "gem_id": "AL0092",
+    "country_id": "AL",
+    "name": "UNK",
+    "shareBB": 0.5666,
+    "shareCircle": 0.3584
+  },
+  {
+    "gem_id": "AL0093",
+    "country_id": "AL",
+    "name": "UNK",
+    "shareBB": 0.642,
+    "shareCircle": 0.5018
+  },
+  {
+    "gem_id": "AL0094",
+    "country_id": "AL",
+    "name": "Liqeni i Butrintit",
+    "shareBB": 0.6238,
+    "shareCircle": 0.4265
+  },
+  {
+    "gem_id": "AL0095",
+    "country_id": "AL",
+    "name": "Laguna e Karavastasë",
+    "shareBB": 0.5798,
+    "shareCircle": 0.4123
+  },
+  {
+    "gem_id": "AL0097",
+    "country_id": "AL",
+    "name": "Liqeni Prespa e madhe",
+    "shareBB": 0.4868,
+    "shareCircle": 0.2582
+  },
+  {
+    "gem_id": "AL0098",
+    "country_id": "AL",
+    "name": "Liqeni i Ohrit",
+    "shareBB": 0.4849,
+    "shareCircle": 0.2985
+  },
+  {
+    "gem_id": "AL0099",
+    "country_id": "AL",
+    "name": "Liqeni i Shkodrës",
+    "shareBB": 0.2763,
+    "shareCircle": 0.2037
+  },
+  {
+    "gem_id": "AL0101",
+    "country_id": "AL",
+    "name": "Berat",
+    "shareBB": 0.4359,
+    "shareCircle": 0.4012
+  },
+  {
+    "gem_id": "AL0102",
+    "country_id": "AL",
+    "name": "Ura vajgurore",
+    "shareBB": 0.5565,
+    "shareCircle": 0.4435
+  },
+  {
+    "gem_id": "AL0103",
+    "country_id": "AL",
+    "name": "Kuçovë",
+    "shareBB": 0.565,
+    "shareCircle": 0.3948
+  },
+  {
+    "gem_id": "AL0104",
+    "country_id": "AL",
+    "name": "Skrapar",
+    "shareBB": 0.6125,
+    "shareCircle": 0.5479
+  },
+  {
+    "gem_id": "AL0105",
+    "country_id": "AL",
+    "name": "Poliçan",
+    "shareBB": 0.5726,
+    "shareCircle": 0.4654
+  },
+  {
+    "gem_id": "AL0206",
+    "country_id": "AL",
+    "name": "Dibër",
+    "shareBB": 0.6032,
+    "shareCircle": 0.5643
+  },
+  {
+    "gem_id": "AL0207",
+    "country_id": "AL",
+    "name": "Bulqizë",
+    "shareBB": 0.5703,
+    "shareCircle": 0.5529
+  },
+  {
+    "gem_id": "AL0208",
+    "country_id": "AL",
+    "name": "Mat",
+    "shareBB": 0.4838,
+    "shareCircle": 0.5018
+  },
+  {
+    "gem_id": "AL0209",
+    "country_id": "AL",
+    "name": "Klos",
+    "shareBB": 0.5442,
+    "shareCircle": 0.5689
+  },
+  {
+    "gem_id": "AL0310",
+    "country_id": "AL",
+    "name": "Durrës",
+    "shareBB": 0.4933,
+    "shareCircle": 0.2935
+  },
+  {
+    "gem_id": "AL0311",
+    "country_id": "AL",
+    "name": "Shijak",
+    "shareBB": 0.5078,
+    "shareCircle": 0.4819
+  },
+  {
+    "gem_id": "AL0312",
+    "country_id": "AL",
+    "name": "Krujë",
+    "shareBB": 0.5823,
+    "shareCircle": 0.5531
+  },
+  {
+    "gem_id": "AL0413",
+    "country_id": "AL",
+    "name": "Elbasan",
+    "shareBB": 0.5409,
+    "shareCircle": 0.4913
+  },
+  {
+    "gem_id": "AL0414",
+    "country_id": "AL",
+    "name": "Cërrik",
+    "shareBB": 0.451,
+    "shareCircle": 0.4113
+  },
+  {
+    "gem_id": "AL0415",
+    "country_id": "AL",
+    "name": "Belsh",
+    "shareBB": 0.6742,
+    "shareCircle": 0.6806
+  },
+  {
+    "gem_id": "AL0416",
+    "country_id": "AL",
+    "name": "Peqin",
+    "shareBB": 0.5327,
+    "shareCircle": 0.5134
+  },
+  {
+    "gem_id": "AL0417",
+    "country_id": "AL",
+    "name": "Gramsh",
+    "shareBB": 0.6376,
+    "shareCircle": 0.6008
+  },
+  {
+    "gem_id": "AL0418",
+    "country_id": "AL",
+    "name": "Librazhd",
+    "shareBB": 0.55,
+    "shareCircle": 0.6408
+  },
+  {
+    "gem_id": "AL0419",
+    "country_id": "AL",
+    "name": "Prrenjas",
+    "shareBB": 0.3793,
+    "shareCircle": 0.3775
+  },
+  {
+    "gem_id": "AL0520",
+    "country_id": "AL",
+    "name": "Fier",
+    "shareBB": 0.5663,
+    "shareCircle": 0.5039
+  },
+  {
+    "gem_id": "AL0521",
+    "country_id": "AL",
+    "name": "Lushnje",
+    "shareBB": 0.4981,
+    "shareCircle": 0.4489
+  },
+  {
+    "gem_id": "AL0522",
+    "country_id": "AL",
+    "name": "Patos",
+    "shareBB": 0.3982,
+    "shareCircle": 0.4197
+  },
+  {
+    "gem_id": "AL0523",
+    "country_id": "AL",
+    "name": "Roskovec",
+    "shareBB": 0.4521,
+    "shareCircle": 0.4478
+  },
+  {
+    "gem_id": "AL0524",
+    "country_id": "AL",
+    "name": "Divjakë",
+    "shareBB": 0.425,
+    "shareCircle": 0.3161
+  },
+  {
+    "gem_id": "AL0525",
+    "country_id": "AL",
+    "name": "Mallakastër",
+    "shareBB": 0.5232,
+    "shareCircle": 0.5611
+  },
+  {
+    "gem_id": "AL0626",
+    "country_id": "AL",
+    "name": "Gjirokastër",
+    "shareBB": 0.6113,
+    "shareCircle": 0.5824
+  },
+  {
+    "gem_id": "AL0627",
+    "country_id": "AL",
+    "name": "Libohovë",
+    "shareBB": 0.485,
+    "shareCircle": 0.3218
+  },
+  {
+    "gem_id": "AL0628",
+    "country_id": "AL",
+    "name": "Përmet",
+    "shareBB": 0.3977,
+    "shareCircle": 0.3765
+  },
+  {
+    "gem_id": "AL0629",
+    "country_id": "AL",
+    "name": "Këlcyrë",
+    "shareBB": 0.4732,
+    "shareCircle": 0.3927
+  },
+  {
+    "gem_id": "AL0630",
+    "country_id": "AL",
+    "name": "Tepelenë",
+    "shareBB": 0.5277,
+    "shareCircle": 0.4024
+  },
+  {
+    "gem_id": "AL0631",
+    "country_id": "AL",
+    "name": "Memaliaj",
+    "shareBB": 0.6105,
+    "shareCircle": 0.5274
+  },
+  {
+    "gem_id": "AL0632",
+    "country_id": "AL",
+    "name": "Dropull",
+    "shareBB": 0.3753,
+    "shareCircle": 0.3116
+  },
+  {
+    "gem_id": "AL0733",
+    "country_id": "AL",
+    "name": "Korçë",
+    "shareBB": 0.6377,
+    "shareCircle": 0.5059
+  },
+  {
+    "gem_id": "AL0734",
+    "country_id": "AL",
+    "name": "Pogradec",
+    "shareBB": 0.4602,
+    "shareCircle": 0.4903
+  },
+  {
+    "gem_id": "AL0735",
+    "country_id": "AL",
+    "name": "Maliq",
+    "shareBB": 0.4237,
+    "shareCircle": 0.3167
+  },
+  {
+    "gem_id": "AL0736",
+    "country_id": "AL",
+    "name": "Pustec",
+    "shareBB": 0.5909,
+    "shareCircle": 0.4486
+  },
+  {
+    "gem_id": "AL0737",
+    "country_id": "AL",
+    "name": "Kolonjë",
+    "shareBB": 0.602,
+    "shareCircle": 0.4695
+  },
+  {
+    "gem_id": "AL0738",
+    "country_id": "AL",
+    "name": "Devoll",
+    "shareBB": 0.5413,
+    "shareCircle": 0.391
+  },
+  {
+    "gem_id": "AL0839",
+    "country_id": "AL",
+    "name": "Kukës",
+    "shareBB": 0.56,
+    "shareCircle": 0.5822
+  },
+  {
+    "gem_id": "AL0840",
+    "country_id": "AL",
+    "name": "Tropojë",
+    "shareBB": 0.5756,
+    "shareCircle": 0.5789
+  },
+  {
+    "gem_id": "AL0841",
+    "country_id": "AL",
+    "name": "Has",
+    "shareBB": 0.6107,
+    "shareCircle": 0.6404
+  },
+  {
+    "gem_id": "AL0942",
+    "country_id": "AL",
+    "name": "Lezhë",
+    "shareBB": 0.4235,
+    "shareCircle": 0.3672
+  },
+  {
+    "gem_id": "AL0943",
+    "country_id": "AL",
+    "name": "Mirditë",
+    "shareBB": 0.4826,
+    "shareCircle": 0.3641
+  },
+  {
+    "gem_id": "AL0944",
+    "country_id": "AL",
+    "name": "Kurbin",
+    "shareBB": 0.5941,
+    "shareCircle": 0.4335
+  },
+  {
+    "gem_id": "AL1045",
+    "country_id": "AL",
+    "name": "Shkodër",
+    "shareBB": 0.3125,
+    "shareCircle": 0.1766
+  },
+  {
+    "gem_id": "AL1046",
+    "country_id": "AL",
+    "name": "Vau i dejës",
+    "shareBB": 0.3326,
+    "shareCircle": 0.2495
+  },
+  {
+    "gem_id": "AL1047",
+    "country_id": "AL",
+    "name": "Malësi e madhe",
+    "shareBB": 0.4818,
+    "shareCircle": 0.3011
+  },
+  {
+    "gem_id": "AL1048",
+    "country_id": "AL",
+    "name": "Pukë",
+    "shareBB": 0.5218,
+    "shareCircle": 0.5609
+  },
+  {
+    "gem_id": "AL1049",
+    "country_id": "AL",
+    "name": "Fushë arrës",
+    "shareBB": 0.5279,
+    "shareCircle": 0.508
+  },
+  {
+    "gem_id": "AL1150",
+    "country_id": "AL",
+    "name": "Tiranë",
+    "shareBB": 0.4727,
+    "shareCircle": 0.4549
+  },
+  {
+    "gem_id": "AL1151",
+    "country_id": "AL",
+    "name": "Kamëz",
+    "shareBB": 0.5324,
+    "shareCircle": 0.2936
+  },
+  {
+    "gem_id": "AL1152",
+    "country_id": "AL",
+    "name": "Vorë",
+    "shareBB": 0.4422,
+    "shareCircle": 0.417
+  },
+  {
+    "gem_id": "AL1153",
+    "country_id": "AL",
+    "name": "Kavajë",
+    "shareBB": 0.4657,
+    "shareCircle": 0.4873
+  },
+  {
+    "gem_id": "AL1154",
+    "country_id": "AL",
+    "name": "Rrogozhinë",
+    "shareBB": 0.4186,
+    "shareCircle": 0.3033
+  },
+  {
+    "gem_id": "AL1255",
+    "country_id": "AL",
+    "name": "Vlorë",
+    "shareBB": 0.3587,
+    "shareCircle": 0.2378
+  },
+  {
+    "gem_id": "AL1256",
+    "country_id": "AL",
+    "name": "Himarë",
+    "shareBB": 0.3357,
+    "shareCircle": 0.2753
+  },
+  {
+    "gem_id": "AL1257",
+    "country_id": "AL",
+    "name": "Sarandë",
+    "shareBB": 0.2546,
+    "shareCircle": 0.1843
+  },
+  {
+    "gem_id": "AL1258",
+    "country_id": "AL",
+    "name": "Konispol",
+    "shareBB": 0.5927,
+    "shareCircle": 0.3655
+  },
+  {
+    "gem_id": "AL1259",
+    "country_id": "AL",
+    "name": "Delvinë",
+    "shareBB": 0.543,
+    "shareCircle": 0.4499
+  },
+  {
+    "gem_id": "AL1260",
+    "country_id": "AL",
+    "name": "Finiq",
+    "shareBB": 0.5542,
+    "shareCircle": 0.5191
+  },
+  {
+    "gem_id": "AL1261",
+    "country_id": "AL",
+    "name": "Selenicë",
+    "shareBB": 0.6363,
+    "shareCircle": 0.477
+  }
+]
