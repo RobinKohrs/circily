@@ -1,0 +1,8462 @@
+[
+  {
+    "g_id": "10101",
+    "g_name": "Eisenstadt"
+  },
+  {
+    "g_id": "10201",
+    "g_name": "Rust"
+  },
+  {
+    "g_id": "10301",
+    "g_name": "Breitenbrunn am Neusiedler See"
+  },
+  {
+    "g_id": "10302",
+    "g_name": "Donnerskirchen"
+  },
+  {
+    "g_id": "10303",
+    "g_name": "Großhöflein"
+  },
+  {
+    "g_id": "10304",
+    "g_name": "Hornstein"
+  },
+  {
+    "g_id": "10305",
+    "g_name": "Klingenbach"
+  },
+  {
+    "g_id": "10306",
+    "g_name": "Leithaprodersdorf"
+  },
+  {
+    "g_id": "10307",
+    "g_name": "Mörbisch am See"
+  },
+  {
+    "g_id": "10308",
+    "g_name": "Müllendorf"
+  },
+  {
+    "g_id": "10309",
+    "g_name": "Neufeld an der Leitha"
+  },
+  {
+    "g_id": "10310",
+    "g_name": "Oggau am Neusiedler See"
+  },
+  {
+    "g_id": "10311",
+    "g_name": "Oslip"
+  },
+  {
+    "g_id": "10312",
+    "g_name": "Purbach am Neusiedler See"
+  },
+  {
+    "g_id": "10313",
+    "g_name": "Sankt Margarethen im Burgenland"
+  },
+  {
+    "g_id": "10314",
+    "g_name": "Schützen am Gebirge"
+  },
+  {
+    "g_id": "10315",
+    "g_name": "Siegendorf"
+  },
+  {
+    "g_id": "10316",
+    "g_name": "Steinbrunn"
+  },
+  {
+    "g_id": "10317",
+    "g_name": "Trausdorf an der Wulka"
+  },
+  {
+    "g_id": "10318",
+    "g_name": "Wimpassing an der Leitha"
+  },
+  {
+    "g_id": "10319",
+    "g_name": "Wulkaprodersdorf"
+  },
+  {
+    "g_id": "10320",
+    "g_name": "Loretto"
+  },
+  {
+    "g_id": "10321",
+    "g_name": "Stotzing"
+  },
+  {
+    "g_id": "10322",
+    "g_name": "Zillingtal"
+  },
+  {
+    "g_id": "10323",
+    "g_name": "Zagersdorf"
+  },
+  {
+    "g_id": "10401",
+    "g_name": "Bocksdorf"
+  },
+  {
+    "g_id": "10402",
+    "g_name": "Burgauberg-Neudauberg"
+  },
+  {
+    "g_id": "10403",
+    "g_name": "Eberau"
+  },
+  {
+    "g_id": "10404",
+    "g_name": "Gerersdorf-Sulz"
+  },
+  {
+    "g_id": "10405",
+    "g_name": "Güssing"
+  },
+  {
+    "g_id": "10406",
+    "g_name": "Güttenbach"
+  },
+  {
+    "g_id": "10407",
+    "g_name": "Heiligenbrunn"
+  },
+  {
+    "g_id": "10408",
+    "g_name": "Kukmirn"
+  },
+  {
+    "g_id": "10409",
+    "g_name": "Neuberg im Burgenland"
+  },
+  {
+    "g_id": "10410",
+    "g_name": "Neustift bei Güssing"
+  },
+  {
+    "g_id": "10411",
+    "g_name": "Olbendorf"
+  },
+  {
+    "g_id": "10412",
+    "g_name": "Ollersdorf im Burgenland"
+  },
+  {
+    "g_id": "10413",
+    "g_name": "Sankt Michael im Burgenland"
+  },
+  {
+    "g_id": "10414",
+    "g_name": "Stegersbach"
+  },
+  {
+    "g_id": "10415",
+    "g_name": "Stinatz"
+  },
+  {
+    "g_id": "10416",
+    "g_name": "Strem"
+  },
+  {
+    "g_id": "10417",
+    "g_name": "Tobaj"
+  },
+  {
+    "g_id": "10418",
+    "g_name": "Hackerberg"
+  },
+  {
+    "g_id": "10419",
+    "g_name": "Wörterberg"
+  },
+  {
+    "g_id": "10420",
+    "g_name": "Großmürbisch"
+  },
+  {
+    "g_id": "10421",
+    "g_name": "Inzenhof"
+  },
+  {
+    "g_id": "10422",
+    "g_name": "Kleinmürbisch"
+  },
+  {
+    "g_id": "10423",
+    "g_name": "Tschanigraben"
+  },
+  {
+    "g_id": "10424",
+    "g_name": "Heugraben"
+  },
+  {
+    "g_id": "10425",
+    "g_name": "Rohr im Burgenland"
+  },
+  {
+    "g_id": "10426",
+    "g_name": "Bildein"
+  },
+  {
+    "g_id": "10427",
+    "g_name": "Rauchwart"
+  },
+  {
+    "g_id": "10428",
+    "g_name": "Moschendorf"
+  },
+  {
+    "g_id": "10501",
+    "g_name": "Deutsch Kaltenbrunn"
+  },
+  {
+    "g_id": "10502",
+    "g_name": "Eltendorf"
+  },
+  {
+    "g_id": "10503",
+    "g_name": "Heiligenkreuz im Lafnitztal"
+  },
+  {
+    "g_id": "10504",
+    "g_name": "Jennersdorf"
+  },
+  {
+    "g_id": "10505",
+    "g_name": "Minihof-Liebau"
+  },
+  {
+    "g_id": "10506",
+    "g_name": "Mogersdorf"
+  },
+  {
+    "g_id": "10507",
+    "g_name": "Neuhaus am Klausenbach"
+  },
+  {
+    "g_id": "10508",
+    "g_name": "Rudersdorf"
+  },
+  {
+    "g_id": "10509",
+    "g_name": "Sankt Martin an der Raab"
+  },
+  {
+    "g_id": "10510",
+    "g_name": "Weichselbaum"
+  },
+  {
+    "g_id": "10511",
+    "g_name": "Königsdorf"
+  },
+  {
+    "g_id": "10512",
+    "g_name": "Mühlgraben"
+  },
+  {
+    "g_id": "10601",
+    "g_name": "Draßburg"
+  },
+  {
+    "g_id": "10602",
+    "g_name": "Forchtenstein"
+  },
+  {
+    "g_id": "10603",
+    "g_name": "Hirm"
+  },
+  {
+    "g_id": "10604",
+    "g_name": "Loipersbach im Burgenland"
+  },
+  {
+    "g_id": "10605",
+    "g_name": "Marz"
+  },
+  {
+    "g_id": "10606",
+    "g_name": "Mattersburg"
+  },
+  {
+    "g_id": "10607",
+    "g_name": "Neudörfl"
+  },
+  {
+    "g_id": "10608",
+    "g_name": "Pöttelsdorf"
+  },
+  {
+    "g_id": "10609",
+    "g_name": "Pöttsching"
+  },
+  {
+    "g_id": "10610",
+    "g_name": "Rohrbach bei Mattersburg"
+  },
+  {
+    "g_id": "10611",
+    "g_name": "Bad Sauerbrunn"
+  },
+  {
+    "g_id": "10612",
+    "g_name": "Schattendorf"
+  },
+  {
+    "g_id": "10613",
+    "g_name": "Sieggraben"
+  },
+  {
+    "g_id": "10614",
+    "g_name": "Sigleß"
+  },
+  {
+    "g_id": "10615",
+    "g_name": "Wiesen"
+  },
+  {
+    "g_id": "10616",
+    "g_name": "Antau"
+  },
+  {
+    "g_id": "10617",
+    "g_name": "Baumgarten"
+  },
+  {
+    "g_id": "10618",
+    "g_name": "Zemendorf-Stöttera"
+  },
+  {
+    "g_id": "10619",
+    "g_name": "Krensdorf"
+  },
+  {
+    "g_id": "10701",
+    "g_name": "Andau"
+  },
+  {
+    "g_id": "10702",
+    "g_name": "Apetlon"
+  },
+  {
+    "g_id": "10703",
+    "g_name": "Bruckneudorf"
+  },
+  {
+    "g_id": "10704",
+    "g_name": "Deutsch Jahrndorf"
+  },
+  {
+    "g_id": "10705",
+    "g_name": "Frauenkirchen"
+  },
+  {
+    "g_id": "10706",
+    "g_name": "Gattendorf"
+  },
+  {
+    "g_id": "10707",
+    "g_name": "Gols"
+  },
+  {
+    "g_id": "10708",
+    "g_name": "Halbturn"
+  },
+  {
+    "g_id": "10709",
+    "g_name": "Illmitz"
+  },
+  {
+    "g_id": "10710",
+    "g_name": "Jois"
+  },
+  {
+    "g_id": "10711",
+    "g_name": "Kittsee"
+  },
+  {
+    "g_id": "10712",
+    "g_name": "Mönchhof"
+  },
+  {
+    "g_id": "10713",
+    "g_name": "Neusiedl am See"
+  },
+  {
+    "g_id": "10714",
+    "g_name": "Nickelsdorf"
+  },
+  {
+    "g_id": "10715",
+    "g_name": "Pama"
+  },
+  {
+    "g_id": "10716",
+    "g_name": "Pamhagen"
+  },
+  {
+    "g_id": "10717",
+    "g_name": "Parndorf"
+  },
+  {
+    "g_id": "10718",
+    "g_name": "Podersdorf am See"
+  },
+  {
+    "g_id": "10719",
+    "g_name": "Sankt Andrä am Zicksee"
+  },
+  {
+    "g_id": "10720",
+    "g_name": "Tadten"
+  },
+  {
+    "g_id": "10721",
+    "g_name": "Wallern im Burgenland"
+  },
+  {
+    "g_id": "10722",
+    "g_name": "Weiden am See"
+  },
+  {
+    "g_id": "10723",
+    "g_name": "Winden am See"
+  },
+  {
+    "g_id": "10724",
+    "g_name": "Zurndorf"
+  },
+  {
+    "g_id": "10725",
+    "g_name": "Neudorf"
+  },
+  {
+    "g_id": "10726",
+    "g_name": "Potzneusiedl"
+  },
+  {
+    "g_id": "10727",
+    "g_name": "Edelstal"
+  },
+  {
+    "g_id": "10801",
+    "g_name": "Deutschkreutz"
+  },
+  {
+    "g_id": "10802",
+    "g_name": "Draßmarkt"
+  },
+  {
+    "g_id": "10803",
+    "g_name": "Frankenau-Unterpullendorf"
+  },
+  {
+    "g_id": "10804",
+    "g_name": "Großwarasdorf"
+  },
+  {
+    "g_id": "10805",
+    "g_name": "Horitschon"
+  },
+  {
+    "g_id": "10806",
+    "g_name": "Kaisersdorf"
+  },
+  {
+    "g_id": "10807",
+    "g_name": "Kobersdorf"
+  },
+  {
+    "g_id": "10808",
+    "g_name": "Lackenbach"
+  },
+  {
+    "g_id": "10809",
+    "g_name": "Lockenhaus"
+  },
+  {
+    "g_id": "10810",
+    "g_name": "Lutzmannsburg"
+  },
+  {
+    "g_id": "10811",
+    "g_name": "Mannersdorf an der Rabnitz"
+  },
+  {
+    "g_id": "10812",
+    "g_name": "Markt Sankt Martin"
+  },
+  {
+    "g_id": "10813",
+    "g_name": "Neckenmarkt"
+  },
+  {
+    "g_id": "10814",
+    "g_name": "Neutal"
+  },
+  {
+    "g_id": "10815",
+    "g_name": "Nikitsch"
+  },
+  {
+    "g_id": "10816",
+    "g_name": "Oberpullendorf"
+  },
+  {
+    "g_id": "10817",
+    "g_name": "Pilgersdorf"
+  },
+  {
+    "g_id": "10818",
+    "g_name": "Piringsdorf"
+  },
+  {
+    "g_id": "10819",
+    "g_name": "Raiding"
+  },
+  {
+    "g_id": "10820",
+    "g_name": "Ritzing"
+  },
+  {
+    "g_id": "10821",
+    "g_name": "Steinberg-Dörfl"
+  },
+  {
+    "g_id": "10822",
+    "g_name": "Stoob"
+  },
+  {
+    "g_id": "10823",
+    "g_name": "Weppersdorf"
+  },
+  {
+    "g_id": "10824",
+    "g_name": "Lackendorf"
+  },
+  {
+    "g_id": "10825",
+    "g_name": "Unterfrauenhaid"
+  },
+  {
+    "g_id": "10826",
+    "g_name": "Unterrabnitz-Schwendgraben"
+  },
+  {
+    "g_id": "10827",
+    "g_name": "Weingraben"
+  },
+  {
+    "g_id": "10828",
+    "g_name": "Oberloisdorf"
+  },
+  {
+    "g_id": "10901",
+    "g_name": "Bad Tatzmannsdorf"
+  },
+  {
+    "g_id": "10902",
+    "g_name": "Bernstein"
+  },
+  {
+    "g_id": "10903",
+    "g_name": "Deutsch Schützen-Eisenberg"
+  },
+  {
+    "g_id": "10904",
+    "g_name": "Grafenschachen"
+  },
+  {
+    "g_id": "10905",
+    "g_name": "Großpetersdorf"
+  },
+  {
+    "g_id": "10906",
+    "g_name": "Hannersdorf"
+  },
+  {
+    "g_id": "10907",
+    "g_name": "Kemeten"
+  },
+  {
+    "g_id": "10908",
+    "g_name": "Kohfidisch"
+  },
+  {
+    "g_id": "10909",
+    "g_name": "Litzelsdorf"
+  },
+  {
+    "g_id": "10910",
+    "g_name": "Loipersdorf-Kitzladen"
+  },
+  {
+    "g_id": "10911",
+    "g_name": "Mariasdorf"
+  },
+  {
+    "g_id": "10912",
+    "g_name": "Markt Allhau"
+  },
+  {
+    "g_id": "10913",
+    "g_name": "Markt Neuhodis"
+  },
+  {
+    "g_id": "10914",
+    "g_name": "Mischendorf"
+  },
+  {
+    "g_id": "10915",
+    "g_name": "Oberdorf im Burgenland"
+  },
+  {
+    "g_id": "10916",
+    "g_name": "Oberschützen"
+  },
+  {
+    "g_id": "10917",
+    "g_name": "Oberwart"
+  },
+  {
+    "g_id": "10918",
+    "g_name": "Pinkafeld"
+  },
+  {
+    "g_id": "10919",
+    "g_name": "Rechnitz"
+  },
+  {
+    "g_id": "10920",
+    "g_name": "Riedlingsdorf"
+  },
+  {
+    "g_id": "10921",
+    "g_name": "Rotenturm an der Pinka"
+  },
+  {
+    "g_id": "10922",
+    "g_name": "Schachendorf"
+  },
+  {
+    "g_id": "10923",
+    "g_name": "Stadtschlaining"
+  },
+  {
+    "g_id": "10924",
+    "g_name": "Unterkohlstätten"
+  },
+  {
+    "g_id": "10925",
+    "g_name": "Unterwart"
+  },
+  {
+    "g_id": "10926",
+    "g_name": "Weiden bei Rechnitz"
+  },
+  {
+    "g_id": "10927",
+    "g_name": "Wiesfleck"
+  },
+  {
+    "g_id": "10928",
+    "g_name": "Wolfau"
+  },
+  {
+    "g_id": "10929",
+    "g_name": "Neustift an der Lafnitz"
+  },
+  {
+    "g_id": "10930",
+    "g_name": "Jabing"
+  },
+  {
+    "g_id": "10931",
+    "g_name": "Badersdorf"
+  },
+  {
+    "g_id": "10932",
+    "g_name": "Schandorf"
+  },
+  {
+    "g_id": "20101",
+    "g_name": "Klagenfurt am Wörthersee"
+  },
+  {
+    "g_id": "20201",
+    "g_name": "Villach"
+  },
+  {
+    "g_id": "20302",
+    "g_name": "Dellach"
+  },
+  {
+    "g_id": "20305",
+    "g_name": "Hermagor-Pressegger See"
+  },
+  {
+    "g_id": "20306",
+    "g_name": "Kirchbach"
+  },
+  {
+    "g_id": "20307",
+    "g_name": "Kötschach-Mauthen"
+  },
+  {
+    "g_id": "20316",
+    "g_name": "St. Stefan im Gailtal"
+  },
+  {
+    "g_id": "20320",
+    "g_name": "Gitschtal"
+  },
+  {
+    "g_id": "20321",
+    "g_name": "Lesachtal"
+  },
+  {
+    "g_id": "20402",
+    "g_name": "Ebenthal in Kärnten"
+  },
+  {
+    "g_id": "20403",
+    "g_name": "Feistritz im Rosental"
+  },
+  {
+    "g_id": "20405",
+    "g_name": "Ferlach"
+  },
+  {
+    "g_id": "20409",
+    "g_name": "Grafenstein"
+  },
+  {
+    "g_id": "20412",
+    "g_name": "Keutschach am See"
+  },
+  {
+    "g_id": "20414",
+    "g_name": "Köttmannsdorf"
+  },
+  {
+    "g_id": "20415",
+    "g_name": "Krumpendorf am Wörthersee"
+  },
+  {
+    "g_id": "20416",
+    "g_name": "Ludmannsdorf"
+  },
+  {
+    "g_id": "20417",
+    "g_name": "Maria Rain"
+  },
+  {
+    "g_id": "20418",
+    "g_name": "Maria Saal"
+  },
+  {
+    "g_id": "20419",
+    "g_name": "Maria Wörth"
+  },
+  {
+    "g_id": "20421",
+    "g_name": "Moosburg"
+  },
+  {
+    "g_id": "20424",
+    "g_name": "Pörtschach am Wörther See"
+  },
+  {
+    "g_id": "20425",
+    "g_name": "Poggersdorf"
+  },
+  {
+    "g_id": "20428",
+    "g_name": "St. Margareten im Rosental"
+  },
+  {
+    "g_id": "20432",
+    "g_name": "Schiefling am Wörthersee"
+  },
+  {
+    "g_id": "20435",
+    "g_name": "Techelsberg am Wörther See"
+  },
+  {
+    "g_id": "20441",
+    "g_name": "Zell"
+  },
+  {
+    "g_id": "20442",
+    "g_name": "Magdalensberg"
+  },
+  {
+    "g_id": "20501",
+    "g_name": "Althofen"
+  },
+  {
+    "g_id": "20502",
+    "g_name": "Brückl"
+  },
+  {
+    "g_id": "20503",
+    "g_name": "Deutsch-Griffen"
+  },
+  {
+    "g_id": "20504",
+    "g_name": "Eberstein"
+  },
+  {
+    "g_id": "20505",
+    "g_name": "Friesach"
+  },
+  {
+    "g_id": "20506",
+    "g_name": "Glödnitz"
+  },
+  {
+    "g_id": "20508",
+    "g_name": "Gurk"
+  },
+  {
+    "g_id": "20509",
+    "g_name": "Guttaring"
+  },
+  {
+    "g_id": "20511",
+    "g_name": "Hüttenberg"
+  },
+  {
+    "g_id": "20512",
+    "g_name": "Kappel am Krappfeld"
+  },
+  {
+    "g_id": "20513",
+    "g_name": "Klein St. Paul"
+  },
+  {
+    "g_id": "20515",
+    "g_name": "Liebenfels"
+  },
+  {
+    "g_id": "20518",
+    "g_name": "Metnitz"
+  },
+  {
+    "g_id": "20519",
+    "g_name": "Micheldorf"
+  },
+  {
+    "g_id": "20520",
+    "g_name": "Mölbling"
+  },
+  {
+    "g_id": "20523",
+    "g_name": "St. Georgen am Längsee"
+  },
+  {
+    "g_id": "20527",
+    "g_name": "St. Veit an der Glan"
+  },
+  {
+    "g_id": "20530",
+    "g_name": "Straßburg"
+  },
+  {
+    "g_id": "20531",
+    "g_name": "Weitensfeld im Gurktal"
+  },
+  {
+    "g_id": "20534",
+    "g_name": "Frauenstein"
+  },
+  {
+    "g_id": "20601",
+    "g_name": "Bad Kleinkirchheim"
+  },
+  {
+    "g_id": "20602",
+    "g_name": "Baldramsdorf"
+  },
+  {
+    "g_id": "20603",
+    "g_name": "Berg im Drautal"
+  },
+  {
+    "g_id": "20604",
+    "g_name": "Dellach im Drautal"
+  },
+  {
+    "g_id": "20605",
+    "g_name": "Großkirchheim"
+  },
+  {
+    "g_id": "20607",
+    "g_name": "Flattach"
+  },
+  {
+    "g_id": "20608",
+    "g_name": "Gmünd in Kärnten"
+  },
+  {
+    "g_id": "20609",
+    "g_name": "Greifenburg"
+  },
+  {
+    "g_id": "20610",
+    "g_name": "Heiligenblut am Großglockner"
+  },
+  {
+    "g_id": "20611",
+    "g_name": "Irschen"
+  },
+  {
+    "g_id": "20613",
+    "g_name": "Kleblach-Lind"
+  },
+  {
+    "g_id": "20616",
+    "g_name": "Lendorf"
+  },
+  {
+    "g_id": "20618",
+    "g_name": "Mallnitz"
+  },
+  {
+    "g_id": "20619",
+    "g_name": "Malta"
+  },
+  {
+    "g_id": "20620",
+    "g_name": "Millstatt am See"
+  },
+  {
+    "g_id": "20622",
+    "g_name": "Mörtschach"
+  },
+  {
+    "g_id": "20624",
+    "g_name": "Mühldorf"
+  },
+  {
+    "g_id": "20625",
+    "g_name": "Oberdrauburg"
+  },
+  {
+    "g_id": "20627",
+    "g_name": "Obervellach"
+  },
+  {
+    "g_id": "20630",
+    "g_name": "Radenthein"
+  },
+  {
+    "g_id": "20631",
+    "g_name": "Rangersdorf"
+  },
+  {
+    "g_id": "20632",
+    "g_name": "Rennweg am Katschberg"
+  },
+  {
+    "g_id": "20633",
+    "g_name": "Sachsenburg"
+  },
+  {
+    "g_id": "20634",
+    "g_name": "Seeboden am Millstätter See"
+  },
+  {
+    "g_id": "20635",
+    "g_name": "Spittal an der Drau"
+  },
+  {
+    "g_id": "20636",
+    "g_name": "Stall"
+  },
+  {
+    "g_id": "20637",
+    "g_name": "Steinfeld"
+  },
+  {
+    "g_id": "20638",
+    "g_name": "Trebesing"
+  },
+  {
+    "g_id": "20639",
+    "g_name": "Weißensee"
+  },
+  {
+    "g_id": "20640",
+    "g_name": "Winklern"
+  },
+  {
+    "g_id": "20642",
+    "g_name": "Krems in Kärnten"
+  },
+  {
+    "g_id": "20643",
+    "g_name": "Lurnfeld"
+  },
+  {
+    "g_id": "20644",
+    "g_name": "Reißeck"
+  },
+  {
+    "g_id": "20701",
+    "g_name": "Afritz am See"
+  },
+  {
+    "g_id": "20702",
+    "g_name": "Arnoldstein"
+  },
+  {
+    "g_id": "20703",
+    "g_name": "Arriach"
+  },
+  {
+    "g_id": "20705",
+    "g_name": "Bad Bleiberg"
+  },
+  {
+    "g_id": "20707",
+    "g_name": "Feistritz an der Gail"
+  },
+  {
+    "g_id": "20708",
+    "g_name": "Feld am See"
+  },
+  {
+    "g_id": "20710",
+    "g_name": "Ferndorf"
+  },
+  {
+    "g_id": "20711",
+    "g_name": "Finkenstein am Faaker See"
+  },
+  {
+    "g_id": "20712",
+    "g_name": "Fresach"
+  },
+  {
+    "g_id": "20713",
+    "g_name": "Hohenthurn"
+  },
+  {
+    "g_id": "20719",
+    "g_name": "Nötsch im Gailtal"
+  },
+  {
+    "g_id": "20720",
+    "g_name": "Paternion"
+  },
+  {
+    "g_id": "20721",
+    "g_name": "Rosegg"
+  },
+  {
+    "g_id": "20722",
+    "g_name": "St. Jakob im Rosental"
+  },
+  {
+    "g_id": "20723",
+    "g_name": "Stockenboi"
+  },
+  {
+    "g_id": "20724",
+    "g_name": "Treffen am Ossiacher See"
+  },
+  {
+    "g_id": "20725",
+    "g_name": "Velden am Wörther See"
+  },
+  {
+    "g_id": "20726",
+    "g_name": "Weißenstein"
+  },
+  {
+    "g_id": "20727",
+    "g_name": "Wernberg"
+  },
+  {
+    "g_id": "20801",
+    "g_name": "Bleiburg"
+  },
+  {
+    "g_id": "20802",
+    "g_name": "Diex"
+  },
+  {
+    "g_id": "20803",
+    "g_name": "Eberndorf"
+  },
+  {
+    "g_id": "20804",
+    "g_name": "Eisenkappel-Vellach"
+  },
+  {
+    "g_id": "20805",
+    "g_name": "Feistritz ob Bleiburg"
+  },
+  {
+    "g_id": "20806",
+    "g_name": "Gallizien"
+  },
+  {
+    "g_id": "20807",
+    "g_name": "Globasnitz"
+  },
+  {
+    "g_id": "20808",
+    "g_name": "Griffen"
+  },
+  {
+    "g_id": "20810",
+    "g_name": "Neuhaus"
+  },
+  {
+    "g_id": "20812",
+    "g_name": "Ruden"
+  },
+  {
+    "g_id": "20813",
+    "g_name": "St. Kanzian am Klopeiner See"
+  },
+  {
+    "g_id": "20815",
+    "g_name": "Sittersdorf"
+  },
+  {
+    "g_id": "20817",
+    "g_name": "Völkermarkt"
+  },
+  {
+    "g_id": "20901",
+    "g_name": "Bad St. Leonhard im Lavanttal"
+  },
+  {
+    "g_id": "20905",
+    "g_name": "Frantschach-St. Gertraud"
+  },
+  {
+    "g_id": "20909",
+    "g_name": "Lavamünd"
+  },
+  {
+    "g_id": "20911",
+    "g_name": "Preitenegg"
+  },
+  {
+    "g_id": "20912",
+    "g_name": "Reichenfels"
+  },
+  {
+    "g_id": "20913",
+    "g_name": "St. Andrä"
+  },
+  {
+    "g_id": "20914",
+    "g_name": "St. Georgen im Lavanttal"
+  },
+  {
+    "g_id": "20918",
+    "g_name": "St. Paul im Lavanttal"
+  },
+  {
+    "g_id": "20923",
+    "g_name": "Wolfsberg"
+  },
+  {
+    "g_id": "21001",
+    "g_name": "Albeck"
+  },
+  {
+    "g_id": "21002",
+    "g_name": "Feldkirchen in Kärnten"
+  },
+  {
+    "g_id": "21003",
+    "g_name": "Glanegg"
+  },
+  {
+    "g_id": "21004",
+    "g_name": "Gnesau"
+  },
+  {
+    "g_id": "21005",
+    "g_name": "Himmelberg"
+  },
+  {
+    "g_id": "21006",
+    "g_name": "Ossiach"
+  },
+  {
+    "g_id": "21007",
+    "g_name": "Reichenau"
+  },
+  {
+    "g_id": "21008",
+    "g_name": "St. Urban"
+  },
+  {
+    "g_id": "21009",
+    "g_name": "Steindorf am Ossiacher See"
+  },
+  {
+    "g_id": "21010",
+    "g_name": "Steuerberg"
+  },
+  {
+    "g_id": "30101",
+    "g_name": "Krems an der Donau"
+  },
+  {
+    "g_id": "30201",
+    "g_name": "St. Pölten"
+  },
+  {
+    "g_id": "30301",
+    "g_name": "Waidhofen an der Ybbs"
+  },
+  {
+    "g_id": "30401",
+    "g_name": "Wiener Neustadt"
+  },
+  {
+    "g_id": "30501",
+    "g_name": "Allhartsberg"
+  },
+  {
+    "g_id": "30502",
+    "g_name": "Amstetten"
+  },
+  {
+    "g_id": "30503",
+    "g_name": "Ardagger"
+  },
+  {
+    "g_id": "30504",
+    "g_name": "Aschbach-Markt"
+  },
+  {
+    "g_id": "30506",
+    "g_name": "Behamberg"
+  },
+  {
+    "g_id": "30507",
+    "g_name": "Biberbach"
+  },
+  {
+    "g_id": "30508",
+    "g_name": "Ennsdorf"
+  },
+  {
+    "g_id": "30509",
+    "g_name": "Ernsthofen"
+  },
+  {
+    "g_id": "30510",
+    "g_name": "Ertl"
+  },
+  {
+    "g_id": "30511",
+    "g_name": "Euratsfeld"
+  },
+  {
+    "g_id": "30512",
+    "g_name": "Ferschnitz"
+  },
+  {
+    "g_id": "30514",
+    "g_name": "Haag"
+  },
+  {
+    "g_id": "30515",
+    "g_name": "Haidershofen"
+  },
+  {
+    "g_id": "30516",
+    "g_name": "Hollenstein an der Ybbs"
+  },
+  {
+    "g_id": "30517",
+    "g_name": "Kematen an der Ybbs"
+  },
+  {
+    "g_id": "30520",
+    "g_name": "Neuhofen an der Ybbs"
+  },
+  {
+    "g_id": "30521",
+    "g_name": "Neustadtl an der Donau"
+  },
+  {
+    "g_id": "30522",
+    "g_name": "Oed-Oehling"
+  },
+  {
+    "g_id": "30524",
+    "g_name": "Opponitz"
+  },
+  {
+    "g_id": "30526",
+    "g_name": "St. Georgen am Reith"
+  },
+  {
+    "g_id": "30527",
+    "g_name": "St. Georgen am Ybbsfelde"
+  },
+  {
+    "g_id": "30529",
+    "g_name": "St. Pantaleon-Erla"
+  },
+  {
+    "g_id": "30530",
+    "g_name": "St. Peter in der Au"
+  },
+  {
+    "g_id": "30531",
+    "g_name": "St. Valentin"
+  },
+  {
+    "g_id": "30532",
+    "g_name": "Seitenstetten"
+  },
+  {
+    "g_id": "30533",
+    "g_name": "Sonntagberg"
+  },
+  {
+    "g_id": "30534",
+    "g_name": "Strengberg"
+  },
+  {
+    "g_id": "30536",
+    "g_name": "Viehdorf"
+  },
+  {
+    "g_id": "30538",
+    "g_name": "Wallsee-Sindelburg"
+  },
+  {
+    "g_id": "30539",
+    "g_name": "Weistrach"
+  },
+  {
+    "g_id": "30541",
+    "g_name": "Winklarn"
+  },
+  {
+    "g_id": "30542",
+    "g_name": "Wolfsbach"
+  },
+  {
+    "g_id": "30543",
+    "g_name": "Ybbsitz"
+  },
+  {
+    "g_id": "30544",
+    "g_name": "Zeillern"
+  },
+  {
+    "g_id": "30601",
+    "g_name": "Alland"
+  },
+  {
+    "g_id": "30602",
+    "g_name": "Altenmarkt an der Triesting"
+  },
+  {
+    "g_id": "30603",
+    "g_name": "Bad Vöslau"
+  },
+  {
+    "g_id": "30604",
+    "g_name": "Baden"
+  },
+  {
+    "g_id": "30605",
+    "g_name": "Berndorf"
+  },
+  {
+    "g_id": "30607",
+    "g_name": "Ebreichsdorf"
+  },
+  {
+    "g_id": "30608",
+    "g_name": "Enzesfeld-Lindabrunn"
+  },
+  {
+    "g_id": "30609",
+    "g_name": "Furth an der Triesting"
+  },
+  {
+    "g_id": "30612",
+    "g_name": "Günselsdorf"
+  },
+  {
+    "g_id": "30613",
+    "g_name": "Heiligenkreuz"
+  },
+  {
+    "g_id": "30614",
+    "g_name": "Hernstein"
+  },
+  {
+    "g_id": "30615",
+    "g_name": "Hirtenberg"
+  },
+  {
+    "g_id": "30616",
+    "g_name": "Klausen-Leopoldsdorf"
+  },
+  {
+    "g_id": "30618",
+    "g_name": "Kottingbrunn"
+  },
+  {
+    "g_id": "30620",
+    "g_name": "Leobersdorf"
+  },
+  {
+    "g_id": "30621",
+    "g_name": "Mitterndorf an der Fischa"
+  },
+  {
+    "g_id": "30623",
+    "g_name": "Oberwaltersdorf"
+  },
+  {
+    "g_id": "30625",
+    "g_name": "Pfaffstätten"
+  },
+  {
+    "g_id": "30626",
+    "g_name": "Pottendorf"
+  },
+  {
+    "g_id": "30627",
+    "g_name": "Pottenstein"
+  },
+  {
+    "g_id": "30629",
+    "g_name": "Reisenberg"
+  },
+  {
+    "g_id": "30631",
+    "g_name": "Schönau an der Triesting"
+  },
+  {
+    "g_id": "30633",
+    "g_name": "Seibersdorf"
+  },
+  {
+    "g_id": "30635",
+    "g_name": "Sooß"
+  },
+  {
+    "g_id": "30636",
+    "g_name": "Tattendorf"
+  },
+  {
+    "g_id": "30637",
+    "g_name": "Teesdorf"
+  },
+  {
+    "g_id": "30639",
+    "g_name": "Traiskirchen"
+  },
+  {
+    "g_id": "30641",
+    "g_name": "Trumau"
+  },
+  {
+    "g_id": "30645",
+    "g_name": "Weissenbach an der Triesting"
+  },
+  {
+    "g_id": "30646",
+    "g_name": "Blumau-Neurißhof"
+  },
+  {
+    "g_id": "30701",
+    "g_name": "Au am Leithaberge"
+  },
+  {
+    "g_id": "30702",
+    "g_name": "Bad Deutsch-Altenburg"
+  },
+  {
+    "g_id": "30703",
+    "g_name": "Berg"
+  },
+  {
+    "g_id": "30704",
+    "g_name": "Bruck an der Leitha"
+  },
+  {
+    "g_id": "30706",
+    "g_name": "Enzersdorf an der Fischa"
+  },
+  {
+    "g_id": "30708",
+    "g_name": "Göttlesbrunn-Arbesthal"
+  },
+  {
+    "g_id": "30709",
+    "g_name": "Götzendorf an der Leitha"
+  },
+  {
+    "g_id": "30710",
+    "g_name": "Hainburg a.d. Donau"
+  },
+  {
+    "g_id": "30711",
+    "g_name": "Haslau-Maria Ellend"
+  },
+  {
+    "g_id": "30712",
+    "g_name": "Höflein"
+  },
+  {
+    "g_id": "30713",
+    "g_name": "Hof am Leithaberge"
+  },
+  {
+    "g_id": "30715",
+    "g_name": "Hundsheim"
+  },
+  {
+    "g_id": "30716",
+    "g_name": "Mannersdorf am Leithagebirge"
+  },
+  {
+    "g_id": "30718",
+    "g_name": "Petronell-Carnuntum"
+  },
+  {
+    "g_id": "30719",
+    "g_name": "Prellenkirchen"
+  },
+  {
+    "g_id": "30721",
+    "g_name": "Rohrau"
+  },
+  {
+    "g_id": "30722",
+    "g_name": "Scharndorf"
+  },
+  {
+    "g_id": "30724",
+    "g_name": "Sommerein"
+  },
+  {
+    "g_id": "30726",
+    "g_name": "Trautmannsdorf an der Leitha"
+  },
+  {
+    "g_id": "30728",
+    "g_name": "Wolfsthal"
+  },
+  {
+    "g_id": "30729",
+    "g_name": "Ebergassing"
+  },
+  {
+    "g_id": "30730",
+    "g_name": "Fischamend"
+  },
+  {
+    "g_id": "30731",
+    "g_name": "Gramatneusiedl"
+  },
+  {
+    "g_id": "30732",
+    "g_name": "Himberg"
+  },
+  {
+    "g_id": "30733",
+    "g_name": "Klein-Neusiedl"
+  },
+  {
+    "g_id": "30734",
+    "g_name": "Lanzendorf"
+  },
+  {
+    "g_id": "30735",
+    "g_name": "Leopoldsdorf"
+  },
+  {
+    "g_id": "30736",
+    "g_name": "Maria-Lanzendorf"
+  },
+  {
+    "g_id": "30737",
+    "g_name": "Moosbrunn"
+  },
+  {
+    "g_id": "30738",
+    "g_name": "Rauchenwarth"
+  },
+  {
+    "g_id": "30739",
+    "g_name": "Schwadorf"
+  },
+  {
+    "g_id": "30740",
+    "g_name": "Schwechat"
+  },
+  {
+    "g_id": "30741",
+    "g_name": "Zwölfaxing"
+  },
+  {
+    "g_id": "30801",
+    "g_name": "Aderklaa"
+  },
+  {
+    "g_id": "30802",
+    "g_name": "Andlersdorf"
+  },
+  {
+    "g_id": "30803",
+    "g_name": "Angern an der March"
+  },
+  {
+    "g_id": "30804",
+    "g_name": "Auersthal"
+  },
+  {
+    "g_id": "30805",
+    "g_name": "Bad Pirawarth"
+  },
+  {
+    "g_id": "30808",
+    "g_name": "Deutsch-Wagram"
+  },
+  {
+    "g_id": "30810",
+    "g_name": "Drösing"
+  },
+  {
+    "g_id": "30811",
+    "g_name": "Dürnkrut"
+  },
+  {
+    "g_id": "30812",
+    "g_name": "Ebenthal"
+  },
+  {
+    "g_id": "30813",
+    "g_name": "Eckartsau"
+  },
+  {
+    "g_id": "30814",
+    "g_name": "Engelhartstetten"
+  },
+  {
+    "g_id": "30817",
+    "g_name": "Gänserndorf"
+  },
+  {
+    "g_id": "30819",
+    "g_name": "Glinzendorf"
+  },
+  {
+    "g_id": "30821",
+    "g_name": "Groß-Enzersdorf"
+  },
+  {
+    "g_id": "30822",
+    "g_name": "Großhofen"
+  },
+  {
+    "g_id": "30824",
+    "g_name": "Groß-Schweinbarth"
+  },
+  {
+    "g_id": "30825",
+    "g_name": "Haringsee"
+  },
+  {
+    "g_id": "30826",
+    "g_name": "Hauskirchen"
+  },
+  {
+    "g_id": "30827",
+    "g_name": "Hohenau an der March"
+  },
+  {
+    "g_id": "30828",
+    "g_name": "Hohenruppersdorf"
+  },
+  {
+    "g_id": "30829",
+    "g_name": "Jedenspeigen"
+  },
+  {
+    "g_id": "30830",
+    "g_name": "Lassee"
+  },
+  {
+    "g_id": "30831",
+    "g_name": "Leopoldsdorf im Marchfeld"
+  },
+  {
+    "g_id": "30834",
+    "g_name": "Mannsdorf an der Donau"
+  },
+  {
+    "g_id": "30835",
+    "g_name": "Marchegg"
+  },
+  {
+    "g_id": "30836",
+    "g_name": "Markgrafneusiedl"
+  },
+  {
+    "g_id": "30838",
+    "g_name": "Matzen-Raggendorf"
+  },
+  {
+    "g_id": "30841",
+    "g_name": "Neusiedl an der Zaya"
+  },
+  {
+    "g_id": "30842",
+    "g_name": "Obersiebenbrunn"
+  },
+  {
+    "g_id": "30844",
+    "g_name": "Orth an der Donau"
+  },
+  {
+    "g_id": "30845",
+    "g_name": "Palterndorf-Dobermannsdorf"
+  },
+  {
+    "g_id": "30846",
+    "g_name": "Parbasdorf"
+  },
+  {
+    "g_id": "30848",
+    "g_name": "Prottes"
+  },
+  {
+    "g_id": "30849",
+    "g_name": "Raasdorf"
+  },
+  {
+    "g_id": "30850",
+    "g_name": "Ringelsdorf-Niederabsdorf"
+  },
+  {
+    "g_id": "30852",
+    "g_name": "Schönkirchen-Reyersdorf"
+  },
+  {
+    "g_id": "30854",
+    "g_name": "Spannberg"
+  },
+  {
+    "g_id": "30856",
+    "g_name": "Strasshof an der Nordbahn"
+  },
+  {
+    "g_id": "30857",
+    "g_name": "Sulz im Weinviertel"
+  },
+  {
+    "g_id": "30858",
+    "g_name": "Untersiebenbrunn"
+  },
+  {
+    "g_id": "30859",
+    "g_name": "Velm-Götzendorf"
+  },
+  {
+    "g_id": "30860",
+    "g_name": "Weikendorf"
+  },
+  {
+    "g_id": "30863",
+    "g_name": "Zistersdorf"
+  },
+  {
+    "g_id": "30865",
+    "g_name": "Weiden an der March"
+  },
+  {
+    "g_id": "30902",
+    "g_name": "Amaliendorf-Aalfang"
+  },
+  {
+    "g_id": "30903",
+    "g_name": "Brand-Nagelberg"
+  },
+  {
+    "g_id": "30904",
+    "g_name": "Eggern"
+  },
+  {
+    "g_id": "30906",
+    "g_name": "Eisgarn"
+  },
+  {
+    "g_id": "30908",
+    "g_name": "Gmünd"
+  },
+  {
+    "g_id": "30909",
+    "g_name": "Großdietmanns"
+  },
+  {
+    "g_id": "30910",
+    "g_name": "Bad Großpertholz"
+  },
+  {
+    "g_id": "30912",
+    "g_name": "Großschönau"
+  },
+  {
+    "g_id": "30913",
+    "g_name": "Moorbad Harbach"
+  },
+  {
+    "g_id": "30915",
+    "g_name": "Haugschlag"
+  },
+  {
+    "g_id": "30916",
+    "g_name": "Heidenreichstein"
+  },
+  {
+    "g_id": "30917",
+    "g_name": "Hirschbach"
+  },
+  {
+    "g_id": "30920",
+    "g_name": "Hoheneich"
+  },
+  {
+    "g_id": "30921",
+    "g_name": "Kirchberg am Walde"
+  },
+  {
+    "g_id": "30925",
+    "g_name": "Litschau"
+  },
+  {
+    "g_id": "30929",
+    "g_name": "Reingers"
+  },
+  {
+    "g_id": "30932",
+    "g_name": "St. Martin"
+  },
+  {
+    "g_id": "30935",
+    "g_name": "Schrems"
+  },
+  {
+    "g_id": "30939",
+    "g_name": "Unserfrau-Altweitra"
+  },
+  {
+    "g_id": "30940",
+    "g_name": "Waldenstein"
+  },
+  {
+    "g_id": "30942",
+    "g_name": "Weitra"
+  },
+  {
+    "g_id": "31001",
+    "g_name": "Alberndorf im Pulkautal"
+  },
+  {
+    "g_id": "31008",
+    "g_name": "Göllersdorf"
+  },
+  {
+    "g_id": "31009",
+    "g_name": "Grabern"
+  },
+  {
+    "g_id": "31014",
+    "g_name": "Guntersdorf"
+  },
+  {
+    "g_id": "31015",
+    "g_name": "Hadres"
+  },
+  {
+    "g_id": "31016",
+    "g_name": "Hardegg"
+  },
+  {
+    "g_id": "31018",
+    "g_name": "Haugsdorf"
+  },
+  {
+    "g_id": "31019",
+    "g_name": "Heldenberg"
+  },
+  {
+    "g_id": "31021",
+    "g_name": "Hohenwarth-Mühlbach a.M."
+  },
+  {
+    "g_id": "31022",
+    "g_name": "Hollabrunn"
+  },
+  {
+    "g_id": "31025",
+    "g_name": "Mailberg"
+  },
+  {
+    "g_id": "31026",
+    "g_name": "Maissau"
+  },
+  {
+    "g_id": "31028",
+    "g_name": "Nappersdorf-Kammersdorf"
+  },
+  {
+    "g_id": "31033",
+    "g_name": "Pernersdorf"
+  },
+  {
+    "g_id": "31035",
+    "g_name": "Pulkau"
+  },
+  {
+    "g_id": "31036",
+    "g_name": "Ravelsbach"
+  },
+  {
+    "g_id": "31037",
+    "g_name": "Retz"
+  },
+  {
+    "g_id": "31038",
+    "g_name": "Retzbach"
+  },
+  {
+    "g_id": "31041",
+    "g_name": "Schrattenthal"
+  },
+  {
+    "g_id": "31042",
+    "g_name": "Seefeld-Kadolz"
+  },
+  {
+    "g_id": "31043",
+    "g_name": "Sitzendorf an der Schmida"
+  },
+  {
+    "g_id": "31051",
+    "g_name": "Wullersdorf"
+  },
+  {
+    "g_id": "31052",
+    "g_name": "Zellerndorf"
+  },
+  {
+    "g_id": "31053",
+    "g_name": "Ziersdorf"
+  },
+  {
+    "g_id": "31101",
+    "g_name": "Altenburg"
+  },
+  {
+    "g_id": "31102",
+    "g_name": "Brunn an der Wild"
+  },
+  {
+    "g_id": "31103",
+    "g_name": "Burgschleinitz-Kühnring"
+  },
+  {
+    "g_id": "31104",
+    "g_name": "Drosendorf-Zissersdorf"
+  },
+  {
+    "g_id": "31105",
+    "g_name": "Eggenburg"
+  },
+  {
+    "g_id": "31106",
+    "g_name": "Gars am Kamp"
+  },
+  {
+    "g_id": "31107",
+    "g_name": "Geras"
+  },
+  {
+    "g_id": "31109",
+    "g_name": "Horn"
+  },
+  {
+    "g_id": "31110",
+    "g_name": "Irnfritz-Messern"
+  },
+  {
+    "g_id": "31111",
+    "g_name": "Japons"
+  },
+  {
+    "g_id": "31113",
+    "g_name": "Langau"
+  },
+  {
+    "g_id": "31114",
+    "g_name": "Meiseldorf"
+  },
+  {
+    "g_id": "31117",
+    "g_name": "Pernegg"
+  },
+  {
+    "g_id": "31119",
+    "g_name": "Röhrenbach"
+  },
+  {
+    "g_id": "31120",
+    "g_name": "Röschitz"
+  },
+  {
+    "g_id": "31121",
+    "g_name": "Rosenburg-Mold"
+  },
+  {
+    "g_id": "31123",
+    "g_name": "St. Bernhard-Frauenhofen"
+  },
+  {
+    "g_id": "31124",
+    "g_name": "Sigmundsherberg"
+  },
+  {
+    "g_id": "31129",
+    "g_name": "Weitersfeld"
+  },
+  {
+    "g_id": "31130",
+    "g_name": "Straning-Grafenberg"
+  },
+  {
+    "g_id": "31201",
+    "g_name": "Bisamberg"
+  },
+  {
+    "g_id": "31202",
+    "g_name": "Enzersfeld im Weinviertel"
+  },
+  {
+    "g_id": "31203",
+    "g_name": "Ernstbrunn"
+  },
+  {
+    "g_id": "31204",
+    "g_name": "Großmugl"
+  },
+  {
+    "g_id": "31205",
+    "g_name": "Großrußbach"
+  },
+  {
+    "g_id": "31206",
+    "g_name": "Hagenbrunn"
+  },
+  {
+    "g_id": "31207",
+    "g_name": "Harmannsdorf"
+  },
+  {
+    "g_id": "31208",
+    "g_name": "Hausleiten"
+  },
+  {
+    "g_id": "31213",
+    "g_name": "Korneuburg"
+  },
+  {
+    "g_id": "31214",
+    "g_name": "Langenzersdorf"
+  },
+  {
+    "g_id": "31215",
+    "g_name": "Leitzersdorf"
+  },
+  {
+    "g_id": "31216",
+    "g_name": "Leobendorf"
+  },
+  {
+    "g_id": "31224",
+    "g_name": "Rußbach"
+  },
+  {
+    "g_id": "31226",
+    "g_name": "Sierndorf"
+  },
+  {
+    "g_id": "31227",
+    "g_name": "Spillern"
+  },
+  {
+    "g_id": "31228",
+    "g_name": "Stetteldorf am Wagram"
+  },
+  {
+    "g_id": "31229",
+    "g_name": "Stetten"
+  },
+  {
+    "g_id": "31230",
+    "g_name": "Stockerau"
+  },
+  {
+    "g_id": "31234",
+    "g_name": "Niederhollabrunn"
+  },
+  {
+    "g_id": "31235",
+    "g_name": "Gerasdorf bei Wien"
+  },
+  {
+    "g_id": "31301",
+    "g_name": "Aggsbach"
+  },
+  {
+    "g_id": "31302",
+    "g_name": "Albrechtsberg an der Großen Krems"
+  },
+  {
+    "g_id": "31303",
+    "g_name": "Bergern im Dunkelsteinerwald"
+  },
+  {
+    "g_id": "31304",
+    "g_name": "Dürnstein"
+  },
+  {
+    "g_id": "31308",
+    "g_name": "Grafenegg"
+  },
+  {
+    "g_id": "31309",
+    "g_name": "Furth bei Göttweig"
+  },
+  {
+    "g_id": "31310",
+    "g_name": "Gedersdorf"
+  },
+  {
+    "g_id": "31311",
+    "g_name": "Gföhl"
+  },
+  {
+    "g_id": "31315",
+    "g_name": "Hadersdorf-Kammern"
+  },
+  {
+    "g_id": "31319",
+    "g_name": "Jaidhof"
+  },
+  {
+    "g_id": "31321",
+    "g_name": "Krumau am Kamp"
+  },
+  {
+    "g_id": "31322",
+    "g_name": "Langenlois"
+  },
+  {
+    "g_id": "31323",
+    "g_name": "Lengenfeld"
+  },
+  {
+    "g_id": "31324",
+    "g_name": "Lichtenau im Waldviertel"
+  },
+  {
+    "g_id": "31326",
+    "g_name": "Maria Laach am Jauerling"
+  },
+  {
+    "g_id": "31327",
+    "g_name": "Mautern an der Donau"
+  },
+  {
+    "g_id": "31330",
+    "g_name": "Mühldorf"
+  },
+  {
+    "g_id": "31333",
+    "g_name": "Paudorf"
+  },
+  {
+    "g_id": "31336",
+    "g_name": "Rastenfeld"
+  },
+  {
+    "g_id": "31337",
+    "g_name": "Rohrendorf bei Krems"
+  },
+  {
+    "g_id": "31338",
+    "g_name": "Rossatz-Arnsdorf"
+  },
+  {
+    "g_id": "31340",
+    "g_name": "St. Leonhard am Hornerwald"
+  },
+  {
+    "g_id": "31343",
+    "g_name": "Senftenberg"
+  },
+  {
+    "g_id": "31344",
+    "g_name": "Spitz"
+  },
+  {
+    "g_id": "31346",
+    "g_name": "Straß im Straßertale"
+  },
+  {
+    "g_id": "31347",
+    "g_name": "Stratzing"
+  },
+  {
+    "g_id": "31350",
+    "g_name": "Weinzierl am Walde"
+  },
+  {
+    "g_id": "31351",
+    "g_name": "Weißenkirchen in der Wachau"
+  },
+  {
+    "g_id": "31355",
+    "g_name": "Schönberg am Kamp"
+  },
+  {
+    "g_id": "31356",
+    "g_name": "Droß"
+  },
+  {
+    "g_id": "31401",
+    "g_name": "Annaberg"
+  },
+  {
+    "g_id": "31402",
+    "g_name": "Eschenau"
+  },
+  {
+    "g_id": "31403",
+    "g_name": "Hainfeld"
+  },
+  {
+    "g_id": "31404",
+    "g_name": "Hohenberg"
+  },
+  {
+    "g_id": "31405",
+    "g_name": "Kaumberg"
+  },
+  {
+    "g_id": "31406",
+    "g_name": "Kleinzell"
+  },
+  {
+    "g_id": "31407",
+    "g_name": "Lilienfeld"
+  },
+  {
+    "g_id": "31408",
+    "g_name": "Mitterbach am Erlaufsee"
+  },
+  {
+    "g_id": "31409",
+    "g_name": "Ramsau"
+  },
+  {
+    "g_id": "31410",
+    "g_name": "Rohrbach an der Gölsen"
+  },
+  {
+    "g_id": "31411",
+    "g_name": "St. Aegyd am Neuwalde"
+  },
+  {
+    "g_id": "31412",
+    "g_name": "St. Veit an der Gölsen"
+  },
+  {
+    "g_id": "31413",
+    "g_name": "Traisen"
+  },
+  {
+    "g_id": "31414",
+    "g_name": "Türnitz"
+  },
+  {
+    "g_id": "31502",
+    "g_name": "Artstetten-Pöbring"
+  },
+  {
+    "g_id": "31503",
+    "g_name": "Bergland"
+  },
+  {
+    "g_id": "31504",
+    "g_name": "Bischofstetten"
+  },
+  {
+    "g_id": "31505",
+    "g_name": "Blindenmarkt"
+  },
+  {
+    "g_id": "31506",
+    "g_name": "Dorfstetten"
+  },
+  {
+    "g_id": "31507",
+    "g_name": "Dunkelsteinerwald"
+  },
+  {
+    "g_id": "31508",
+    "g_name": "Erlauf"
+  },
+  {
+    "g_id": "31509",
+    "g_name": "Golling an der Erlauf"
+  },
+  {
+    "g_id": "31511",
+    "g_name": "Hofamt Priel"
+  },
+  {
+    "g_id": "31513",
+    "g_name": "Hürm"
+  },
+  {
+    "g_id": "31514",
+    "g_name": "Kilb"
+  },
+  {
+    "g_id": "31515",
+    "g_name": "Kirnberg an der Mank"
+  },
+  {
+    "g_id": "31516",
+    "g_name": "Klein-Pöchlarn"
+  },
+  {
+    "g_id": "31517",
+    "g_name": "Krummnußbaum"
+  },
+  {
+    "g_id": "31519",
+    "g_name": "Leiben"
+  },
+  {
+    "g_id": "31520",
+    "g_name": "Loosdorf"
+  },
+  {
+    "g_id": "31521",
+    "g_name": "Mank"
+  },
+  {
+    "g_id": "31522",
+    "g_name": "Marbach an der Donau"
+  },
+  {
+    "g_id": "31523",
+    "g_name": "Maria Taferl"
+  },
+  {
+    "g_id": "31524",
+    "g_name": "Melk"
+  },
+  {
+    "g_id": "31525",
+    "g_name": "Münichreith-Laimbach"
+  },
+  {
+    "g_id": "31527",
+    "g_name": "Neumarkt an der Ybbs"
+  },
+  {
+    "g_id": "31528",
+    "g_name": "Nöchling"
+  },
+  {
+    "g_id": "31530",
+    "g_name": "Persenbeug-Gottsdorf"
+  },
+  {
+    "g_id": "31531",
+    "g_name": "Petzenkirchen"
+  },
+  {
+    "g_id": "31533",
+    "g_name": "Pöchlarn"
+  },
+  {
+    "g_id": "31534",
+    "g_name": "Pöggstall"
+  },
+  {
+    "g_id": "31535",
+    "g_name": "Raxendorf"
+  },
+  {
+    "g_id": "31537",
+    "g_name": "Ruprechtshofen"
+  },
+  {
+    "g_id": "31539",
+    "g_name": "St. Leonhard am Forst"
+  },
+  {
+    "g_id": "31540",
+    "g_name": "St. Martin-Karlsbach"
+  },
+  {
+    "g_id": "31541",
+    "g_name": "St. Oswald"
+  },
+  {
+    "g_id": "31542",
+    "g_name": "Schönbühel-Aggsbach"
+  },
+  {
+    "g_id": "31543",
+    "g_name": "Schollach"
+  },
+  {
+    "g_id": "31546",
+    "g_name": "Weiten"
+  },
+  {
+    "g_id": "31549",
+    "g_name": "Ybbs an der Donau"
+  },
+  {
+    "g_id": "31550",
+    "g_name": "Zelking-Matzleinsdorf"
+  },
+  {
+    "g_id": "31551",
+    "g_name": "Texingtal"
+  },
+  {
+    "g_id": "31552",
+    "g_name": "Yspertal"
+  },
+  {
+    "g_id": "31553",
+    "g_name": "Emmersdorf an der Donau"
+  },
+  {
+    "g_id": "31601",
+    "g_name": "Altlichtenwarth"
+  },
+  {
+    "g_id": "31603",
+    "g_name": "Asparn an der Zaya"
+  },
+  {
+    "g_id": "31604",
+    "g_name": "Bernhardsthal"
+  },
+  {
+    "g_id": "31605",
+    "g_name": "Bockfließ"
+  },
+  {
+    "g_id": "31606",
+    "g_name": "Drasenhofen"
+  },
+  {
+    "g_id": "31608",
+    "g_name": "Falkenstein"
+  },
+  {
+    "g_id": "31609",
+    "g_name": "Fallbach"
+  },
+  {
+    "g_id": "31611",
+    "g_name": "Gaubitsch"
+  },
+  {
+    "g_id": "31612",
+    "g_name": "Gaweinstal"
+  },
+  {
+    "g_id": "31613",
+    "g_name": "Gnadendorf"
+  },
+  {
+    "g_id": "31614",
+    "g_name": "Großebersdorf"
+  },
+  {
+    "g_id": "31615",
+    "g_name": "Großengersdorf"
+  },
+  {
+    "g_id": "31616",
+    "g_name": "Großharras"
+  },
+  {
+    "g_id": "31617",
+    "g_name": "Großkrut"
+  },
+  {
+    "g_id": "31620",
+    "g_name": "Hausbrunn"
+  },
+  {
+    "g_id": "31621",
+    "g_name": "Herrnbaumgarten"
+  },
+  {
+    "g_id": "31622",
+    "g_name": "Hochleithen"
+  },
+  {
+    "g_id": "31627",
+    "g_name": "Kreuttal"
+  },
+  {
+    "g_id": "31628",
+    "g_name": "Kreuzstetten"
+  },
+  {
+    "g_id": "31629",
+    "g_name": "Laa an der Thaya"
+  },
+  {
+    "g_id": "31630",
+    "g_name": "Ladendorf"
+  },
+  {
+    "g_id": "31633",
+    "g_name": "Mistelbach"
+  },
+  {
+    "g_id": "31634",
+    "g_name": "Neudorf im Weinviertel"
+  },
+  {
+    "g_id": "31636",
+    "g_name": "Niederleis"
+  },
+  {
+    "g_id": "31642",
+    "g_name": "Pillichsdorf"
+  },
+  {
+    "g_id": "31644",
+    "g_name": "Poysdorf"
+  },
+  {
+    "g_id": "31645",
+    "g_name": "Rabensburg"
+  },
+  {
+    "g_id": "31646",
+    "g_name": "Schrattenberg"
+  },
+  {
+    "g_id": "31649",
+    "g_name": "Staatz"
+  },
+  {
+    "g_id": "31650",
+    "g_name": "Stronsdorf"
+  },
+  {
+    "g_id": "31651",
+    "g_name": "Ulrichskirchen-Schleinbach"
+  },
+  {
+    "g_id": "31652",
+    "g_name": "Unterstinkenbrunn"
+  },
+  {
+    "g_id": "31653",
+    "g_name": "Wildendürnbach"
+  },
+  {
+    "g_id": "31654",
+    "g_name": "Wilfersdorf"
+  },
+  {
+    "g_id": "31655",
+    "g_name": "Wolkersdorf im Weinviertel"
+  },
+  {
+    "g_id": "31658",
+    "g_name": "Ottenthal"
+  },
+  {
+    "g_id": "31701",
+    "g_name": "Achau"
+  },
+  {
+    "g_id": "31702",
+    "g_name": "Biedermannsdorf"
+  },
+  {
+    "g_id": "31703",
+    "g_name": "Breitenfurt bei Wien"
+  },
+  {
+    "g_id": "31704",
+    "g_name": "Brunn am Gebirge"
+  },
+  {
+    "g_id": "31706",
+    "g_name": "Gaaden"
+  },
+  {
+    "g_id": "31707",
+    "g_name": "Gießhübl"
+  },
+  {
+    "g_id": "31709",
+    "g_name": "Gumpoldskirchen"
+  },
+  {
+    "g_id": "31710",
+    "g_name": "Guntramsdorf"
+  },
+  {
+    "g_id": "31711",
+    "g_name": "Hennersdorf"
+  },
+  {
+    "g_id": "31712",
+    "g_name": "Hinterbrühl"
+  },
+  {
+    "g_id": "31713",
+    "g_name": "Kaltenleutgeben"
+  },
+  {
+    "g_id": "31714",
+    "g_name": "Laab im Walde"
+  },
+  {
+    "g_id": "31715",
+    "g_name": "Laxenburg"
+  },
+  {
+    "g_id": "31716",
+    "g_name": "Maria Enzersdorf"
+  },
+  {
+    "g_id": "31717",
+    "g_name": "Mödling"
+  },
+  {
+    "g_id": "31718",
+    "g_name": "Münchendorf"
+  },
+  {
+    "g_id": "31719",
+    "g_name": "Perchtoldsdorf"
+  },
+  {
+    "g_id": "31723",
+    "g_name": "Vösendorf"
+  },
+  {
+    "g_id": "31725",
+    "g_name": "Wiener Neudorf"
+  },
+  {
+    "g_id": "31726",
+    "g_name": "Wienerwald"
+  },
+  {
+    "g_id": "31801",
+    "g_name": "Altendorf"
+  },
+  {
+    "g_id": "31802",
+    "g_name": "Aspang-Markt"
+  },
+  {
+    "g_id": "31803",
+    "g_name": "Aspangberg-St. Peter"
+  },
+  {
+    "g_id": "31804",
+    "g_name": "Breitenau"
+  },
+  {
+    "g_id": "31805",
+    "g_name": "Breitenstein"
+  },
+  {
+    "g_id": "31806",
+    "g_name": "Buchbach"
+  },
+  {
+    "g_id": "31807",
+    "g_name": "Edlitz"
+  },
+  {
+    "g_id": "31808",
+    "g_name": "Enzenreith"
+  },
+  {
+    "g_id": "31809",
+    "g_name": "Feistritz am Wechsel"
+  },
+  {
+    "g_id": "31810",
+    "g_name": "Gloggnitz"
+  },
+  {
+    "g_id": "31811",
+    "g_name": "Grafenbach-St. Valentin"
+  },
+  {
+    "g_id": "31812",
+    "g_name": "Grimmenstein"
+  },
+  {
+    "g_id": "31813",
+    "g_name": "Grünbach am Schneeberg"
+  },
+  {
+    "g_id": "31814",
+    "g_name": "Kirchberg am Wechsel"
+  },
+  {
+    "g_id": "31815",
+    "g_name": "Mönichkirchen"
+  },
+  {
+    "g_id": "31817",
+    "g_name": "Natschbach-Loipersbach"
+  },
+  {
+    "g_id": "31818",
+    "g_name": "Neunkirchen"
+  },
+  {
+    "g_id": "31820",
+    "g_name": "Otterthal"
+  },
+  {
+    "g_id": "31821",
+    "g_name": "Payerbach"
+  },
+  {
+    "g_id": "31823",
+    "g_name": "Pitten"
+  },
+  {
+    "g_id": "31825",
+    "g_name": "Prigglitz"
+  },
+  {
+    "g_id": "31826",
+    "g_name": "Puchberg am Schneeberg"
+  },
+  {
+    "g_id": "31827",
+    "g_name": "Raach am Hochgebirge"
+  },
+  {
+    "g_id": "31829",
+    "g_name": "Reichenau an der Rax"
+  },
+  {
+    "g_id": "31830",
+    "g_name": "St. Corona am Wechsel"
+  },
+  {
+    "g_id": "31831",
+    "g_name": "St. Egyden am Steinfeld"
+  },
+  {
+    "g_id": "31832",
+    "g_name": "Scheiblingkirchen-Thernberg"
+  },
+  {
+    "g_id": "31833",
+    "g_name": "Schottwien"
+  },
+  {
+    "g_id": "31834",
+    "g_name": "Schrattenbach"
+  },
+  {
+    "g_id": "31835",
+    "g_name": "Schwarzau am Steinfeld"
+  },
+  {
+    "g_id": "31836",
+    "g_name": "Schwarzau im Gebirge"
+  },
+  {
+    "g_id": "31837",
+    "g_name": "Seebenstein"
+  },
+  {
+    "g_id": "31838",
+    "g_name": "Semmering"
+  },
+  {
+    "g_id": "31839",
+    "g_name": "Ternitz"
+  },
+  {
+    "g_id": "31840",
+    "g_name": "Thomasberg"
+  },
+  {
+    "g_id": "31841",
+    "g_name": "Trattenbach"
+  },
+  {
+    "g_id": "31842",
+    "g_name": "Bürg-Vöstenhof"
+  },
+  {
+    "g_id": "31843",
+    "g_name": "Warth"
+  },
+  {
+    "g_id": "31844",
+    "g_name": "Wartmannstetten"
+  },
+  {
+    "g_id": "31845",
+    "g_name": "Willendorf"
+  },
+  {
+    "g_id": "31846",
+    "g_name": "Wimpassing im Schwarzatale"
+  },
+  {
+    "g_id": "31847",
+    "g_name": "Würflach"
+  },
+  {
+    "g_id": "31848",
+    "g_name": "Zöbern"
+  },
+  {
+    "g_id": "31849",
+    "g_name": "Höflein an der Hohen Wand"
+  },
+  {
+    "g_id": "31901",
+    "g_name": "Altlengbach"
+  },
+  {
+    "g_id": "31902",
+    "g_name": "Asperhofen"
+  },
+  {
+    "g_id": "31903",
+    "g_name": "Böheimkirchen"
+  },
+  {
+    "g_id": "31904",
+    "g_name": "Brand-Laaben"
+  },
+  {
+    "g_id": "31905",
+    "g_name": "Eichgraben"
+  },
+  {
+    "g_id": "31906",
+    "g_name": "Frankenfels"
+  },
+  {
+    "g_id": "31907",
+    "g_name": "Gerersdorf"
+  },
+  {
+    "g_id": "31909",
+    "g_name": "Hofstetten-Grünau"
+  },
+  {
+    "g_id": "31910",
+    "g_name": "Hafnerbach"
+  },
+  {
+    "g_id": "31911",
+    "g_name": "Haunoldstein"
+  },
+  {
+    "g_id": "31912",
+    "g_name": "Herzogenburg"
+  },
+  {
+    "g_id": "31913",
+    "g_name": "Inzersdorf-Getzersdorf"
+  },
+  {
+    "g_id": "31915",
+    "g_name": "Kapelln"
+  },
+  {
+    "g_id": "31916",
+    "g_name": "Karlstetten"
+  },
+  {
+    "g_id": "31917",
+    "g_name": "Kasten bei Böheimkirchen"
+  },
+  {
+    "g_id": "31918",
+    "g_name": "Kirchberg an der Pielach"
+  },
+  {
+    "g_id": "31919",
+    "g_name": "Kirchstetten"
+  },
+  {
+    "g_id": "31920",
+    "g_name": "Loich"
+  },
+  {
+    "g_id": "31921",
+    "g_name": "Maria Anzbach"
+  },
+  {
+    "g_id": "31922",
+    "g_name": "Markersdorf-Haindorf"
+  },
+  {
+    "g_id": "31923",
+    "g_name": "Michelbach"
+  },
+  {
+    "g_id": "31925",
+    "g_name": "Neidling"
+  },
+  {
+    "g_id": "31926",
+    "g_name": "Neulengbach"
+  },
+  {
+    "g_id": "31927",
+    "g_name": "Neustift-Innermanzing"
+  },
+  {
+    "g_id": "31928",
+    "g_name": "Nußdorf ob der Traisen"
+  },
+  {
+    "g_id": "31929",
+    "g_name": "Ober-Grafendorf"
+  },
+  {
+    "g_id": "31930",
+    "g_name": "Obritzberg-Rust"
+  },
+  {
+    "g_id": "31932",
+    "g_name": "Prinzersdorf"
+  },
+  {
+    "g_id": "31934",
+    "g_name": "Pyhra"
+  },
+  {
+    "g_id": "31935",
+    "g_name": "Rabenstein an der Pielach"
+  },
+  {
+    "g_id": "31938",
+    "g_name": "St. Margarethen an der Sierning"
+  },
+  {
+    "g_id": "31939",
+    "g_name": "Schwarzenbach an der Pielach"
+  },
+  {
+    "g_id": "31940",
+    "g_name": "Statzendorf"
+  },
+  {
+    "g_id": "31941",
+    "g_name": "Stössing"
+  },
+  {
+    "g_id": "31943",
+    "g_name": "Traismauer"
+  },
+  {
+    "g_id": "31945",
+    "g_name": "Weinburg"
+  },
+  {
+    "g_id": "31946",
+    "g_name": "Perschling"
+  },
+  {
+    "g_id": "31947",
+    "g_name": "Wilhelmsburg"
+  },
+  {
+    "g_id": "31948",
+    "g_name": "Wölbling"
+  },
+  {
+    "g_id": "31949",
+    "g_name": "Gablitz"
+  },
+  {
+    "g_id": "31950",
+    "g_name": "Mauerbach"
+  },
+  {
+    "g_id": "31951",
+    "g_name": "Pressbaum"
+  },
+  {
+    "g_id": "31952",
+    "g_name": "Purkersdorf"
+  },
+  {
+    "g_id": "31953",
+    "g_name": "Tullnerbach"
+  },
+  {
+    "g_id": "31954",
+    "g_name": "Wolfsgraben"
+  },
+  {
+    "g_id": "32001",
+    "g_name": "Gaming"
+  },
+  {
+    "g_id": "32002",
+    "g_name": "Göstling an der Ybbs"
+  },
+  {
+    "g_id": "32003",
+    "g_name": "Gresten"
+  },
+  {
+    "g_id": "32004",
+    "g_name": "Gresten-Land"
+  },
+  {
+    "g_id": "32005",
+    "g_name": "Lunz am See"
+  },
+  {
+    "g_id": "32006",
+    "g_name": "Oberndorf an der Melk"
+  },
+  {
+    "g_id": "32007",
+    "g_name": "Puchenstuben"
+  },
+  {
+    "g_id": "32008",
+    "g_name": "Purgstall an der Erlauf"
+  },
+  {
+    "g_id": "32009",
+    "g_name": "Randegg"
+  },
+  {
+    "g_id": "32010",
+    "g_name": "Reinsberg"
+  },
+  {
+    "g_id": "32011",
+    "g_name": "St. Anton an der Jeßnitz"
+  },
+  {
+    "g_id": "32012",
+    "g_name": "St. Georgen an der Leys"
+  },
+  {
+    "g_id": "32013",
+    "g_name": "Scheibbs"
+  },
+  {
+    "g_id": "32014",
+    "g_name": "Steinakirchen am Forst"
+  },
+  {
+    "g_id": "32015",
+    "g_name": "Wang"
+  },
+  {
+    "g_id": "32016",
+    "g_name": "Wieselburg"
+  },
+  {
+    "g_id": "32017",
+    "g_name": "Wieselburg-Land"
+  },
+  {
+    "g_id": "32018",
+    "g_name": "Wolfpassing"
+  },
+  {
+    "g_id": "32101",
+    "g_name": "Absdorf"
+  },
+  {
+    "g_id": "32104",
+    "g_name": "Atzenbrugg"
+  },
+  {
+    "g_id": "32106",
+    "g_name": "Fels am Wagram"
+  },
+  {
+    "g_id": "32107",
+    "g_name": "Grafenwörth"
+  },
+  {
+    "g_id": "32109",
+    "g_name": "Großriedenthal"
+  },
+  {
+    "g_id": "32110",
+    "g_name": "Großweikersdorf"
+  },
+  {
+    "g_id": "32112",
+    "g_name": "Judenau-Baumgarten"
+  },
+  {
+    "g_id": "32114",
+    "g_name": "Kirchberg am Wagram"
+  },
+  {
+    "g_id": "32115",
+    "g_name": "Königsbrunn am Wagram"
+  },
+  {
+    "g_id": "32116",
+    "g_name": "Königstetten"
+  },
+  {
+    "g_id": "32119",
+    "g_name": "Langenrohr"
+  },
+  {
+    "g_id": "32120",
+    "g_name": "Michelhausen"
+  },
+  {
+    "g_id": "32131",
+    "g_name": "Sieghartskirchen"
+  },
+  {
+    "g_id": "32132",
+    "g_name": "Sitzenberg-Reidling"
+  },
+  {
+    "g_id": "32134",
+    "g_name": "Tulbing"
+  },
+  {
+    "g_id": "32135",
+    "g_name": "Tulln an der Donau"
+  },
+  {
+    "g_id": "32139",
+    "g_name": "Würmla"
+  },
+  {
+    "g_id": "32140",
+    "g_name": "Zeiselmauer-Wolfpassing"
+  },
+  {
+    "g_id": "32141",
+    "g_name": "Zwentendorf an der Donau"
+  },
+  {
+    "g_id": "32142",
+    "g_name": "St. Andrä-Wördern"
+  },
+  {
+    "g_id": "32143",
+    "g_name": "Muckendorf-Wipfing"
+  },
+  {
+    "g_id": "32144",
+    "g_name": "Klosterneuburg"
+  },
+  {
+    "g_id": "32202",
+    "g_name": "Dietmanns"
+  },
+  {
+    "g_id": "32203",
+    "g_name": "Dobersberg"
+  },
+  {
+    "g_id": "32206",
+    "g_name": "Gastern"
+  },
+  {
+    "g_id": "32207",
+    "g_name": "Groß-Siegharts"
+  },
+  {
+    "g_id": "32209",
+    "g_name": "Karlstein an der Thaya"
+  },
+  {
+    "g_id": "32210",
+    "g_name": "Kautzen"
+  },
+  {
+    "g_id": "32212",
+    "g_name": "Ludweis-Aigen"
+  },
+  {
+    "g_id": "32214",
+    "g_name": "Pfaffenschlag bei Waidhofen a.d.Thaya"
+  },
+  {
+    "g_id": "32216",
+    "g_name": "Raabs an der Thaya"
+  },
+  {
+    "g_id": "32217",
+    "g_name": "Thaya"
+  },
+  {
+    "g_id": "32219",
+    "g_name": "Vitis"
+  },
+  {
+    "g_id": "32220",
+    "g_name": "Waidhofen an der Thaya"
+  },
+  {
+    "g_id": "32221",
+    "g_name": "Waidhofen an der Thaya-Land"
+  },
+  {
+    "g_id": "32222",
+    "g_name": "Waldkirchen an der Thaya"
+  },
+  {
+    "g_id": "32223",
+    "g_name": "Windigsteig"
+  },
+  {
+    "g_id": "32301",
+    "g_name": "Bad Fischau-Brunn"
+  },
+  {
+    "g_id": "32302",
+    "g_name": "Bad Schönau"
+  },
+  {
+    "g_id": "32304",
+    "g_name": "Ebenfurth"
+  },
+  {
+    "g_id": "32305",
+    "g_name": "Eggendorf"
+  },
+  {
+    "g_id": "32306",
+    "g_name": "Bad Erlach"
+  },
+  {
+    "g_id": "32307",
+    "g_name": "Felixdorf"
+  },
+  {
+    "g_id": "32308",
+    "g_name": "Gutenstein"
+  },
+  {
+    "g_id": "32309",
+    "g_name": "Hochneukirchen-Gschaidt"
+  },
+  {
+    "g_id": "32310",
+    "g_name": "Hochwolkersdorf"
+  },
+  {
+    "g_id": "32311",
+    "g_name": "Hohe Wand"
+  },
+  {
+    "g_id": "32312",
+    "g_name": "Hollenthon"
+  },
+  {
+    "g_id": "32313",
+    "g_name": "Katzelsdorf"
+  },
+  {
+    "g_id": "32314",
+    "g_name": "Kirchschlag in der Buckligen Welt"
+  },
+  {
+    "g_id": "32315",
+    "g_name": "Krumbach"
+  },
+  {
+    "g_id": "32316",
+    "g_name": "Lanzenkirchen"
+  },
+  {
+    "g_id": "32317",
+    "g_name": "Lichtenegg"
+  },
+  {
+    "g_id": "32318",
+    "g_name": "Lichtenwörth"
+  },
+  {
+    "g_id": "32319",
+    "g_name": "Markt Piesting"
+  },
+  {
+    "g_id": "32320",
+    "g_name": "Matzendorf-Hölles"
+  },
+  {
+    "g_id": "32321",
+    "g_name": "Miesenbach"
+  },
+  {
+    "g_id": "32322",
+    "g_name": "Muggendorf"
+  },
+  {
+    "g_id": "32323",
+    "g_name": "Pernitz"
+  },
+  {
+    "g_id": "32324",
+    "g_name": "Rohr im Gebirge"
+  },
+  {
+    "g_id": "32325",
+    "g_name": "Bromberg"
+  },
+  {
+    "g_id": "32326",
+    "g_name": "Schwarzenbach"
+  },
+  {
+    "g_id": "32327",
+    "g_name": "Sollenau"
+  },
+  {
+    "g_id": "32330",
+    "g_name": "Theresienfeld"
+  },
+  {
+    "g_id": "32331",
+    "g_name": "Waidmannsfeld"
+  },
+  {
+    "g_id": "32332",
+    "g_name": "Waldegg"
+  },
+  {
+    "g_id": "32333",
+    "g_name": "Walpersbach"
+  },
+  {
+    "g_id": "32334",
+    "g_name": "Weikersdorf am Steinfelde"
+  },
+  {
+    "g_id": "32335",
+    "g_name": "Wiesmath"
+  },
+  {
+    "g_id": "32336",
+    "g_name": "Winzendorf-Muthmannsdorf"
+  },
+  {
+    "g_id": "32337",
+    "g_name": "Wöllersdorf-Steinabrückl"
+  },
+  {
+    "g_id": "32338",
+    "g_name": "Zillingdorf"
+  },
+  {
+    "g_id": "32501",
+    "g_name": "Allentsteig"
+  },
+  {
+    "g_id": "32502",
+    "g_name": "Arbesbach"
+  },
+  {
+    "g_id": "32503",
+    "g_name": "Bärnkopf"
+  },
+  {
+    "g_id": "32504",
+    "g_name": "Echsenbach"
+  },
+  {
+    "g_id": "32505",
+    "g_name": "Göpfritz an der Wild"
+  },
+  {
+    "g_id": "32506",
+    "g_name": "Grafenschlag"
+  },
+  {
+    "g_id": "32508",
+    "g_name": "Groß Gerungs"
+  },
+  {
+    "g_id": "32509",
+    "g_name": "Großgöttfritz"
+  },
+  {
+    "g_id": "32511",
+    "g_name": "Gutenbrunn"
+  },
+  {
+    "g_id": "32514",
+    "g_name": "Kirchschlag"
+  },
+  {
+    "g_id": "32515",
+    "g_name": "Kottes-Purk"
+  },
+  {
+    "g_id": "32516",
+    "g_name": "Langschlag"
+  },
+  {
+    "g_id": "32517",
+    "g_name": "Martinsberg"
+  },
+  {
+    "g_id": "32518",
+    "g_name": "Ottenschlag"
+  },
+  {
+    "g_id": "32519",
+    "g_name": "Altmelon"
+  },
+  {
+    "g_id": "32520",
+    "g_name": "Pölla"
+  },
+  {
+    "g_id": "32521",
+    "g_name": "Rappottenstein"
+  },
+  {
+    "g_id": "32522",
+    "g_name": "Sallingberg"
+  },
+  {
+    "g_id": "32523",
+    "g_name": "Schönbach"
+  },
+  {
+    "g_id": "32524",
+    "g_name": "Schwarzenau"
+  },
+  {
+    "g_id": "32525",
+    "g_name": "Schweiggers"
+  },
+  {
+    "g_id": "32528",
+    "g_name": "Bad Traunstein"
+  },
+  {
+    "g_id": "32529",
+    "g_name": "Waldhausen"
+  },
+  {
+    "g_id": "32530",
+    "g_name": "Zwettl-Niederösterreich"
+  },
+  {
+    "g_id": "40101",
+    "g_name": "Linz"
+  },
+  {
+    "g_id": "40201",
+    "g_name": "Steyr"
+  },
+  {
+    "g_id": "40301",
+    "g_name": "Wels"
+  },
+  {
+    "g_id": "40401",
+    "g_name": "Altheim"
+  },
+  {
+    "g_id": "40402",
+    "g_name": "Aspach"
+  },
+  {
+    "g_id": "40403",
+    "g_name": "Auerbach"
+  },
+  {
+    "g_id": "40404",
+    "g_name": "Braunau am Inn"
+  },
+  {
+    "g_id": "40405",
+    "g_name": "Burgkirchen"
+  },
+  {
+    "g_id": "40406",
+    "g_name": "Eggelsberg"
+  },
+  {
+    "g_id": "40407",
+    "g_name": "Feldkirchen bei Mattighofen"
+  },
+  {
+    "g_id": "40408",
+    "g_name": "Franking"
+  },
+  {
+    "g_id": "40409",
+    "g_name": "Geretsberg"
+  },
+  {
+    "g_id": "40410",
+    "g_name": "Gilgenberg am Weilhart"
+  },
+  {
+    "g_id": "40411",
+    "g_name": "Haigermoos"
+  },
+  {
+    "g_id": "40412",
+    "g_name": "Handenberg"
+  },
+  {
+    "g_id": "40413",
+    "g_name": "Helpfau-Uttendorf"
+  },
+  {
+    "g_id": "40414",
+    "g_name": "Hochburg-Ach"
+  },
+  {
+    "g_id": "40415",
+    "g_name": "Höhnhart"
+  },
+  {
+    "g_id": "40416",
+    "g_name": "Jeging"
+  },
+  {
+    "g_id": "40417",
+    "g_name": "Kirchberg bei Mattighofen"
+  },
+  {
+    "g_id": "40418",
+    "g_name": "Lengau"
+  },
+  {
+    "g_id": "40419",
+    "g_name": "Lochen am See"
+  },
+  {
+    "g_id": "40420",
+    "g_name": "Maria Schmolln"
+  },
+  {
+    "g_id": "40421",
+    "g_name": "Mattighofen"
+  },
+  {
+    "g_id": "40422",
+    "g_name": "Mauerkirchen"
+  },
+  {
+    "g_id": "40423",
+    "g_name": "Mining"
+  },
+  {
+    "g_id": "40424",
+    "g_name": "Moosbach"
+  },
+  {
+    "g_id": "40425",
+    "g_name": "Moosdorf"
+  },
+  {
+    "g_id": "40426",
+    "g_name": "Munderfing"
+  },
+  {
+    "g_id": "40427",
+    "g_name": "Neukirchen an der Enknach"
+  },
+  {
+    "g_id": "40428",
+    "g_name": "Ostermiething"
+  },
+  {
+    "g_id": "40429",
+    "g_name": "Palting"
+  },
+  {
+    "g_id": "40430",
+    "g_name": "Perwang am Grabensee"
+  },
+  {
+    "g_id": "40431",
+    "g_name": "Pfaffstätt"
+  },
+  {
+    "g_id": "40432",
+    "g_name": "Pischelsdorf am Engelbach"
+  },
+  {
+    "g_id": "40433",
+    "g_name": "Polling im Innkreis"
+  },
+  {
+    "g_id": "40434",
+    "g_name": "Roßbach"
+  },
+  {
+    "g_id": "40435",
+    "g_name": "St. Georgen am Fillmannsbach"
+  },
+  {
+    "g_id": "40436",
+    "g_name": "St. Johann am Walde"
+  },
+  {
+    "g_id": "40437",
+    "g_name": "St. Pantaleon"
+  },
+  {
+    "g_id": "40438",
+    "g_name": "St. Peter am Hart"
+  },
+  {
+    "g_id": "40439",
+    "g_name": "St. Radegund"
+  },
+  {
+    "g_id": "40440",
+    "g_name": "St. Veit im Innkreis"
+  },
+  {
+    "g_id": "40441",
+    "g_name": "Schalchen"
+  },
+  {
+    "g_id": "40442",
+    "g_name": "Schwand im Innkreis"
+  },
+  {
+    "g_id": "40443",
+    "g_name": "Tarsdorf"
+  },
+  {
+    "g_id": "40444",
+    "g_name": "Treubach"
+  },
+  {
+    "g_id": "40445",
+    "g_name": "Überackern"
+  },
+  {
+    "g_id": "40446",
+    "g_name": "Weng im Innkreis"
+  },
+  {
+    "g_id": "40501",
+    "g_name": "Alkoven"
+  },
+  {
+    "g_id": "40502",
+    "g_name": "Aschach an der Donau"
+  },
+  {
+    "g_id": "40503",
+    "g_name": "Eferding"
+  },
+  {
+    "g_id": "40504",
+    "g_name": "Fraham"
+  },
+  {
+    "g_id": "40505",
+    "g_name": "Haibach ob der Donau"
+  },
+  {
+    "g_id": "40506",
+    "g_name": "Hartkirchen"
+  },
+  {
+    "g_id": "40507",
+    "g_name": "Hinzenbach"
+  },
+  {
+    "g_id": "40508",
+    "g_name": "Prambachkirchen"
+  },
+  {
+    "g_id": "40509",
+    "g_name": "Pupping"
+  },
+  {
+    "g_id": "40510",
+    "g_name": "St. Marienkirchen an der Polsenz"
+  },
+  {
+    "g_id": "40511",
+    "g_name": "Scharten"
+  },
+  {
+    "g_id": "40512",
+    "g_name": "Stroheim"
+  },
+  {
+    "g_id": "40601",
+    "g_name": "Freistadt"
+  },
+  {
+    "g_id": "40602",
+    "g_name": "Grünbach"
+  },
+  {
+    "g_id": "40603",
+    "g_name": "Gutau"
+  },
+  {
+    "g_id": "40604",
+    "g_name": "Hagenberg im Mühlkreis"
+  },
+  {
+    "g_id": "40605",
+    "g_name": "Hirschbach im Mühlkreis"
+  },
+  {
+    "g_id": "40606",
+    "g_name": "Kaltenberg"
+  },
+  {
+    "g_id": "40607",
+    "g_name": "Kefermarkt"
+  },
+  {
+    "g_id": "40608",
+    "g_name": "Königswiesen"
+  },
+  {
+    "g_id": "40609",
+    "g_name": "Lasberg"
+  },
+  {
+    "g_id": "40610",
+    "g_name": "Leopoldschlag"
+  },
+  {
+    "g_id": "40611",
+    "g_name": "Liebenau"
+  },
+  {
+    "g_id": "40612",
+    "g_name": "Neumarkt im Mühlkreis"
+  },
+  {
+    "g_id": "40613",
+    "g_name": "Pierbach"
+  },
+  {
+    "g_id": "40614",
+    "g_name": "Pregarten"
+  },
+  {
+    "g_id": "40615",
+    "g_name": "Rainbach im Mühlkreis"
+  },
+  {
+    "g_id": "40616",
+    "g_name": "Sandl"
+  },
+  {
+    "g_id": "40617",
+    "g_name": "St. Leonhard bei Freistadt"
+  },
+  {
+    "g_id": "40618",
+    "g_name": "St. Oswald bei Freistadt"
+  },
+  {
+    "g_id": "40619",
+    "g_name": "Schönau im Mühlkreis"
+  },
+  {
+    "g_id": "40620",
+    "g_name": "Tragwein"
+  },
+  {
+    "g_id": "40621",
+    "g_name": "Unterweißenbach"
+  },
+  {
+    "g_id": "40622",
+    "g_name": "Unterweitersdorf"
+  },
+  {
+    "g_id": "40623",
+    "g_name": "Waldburg"
+  },
+  {
+    "g_id": "40624",
+    "g_name": "Wartberg ob der Aist"
+  },
+  {
+    "g_id": "40625",
+    "g_name": "Weitersfelden"
+  },
+  {
+    "g_id": "40626",
+    "g_name": "Windhaag bei Freistadt"
+  },
+  {
+    "g_id": "40627",
+    "g_name": "Bad Zell"
+  },
+  {
+    "g_id": "40701",
+    "g_name": "Altmünster"
+  },
+  {
+    "g_id": "40702",
+    "g_name": "Bad Goisern am Hallstättersee"
+  },
+  {
+    "g_id": "40703",
+    "g_name": "Bad Ischl"
+  },
+  {
+    "g_id": "40704",
+    "g_name": "Ebensee am Traunsee"
+  },
+  {
+    "g_id": "40705",
+    "g_name": "Gmunden"
+  },
+  {
+    "g_id": "40706",
+    "g_name": "Gosau"
+  },
+  {
+    "g_id": "40707",
+    "g_name": "Grünau im Almtal"
+  },
+  {
+    "g_id": "40708",
+    "g_name": "Gschwandt"
+  },
+  {
+    "g_id": "40709",
+    "g_name": "Hallstatt"
+  },
+  {
+    "g_id": "40710",
+    "g_name": "Kirchham"
+  },
+  {
+    "g_id": "40711",
+    "g_name": "Laakirchen"
+  },
+  {
+    "g_id": "40712",
+    "g_name": "Obertraun"
+  },
+  {
+    "g_id": "40713",
+    "g_name": "Ohlsdorf"
+  },
+  {
+    "g_id": "40714",
+    "g_name": "Pinsdorf"
+  },
+  {
+    "g_id": "40715",
+    "g_name": "Roitham am Traunfall"
+  },
+  {
+    "g_id": "40716",
+    "g_name": "St. Konrad"
+  },
+  {
+    "g_id": "40717",
+    "g_name": "St. Wolfgang im Salzkammergut"
+  },
+  {
+    "g_id": "40718",
+    "g_name": "Traunkirchen"
+  },
+  {
+    "g_id": "40719",
+    "g_name": "Scharnstein"
+  },
+  {
+    "g_id": "40720",
+    "g_name": "Vorchdorf"
+  },
+  {
+    "g_id": "40801",
+    "g_name": "Aistersheim"
+  },
+  {
+    "g_id": "40802",
+    "g_name": "Bad Schallerbach"
+  },
+  {
+    "g_id": "40804",
+    "g_name": "Eschenau im Hausruckkreis"
+  },
+  {
+    "g_id": "40805",
+    "g_name": "Gallspach"
+  },
+  {
+    "g_id": "40806",
+    "g_name": "Gaspoltshofen"
+  },
+  {
+    "g_id": "40807",
+    "g_name": "Geboltskirchen"
+  },
+  {
+    "g_id": "40808",
+    "g_name": "Grieskirchen"
+  },
+  {
+    "g_id": "40809",
+    "g_name": "Haag am Hausruck"
+  },
+  {
+    "g_id": "40810",
+    "g_name": "Heiligenberg"
+  },
+  {
+    "g_id": "40811",
+    "g_name": "Hofkirchen an der Trattnach"
+  },
+  {
+    "g_id": "40812",
+    "g_name": "Kallham"
+  },
+  {
+    "g_id": "40813",
+    "g_name": "Kematen am Innbach"
+  },
+  {
+    "g_id": "40814",
+    "g_name": "Meggenhofen"
+  },
+  {
+    "g_id": "40815",
+    "g_name": "Michaelnbach"
+  },
+  {
+    "g_id": "40816",
+    "g_name": "Natternbach"
+  },
+  {
+    "g_id": "40817",
+    "g_name": "Neukirchen am Walde"
+  },
+  {
+    "g_id": "40818",
+    "g_name": "Neumarkt im Hausruckkreis"
+  },
+  {
+    "g_id": "40820",
+    "g_name": "Pötting"
+  },
+  {
+    "g_id": "40821",
+    "g_name": "Pollham"
+  },
+  {
+    "g_id": "40822",
+    "g_name": "Pram"
+  },
+  {
+    "g_id": "40823",
+    "g_name": "Rottenbach"
+  },
+  {
+    "g_id": "40824",
+    "g_name": "St. Agatha"
+  },
+  {
+    "g_id": "40825",
+    "g_name": "St. Georgen bei Grieskirchen"
+  },
+  {
+    "g_id": "40826",
+    "g_name": "St. Thomas"
+  },
+  {
+    "g_id": "40827",
+    "g_name": "Schlüßlberg"
+  },
+  {
+    "g_id": "40828",
+    "g_name": "Steegen"
+  },
+  {
+    "g_id": "40829",
+    "g_name": "Taufkirchen an der Trattnach"
+  },
+  {
+    "g_id": "40830",
+    "g_name": "Tollet"
+  },
+  {
+    "g_id": "40831",
+    "g_name": "Waizenkirchen"
+  },
+  {
+    "g_id": "40832",
+    "g_name": "Wallern an der Trattnach"
+  },
+  {
+    "g_id": "40833",
+    "g_name": "Weibern"
+  },
+  {
+    "g_id": "40834",
+    "g_name": "Wendling"
+  },
+  {
+    "g_id": "40835",
+    "g_name": "Peuerbach"
+  },
+  {
+    "g_id": "40901",
+    "g_name": "Edlbach"
+  },
+  {
+    "g_id": "40902",
+    "g_name": "Grünburg"
+  },
+  {
+    "g_id": "40903",
+    "g_name": "Hinterstoder"
+  },
+  {
+    "g_id": "40904",
+    "g_name": "Inzersdorf im Kremstal"
+  },
+  {
+    "g_id": "40905",
+    "g_name": "Kirchdorf an der Krems"
+  },
+  {
+    "g_id": "40906",
+    "g_name": "Klaus an der Pyhrnbahn"
+  },
+  {
+    "g_id": "40907",
+    "g_name": "Kremsmünster"
+  },
+  {
+    "g_id": "40908",
+    "g_name": "Micheldorf in Oberösterreich"
+  },
+  {
+    "g_id": "40909",
+    "g_name": "Molln"
+  },
+  {
+    "g_id": "40910",
+    "g_name": "Nußbach"
+  },
+  {
+    "g_id": "40911",
+    "g_name": "Oberschlierbach"
+  },
+  {
+    "g_id": "40912",
+    "g_name": "Pettenbach"
+  },
+  {
+    "g_id": "40913",
+    "g_name": "Ried im Traunkreis"
+  },
+  {
+    "g_id": "40914",
+    "g_name": "Rosenau am Hengstpaß"
+  },
+  {
+    "g_id": "40915",
+    "g_name": "Roßleithen"
+  },
+  {
+    "g_id": "40916",
+    "g_name": "St. Pankraz"
+  },
+  {
+    "g_id": "40917",
+    "g_name": "Schlierbach"
+  },
+  {
+    "g_id": "40918",
+    "g_name": "Spital am Pyhrn"
+  },
+  {
+    "g_id": "40919",
+    "g_name": "Steinbach am Ziehberg"
+  },
+  {
+    "g_id": "40920",
+    "g_name": "Steinbach an der Steyr"
+  },
+  {
+    "g_id": "40921",
+    "g_name": "Vorderstoder"
+  },
+  {
+    "g_id": "40922",
+    "g_name": "Wartberg an der Krems"
+  },
+  {
+    "g_id": "40923",
+    "g_name": "Windischgarsten"
+  },
+  {
+    "g_id": "41001",
+    "g_name": "Allhaming"
+  },
+  {
+    "g_id": "41002",
+    "g_name": "Ansfelden"
+  },
+  {
+    "g_id": "41003",
+    "g_name": "Asten"
+  },
+  {
+    "g_id": "41004",
+    "g_name": "Eggendorf im Traunkreis"
+  },
+  {
+    "g_id": "41005",
+    "g_name": "Enns"
+  },
+  {
+    "g_id": "41006",
+    "g_name": "Hargelsberg"
+  },
+  {
+    "g_id": "41007",
+    "g_name": "Hörsching"
+  },
+  {
+    "g_id": "41008",
+    "g_name": "Hofkirchen im Traunkreis"
+  },
+  {
+    "g_id": "41009",
+    "g_name": "Kematen an der Krems"
+  },
+  {
+    "g_id": "41010",
+    "g_name": "Kirchberg-Thening"
+  },
+  {
+    "g_id": "41011",
+    "g_name": "Kronstorf"
+  },
+  {
+    "g_id": "41012",
+    "g_name": "Leonding"
+  },
+  {
+    "g_id": "41013",
+    "g_name": "St. Florian"
+  },
+  {
+    "g_id": "41014",
+    "g_name": "Neuhofen an der Krems"
+  },
+  {
+    "g_id": "41015",
+    "g_name": "Niederneukirchen"
+  },
+  {
+    "g_id": "41016",
+    "g_name": "Oftering"
+  },
+  {
+    "g_id": "41017",
+    "g_name": "Pasching"
+  },
+  {
+    "g_id": "41018",
+    "g_name": "Piberbach"
+  },
+  {
+    "g_id": "41019",
+    "g_name": "Pucking"
+  },
+  {
+    "g_id": "41020",
+    "g_name": "St. Marien"
+  },
+  {
+    "g_id": "41021",
+    "g_name": "Traun"
+  },
+  {
+    "g_id": "41022",
+    "g_name": "Wilhering"
+  },
+  {
+    "g_id": "41101",
+    "g_name": "Allerheiligen im Mühlkreis"
+  },
+  {
+    "g_id": "41102",
+    "g_name": "Arbing"
+  },
+  {
+    "g_id": "41103",
+    "g_name": "Baumgartenberg"
+  },
+  {
+    "g_id": "41104",
+    "g_name": "Dimbach"
+  },
+  {
+    "g_id": "41105",
+    "g_name": "Grein"
+  },
+  {
+    "g_id": "41106",
+    "g_name": "Katsdorf"
+  },
+  {
+    "g_id": "41107",
+    "g_name": "Klam"
+  },
+  {
+    "g_id": "41108",
+    "g_name": "Bad Kreuzen"
+  },
+  {
+    "g_id": "41109",
+    "g_name": "Langenstein"
+  },
+  {
+    "g_id": "41110",
+    "g_name": "Luftenberg an der Donau"
+  },
+  {
+    "g_id": "41111",
+    "g_name": "Mauthausen"
+  },
+  {
+    "g_id": "41112",
+    "g_name": "Mitterkirchen im Machland"
+  },
+  {
+    "g_id": "41113",
+    "g_name": "Münzbach"
+  },
+  {
+    "g_id": "41114",
+    "g_name": "Naarn im Machlande"
+  },
+  {
+    "g_id": "41115",
+    "g_name": "Pabneukirchen"
+  },
+  {
+    "g_id": "41116",
+    "g_name": "Perg"
+  },
+  {
+    "g_id": "41117",
+    "g_name": "Rechberg"
+  },
+  {
+    "g_id": "41118",
+    "g_name": "Ried in der Riedmark"
+  },
+  {
+    "g_id": "41119",
+    "g_name": "St. Georgen am Walde"
+  },
+  {
+    "g_id": "41120",
+    "g_name": "St. Georgen an der Gusen"
+  },
+  {
+    "g_id": "41121",
+    "g_name": "St. Nikola an der Donau"
+  },
+  {
+    "g_id": "41122",
+    "g_name": "St. Thomas am Blasenstein"
+  },
+  {
+    "g_id": "41123",
+    "g_name": "Saxen"
+  },
+  {
+    "g_id": "41124",
+    "g_name": "Schwertberg"
+  },
+  {
+    "g_id": "41125",
+    "g_name": "Waldhausen im Strudengau"
+  },
+  {
+    "g_id": "41126",
+    "g_name": "Windhaag bei Perg"
+  },
+  {
+    "g_id": "41201",
+    "g_name": "Andrichsfurt"
+  },
+  {
+    "g_id": "41202",
+    "g_name": "Antiesenhofen"
+  },
+  {
+    "g_id": "41203",
+    "g_name": "Aurolzmünster"
+  },
+  {
+    "g_id": "41204",
+    "g_name": "Eberschwang"
+  },
+  {
+    "g_id": "41205",
+    "g_name": "Eitzing"
+  },
+  {
+    "g_id": "41206",
+    "g_name": "Geiersberg"
+  },
+  {
+    "g_id": "41207",
+    "g_name": "Geinberg"
+  },
+  {
+    "g_id": "41208",
+    "g_name": "Gurten"
+  },
+  {
+    "g_id": "41209",
+    "g_name": "Hohenzell"
+  },
+  {
+    "g_id": "41210",
+    "g_name": "Kirchdorf am Inn"
+  },
+  {
+    "g_id": "41211",
+    "g_name": "Kirchheim im Innkreis"
+  },
+  {
+    "g_id": "41212",
+    "g_name": "Lambrechten"
+  },
+  {
+    "g_id": "41213",
+    "g_name": "Lohnsburg am Kobernaußerwald"
+  },
+  {
+    "g_id": "41214",
+    "g_name": "Mehrnbach"
+  },
+  {
+    "g_id": "41215",
+    "g_name": "Mettmach"
+  },
+  {
+    "g_id": "41216",
+    "g_name": "Mörschwang"
+  },
+  {
+    "g_id": "41217",
+    "g_name": "Mühlheim am Inn"
+  },
+  {
+    "g_id": "41218",
+    "g_name": "Neuhofen im Innkreis"
+  },
+  {
+    "g_id": "41219",
+    "g_name": "Obernberg am Inn"
+  },
+  {
+    "g_id": "41220",
+    "g_name": "Ort im Innkreis"
+  },
+  {
+    "g_id": "41221",
+    "g_name": "Pattigham"
+  },
+  {
+    "g_id": "41222",
+    "g_name": "Peterskirchen"
+  },
+  {
+    "g_id": "41223",
+    "g_name": "Pramet"
+  },
+  {
+    "g_id": "41224",
+    "g_name": "Reichersberg"
+  },
+  {
+    "g_id": "41225",
+    "g_name": "Ried im Innkreis"
+  },
+  {
+    "g_id": "41226",
+    "g_name": "St. Georgen bei Obernberg am Inn"
+  },
+  {
+    "g_id": "41227",
+    "g_name": "St. Marienkirchen am Hausruck"
+  },
+  {
+    "g_id": "41228",
+    "g_name": "St. Martin im Innkreis"
+  },
+  {
+    "g_id": "41229",
+    "g_name": "Schildorn"
+  },
+  {
+    "g_id": "41230",
+    "g_name": "Senftenbach"
+  },
+  {
+    "g_id": "41231",
+    "g_name": "Taiskirchen im Innkreis"
+  },
+  {
+    "g_id": "41232",
+    "g_name": "Tumeltsham"
+  },
+  {
+    "g_id": "41233",
+    "g_name": "Utzenaich"
+  },
+  {
+    "g_id": "41234",
+    "g_name": "Waldzell"
+  },
+  {
+    "g_id": "41235",
+    "g_name": "Weilbach"
+  },
+  {
+    "g_id": "41236",
+    "g_name": "Wippenham"
+  },
+  {
+    "g_id": "41304",
+    "g_name": "Altenfelden"
+  },
+  {
+    "g_id": "41305",
+    "g_name": "Arnreit"
+  },
+  {
+    "g_id": "41306",
+    "g_name": "Atzesberg"
+  },
+  {
+    "g_id": "41307",
+    "g_name": "Auberg"
+  },
+  {
+    "g_id": "41309",
+    "g_name": "Haslach an der Mühl"
+  },
+  {
+    "g_id": "41311",
+    "g_name": "Hörbich"
+  },
+  {
+    "g_id": "41312",
+    "g_name": "Hofkirchen im Mühlkreis"
+  },
+  {
+    "g_id": "41313",
+    "g_name": "Julbach"
+  },
+  {
+    "g_id": "41314",
+    "g_name": "Kirchberg ob der Donau"
+  },
+  {
+    "g_id": "41315",
+    "g_name": "Klaffer am Hochficht"
+  },
+  {
+    "g_id": "41316",
+    "g_name": "Kleinzell im Mühlkreis"
+  },
+  {
+    "g_id": "41317",
+    "g_name": "Kollerschlag"
+  },
+  {
+    "g_id": "41318",
+    "g_name": "Lembach im Mühlkreis"
+  },
+  {
+    "g_id": "41319",
+    "g_name": "Lichtenau im Mühlkreis"
+  },
+  {
+    "g_id": "41320",
+    "g_name": "Nebelberg"
+  },
+  {
+    "g_id": "41321",
+    "g_name": "Neufelden"
+  },
+  {
+    "g_id": "41322",
+    "g_name": "Niederkappel"
+  },
+  {
+    "g_id": "41323",
+    "g_name": "Niederwaldkirchen"
+  },
+  {
+    "g_id": "41324",
+    "g_name": "Oberkappel"
+  },
+  {
+    "g_id": "41325",
+    "g_name": "Oepping"
+  },
+  {
+    "g_id": "41326",
+    "g_name": "Peilstein im Mühlviertel"
+  },
+  {
+    "g_id": "41327",
+    "g_name": "Pfarrkirchen im Mühlkreis"
+  },
+  {
+    "g_id": "41328",
+    "g_name": "Putzleinsdorf"
+  },
+  {
+    "g_id": "41329",
+    "g_name": "Neustift im Mühlkreis"
+  },
+  {
+    "g_id": "41331",
+    "g_name": "St. Johann am Wimberg"
+  },
+  {
+    "g_id": "41332",
+    "g_name": "St. Martin im Mühlkreis"
+  },
+  {
+    "g_id": "41333",
+    "g_name": "St. Oswald bei Haslach"
+  },
+  {
+    "g_id": "41334",
+    "g_name": "St. Peter am Wimberg"
+  },
+  {
+    "g_id": "41336",
+    "g_name": "St. Ulrich im Mühlkreis"
+  },
+  {
+    "g_id": "41337",
+    "g_name": "St. Veit im Mühlkreis"
+  },
+  {
+    "g_id": "41338",
+    "g_name": "Sarleinsbach"
+  },
+  {
+    "g_id": "41341",
+    "g_name": "Schwarzenberg am Böhmerwald"
+  },
+  {
+    "g_id": "41342",
+    "g_name": "Ulrichsberg"
+  },
+  {
+    "g_id": "41343",
+    "g_name": "Aigen-Schlägl"
+  },
+  {
+    "g_id": "41344",
+    "g_name": "Rohrbach-Berg"
+  },
+  {
+    "g_id": "41345",
+    "g_name": "Helfenberg"
+  },
+  {
+    "g_id": "41346",
+    "g_name": "St. Stefan-Afiesl"
+  },
+  {
+    "g_id": "41401",
+    "g_name": "Altschwendt"
+  },
+  {
+    "g_id": "41402",
+    "g_name": "Andorf"
+  },
+  {
+    "g_id": "41403",
+    "g_name": "Brunnenthal"
+  },
+  {
+    "g_id": "41404",
+    "g_name": "Diersbach"
+  },
+  {
+    "g_id": "41405",
+    "g_name": "Dorf an der Pram"
+  },
+  {
+    "g_id": "41406",
+    "g_name": "Eggerding"
+  },
+  {
+    "g_id": "41407",
+    "g_name": "Engelhartszell"
+  },
+  {
+    "g_id": "41408",
+    "g_name": "Enzenkirchen"
+  },
+  {
+    "g_id": "41409",
+    "g_name": "Esternberg"
+  },
+  {
+    "g_id": "41410",
+    "g_name": "Freinberg"
+  },
+  {
+    "g_id": "41411",
+    "g_name": "Kopfing im Innkreis"
+  },
+  {
+    "g_id": "41412",
+    "g_name": "Mayrhof"
+  },
+  {
+    "g_id": "41413",
+    "g_name": "Münzkirchen"
+  },
+  {
+    "g_id": "41414",
+    "g_name": "Raab"
+  },
+  {
+    "g_id": "41415",
+    "g_name": "Rainbach im Innkreis"
+  },
+  {
+    "g_id": "41416",
+    "g_name": "Riedau"
+  },
+  {
+    "g_id": "41417",
+    "g_name": "St. Aegidi"
+  },
+  {
+    "g_id": "41418",
+    "g_name": "St. Florian am Inn"
+  },
+  {
+    "g_id": "41419",
+    "g_name": "St. Marienkirchen bei Schärding"
+  },
+  {
+    "g_id": "41420",
+    "g_name": "St. Roman"
+  },
+  {
+    "g_id": "41421",
+    "g_name": "St. Willibald"
+  },
+  {
+    "g_id": "41422",
+    "g_name": "Schärding"
+  },
+  {
+    "g_id": "41423",
+    "g_name": "Schardenberg"
+  },
+  {
+    "g_id": "41424",
+    "g_name": "Sigharting"
+  },
+  {
+    "g_id": "41425",
+    "g_name": "Suben"
+  },
+  {
+    "g_id": "41426",
+    "g_name": "Taufkirchen an der Pram"
+  },
+  {
+    "g_id": "41427",
+    "g_name": "Vichtenstein"
+  },
+  {
+    "g_id": "41428",
+    "g_name": "Waldkirchen am Wesen"
+  },
+  {
+    "g_id": "41429",
+    "g_name": "Wernstein am Inn"
+  },
+  {
+    "g_id": "41430",
+    "g_name": "Zell an der Pram"
+  },
+  {
+    "g_id": "41501",
+    "g_name": "Adlwang"
+  },
+  {
+    "g_id": "41502",
+    "g_name": "Aschach an der Steyr"
+  },
+  {
+    "g_id": "41503",
+    "g_name": "Bad Hall"
+  },
+  {
+    "g_id": "41504",
+    "g_name": "Dietach"
+  },
+  {
+    "g_id": "41505",
+    "g_name": "Gaflenz"
+  },
+  {
+    "g_id": "41506",
+    "g_name": "Garsten"
+  },
+  {
+    "g_id": "41507",
+    "g_name": "Großraming"
+  },
+  {
+    "g_id": "41508",
+    "g_name": "Laussa"
+  },
+  {
+    "g_id": "41509",
+    "g_name": "Losenstein"
+  },
+  {
+    "g_id": "41510",
+    "g_name": "Maria Neustift"
+  },
+  {
+    "g_id": "41511",
+    "g_name": "Pfarrkirchen bei Bad Hall"
+  },
+  {
+    "g_id": "41512",
+    "g_name": "Reichraming"
+  },
+  {
+    "g_id": "41513",
+    "g_name": "Rohr im Kremstal"
+  },
+  {
+    "g_id": "41514",
+    "g_name": "St. Ulrich bei Steyr"
+  },
+  {
+    "g_id": "41515",
+    "g_name": "Schiedlberg"
+  },
+  {
+    "g_id": "41516",
+    "g_name": "Sierning"
+  },
+  {
+    "g_id": "41517",
+    "g_name": "Ternberg"
+  },
+  {
+    "g_id": "41518",
+    "g_name": "Waldneukirchen"
+  },
+  {
+    "g_id": "41521",
+    "g_name": "Wolfern"
+  },
+  {
+    "g_id": "41522",
+    "g_name": "Weyer"
+  },
+  {
+    "g_id": "41601",
+    "g_name": "Alberndorf in der Riedmark"
+  },
+  {
+    "g_id": "41602",
+    "g_name": "Altenberg bei Linz"
+  },
+  {
+    "g_id": "41603",
+    "g_name": "Bad Leonfelden"
+  },
+  {
+    "g_id": "41604",
+    "g_name": "Eidenberg"
+  },
+  {
+    "g_id": "41605",
+    "g_name": "Engerwitzdorf"
+  },
+  {
+    "g_id": "41606",
+    "g_name": "Feldkirchen an der Donau"
+  },
+  {
+    "g_id": "41607",
+    "g_name": "Gallneukirchen"
+  },
+  {
+    "g_id": "41608",
+    "g_name": "Goldwörth"
+  },
+  {
+    "g_id": "41609",
+    "g_name": "Gramastetten"
+  },
+  {
+    "g_id": "41610",
+    "g_name": "Haibach im Mühlkreis"
+  },
+  {
+    "g_id": "41611",
+    "g_name": "Hellmonsödt"
+  },
+  {
+    "g_id": "41612",
+    "g_name": "Herzogsdorf"
+  },
+  {
+    "g_id": "41613",
+    "g_name": "Kirchschlag bei Linz"
+  },
+  {
+    "g_id": "41614",
+    "g_name": "Lichtenberg"
+  },
+  {
+    "g_id": "41615",
+    "g_name": "Oberneukirchen"
+  },
+  {
+    "g_id": "41616",
+    "g_name": "Ottenschlag im Mühlkreis"
+  },
+  {
+    "g_id": "41617",
+    "g_name": "Ottensheim"
+  },
+  {
+    "g_id": "41618",
+    "g_name": "Puchenau"
+  },
+  {
+    "g_id": "41619",
+    "g_name": "Reichenau im Mühlkreis"
+  },
+  {
+    "g_id": "41620",
+    "g_name": "Reichenthal"
+  },
+  {
+    "g_id": "41621",
+    "g_name": "St. Gotthard im Mühlkreis"
+  },
+  {
+    "g_id": "41622",
+    "g_name": "Schenkenfelden"
+  },
+  {
+    "g_id": "41623",
+    "g_name": "Sonnberg im Mühlkreis"
+  },
+  {
+    "g_id": "41624",
+    "g_name": "Steyregg"
+  },
+  {
+    "g_id": "41626",
+    "g_name": "Walding"
+  },
+  {
+    "g_id": "41627",
+    "g_name": "Zwettl an der Rodl"
+  },
+  {
+    "g_id": "41628",
+    "g_name": "Vorderweißenbach"
+  },
+  {
+    "g_id": "41701",
+    "g_name": "Ampflwang im Hausruckwald"
+  },
+  {
+    "g_id": "41702",
+    "g_name": "Attersee am Attersee"
+  },
+  {
+    "g_id": "41703",
+    "g_name": "Attnang-Puchheim"
+  },
+  {
+    "g_id": "41704",
+    "g_name": "Atzbach"
+  },
+  {
+    "g_id": "41705",
+    "g_name": "Aurach am Hongar"
+  },
+  {
+    "g_id": "41706",
+    "g_name": "Berg im Attergau"
+  },
+  {
+    "g_id": "41707",
+    "g_name": "Desselbrunn"
+  },
+  {
+    "g_id": "41708",
+    "g_name": "Fornach"
+  },
+  {
+    "g_id": "41709",
+    "g_name": "Frankenburg am Hausruck"
+  },
+  {
+    "g_id": "41710",
+    "g_name": "Frankenmarkt"
+  },
+  {
+    "g_id": "41711",
+    "g_name": "Gampern"
+  },
+  {
+    "g_id": "41712",
+    "g_name": "Innerschwand am Mondsee"
+  },
+  {
+    "g_id": "41713",
+    "g_name": "Lenzing"
+  },
+  {
+    "g_id": "41714",
+    "g_name": "Manning"
+  },
+  {
+    "g_id": "41715",
+    "g_name": "Mondsee"
+  },
+  {
+    "g_id": "41716",
+    "g_name": "Neukirchen an der Vöckla"
+  },
+  {
+    "g_id": "41717",
+    "g_name": "Niederthalheim"
+  },
+  {
+    "g_id": "41718",
+    "g_name": "Nußdorf am Attersee"
+  },
+  {
+    "g_id": "41719",
+    "g_name": "Oberhofen am Irrsee"
+  },
+  {
+    "g_id": "41720",
+    "g_name": "Oberndorf bei Schwanenstadt"
+  },
+  {
+    "g_id": "41721",
+    "g_name": "Oberwang"
+  },
+  {
+    "g_id": "41722",
+    "g_name": "Ottnang am Hausruck"
+  },
+  {
+    "g_id": "41723",
+    "g_name": "Pfaffing"
+  },
+  {
+    "g_id": "41724",
+    "g_name": "Pilsbach"
+  },
+  {
+    "g_id": "41725",
+    "g_name": "Pitzenberg"
+  },
+  {
+    "g_id": "41726",
+    "g_name": "Pöndorf"
+  },
+  {
+    "g_id": "41727",
+    "g_name": "Puchkirchen am Trattberg"
+  },
+  {
+    "g_id": "41728",
+    "g_name": "Pühret"
+  },
+  {
+    "g_id": "41729",
+    "g_name": "Redleiten"
+  },
+  {
+    "g_id": "41730",
+    "g_name": "Redlham"
+  },
+  {
+    "g_id": "41731",
+    "g_name": "Regau"
+  },
+  {
+    "g_id": "41732",
+    "g_name": "Rüstorf"
+  },
+  {
+    "g_id": "41733",
+    "g_name": "Rutzenham"
+  },
+  {
+    "g_id": "41734",
+    "g_name": "St. Georgen im Attergau"
+  },
+  {
+    "g_id": "41735",
+    "g_name": "St. Lorenz"
+  },
+  {
+    "g_id": "41736",
+    "g_name": "Schlatt"
+  },
+  {
+    "g_id": "41737",
+    "g_name": "Schörfling am Attersee"
+  },
+  {
+    "g_id": "41738",
+    "g_name": "Schwanenstadt"
+  },
+  {
+    "g_id": "41739",
+    "g_name": "Seewalchen am Attersee"
+  },
+  {
+    "g_id": "41740",
+    "g_name": "Steinbach am Attersee"
+  },
+  {
+    "g_id": "41741",
+    "g_name": "Straß im Attergau"
+  },
+  {
+    "g_id": "41742",
+    "g_name": "Tiefgraben"
+  },
+  {
+    "g_id": "41743",
+    "g_name": "Timelkam"
+  },
+  {
+    "g_id": "41744",
+    "g_name": "Ungenach"
+  },
+  {
+    "g_id": "41745",
+    "g_name": "Unterach am Attersee"
+  },
+  {
+    "g_id": "41746",
+    "g_name": "Vöcklabruck"
+  },
+  {
+    "g_id": "41747",
+    "g_name": "Vöcklamarkt"
+  },
+  {
+    "g_id": "41748",
+    "g_name": "Weißenkirchen im Attergau"
+  },
+  {
+    "g_id": "41749",
+    "g_name": "Weyregg am Attersee"
+  },
+  {
+    "g_id": "41750",
+    "g_name": "Wolfsegg am Hausruck"
+  },
+  {
+    "g_id": "41751",
+    "g_name": "Zell am Moos"
+  },
+  {
+    "g_id": "41752",
+    "g_name": "Zell am Pettenfirst"
+  },
+  {
+    "g_id": "41801",
+    "g_name": "Aichkirchen"
+  },
+  {
+    "g_id": "41802",
+    "g_name": "Bachmanning"
+  },
+  {
+    "g_id": "41803",
+    "g_name": "Bad Wimsbach-Neydharting"
+  },
+  {
+    "g_id": "41804",
+    "g_name": "Buchkirchen"
+  },
+  {
+    "g_id": "41805",
+    "g_name": "Eberstalzell"
+  },
+  {
+    "g_id": "41806",
+    "g_name": "Edt bei Lambach"
+  },
+  {
+    "g_id": "41807",
+    "g_name": "Fischlham"
+  },
+  {
+    "g_id": "41808",
+    "g_name": "Gunskirchen"
+  },
+  {
+    "g_id": "41809",
+    "g_name": "Holzhausen"
+  },
+  {
+    "g_id": "41810",
+    "g_name": "Krenglbach"
+  },
+  {
+    "g_id": "41811",
+    "g_name": "Lambach"
+  },
+  {
+    "g_id": "41812",
+    "g_name": "Marchtrenk"
+  },
+  {
+    "g_id": "41813",
+    "g_name": "Neukirchen bei Lambach"
+  },
+  {
+    "g_id": "41814",
+    "g_name": "Offenhausen"
+  },
+  {
+    "g_id": "41815",
+    "g_name": "Pennewang"
+  },
+  {
+    "g_id": "41816",
+    "g_name": "Pichl bei Wels"
+  },
+  {
+    "g_id": "41817",
+    "g_name": "Sattledt"
+  },
+  {
+    "g_id": "41818",
+    "g_name": "Schleißheim"
+  },
+  {
+    "g_id": "41819",
+    "g_name": "Sipbachzell"
+  },
+  {
+    "g_id": "41820",
+    "g_name": "Stadl-Paura"
+  },
+  {
+    "g_id": "41821",
+    "g_name": "Steinerkirchen an der Traun"
+  },
+  {
+    "g_id": "41822",
+    "g_name": "Steinhaus"
+  },
+  {
+    "g_id": "41823",
+    "g_name": "Thalheim bei Wels"
+  },
+  {
+    "g_id": "41824",
+    "g_name": "Weißkirchen an der Traun"
+  },
+  {
+    "g_id": "50101",
+    "g_name": "Salzburg"
+  },
+  {
+    "g_id": "50201",
+    "g_name": "Abtenau"
+  },
+  {
+    "g_id": "50202",
+    "g_name": "Adnet"
+  },
+  {
+    "g_id": "50203",
+    "g_name": "Annaberg-Lungötz"
+  },
+  {
+    "g_id": "50204",
+    "g_name": "Golling an der Salzach"
+  },
+  {
+    "g_id": "50205",
+    "g_name": "Hallein"
+  },
+  {
+    "g_id": "50206",
+    "g_name": "Krispl"
+  },
+  {
+    "g_id": "50207",
+    "g_name": "Kuchl"
+  },
+  {
+    "g_id": "50208",
+    "g_name": "Oberalm"
+  },
+  {
+    "g_id": "50209",
+    "g_name": "Puch bei Hallein"
+  },
+  {
+    "g_id": "50210",
+    "g_name": "Rußbach am Paß Gschütt"
+  },
+  {
+    "g_id": "50211",
+    "g_name": "Sankt Koloman"
+  },
+  {
+    "g_id": "50212",
+    "g_name": "Scheffau am Tennengebirge"
+  },
+  {
+    "g_id": "50213",
+    "g_name": "Bad Vigaun"
+  },
+  {
+    "g_id": "50301",
+    "g_name": "Anif"
+  },
+  {
+    "g_id": "50302",
+    "g_name": "Anthering"
+  },
+  {
+    "g_id": "50303",
+    "g_name": "Bergheim"
+  },
+  {
+    "g_id": "50304",
+    "g_name": "Berndorf bei Salzburg"
+  },
+  {
+    "g_id": "50305",
+    "g_name": "Bürmoos"
+  },
+  {
+    "g_id": "50306",
+    "g_name": "Dorfbeuern"
+  },
+  {
+    "g_id": "50307",
+    "g_name": "Ebenau"
+  },
+  {
+    "g_id": "50308",
+    "g_name": "Elixhausen"
+  },
+  {
+    "g_id": "50309",
+    "g_name": "Elsbethen"
+  },
+  {
+    "g_id": "50310",
+    "g_name": "Eugendorf"
+  },
+  {
+    "g_id": "50311",
+    "g_name": "Faistenau"
+  },
+  {
+    "g_id": "50312",
+    "g_name": "Fuschl am See"
+  },
+  {
+    "g_id": "50313",
+    "g_name": "Göming"
+  },
+  {
+    "g_id": "50314",
+    "g_name": "Grödig"
+  },
+  {
+    "g_id": "50315",
+    "g_name": "Großgmain"
+  },
+  {
+    "g_id": "50316",
+    "g_name": "Hallwang"
+  },
+  {
+    "g_id": "50317",
+    "g_name": "Henndorf am Wallersee"
+  },
+  {
+    "g_id": "50318",
+    "g_name": "Hintersee"
+  },
+  {
+    "g_id": "50319",
+    "g_name": "Hof bei Salzburg"
+  },
+  {
+    "g_id": "50320",
+    "g_name": "Köstendorf"
+  },
+  {
+    "g_id": "50321",
+    "g_name": "Koppl"
+  },
+  {
+    "g_id": "50322",
+    "g_name": "Lamprechtshausen"
+  },
+  {
+    "g_id": "50323",
+    "g_name": "Mattsee"
+  },
+  {
+    "g_id": "50324",
+    "g_name": "Neumarkt am Wallersee"
+  },
+  {
+    "g_id": "50325",
+    "g_name": "Nußdorf am Haunsberg"
+  },
+  {
+    "g_id": "50326",
+    "g_name": "Oberndorf bei Salzburg"
+  },
+  {
+    "g_id": "50327",
+    "g_name": "Obertrum am See"
+  },
+  {
+    "g_id": "50328",
+    "g_name": "Plainfeld"
+  },
+  {
+    "g_id": "50329",
+    "g_name": "Sankt Georgen bei Salzburg"
+  },
+  {
+    "g_id": "50330",
+    "g_name": "Sankt Gilgen"
+  },
+  {
+    "g_id": "50331",
+    "g_name": "Schleedorf"
+  },
+  {
+    "g_id": "50332",
+    "g_name": "Seeham"
+  },
+  {
+    "g_id": "50335",
+    "g_name": "Straßwalchen"
+  },
+  {
+    "g_id": "50336",
+    "g_name": "Strobl"
+  },
+  {
+    "g_id": "50337",
+    "g_name": "Thalgau"
+  },
+  {
+    "g_id": "50338",
+    "g_name": "Wals-Siezenheim"
+  },
+  {
+    "g_id": "50339",
+    "g_name": "Seekirchen am Wallersee"
+  },
+  {
+    "g_id": "50401",
+    "g_name": "Altenmarkt im Pongau"
+  },
+  {
+    "g_id": "50402",
+    "g_name": "Bad Hofgastein"
+  },
+  {
+    "g_id": "50403",
+    "g_name": "Bad Gastein"
+  },
+  {
+    "g_id": "50404",
+    "g_name": "Bischofshofen"
+  },
+  {
+    "g_id": "50405",
+    "g_name": "Dorfgastein"
+  },
+  {
+    "g_id": "50406",
+    "g_name": "Eben im Pongau"
+  },
+  {
+    "g_id": "50407",
+    "g_name": "Filzmoos"
+  },
+  {
+    "g_id": "50408",
+    "g_name": "Flachau"
+  },
+  {
+    "g_id": "50409",
+    "g_name": "Forstau"
+  },
+  {
+    "g_id": "50410",
+    "g_name": "Goldegg"
+  },
+  {
+    "g_id": "50411",
+    "g_name": "Großarl"
+  },
+  {
+    "g_id": "50412",
+    "g_name": "Hüttau"
+  },
+  {
+    "g_id": "50413",
+    "g_name": "Hüttschlag"
+  },
+  {
+    "g_id": "50414",
+    "g_name": "Kleinarl"
+  },
+  {
+    "g_id": "50415",
+    "g_name": "Mühlbach am Hochkönig"
+  },
+  {
+    "g_id": "50416",
+    "g_name": "Pfarrwerfen"
+  },
+  {
+    "g_id": "50417",
+    "g_name": "Radstadt"
+  },
+  {
+    "g_id": "50418",
+    "g_name": "Sankt Johann im Pongau"
+  },
+  {
+    "g_id": "50419",
+    "g_name": "Sankt Martin am Tennengebirge"
+  },
+  {
+    "g_id": "50420",
+    "g_name": "Sankt Veit im Pongau"
+  },
+  {
+    "g_id": "50421",
+    "g_name": "Schwarzach im Pongau"
+  },
+  {
+    "g_id": "50422",
+    "g_name": "Untertauern"
+  },
+  {
+    "g_id": "50423",
+    "g_name": "Wagrain"
+  },
+  {
+    "g_id": "50424",
+    "g_name": "Werfen"
+  },
+  {
+    "g_id": "50425",
+    "g_name": "Werfenweng"
+  },
+  {
+    "g_id": "50501",
+    "g_name": "Göriach"
+  },
+  {
+    "g_id": "50502",
+    "g_name": "Lessach"
+  },
+  {
+    "g_id": "50503",
+    "g_name": "Mariapfarr"
+  },
+  {
+    "g_id": "50504",
+    "g_name": "Mauterndorf"
+  },
+  {
+    "g_id": "50505",
+    "g_name": "Muhr"
+  },
+  {
+    "g_id": "50506",
+    "g_name": "Ramingstein"
+  },
+  {
+    "g_id": "50507",
+    "g_name": "Sankt Andrä im Lungau"
+  },
+  {
+    "g_id": "50508",
+    "g_name": "Sankt Margarethen im Lungau"
+  },
+  {
+    "g_id": "50509",
+    "g_name": "Sankt Michael im Lungau"
+  },
+  {
+    "g_id": "50510",
+    "g_name": "Tamsweg"
+  },
+  {
+    "g_id": "50511",
+    "g_name": "Thomatal"
+  },
+  {
+    "g_id": "50512",
+    "g_name": "Tweng"
+  },
+  {
+    "g_id": "50513",
+    "g_name": "Unternberg"
+  },
+  {
+    "g_id": "50514",
+    "g_name": "Weißpriach"
+  },
+  {
+    "g_id": "50515",
+    "g_name": "Zederhaus"
+  },
+  {
+    "g_id": "50601",
+    "g_name": "Bramberg am Wildkogel"
+  },
+  {
+    "g_id": "50602",
+    "g_name": "Bruck an der Großglocknerstraße"
+  },
+  {
+    "g_id": "50603",
+    "g_name": "Dienten am Hochkönig"
+  },
+  {
+    "g_id": "50604",
+    "g_name": "Fusch an der Großglocknerstraße"
+  },
+  {
+    "g_id": "50605",
+    "g_name": "Hollersbach im Pinzgau"
+  },
+  {
+    "g_id": "50606",
+    "g_name": "Kaprun"
+  },
+  {
+    "g_id": "50607",
+    "g_name": "Krimml"
+  },
+  {
+    "g_id": "50608",
+    "g_name": "Lend"
+  },
+  {
+    "g_id": "50609",
+    "g_name": "Leogang"
+  },
+  {
+    "g_id": "50610",
+    "g_name": "Lofer"
+  },
+  {
+    "g_id": "50611",
+    "g_name": "Maishofen"
+  },
+  {
+    "g_id": "50612",
+    "g_name": "Maria Alm am Steinernen Meer"
+  },
+  {
+    "g_id": "50613",
+    "g_name": "Mittersill"
+  },
+  {
+    "g_id": "50614",
+    "g_name": "Neukirchen am Großvenediger"
+  },
+  {
+    "g_id": "50615",
+    "g_name": "Niedernsill"
+  },
+  {
+    "g_id": "50616",
+    "g_name": "Piesendorf"
+  },
+  {
+    "g_id": "50617",
+    "g_name": "Rauris"
+  },
+  {
+    "g_id": "50618",
+    "g_name": "Saalbach-Hinterglemm"
+  },
+  {
+    "g_id": "50619",
+    "g_name": "Saalfelden am Steinernen Meer"
+  },
+  {
+    "g_id": "50620",
+    "g_name": "Sankt Martin bei Lofer"
+  },
+  {
+    "g_id": "50621",
+    "g_name": "Stuhlfelden"
+  },
+  {
+    "g_id": "50622",
+    "g_name": "Taxenbach"
+  },
+  {
+    "g_id": "50623",
+    "g_name": "Unken"
+  },
+  {
+    "g_id": "50624",
+    "g_name": "Uttendorf"
+  },
+  {
+    "g_id": "50625",
+    "g_name": "Viehhofen"
+  },
+  {
+    "g_id": "50626",
+    "g_name": "Wald im Pinzgau"
+  },
+  {
+    "g_id": "50627",
+    "g_name": "Weißbach bei Lofer"
+  },
+  {
+    "g_id": "50628",
+    "g_name": "Zell am See"
+  },
+  {
+    "g_id": "60101",
+    "g_name": "Graz"
+  },
+  {
+    "g_id": "60305",
+    "g_name": "Frauental an der Laßnitz"
+  },
+  {
+    "g_id": "60318",
+    "g_name": "Lannach"
+  },
+  {
+    "g_id": "60323",
+    "g_name": "Pölfing-Brunn"
+  },
+  {
+    "g_id": "60324",
+    "g_name": "Preding"
+  },
+  {
+    "g_id": "60326",
+    "g_name": "Sankt Josef (Weststeiermark)"
+  },
+  {
+    "g_id": "60329",
+    "g_name": "Sankt Peter im Sulmtal"
+  },
+  {
+    "g_id": "60341",
+    "g_name": "Wettmannstätten"
+  },
+  {
+    "g_id": "60344",
+    "g_name": "Deutschlandsberg"
+  },
+  {
+    "g_id": "60345",
+    "g_name": "Eibiswald"
+  },
+  {
+    "g_id": "60346",
+    "g_name": "Groß Sankt Florian"
+  },
+  {
+    "g_id": "60347",
+    "g_name": "Sankt Martin im Sulmtal"
+  },
+  {
+    "g_id": "60348",
+    "g_name": "Sankt Stefan ob Stainz"
+  },
+  {
+    "g_id": "60349",
+    "g_name": "Bad Schwanberg"
+  },
+  {
+    "g_id": "60350",
+    "g_name": "Stainz"
+  },
+  {
+    "g_id": "60351",
+    "g_name": "Wies"
+  },
+  {
+    "g_id": "60608",
+    "g_name": "Feldkirchen bei Graz"
+  },
+  {
+    "g_id": "60611",
+    "g_name": "Gössendorf"
+  },
+  {
+    "g_id": "60613",
+    "g_name": "Gratkorn"
+  },
+  {
+    "g_id": "60617",
+    "g_name": "Hart bei Graz"
+  },
+  {
+    "g_id": "60618",
+    "g_name": "Haselsdorf-Tobelbad"
+  },
+  {
+    "g_id": "60619",
+    "g_name": "Hausmannstätten"
+  },
+  {
+    "g_id": "60623",
+    "g_name": "Kainbach bei Graz"
+  },
+  {
+    "g_id": "60624",
+    "g_name": "Kalsdorf bei Graz"
+  },
+  {
+    "g_id": "60626",
+    "g_name": "Kumberg"
+  },
+  {
+    "g_id": "60628",
+    "g_name": "Laßnitzhöhe"
+  },
+  {
+    "g_id": "60629",
+    "g_name": "Lieboch"
+  },
+  {
+    "g_id": "60632",
+    "g_name": "Peggau"
+  },
+  {
+    "g_id": "60639",
+    "g_name": "Sankt Bartholomä"
+  },
+  {
+    "g_id": "60641",
+    "g_name": "Sankt Oswald bei Plankenwarth"
+  },
+  {
+    "g_id": "60642",
+    "g_name": "Sankt Radegund bei Graz"
+  },
+  {
+    "g_id": "60645",
+    "g_name": "Semriach"
+  },
+  {
+    "g_id": "60646",
+    "g_name": "Stattegg"
+  },
+  {
+    "g_id": "60647",
+    "g_name": "Stiwoll"
+  },
+  {
+    "g_id": "60648",
+    "g_name": "Thal"
+  },
+  {
+    "g_id": "60651",
+    "g_name": "Übelbach"
+  },
+  {
+    "g_id": "60653",
+    "g_name": "Vasoldsberg"
+  },
+  {
+    "g_id": "60654",
+    "g_name": "Weinitzen"
+  },
+  {
+    "g_id": "60655",
+    "g_name": "Werndorf"
+  },
+  {
+    "g_id": "60656",
+    "g_name": "Wundschuh"
+  },
+  {
+    "g_id": "60659",
+    "g_name": "Deutschfeistritz"
+  },
+  {
+    "g_id": "60660",
+    "g_name": "Dobl-Zwaring"
+  },
+  {
+    "g_id": "60661",
+    "g_name": "Eggersdorf bei Graz"
+  },
+  {
+    "g_id": "60662",
+    "g_name": "Fernitz-Mellach"
+  },
+  {
+    "g_id": "60663",
+    "g_name": "Frohnleiten"
+  },
+  {
+    "g_id": "60664",
+    "g_name": "Gratwein-Straßengel"
+  },
+  {
+    "g_id": "60665",
+    "g_name": "Hitzendorf"
+  },
+  {
+    "g_id": "60666",
+    "g_name": "Nestelbach bei Graz"
+  },
+  {
+    "g_id": "60667",
+    "g_name": "Raaba-Grambach"
+  },
+  {
+    "g_id": "60668",
+    "g_name": "Sankt Marein bei Graz"
+  },
+  {
+    "g_id": "60669",
+    "g_name": "Seiersberg-Pirka"
+  },
+  {
+    "g_id": "60670",
+    "g_name": "Premstätten"
+  },
+  {
+    "g_id": "61001",
+    "g_name": "Allerheiligen bei Wildon"
+  },
+  {
+    "g_id": "61002",
+    "g_name": "Arnfels"
+  },
+  {
+    "g_id": "61007",
+    "g_name": "Empersdorf"
+  },
+  {
+    "g_id": "61008",
+    "g_name": "Gabersdorf"
+  },
+  {
+    "g_id": "61012",
+    "g_name": "Gralla"
+  },
+  {
+    "g_id": "61013",
+    "g_name": "Großklein"
+  },
+  {
+    "g_id": "61016",
+    "g_name": "Heimschuh"
+  },
+  {
+    "g_id": "61017",
+    "g_name": "Hengsberg"
+  },
+  {
+    "g_id": "61019",
+    "g_name": "Kitzeck im Sausal"
+  },
+  {
+    "g_id": "61020",
+    "g_name": "Lang"
+  },
+  {
+    "g_id": "61021",
+    "g_name": "Lebring-Sankt Margarethen"
+  },
+  {
+    "g_id": "61024",
+    "g_name": "Oberhaag"
+  },
+  {
+    "g_id": "61027",
+    "g_name": "Ragnitz"
+  },
+  {
+    "g_id": "61030",
+    "g_name": "Sankt Andrä-Höch"
+  },
+  {
+    "g_id": "61032",
+    "g_name": "Sankt Johann im Saggautal"
+  },
+  {
+    "g_id": "61033",
+    "g_name": "Sankt Nikolai im Sausal"
+  },
+  {
+    "g_id": "61043",
+    "g_name": "Tillmitsch"
+  },
+  {
+    "g_id": "61045",
+    "g_name": "Wagna"
+  },
+  {
+    "g_id": "61049",
+    "g_name": "Ehrenhausen an der Weinstraße"
+  },
+  {
+    "g_id": "61050",
+    "g_name": "Gamlitz"
+  },
+  {
+    "g_id": "61051",
+    "g_name": "Gleinstätten"
+  },
+  {
+    "g_id": "61052",
+    "g_name": "Heiligenkreuz am Waasen"
+  },
+  {
+    "g_id": "61053",
+    "g_name": "Leibnitz"
+  },
+  {
+    "g_id": "61054",
+    "g_name": "Leutschach an der Weinstraße"
+  },
+  {
+    "g_id": "61055",
+    "g_name": "Sankt Georgen an der Stiefing"
+  },
+  {
+    "g_id": "61057",
+    "g_name": "Schwarzautal"
+  },
+  {
+    "g_id": "61059",
+    "g_name": "Wildon"
+  },
+  {
+    "g_id": "61060",
+    "g_name": "Sankt Veit in der Südsteiermark"
+  },
+  {
+    "g_id": "61061",
+    "g_name": "Straß in Steiermark"
+  },
+  {
+    "g_id": "61101",
+    "g_name": "Eisenerz"
+  },
+  {
+    "g_id": "61105",
+    "g_name": "Kalwang"
+  },
+  {
+    "g_id": "61106",
+    "g_name": "Kammern im Liesingtal"
+  },
+  {
+    "g_id": "61107",
+    "g_name": "Kraubath an der Mur"
+  },
+  {
+    "g_id": "61108",
+    "g_name": "Leoben"
+  },
+  {
+    "g_id": "61109",
+    "g_name": "Mautern in Steiermark"
+  },
+  {
+    "g_id": "61110",
+    "g_name": "Niklasdorf"
+  },
+  {
+    "g_id": "61111",
+    "g_name": "Proleb"
+  },
+  {
+    "g_id": "61112",
+    "g_name": "Radmer"
+  },
+  {
+    "g_id": "61113",
+    "g_name": "Sankt Michael in Obersteiermark"
+  },
+  {
+    "g_id": "61114",
+    "g_name": "Sankt Peter-Freienstein"
+  },
+  {
+    "g_id": "61115",
+    "g_name": "Sankt Stefan ob Leoben"
+  },
+  {
+    "g_id": "61116",
+    "g_name": "Traboch"
+  },
+  {
+    "g_id": "61118",
+    "g_name": "Vordernberg"
+  },
+  {
+    "g_id": "61119",
+    "g_name": "Wald am Schoberpaß"
+  },
+  {
+    "g_id": "61120",
+    "g_name": "Trofaiach"
+  },
+  {
+    "g_id": "61203",
+    "g_name": "Aigen im Ennstal"
+  },
+  {
+    "g_id": "61204",
+    "g_name": "Altaussee"
+  },
+  {
+    "g_id": "61205",
+    "g_name": "Altenmarkt bei Sankt Gallen"
+  },
+  {
+    "g_id": "61206",
+    "g_name": "Ardning"
+  },
+  {
+    "g_id": "61207",
+    "g_name": "Bad Aussee"
+  },
+  {
+    "g_id": "61213",
+    "g_name": "Gröbming"
+  },
+  {
+    "g_id": "61215",
+    "g_name": "Grundlsee"
+  },
+  {
+    "g_id": "61217",
+    "g_name": "Haus"
+  },
+  {
+    "g_id": "61222",
+    "g_name": "Lassing"
+  },
+  {
+    "g_id": "61236",
+    "g_name": "Ramsau am Dachstein"
+  },
+  {
+    "g_id": "61243",
+    "g_name": "Selzthal"
+  },
+  {
+    "g_id": "61247",
+    "g_name": "Trieben"
+  },
+  {
+    "g_id": "61251",
+    "g_name": "Wildalpen"
+  },
+  {
+    "g_id": "61252",
+    "g_name": "Wörschach"
+  },
+  {
+    "g_id": "61253",
+    "g_name": "Admont"
+  },
+  {
+    "g_id": "61254",
+    "g_name": "Aich"
+  },
+  {
+    "g_id": "61255",
+    "g_name": "Bad Mitterndorf"
+  },
+  {
+    "g_id": "61256",
+    "g_name": "Gaishorn am See"
+  },
+  {
+    "g_id": "61257",
+    "g_name": "Irdning-Donnersbachtal"
+  },
+  {
+    "g_id": "61258",
+    "g_name": "Landl"
+  },
+  {
+    "g_id": "61259",
+    "g_name": "Liezen"
+  },
+  {
+    "g_id": "61260",
+    "g_name": "Michaelerberg-Pruggern"
+  },
+  {
+    "g_id": "61261",
+    "g_name": "Mitterberg-Sankt Martin"
+  },
+  {
+    "g_id": "61262",
+    "g_name": "Öblarn"
+  },
+  {
+    "g_id": "61263",
+    "g_name": "Rottenmann"
+  },
+  {
+    "g_id": "61264",
+    "g_name": "Sankt Gallen"
+  },
+  {
+    "g_id": "61265",
+    "g_name": "Schladming"
+  },
+  {
+    "g_id": "61266",
+    "g_name": "Sölk"
+  },
+  {
+    "g_id": "61267",
+    "g_name": "Stainach-Pürgg"
+  },
+  {
+    "g_id": "61410",
+    "g_name": "Mühlen"
+  },
+  {
+    "g_id": "61413",
+    "g_name": "Niederwölz"
+  },
+  {
+    "g_id": "61425",
+    "g_name": "St. Peter am Kammersberg"
+  },
+  {
+    "g_id": "61428",
+    "g_name": "Schöder"
+  },
+  {
+    "g_id": "61437",
+    "g_name": "Krakau"
+  },
+  {
+    "g_id": "61438",
+    "g_name": "Murau"
+  },
+  {
+    "g_id": "61439",
+    "g_name": "Neumarkt in der Steiermark"
+  },
+  {
+    "g_id": "61440",
+    "g_name": "Oberwölz"
+  },
+  {
+    "g_id": "61441",
+    "g_name": "Ranten"
+  },
+  {
+    "g_id": "61442",
+    "g_name": "Sankt Georgen am Kreischberg"
+  },
+  {
+    "g_id": "61443",
+    "g_name": "Sankt Lambrecht"
+  },
+  {
+    "g_id": "61444",
+    "g_name": "Scheifling"
+  },
+  {
+    "g_id": "61445",
+    "g_name": "Stadl-Predlitz"
+  },
+  {
+    "g_id": "61446",
+    "g_name": "Teufenbach-Katsch"
+  },
+  {
+    "g_id": "61611",
+    "g_name": "Krottendorf-Gaisfeld"
+  },
+  {
+    "g_id": "61612",
+    "g_name": "Ligist"
+  },
+  {
+    "g_id": "61615",
+    "g_name": "Mooskirchen"
+  },
+  {
+    "g_id": "61618",
+    "g_name": "Rosental an der Kainach"
+  },
+  {
+    "g_id": "61621",
+    "g_name": "Sankt Martin am Wöllmißberg"
+  },
+  {
+    "g_id": "61624",
+    "g_name": "Stallhofen"
+  },
+  {
+    "g_id": "61625",
+    "g_name": "Voitsberg"
+  },
+  {
+    "g_id": "61626",
+    "g_name": "Bärnbach"
+  },
+  {
+    "g_id": "61627",
+    "g_name": "Edelschrott"
+  },
+  {
+    "g_id": "61628",
+    "g_name": "Geistthal-Södingberg"
+  },
+  {
+    "g_id": "61629",
+    "g_name": "Hirschegg-Pack"
+  },
+  {
+    "g_id": "61630",
+    "g_name": "Kainach bei Voitsberg"
+  },
+  {
+    "g_id": "61631",
+    "g_name": "Köflach"
+  },
+  {
+    "g_id": "61632",
+    "g_name": "Maria Lankowitz"
+  },
+  {
+    "g_id": "61633",
+    "g_name": "Söding-Sankt Johann"
+  },
+  {
+    "g_id": "61701",
+    "g_name": "Albersdorf-Prebuch"
+  },
+  {
+    "g_id": "61708",
+    "g_name": "Fischbach"
+  },
+  {
+    "g_id": "61710",
+    "g_name": "Floing"
+  },
+  {
+    "g_id": "61711",
+    "g_name": "Gasen"
+  },
+  {
+    "g_id": "61716",
+    "g_name": "Markt Hartmannsdorf"
+  },
+  {
+    "g_id": "61719",
+    "g_name": "Hofstätten an der Raab"
+  },
+  {
+    "g_id": "61727",
+    "g_name": "Ludersdorf-Wilfersdorf"
+  },
+  {
+    "g_id": "61728",
+    "g_name": "Miesenbach bei Birkfeld"
+  },
+  {
+    "g_id": "61729",
+    "g_name": "Mitterdorf an der Raab"
+  },
+  {
+    "g_id": "61730",
+    "g_name": "Mortantsch"
+  },
+  {
+    "g_id": "61731",
+    "g_name": "Naas"
+  },
+  {
+    "g_id": "61740",
+    "g_name": "Puch bei Weiz"
+  },
+  {
+    "g_id": "61741",
+    "g_name": "Ratten"
+  },
+  {
+    "g_id": "61743",
+    "g_name": "Rettenegg"
+  },
+  {
+    "g_id": "61744",
+    "g_name": "St. Kathrein am Hauenstein"
+  },
+  {
+    "g_id": "61745",
+    "g_name": "Sankt Kathrein am Offenegg"
+  },
+  {
+    "g_id": "61746",
+    "g_name": "St. Margarethen an der Raab"
+  },
+  {
+    "g_id": "61748",
+    "g_name": "Sinabelkirchen"
+  },
+  {
+    "g_id": "61750",
+    "g_name": "Strallegg"
+  },
+  {
+    "g_id": "61751",
+    "g_name": "Thannhausen"
+  },
+  {
+    "g_id": "61756",
+    "g_name": "Anger"
+  },
+  {
+    "g_id": "61757",
+    "g_name": "Birkfeld"
+  },
+  {
+    "g_id": "61758",
+    "g_name": "Fladnitz an der Teichalm"
+  },
+  {
+    "g_id": "61759",
+    "g_name": "Gersdorf an der Feistritz"
+  },
+  {
+    "g_id": "61760",
+    "g_name": "Gleisdorf"
+  },
+  {
+    "g_id": "61761",
+    "g_name": "Gutenberg-Stenzengreith"
+  },
+  {
+    "g_id": "61762",
+    "g_name": "Ilztal"
+  },
+  {
+    "g_id": "61763",
+    "g_name": "Passail"
+  },
+  {
+    "g_id": "61764",
+    "g_name": "Pischelsdorf am Kulm"
+  },
+  {
+    "g_id": "61765",
+    "g_name": "Sankt Ruprecht an der Raab"
+  },
+  {
+    "g_id": "61766",
+    "g_name": "Weiz"
+  },
+  {
+    "g_id": "62007",
+    "g_name": "Fohnsdorf"
+  },
+  {
+    "g_id": "62008",
+    "g_name": "Gaal"
+  },
+  {
+    "g_id": "62010",
+    "g_name": "Hohentauern"
+  },
+  {
+    "g_id": "62014",
+    "g_name": "Kobenz"
+  },
+  {
+    "g_id": "62021",
+    "g_name": "Pusterwald"
+  },
+  {
+    "g_id": "62026",
+    "g_name": "Sankt Georgen ob Judenburg"
+  },
+  {
+    "g_id": "62032",
+    "g_name": "Sankt Peter ob Judenburg"
+  },
+  {
+    "g_id": "62034",
+    "g_name": "Seckau"
+  },
+  {
+    "g_id": "62036",
+    "g_name": "Unzmarkt-Frauenburg"
+  },
+  {
+    "g_id": "62038",
+    "g_name": "Zeltweg"
+  },
+  {
+    "g_id": "62039",
+    "g_name": "Lobmingtal"
+  },
+  {
+    "g_id": "62040",
+    "g_name": "Judenburg"
+  },
+  {
+    "g_id": "62041",
+    "g_name": "Knittelfeld"
+  },
+  {
+    "g_id": "62042",
+    "g_name": "Obdach"
+  },
+  {
+    "g_id": "62043",
+    "g_name": "Pöls-Oberkurzheim"
+  },
+  {
+    "g_id": "62044",
+    "g_name": "Pölstal"
+  },
+  {
+    "g_id": "62045",
+    "g_name": "Sankt Marein-Feistritz"
+  },
+  {
+    "g_id": "62046",
+    "g_name": "Sankt Margarethen bei Knittelfeld"
+  },
+  {
+    "g_id": "62047",
+    "g_name": "Spielberg"
+  },
+  {
+    "g_id": "62048",
+    "g_name": "Weißkirchen in Steiermark"
+  },
+  {
+    "g_id": "62105",
+    "g_name": "Breitenau am Hochlantsch"
+  },
+  {
+    "g_id": "62115",
+    "g_name": "Krieglach"
+  },
+  {
+    "g_id": "62116",
+    "g_name": "Langenwang"
+  },
+  {
+    "g_id": "62125",
+    "g_name": "Pernegg an der Mur"
+  },
+  {
+    "g_id": "62128",
+    "g_name": "Sankt Lorenzen im Mürztal"
+  },
+  {
+    "g_id": "62131",
+    "g_name": "Spital am Semmering"
+  },
+  {
+    "g_id": "62132",
+    "g_name": "Stanz im Mürztal"
+  },
+  {
+    "g_id": "62135",
+    "g_name": "Turnau"
+  },
+  {
+    "g_id": "62138",
+    "g_name": "Aflenz"
+  },
+  {
+    "g_id": "62139",
+    "g_name": "Bruck an der Mur"
+  },
+  {
+    "g_id": "62140",
+    "g_name": "Kapfenberg"
+  },
+  {
+    "g_id": "62141",
+    "g_name": "Kindberg"
+  },
+  {
+    "g_id": "62142",
+    "g_name": "Mariazell"
+  },
+  {
+    "g_id": "62143",
+    "g_name": "Mürzzuschlag"
+  },
+  {
+    "g_id": "62144",
+    "g_name": "Neuberg an der Mürz"
+  },
+  {
+    "g_id": "62145",
+    "g_name": "Sankt Barbara im Mürztal"
+  },
+  {
+    "g_id": "62146",
+    "g_name": "Sankt Marein im Mürztal"
+  },
+  {
+    "g_id": "62147",
+    "g_name": "Thörl"
+  },
+  {
+    "g_id": "62148",
+    "g_name": "Tragöß-Sankt Katharein"
+  },
+  {
+    "g_id": "62202",
+    "g_name": "Bad Blumau"
+  },
+  {
+    "g_id": "62205",
+    "g_name": "Buch-St. Magdalena"
+  },
+  {
+    "g_id": "62206",
+    "g_name": "Burgau"
+  },
+  {
+    "g_id": "62209",
+    "g_name": "Ebersdorf"
+  },
+  {
+    "g_id": "62211",
+    "g_name": "Friedberg"
+  },
+  {
+    "g_id": "62214",
+    "g_name": "Greinbach"
+  },
+  {
+    "g_id": "62216",
+    "g_name": "Großsteinbach"
+  },
+  {
+    "g_id": "62219",
+    "g_name": "Hartberg"
+  },
+  {
+    "g_id": "62220",
+    "g_name": "Hartberg Umgebung"
+  },
+  {
+    "g_id": "62226",
+    "g_name": "Lafnitz"
+  },
+  {
+    "g_id": "62232",
+    "g_name": "Ottendorf an der Rittschein"
+  },
+  {
+    "g_id": "62233",
+    "g_name": "Pinggau"
+  },
+  {
+    "g_id": "62235",
+    "g_name": "Pöllauberg"
+  },
+  {
+    "g_id": "62242",
+    "g_name": "Sankt Jakob im Walde"
+  },
+  {
+    "g_id": "62244",
+    "g_name": "Sankt Johann in der Haide"
+  },
+  {
+    "g_id": "62245",
+    "g_name": "Sankt Lorenzen am Wechsel"
+  },
+  {
+    "g_id": "62247",
+    "g_name": "Schäffern"
+  },
+  {
+    "g_id": "62252",
+    "g_name": "Söchau"
+  },
+  {
+    "g_id": "62256",
+    "g_name": "Stubenberg"
+  },
+  {
+    "g_id": "62262",
+    "g_name": "Wenigzell"
+  },
+  {
+    "g_id": "62264",
+    "g_name": "Bad Waltersdorf"
+  },
+  {
+    "g_id": "62265",
+    "g_name": "Dechantskirchen"
+  },
+  {
+    "g_id": "62266",
+    "g_name": "Feistritztal"
+  },
+  {
+    "g_id": "62267",
+    "g_name": "Fürstenfeld"
+  },
+  {
+    "g_id": "62268",
+    "g_name": "Grafendorf bei Hartberg"
+  },
+  {
+    "g_id": "62269",
+    "g_name": "Großwilfersdorf"
+  },
+  {
+    "g_id": "62270",
+    "g_name": "Hartl"
+  },
+  {
+    "g_id": "62271",
+    "g_name": "Ilz"
+  },
+  {
+    "g_id": "62272",
+    "g_name": "Kaindorf"
+  },
+  {
+    "g_id": "62273",
+    "g_name": "Bad Loipersdorf"
+  },
+  {
+    "g_id": "62274",
+    "g_name": "Neudau"
+  },
+  {
+    "g_id": "62275",
+    "g_name": "Pöllau"
+  },
+  {
+    "g_id": "62276",
+    "g_name": "Rohr bei Hartberg"
+  },
+  {
+    "g_id": "62277",
+    "g_name": "Rohrbach an der Lafnitz"
+  },
+  {
+    "g_id": "62278",
+    "g_name": "Vorau"
+  },
+  {
+    "g_id": "62279",
+    "g_name": "Waldbach-Mönichwald"
+  },
+  {
+    "g_id": "62311",
+    "g_name": "Edelsbach bei Feldbach"
+  },
+  {
+    "g_id": "62314",
+    "g_name": "Eichkögl"
+  },
+  {
+    "g_id": "62326",
+    "g_name": "Halbenrain"
+  },
+  {
+    "g_id": "62330",
+    "g_name": "Jagerberg"
+  },
+  {
+    "g_id": "62332",
+    "g_name": "Kapfenstein"
+  },
+  {
+    "g_id": "62335",
+    "g_name": "Klöch"
+  },
+  {
+    "g_id": "62343",
+    "g_name": "Mettersdorf am Saßbach"
+  },
+  {
+    "g_id": "62368",
+    "g_name": "Tieschen"
+  },
+  {
+    "g_id": "62372",
+    "g_name": "Unterlamm"
+  },
+  {
+    "g_id": "62375",
+    "g_name": "Bad Gleichenberg"
+  },
+  {
+    "g_id": "62376",
+    "g_name": "Bad Radkersburg"
+  },
+  {
+    "g_id": "62377",
+    "g_name": "Deutsch Goritz"
+  },
+  {
+    "g_id": "62378",
+    "g_name": "Fehring"
+  },
+  {
+    "g_id": "62379",
+    "g_name": "Feldbach"
+  },
+  {
+    "g_id": "62380",
+    "g_name": "Gnas"
+  },
+  {
+    "g_id": "62381",
+    "g_name": "Kirchbach-Zerlach"
+  },
+  {
+    "g_id": "62382",
+    "g_name": "Kirchberg an der Raab"
+  },
+  {
+    "g_id": "62383",
+    "g_name": "Mureck"
+  },
+  {
+    "g_id": "62384",
+    "g_name": "Paldau"
+  },
+  {
+    "g_id": "62385",
+    "g_name": "Pirching am Traubenberg"
+  },
+  {
+    "g_id": "62386",
+    "g_name": "Riegersburg"
+  },
+  {
+    "g_id": "62387",
+    "g_name": "Sankt Anna am Aigen"
+  },
+  {
+    "g_id": "62388",
+    "g_name": "Sankt Peter am Ottersbach"
+  },
+  {
+    "g_id": "62389",
+    "g_name": "Sankt Stefan im Rosental"
+  },
+  {
+    "g_id": "62390",
+    "g_name": "Straden"
+  },
+  {
+    "g_id": "70101",
+    "g_name": "Innsbruck"
+  },
+  {
+    "g_id": "70201",
+    "g_name": "Arzl im Pitztal"
+  },
+  {
+    "g_id": "70202",
+    "g_name": "Haiming"
+  },
+  {
+    "g_id": "70203",
+    "g_name": "Imst"
+  },
+  {
+    "g_id": "70204",
+    "g_name": "Imsterberg"
+  },
+  {
+    "g_id": "70205",
+    "g_name": "Jerzens"
+  },
+  {
+    "g_id": "70206",
+    "g_name": "Karres"
+  },
+  {
+    "g_id": "70207",
+    "g_name": "Karrösten"
+  },
+  {
+    "g_id": "70208",
+    "g_name": "Längenfeld"
+  },
+  {
+    "g_id": "70209",
+    "g_name": "Mieming"
+  },
+  {
+    "g_id": "70210",
+    "g_name": "Mils bei Imst"
+  },
+  {
+    "g_id": "70211",
+    "g_name": "Mötz"
+  },
+  {
+    "g_id": "70212",
+    "g_name": "Nassereith"
+  },
+  {
+    "g_id": "70213",
+    "g_name": "Obsteig"
+  },
+  {
+    "g_id": "70214",
+    "g_name": "Oetz"
+  },
+  {
+    "g_id": "70215",
+    "g_name": "Rietz"
+  },
+  {
+    "g_id": "70216",
+    "g_name": "Roppen"
+  },
+  {
+    "g_id": "70217",
+    "g_name": "St. Leonhard im Pitztal"
+  },
+  {
+    "g_id": "70218",
+    "g_name": "Sautens"
+  },
+  {
+    "g_id": "70219",
+    "g_name": "Silz"
+  },
+  {
+    "g_id": "70220",
+    "g_name": "Sölden"
+  },
+  {
+    "g_id": "70221",
+    "g_name": "Stams"
+  },
+  {
+    "g_id": "70222",
+    "g_name": "Tarrenz"
+  },
+  {
+    "g_id": "70223",
+    "g_name": "Umhausen"
+  },
+  {
+    "g_id": "70224",
+    "g_name": "Wenns"
+  },
+  {
+    "g_id": "70301",
+    "g_name": "Absam"
+  },
+  {
+    "g_id": "70302",
+    "g_name": "Aldrans"
+  },
+  {
+    "g_id": "70303",
+    "g_name": "Ampass"
+  },
+  {
+    "g_id": "70304",
+    "g_name": "Axams"
+  },
+  {
+    "g_id": "70305",
+    "g_name": "Baumkirchen"
+  },
+  {
+    "g_id": "70306",
+    "g_name": "Birgitz"
+  },
+  {
+    "g_id": "70307",
+    "g_name": "Ellbögen"
+  },
+  {
+    "g_id": "70308",
+    "g_name": "Flaurling"
+  },
+  {
+    "g_id": "70309",
+    "g_name": "Fritzens"
+  },
+  {
+    "g_id": "70310",
+    "g_name": "Fulpmes"
+  },
+  {
+    "g_id": "70311",
+    "g_name": "Gnadenwald"
+  },
+  {
+    "g_id": "70312",
+    "g_name": "Götzens"
+  },
+  {
+    "g_id": "70313",
+    "g_name": "Gries am Brenner"
+  },
+  {
+    "g_id": "70314",
+    "g_name": "Gries im Sellrain"
+  },
+  {
+    "g_id": "70315",
+    "g_name": "Grinzens"
+  },
+  {
+    "g_id": "70317",
+    "g_name": "Gschnitz"
+  },
+  {
+    "g_id": "70318",
+    "g_name": "Hatting"
+  },
+  {
+    "g_id": "70319",
+    "g_name": "Inzing"
+  },
+  {
+    "g_id": "70320",
+    "g_name": "Kematen in Tirol"
+  },
+  {
+    "g_id": "70322",
+    "g_name": "Kolsass"
+  },
+  {
+    "g_id": "70323",
+    "g_name": "Kolsassberg"
+  },
+  {
+    "g_id": "70325",
+    "g_name": "Lans"
+  },
+  {
+    "g_id": "70326",
+    "g_name": "Leutasch"
+  },
+  {
+    "g_id": "70328",
+    "g_name": "Mieders"
+  },
+  {
+    "g_id": "70329",
+    "g_name": "Mils"
+  },
+  {
+    "g_id": "70331",
+    "g_name": "Mutters"
+  },
+  {
+    "g_id": "70332",
+    "g_name": "Natters"
+  },
+  {
+    "g_id": "70333",
+    "g_name": "Navis"
+  },
+  {
+    "g_id": "70334",
+    "g_name": "Neustift im Stubaital"
+  },
+  {
+    "g_id": "70335",
+    "g_name": "Oberhofen im Inntal"
+  },
+  {
+    "g_id": "70336",
+    "g_name": "Obernberg am Brenner"
+  },
+  {
+    "g_id": "70337",
+    "g_name": "Oberperfuss"
+  },
+  {
+    "g_id": "70338",
+    "g_name": "Patsch"
+  },
+  {
+    "g_id": "70339",
+    "g_name": "Pettnau"
+  },
+  {
+    "g_id": "70340",
+    "g_name": "Pfaffenhofen"
+  },
+  {
+    "g_id": "70342",
+    "g_name": "Polling in Tirol"
+  },
+  {
+    "g_id": "70343",
+    "g_name": "Ranggen"
+  },
+  {
+    "g_id": "70344",
+    "g_name": "Reith bei Seefeld"
+  },
+  {
+    "g_id": "70345",
+    "g_name": "Rinn"
+  },
+  {
+    "g_id": "70346",
+    "g_name": "Rum"
+  },
+  {
+    "g_id": "70347",
+    "g_name": "St. Sigmund im Sellrain"
+  },
+  {
+    "g_id": "70348",
+    "g_name": "Scharnitz"
+  },
+  {
+    "g_id": "70349",
+    "g_name": "Schmirn"
+  },
+  {
+    "g_id": "70350",
+    "g_name": "Schönberg im Stubaital"
+  },
+  {
+    "g_id": "70351",
+    "g_name": "Seefeld in Tirol"
+  },
+  {
+    "g_id": "70352",
+    "g_name": "Sellrain"
+  },
+  {
+    "g_id": "70353",
+    "g_name": "Sistrans"
+  },
+  {
+    "g_id": "70354",
+    "g_name": "Hall in Tirol"
+  },
+  {
+    "g_id": "70355",
+    "g_name": "Steinach am Brenner"
+  },
+  {
+    "g_id": "70356",
+    "g_name": "Telfes im Stubai"
+  },
+  {
+    "g_id": "70357",
+    "g_name": "Telfs"
+  },
+  {
+    "g_id": "70358",
+    "g_name": "Thaur"
+  },
+  {
+    "g_id": "70359",
+    "g_name": "Trins"
+  },
+  {
+    "g_id": "70360",
+    "g_name": "Tulfes"
+  },
+  {
+    "g_id": "70361",
+    "g_name": "Unterperfuss"
+  },
+  {
+    "g_id": "70362",
+    "g_name": "Vals"
+  },
+  {
+    "g_id": "70364",
+    "g_name": "Völs"
+  },
+  {
+    "g_id": "70365",
+    "g_name": "Volders"
+  },
+  {
+    "g_id": "70366",
+    "g_name": "Wattenberg"
+  },
+  {
+    "g_id": "70367",
+    "g_name": "Wattens"
+  },
+  {
+    "g_id": "70368",
+    "g_name": "Wildermieming"
+  },
+  {
+    "g_id": "70369",
+    "g_name": "Zirl"
+  },
+  {
+    "g_id": "70370",
+    "g_name": "Matrei am Brenner"
+  },
+  {
+    "g_id": "70401",
+    "g_name": "Aurach bei Kitzbühel"
+  },
+  {
+    "g_id": "70402",
+    "g_name": "Brixen im Thale"
+  },
+  {
+    "g_id": "70403",
+    "g_name": "Fieberbrunn"
+  },
+  {
+    "g_id": "70404",
+    "g_name": "Going am Wilden Kaiser"
+  },
+  {
+    "g_id": "70405",
+    "g_name": "Hochfilzen"
+  },
+  {
+    "g_id": "70406",
+    "g_name": "Hopfgarten im Brixental"
+  },
+  {
+    "g_id": "70407",
+    "g_name": "Itter"
+  },
+  {
+    "g_id": "70408",
+    "g_name": "Jochberg"
+  },
+  {
+    "g_id": "70409",
+    "g_name": "Kirchberg in Tirol"
+  },
+  {
+    "g_id": "70410",
+    "g_name": "Kirchdorf in Tirol"
+  },
+  {
+    "g_id": "70411",
+    "g_name": "Kitzbühel"
+  },
+  {
+    "g_id": "70412",
+    "g_name": "Kössen"
+  },
+  {
+    "g_id": "70413",
+    "g_name": "Oberndorf in Tirol"
+  },
+  {
+    "g_id": "70414",
+    "g_name": "Reith bei Kitzbühel"
+  },
+  {
+    "g_id": "70415",
+    "g_name": "St. Jakob in Haus"
+  },
+  {
+    "g_id": "70416",
+    "g_name": "St. Johann in Tirol"
+  },
+  {
+    "g_id": "70417",
+    "g_name": "St. Ulrich am Pillersee"
+  },
+  {
+    "g_id": "70418",
+    "g_name": "Schwendt"
+  },
+  {
+    "g_id": "70419",
+    "g_name": "Waidring"
+  },
+  {
+    "g_id": "70420",
+    "g_name": "Westendorf"
+  },
+  {
+    "g_id": "70501",
+    "g_name": "Alpbach"
+  },
+  {
+    "g_id": "70502",
+    "g_name": "Angath"
+  },
+  {
+    "g_id": "70503",
+    "g_name": "Bad Häring"
+  },
+  {
+    "g_id": "70504",
+    "g_name": "Brandenberg"
+  },
+  {
+    "g_id": "70505",
+    "g_name": "Breitenbach am Inn"
+  },
+  {
+    "g_id": "70506",
+    "g_name": "Brixlegg"
+  },
+  {
+    "g_id": "70508",
+    "g_name": "Ebbs"
+  },
+  {
+    "g_id": "70509",
+    "g_name": "Ellmau"
+  },
+  {
+    "g_id": "70510",
+    "g_name": "Erl"
+  },
+  {
+    "g_id": "70511",
+    "g_name": "Kirchbichl"
+  },
+  {
+    "g_id": "70512",
+    "g_name": "Kramsach"
+  },
+  {
+    "g_id": "70513",
+    "g_name": "Kufstein"
+  },
+  {
+    "g_id": "70514",
+    "g_name": "Kundl"
+  },
+  {
+    "g_id": "70515",
+    "g_name": "Langkampfen"
+  },
+  {
+    "g_id": "70516",
+    "g_name": "Mariastein"
+  },
+  {
+    "g_id": "70517",
+    "g_name": "Münster"
+  },
+  {
+    "g_id": "70518",
+    "g_name": "Niederndorf"
+  },
+  {
+    "g_id": "70519",
+    "g_name": "Niederndorferberg"
+  },
+  {
+    "g_id": "70520",
+    "g_name": "Radfeld"
+  },
+  {
+    "g_id": "70521",
+    "g_name": "Rattenberg"
+  },
+  {
+    "g_id": "70522",
+    "g_name": "Reith im Alpbachtal"
+  },
+  {
+    "g_id": "70523",
+    "g_name": "Rettenschöss"
+  },
+  {
+    "g_id": "70524",
+    "g_name": "Scheffau am Wilden Kaiser"
+  },
+  {
+    "g_id": "70525",
+    "g_name": "Schwoich"
+  },
+  {
+    "g_id": "70526",
+    "g_name": "Söll"
+  },
+  {
+    "g_id": "70527",
+    "g_name": "Thiersee"
+  },
+  {
+    "g_id": "70528",
+    "g_name": "Angerberg"
+  },
+  {
+    "g_id": "70529",
+    "g_name": "Walchsee"
+  },
+  {
+    "g_id": "70530",
+    "g_name": "Wildschönau"
+  },
+  {
+    "g_id": "70531",
+    "g_name": "Wörgl"
+  },
+  {
+    "g_id": "70601",
+    "g_name": "Faggen"
+  },
+  {
+    "g_id": "70602",
+    "g_name": "Fendels"
+  },
+  {
+    "g_id": "70603",
+    "g_name": "Fiss"
+  },
+  {
+    "g_id": "70604",
+    "g_name": "Fließ"
+  },
+  {
+    "g_id": "70605",
+    "g_name": "Flirsch"
+  },
+  {
+    "g_id": "70606",
+    "g_name": "Galtür"
+  },
+  {
+    "g_id": "70607",
+    "g_name": "Grins"
+  },
+  {
+    "g_id": "70608",
+    "g_name": "Ischgl"
+  },
+  {
+    "g_id": "70609",
+    "g_name": "Kappl"
+  },
+  {
+    "g_id": "70610",
+    "g_name": "Kaunerberg"
+  },
+  {
+    "g_id": "70611",
+    "g_name": "Kaunertal"
+  },
+  {
+    "g_id": "70612",
+    "g_name": "Kauns"
+  },
+  {
+    "g_id": "70613",
+    "g_name": "Ladis"
+  },
+  {
+    "g_id": "70614",
+    "g_name": "Landeck"
+  },
+  {
+    "g_id": "70615",
+    "g_name": "Nauders"
+  },
+  {
+    "g_id": "70616",
+    "g_name": "Pettneu am Arlberg"
+  },
+  {
+    "g_id": "70617",
+    "g_name": "Pfunds"
+  },
+  {
+    "g_id": "70618",
+    "g_name": "Pians"
+  },
+  {
+    "g_id": "70619",
+    "g_name": "Prutz"
+  },
+  {
+    "g_id": "70620",
+    "g_name": "Ried im Oberinntal"
+  },
+  {
+    "g_id": "70621",
+    "g_name": "St. Anton am Arlberg"
+  },
+  {
+    "g_id": "70622",
+    "g_name": "Schönwies"
+  },
+  {
+    "g_id": "70623",
+    "g_name": "See"
+  },
+  {
+    "g_id": "70624",
+    "g_name": "Serfaus"
+  },
+  {
+    "g_id": "70625",
+    "g_name": "Spiss"
+  },
+  {
+    "g_id": "70626",
+    "g_name": "Stanz bei Landeck"
+  },
+  {
+    "g_id": "70627",
+    "g_name": "Strengen"
+  },
+  {
+    "g_id": "70628",
+    "g_name": "Tobadill"
+  },
+  {
+    "g_id": "70629",
+    "g_name": "Tösens"
+  },
+  {
+    "g_id": "70630",
+    "g_name": "Zams"
+  },
+  {
+    "g_id": "70701",
+    "g_name": "Abfaltersbach"
+  },
+  {
+    "g_id": "70702",
+    "g_name": "Ainet"
+  },
+  {
+    "g_id": "70703",
+    "g_name": "Amlach"
+  },
+  {
+    "g_id": "70704",
+    "g_name": "Anras"
+  },
+  {
+    "g_id": "70705",
+    "g_name": "Assling"
+  },
+  {
+    "g_id": "70706",
+    "g_name": "Außervillgraten"
+  },
+  {
+    "g_id": "70707",
+    "g_name": "Dölsach"
+  },
+  {
+    "g_id": "70708",
+    "g_name": "Gaimberg"
+  },
+  {
+    "g_id": "70709",
+    "g_name": "Hopfgarten in Defereggen"
+  },
+  {
+    "g_id": "70710",
+    "g_name": "Innervillgraten"
+  },
+  {
+    "g_id": "70711",
+    "g_name": "Iselsberg-Stronach"
+  },
+  {
+    "g_id": "70712",
+    "g_name": "Kals am Großglockner"
+  },
+  {
+    "g_id": "70713",
+    "g_name": "Kartitsch"
+  },
+  {
+    "g_id": "70714",
+    "g_name": "Lavant"
+  },
+  {
+    "g_id": "70715",
+    "g_name": "Leisach"
+  },
+  {
+    "g_id": "70716",
+    "g_name": "Lienz"
+  },
+  {
+    "g_id": "70717",
+    "g_name": "Matrei in Osttirol"
+  },
+  {
+    "g_id": "70718",
+    "g_name": "Nikolsdorf"
+  },
+  {
+    "g_id": "70719",
+    "g_name": "Nußdorf-Debant"
+  },
+  {
+    "g_id": "70720",
+    "g_name": "Oberlienz"
+  },
+  {
+    "g_id": "70721",
+    "g_name": "Obertilliach"
+  },
+  {
+    "g_id": "70723",
+    "g_name": "Prägraten am Großvenediger"
+  },
+  {
+    "g_id": "70724",
+    "g_name": "St. Jakob in Defereggen"
+  },
+  {
+    "g_id": "70725",
+    "g_name": "St. Johann im Walde"
+  },
+  {
+    "g_id": "70726",
+    "g_name": "St. Veit in Defereggen"
+  },
+  {
+    "g_id": "70727",
+    "g_name": "Schlaiten"
+  },
+  {
+    "g_id": "70728",
+    "g_name": "Sillian"
+  },
+  {
+    "g_id": "70729",
+    "g_name": "Strassen"
+  },
+  {
+    "g_id": "70731",
+    "g_name": "Thurn"
+  },
+  {
+    "g_id": "70732",
+    "g_name": "Tristach"
+  },
+  {
+    "g_id": "70733",
+    "g_name": "Untertilliach"
+  },
+  {
+    "g_id": "70734",
+    "g_name": "Virgen"
+  },
+  {
+    "g_id": "70735",
+    "g_name": "Heinfels"
+  },
+  {
+    "g_id": "70801",
+    "g_name": "Bach"
+  },
+  {
+    "g_id": "70802",
+    "g_name": "Berwang"
+  },
+  {
+    "g_id": "70803",
+    "g_name": "Biberwier"
+  },
+  {
+    "g_id": "70804",
+    "g_name": "Bichlbach"
+  },
+  {
+    "g_id": "70805",
+    "g_name": "Breitenwang"
+  },
+  {
+    "g_id": "70806",
+    "g_name": "Ehenbichl"
+  },
+  {
+    "g_id": "70807",
+    "g_name": "Ehrwald"
+  },
+  {
+    "g_id": "70808",
+    "g_name": "Elbigenalp"
+  },
+  {
+    "g_id": "70809",
+    "g_name": "Elmen"
+  },
+  {
+    "g_id": "70810",
+    "g_name": "Forchach"
+  },
+  {
+    "g_id": "70811",
+    "g_name": "Grän"
+  },
+  {
+    "g_id": "70812",
+    "g_name": "Gramais"
+  },
+  {
+    "g_id": "70813",
+    "g_name": "Häselgehr"
+  },
+  {
+    "g_id": "70814",
+    "g_name": "Heiterwang"
+  },
+  {
+    "g_id": "70815",
+    "g_name": "Hinterhornbach"
+  },
+  {
+    "g_id": "70816",
+    "g_name": "Höfen"
+  },
+  {
+    "g_id": "70817",
+    "g_name": "Holzgau"
+  },
+  {
+    "g_id": "70818",
+    "g_name": "Jungholz"
+  },
+  {
+    "g_id": "70819",
+    "g_name": "Kaisers"
+  },
+  {
+    "g_id": "70820",
+    "g_name": "Lechaschau"
+  },
+  {
+    "g_id": "70821",
+    "g_name": "Lermoos"
+  },
+  {
+    "g_id": "70822",
+    "g_name": "Musau"
+  },
+  {
+    "g_id": "70823",
+    "g_name": "Namlos"
+  },
+  {
+    "g_id": "70824",
+    "g_name": "Nesselwängle"
+  },
+  {
+    "g_id": "70825",
+    "g_name": "Pfafflar"
+  },
+  {
+    "g_id": "70826",
+    "g_name": "Pflach"
+  },
+  {
+    "g_id": "70827",
+    "g_name": "Pinswang"
+  },
+  {
+    "g_id": "70828",
+    "g_name": "Reutte"
+  },
+  {
+    "g_id": "70829",
+    "g_name": "Schattwald"
+  },
+  {
+    "g_id": "70830",
+    "g_name": "Stanzach"
+  },
+  {
+    "g_id": "70831",
+    "g_name": "Steeg"
+  },
+  {
+    "g_id": "70832",
+    "g_name": "Tannheim"
+  },
+  {
+    "g_id": "70833",
+    "g_name": "Vils"
+  },
+  {
+    "g_id": "70834",
+    "g_name": "Vorderhornbach"
+  },
+  {
+    "g_id": "70835",
+    "g_name": "Wängle"
+  },
+  {
+    "g_id": "70836",
+    "g_name": "Weißenbach am Lech"
+  },
+  {
+    "g_id": "70837",
+    "g_name": "Zöblen"
+  },
+  {
+    "g_id": "70901",
+    "g_name": "Achenkirch"
+  },
+  {
+    "g_id": "70902",
+    "g_name": "Aschau im Zillertal"
+  },
+  {
+    "g_id": "70903",
+    "g_name": "Brandberg"
+  },
+  {
+    "g_id": "70904",
+    "g_name": "Bruck am Ziller"
+  },
+  {
+    "g_id": "70905",
+    "g_name": "Buch in Tirol"
+  },
+  {
+    "g_id": "70907",
+    "g_name": "Eben am Achensee"
+  },
+  {
+    "g_id": "70908",
+    "g_name": "Finkenberg"
+  },
+  {
+    "g_id": "70909",
+    "g_name": "Fügen"
+  },
+  {
+    "g_id": "70910",
+    "g_name": "Fügenberg"
+  },
+  {
+    "g_id": "70911",
+    "g_name": "Gallzein"
+  },
+  {
+    "g_id": "70912",
+    "g_name": "Gerlos"
+  },
+  {
+    "g_id": "70913",
+    "g_name": "Gerlosberg"
+  },
+  {
+    "g_id": "70914",
+    "g_name": "Hainzenberg"
+  },
+  {
+    "g_id": "70915",
+    "g_name": "Hart im Zillertal"
+  },
+  {
+    "g_id": "70916",
+    "g_name": "Hippach"
+  },
+  {
+    "g_id": "70917",
+    "g_name": "Jenbach"
+  },
+  {
+    "g_id": "70918",
+    "g_name": "Kaltenbach"
+  },
+  {
+    "g_id": "70920",
+    "g_name": "Mayrhofen"
+  },
+  {
+    "g_id": "70921",
+    "g_name": "Pill"
+  },
+  {
+    "g_id": "70922",
+    "g_name": "Ramsau im Zillertal"
+  },
+  {
+    "g_id": "70923",
+    "g_name": "Ried im Zillertal"
+  },
+  {
+    "g_id": "70924",
+    "g_name": "Rohrberg"
+  },
+  {
+    "g_id": "70925",
+    "g_name": "Schlitters"
+  },
+  {
+    "g_id": "70926",
+    "g_name": "Schwaz"
+  },
+  {
+    "g_id": "70927",
+    "g_name": "Schwendau"
+  },
+  {
+    "g_id": "70928",
+    "g_name": "Stans"
+  },
+  {
+    "g_id": "70929",
+    "g_name": "Steinberg am Rofan"
+  },
+  {
+    "g_id": "70930",
+    "g_name": "Strass im Zillertal"
+  },
+  {
+    "g_id": "70931",
+    "g_name": "Stumm"
+  },
+  {
+    "g_id": "70932",
+    "g_name": "Stummerberg"
+  },
+  {
+    "g_id": "70933",
+    "g_name": "Terfens"
+  },
+  {
+    "g_id": "70934",
+    "g_name": "Tux"
+  },
+  {
+    "g_id": "70935",
+    "g_name": "Uderns"
+  },
+  {
+    "g_id": "70936",
+    "g_name": "Vomp"
+  },
+  {
+    "g_id": "70937",
+    "g_name": "Weer"
+  },
+  {
+    "g_id": "70938",
+    "g_name": "Weerberg"
+  },
+  {
+    "g_id": "70939",
+    "g_name": "Wiesing"
+  },
+  {
+    "g_id": "70940",
+    "g_name": "Zell am Ziller"
+  },
+  {
+    "g_id": "70941",
+    "g_name": "Zellberg"
+  },
+  {
+    "g_id": "80101",
+    "g_name": "Bartholomäberg"
+  },
+  {
+    "g_id": "80102",
+    "g_name": "Blons"
+  },
+  {
+    "g_id": "80103",
+    "g_name": "Bludenz"
+  },
+  {
+    "g_id": "80104",
+    "g_name": "Bludesch"
+  },
+  {
+    "g_id": "80105",
+    "g_name": "Brand"
+  },
+  {
+    "g_id": "80106",
+    "g_name": "Bürs"
+  },
+  {
+    "g_id": "80107",
+    "g_name": "Bürserberg"
+  },
+  {
+    "g_id": "80108",
+    "g_name": "Dalaas"
+  },
+  {
+    "g_id": "80109",
+    "g_name": "Fontanella"
+  },
+  {
+    "g_id": "80110",
+    "g_name": "Gaschurn"
+  },
+  {
+    "g_id": "80111",
+    "g_name": "Innerbraz"
+  },
+  {
+    "g_id": "80112",
+    "g_name": "Klösterle"
+  },
+  {
+    "g_id": "80113",
+    "g_name": "Lech"
+  },
+  {
+    "g_id": "80114",
+    "g_name": "Lorüns"
+  },
+  {
+    "g_id": "80115",
+    "g_name": "Ludesch"
+  },
+  {
+    "g_id": "80116",
+    "g_name": "Nenzing"
+  },
+  {
+    "g_id": "80117",
+    "g_name": "Nüziders"
+  },
+  {
+    "g_id": "80118",
+    "g_name": "Raggal"
+  },
+  {
+    "g_id": "80119",
+    "g_name": "St. Anton im Montafon"
+  },
+  {
+    "g_id": "80120",
+    "g_name": "St. Gallenkirch"
+  },
+  {
+    "g_id": "80121",
+    "g_name": "St. Gerold"
+  },
+  {
+    "g_id": "80122",
+    "g_name": "Schruns"
+  },
+  {
+    "g_id": "80123",
+    "g_name": "Silbertal"
+  },
+  {
+    "g_id": "80124",
+    "g_name": "Sonntag"
+  },
+  {
+    "g_id": "80125",
+    "g_name": "Stallehr"
+  },
+  {
+    "g_id": "80126",
+    "g_name": "Thüringen"
+  },
+  {
+    "g_id": "80127",
+    "g_name": "Thüringerberg"
+  },
+  {
+    "g_id": "80128",
+    "g_name": "Tschagguns"
+  },
+  {
+    "g_id": "80129",
+    "g_name": "Vandans"
+  },
+  {
+    "g_id": "80201",
+    "g_name": "Alberschwende"
+  },
+  {
+    "g_id": "80202",
+    "g_name": "Andelsbuch"
+  },
+  {
+    "g_id": "80203",
+    "g_name": "Au"
+  },
+  {
+    "g_id": "80204",
+    "g_name": "Bezau"
+  },
+  {
+    "g_id": "80205",
+    "g_name": "Bildstein"
+  },
+  {
+    "g_id": "80206",
+    "g_name": "Bizau"
+  },
+  {
+    "g_id": "80207",
+    "g_name": "Bregenz"
+  },
+  {
+    "g_id": "80208",
+    "g_name": "Buch"
+  },
+  {
+    "g_id": "80209",
+    "g_name": "Damüls"
+  },
+  {
+    "g_id": "80210",
+    "g_name": "Doren"
+  },
+  {
+    "g_id": "80211",
+    "g_name": "Egg"
+  },
+  {
+    "g_id": "80212",
+    "g_name": "Eichenberg"
+  },
+  {
+    "g_id": "80213",
+    "g_name": "Fußach"
+  },
+  {
+    "g_id": "80214",
+    "g_name": "Gaißau"
+  },
+  {
+    "g_id": "80215",
+    "g_name": "Hard"
+  },
+  {
+    "g_id": "80216",
+    "g_name": "Hittisau"
+  },
+  {
+    "g_id": "80217",
+    "g_name": "Höchst"
+  },
+  {
+    "g_id": "80218",
+    "g_name": "Hörbranz"
+  },
+  {
+    "g_id": "80219",
+    "g_name": "Hohenweiler"
+  },
+  {
+    "g_id": "80220",
+    "g_name": "Kennelbach"
+  },
+  {
+    "g_id": "80221",
+    "g_name": "Krumbach"
+  },
+  {
+    "g_id": "80222",
+    "g_name": "Langen bei Bregenz"
+  },
+  {
+    "g_id": "80223",
+    "g_name": "Langenegg"
+  },
+  {
+    "g_id": "80224",
+    "g_name": "Lauterach"
+  },
+  {
+    "g_id": "80225",
+    "g_name": "Lingenau"
+  },
+  {
+    "g_id": "80226",
+    "g_name": "Lochau"
+  },
+  {
+    "g_id": "80227",
+    "g_name": "Mellau"
+  },
+  {
+    "g_id": "80228",
+    "g_name": "Mittelberg"
+  },
+  {
+    "g_id": "80229",
+    "g_name": "Möggers"
+  },
+  {
+    "g_id": "80230",
+    "g_name": "Reuthe"
+  },
+  {
+    "g_id": "80231",
+    "g_name": "Riefensberg"
+  },
+  {
+    "g_id": "80232",
+    "g_name": "Schnepfau"
+  },
+  {
+    "g_id": "80233",
+    "g_name": "Schoppernau"
+  },
+  {
+    "g_id": "80234",
+    "g_name": "Schröcken"
+  },
+  {
+    "g_id": "80235",
+    "g_name": "Schwarzach"
+  },
+  {
+    "g_id": "80236",
+    "g_name": "Schwarzenberg"
+  },
+  {
+    "g_id": "80237",
+    "g_name": "Sibratsgfäll"
+  },
+  {
+    "g_id": "80238",
+    "g_name": "Sulzberg"
+  },
+  {
+    "g_id": "80239",
+    "g_name": "Warth"
+  },
+  {
+    "g_id": "80240",
+    "g_name": "Wolfurt"
+  },
+  {
+    "g_id": "80301",
+    "g_name": "Dornbirn"
+  },
+  {
+    "g_id": "80302",
+    "g_name": "Hohenems"
+  },
+  {
+    "g_id": "80303",
+    "g_name": "Lustenau"
+  },
+  {
+    "g_id": "80401",
+    "g_name": "Altach"
+  },
+  {
+    "g_id": "80402",
+    "g_name": "Düns"
+  },
+  {
+    "g_id": "80403",
+    "g_name": "Dünserberg"
+  },
+  {
+    "g_id": "80404",
+    "g_name": "Feldkirch"
+  },
+  {
+    "g_id": "80405",
+    "g_name": "Frastanz"
+  },
+  {
+    "g_id": "80406",
+    "g_name": "Fraxern"
+  },
+  {
+    "g_id": "80407",
+    "g_name": "Göfis"
+  },
+  {
+    "g_id": "80408",
+    "g_name": "Götzis"
+  },
+  {
+    "g_id": "80409",
+    "g_name": "Klaus"
+  },
+  {
+    "g_id": "80410",
+    "g_name": "Koblach"
+  },
+  {
+    "g_id": "80411",
+    "g_name": "Laterns"
+  },
+  {
+    "g_id": "80412",
+    "g_name": "Mäder"
+  },
+  {
+    "g_id": "80413",
+    "g_name": "Meiningen"
+  },
+  {
+    "g_id": "80414",
+    "g_name": "Rankweil"
+  },
+  {
+    "g_id": "80415",
+    "g_name": "Röns"
+  },
+  {
+    "g_id": "80416",
+    "g_name": "Röthis"
+  },
+  {
+    "g_id": "80417",
+    "g_name": "Satteins"
+  },
+  {
+    "g_id": "80418",
+    "g_name": "Schlins"
+  },
+  {
+    "g_id": "80419",
+    "g_name": "Schnifis"
+  },
+  {
+    "g_id": "80420",
+    "g_name": "Sulz"
+  },
+  {
+    "g_id": "80421",
+    "g_name": "Übersaxen"
+  },
+  {
+    "g_id": "80422",
+    "g_name": "Viktorsberg"
+  },
+  {
+    "g_id": "80423",
+    "g_name": "Weiler"
+  },
+  {
+    "g_id": "80424",
+    "g_name": "Zwischenwasser"
+  },
+  {
+    "g_id": "90101",
+    "g_name": "Wien-Innere Stadt"
+  },
+  {
+    "g_id": "90201",
+    "g_name": "Wien-Leopoldstadt"
+  },
+  {
+    "g_id": "90301",
+    "g_name": "Wien-Landstraße"
+  },
+  {
+    "g_id": "90401",
+    "g_name": "Wien-Wieden"
+  },
+  {
+    "g_id": "90501",
+    "g_name": "Wien-Margareten"
+  },
+  {
+    "g_id": "90601",
+    "g_name": "Wien-Mariahilf"
+  },
+  {
+    "g_id": "90701",
+    "g_name": "Wien-Neubau"
+  },
+  {
+    "g_id": "90801",
+    "g_name": "Wien-Josefstadt"
+  },
+  {
+    "g_id": "90901",
+    "g_name": "Wien-Alsergrund"
+  },
+  {
+    "g_id": "91001",
+    "g_name": "Wien-Favoriten"
+  },
+  {
+    "g_id": "91101",
+    "g_name": "Wien-Simmering"
+  },
+  {
+    "g_id": "91201",
+    "g_name": "Wien-Meidling"
+  },
+  {
+    "g_id": "91301",
+    "g_name": "Wien-Hietzing"
+  },
+  {
+    "g_id": "91401",
+    "g_name": "Wien-Penzing"
+  },
+  {
+    "g_id": "91501",
+    "g_name": "Wien-Rudolfsheim-Fünfhaus"
+  },
+  {
+    "g_id": "91601",
+    "g_name": "Wien-Ottakring"
+  },
+  {
+    "g_id": "91701",
+    "g_name": "Wien-Hernals"
+  },
+  {
+    "g_id": "91801",
+    "g_name": "Wien-Währing"
+  },
+  {
+    "g_id": "91901",
+    "g_name": "Wien-Döbling"
+  },
+  {
+    "g_id": "92001",
+    "g_name": "Wien-Brigittenau"
+  },
+  {
+    "g_id": "92101",
+    "g_name": "Wien-Floridsdorf"
+  },
+  {
+    "g_id": "92201",
+    "g_name": "Wien-Donaustadt"
+  },
+  {
+    "g_id": "92301",
+    "g_name": "Wien-Liesing"
+  }
+]
