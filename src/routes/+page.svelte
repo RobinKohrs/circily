@@ -8,14 +8,15 @@
 
   // custom components
   import Search from "$lib/Search.svelte";
+  import miniMap from "$lib/miniMap.svelte";
 
   // import data overview
   import countries from "../assets/data/countries.json";
+  import MiniMap from "../lib/miniMap.svelte";
 
   // variables
   let selectedCountries = [];
   let selectedGemeinden = [];
-  $: console.log("selectedGemeinden: ", selectedGemeinden);
   function selectCountry(country) {
     if (country === "All") {
       if (selectedCountries.length === countries.length) {
@@ -42,7 +43,7 @@
     });
 
     Promise.all(promises).then((values) => {
-      selectedGemeinden = values;
+      selectedGemeinden = values.map((c) => Object.values(c)[0]).flat();
     });
   }
 
@@ -53,6 +54,28 @@
   onMount(() => {
     selectCountry("AT");
   });
+
+  let currentJson;
+  $: console.log("currentJson: ", currentJson);
+  async function queryData(gem) {
+    let { gem_id, country_id } = gem;
+
+    // build url
+    let url = `https://raw.githubusercontent.com/RobinKohrs/geocrappy/main/data_raw/gemeinden/${country_id}/${gem_id}.geojson`;
+
+    // fetch data
+    try {
+      let raw_data = await fetch(url);
+      let json = await raw_data.json();
+      currentJson = json;
+    } catch (error) {
+      currentJson = null;
+    }
+  }
+
+  function handleSelect(e) {
+    queryData(e.detail);
+  }
 </script>
 
 <div class="container-app">
@@ -80,7 +103,15 @@
     {/each}
   </div>
 
-  <Search />
+  <Search
+    searchable={selectedGemeinden}
+    options={{ keys: ["name"] }}
+    on:select={handleSelect}
+  />
+
+  {#if currentJson}
+    <MiniMap />
+  {/if}
 </div>
 
 <!-- <Search options={{ keys: ["gem_id"] }} /> -->
@@ -89,7 +120,6 @@
     height: 100%;
     max-width: 650px;
     margin: 0 auto;
-    border: 1px solid black;
     position: relative;
   }
 </style>
