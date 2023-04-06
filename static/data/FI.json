@@ -1,0 +1,2179 @@
+[
+  {
+    "gem_id": "FI101018",
+    "country_id": "FI",
+    "name": "Askola",
+    "shareBB": 0.5965,
+    "shareCircle": 0.5336
+  },
+  {
+    "gem_id": "FI101049",
+    "country_id": "FI",
+    "name": "Espoo#Esbo",
+    "shareBB": 0.4661,
+    "shareCircle": 0.415
+  },
+  {
+    "gem_id": "FI101078",
+    "country_id": "FI",
+    "name": "Hanko#Hangö",
+    "shareBB": 0.2715,
+    "shareCircle": 0.2336
+  },
+  {
+    "gem_id": "FI101091",
+    "country_id": "FI",
+    "name": "Helsinki#Helsingfors",
+    "shareBB": 0.3841,
+    "shareCircle": 0.345
+  },
+  {
+    "gem_id": "FI101092",
+    "country_id": "FI",
+    "name": "Vantaa#Vanda",
+    "shareBB": 0.5207,
+    "shareCircle": 0.4811
+  },
+  {
+    "gem_id": "FI101106",
+    "country_id": "FI",
+    "name": "Hyvinkää#Hyvinge",
+    "shareBB": 0.5012,
+    "shareCircle": 0.4484
+  },
+  {
+    "gem_id": "FI101149",
+    "country_id": "FI",
+    "name": "Ingå#Inkoo",
+    "shareBB": 0.415,
+    "shareCircle": 0.4303
+  },
+  {
+    "gem_id": "FI101186",
+    "country_id": "FI",
+    "name": "Järvenpää#Träskända",
+    "shareBB": 0.6499,
+    "shareCircle": 0.5927
+  },
+  {
+    "gem_id": "FI101224",
+    "country_id": "FI",
+    "name": "Karkkila#Högfors",
+    "shareBB": 0.5293,
+    "shareCircle": 0.3391
+  },
+  {
+    "gem_id": "FI101235",
+    "country_id": "FI",
+    "name": "Kauniainen#Grankulla",
+    "shareBB": 0.6234,
+    "shareCircle": 0.4286
+  },
+  {
+    "gem_id": "FI101245",
+    "country_id": "FI",
+    "name": "Kerava#Kervo",
+    "shareBB": 0.5828,
+    "shareCircle": 0.445
+  },
+  {
+    "gem_id": "FI101257",
+    "country_id": "FI",
+    "name": "Kirkkonummi#Kyrkslätt",
+    "shareBB": 0.4344,
+    "shareCircle": 0.3114
+  },
+  {
+    "gem_id": "FI101407",
+    "country_id": "FI",
+    "name": "Lapinjärvi#Lappträsk",
+    "shareBB": 0.4151,
+    "shareCircle": 0.3906
+  },
+  {
+    "gem_id": "FI101434",
+    "country_id": "FI",
+    "name": "Loviisa#Lovisa",
+    "shareBB": 0.3756,
+    "shareCircle": 0.3791
+  },
+  {
+    "gem_id": "FI101444",
+    "country_id": "FI",
+    "name": "Lohja#Lojo",
+    "shareBB": 0.5109,
+    "shareCircle": 0.411
+  },
+  {
+    "gem_id": "FI101504",
+    "country_id": "FI",
+    "name": "Myrskylä#Mörskom",
+    "shareBB": 0.5194,
+    "shareCircle": 0.5672
+  },
+  {
+    "gem_id": "FI101505",
+    "country_id": "FI",
+    "name": "Mäntsälä",
+    "shareBB": 0.5796,
+    "shareCircle": 0.5264
+  },
+  {
+    "gem_id": "FI101543",
+    "country_id": "FI",
+    "name": "Nurmijärvi",
+    "shareBB": 0.5875,
+    "shareCircle": 0.6147
+  },
+  {
+    "gem_id": "FI101611",
+    "country_id": "FI",
+    "name": "Pornainen#Borgnäs",
+    "shareBB": 0.4833,
+    "shareCircle": 0.5071
+  },
+  {
+    "gem_id": "FI101616",
+    "country_id": "FI",
+    "name": "Pukkila",
+    "shareBB": 0.493,
+    "shareCircle": 0.4909
+  },
+  {
+    "gem_id": "FI101638",
+    "country_id": "FI",
+    "name": "Porvoo#Borgå",
+    "shareBB": 0.3543,
+    "shareCircle": 0.3388
+  },
+  {
+    "gem_id": "FI101710",
+    "country_id": "FI",
+    "name": "Raseborg#Raasepori",
+    "shareBB": 0.4222,
+    "shareCircle": 0.3448
+  },
+  {
+    "gem_id": "FI101753",
+    "country_id": "FI",
+    "name": "Sipoo#Sibbo",
+    "shareBB": 0.3885,
+    "shareCircle": 0.2772
+  },
+  {
+    "gem_id": "FI101755",
+    "country_id": "FI",
+    "name": "Siuntio#Sjundeå",
+    "shareBB": 0.4263,
+    "shareCircle": 0.399
+  },
+  {
+    "gem_id": "FI101858",
+    "country_id": "FI",
+    "name": "Tuusula#Tusby",
+    "shareBB": 0.5136,
+    "shareCircle": 0.3666
+  },
+  {
+    "gem_id": "FI101927",
+    "country_id": "FI",
+    "name": "Vihti#Vichtis",
+    "shareBB": 0.507,
+    "shareCircle": 0.4539
+  },
+  {
+    "gem_id": "FI105061",
+    "country_id": "FI",
+    "name": "Forssa",
+    "shareBB": 0.4562,
+    "shareCircle": 0.4513
+  },
+  {
+    "gem_id": "FI105082",
+    "country_id": "FI",
+    "name": "Hattula",
+    "shareBB": 0.3411,
+    "shareCircle": 0.2809
+  },
+  {
+    "gem_id": "FI105086",
+    "country_id": "FI",
+    "name": "Hausjärvi",
+    "shareBB": 0.4747,
+    "shareCircle": 0.4918
+  },
+  {
+    "gem_id": "FI105103",
+    "country_id": "FI",
+    "name": "Humppila",
+    "shareBB": 0.5415,
+    "shareCircle": 0.5141
+  },
+  {
+    "gem_id": "FI105109",
+    "country_id": "FI",
+    "name": "Hämeenlinna#Tavastehus",
+    "shareBB": 0.3869,
+    "shareCircle": 0.3823
+  },
+  {
+    "gem_id": "FI105165",
+    "country_id": "FI",
+    "name": "Janakkala",
+    "shareBB": 0.5534,
+    "shareCircle": 0.5767
+  },
+  {
+    "gem_id": "FI105169",
+    "country_id": "FI",
+    "name": "Jokioinen#Jockis",
+    "shareBB": 0.4549,
+    "shareCircle": 0.4146
+  },
+  {
+    "gem_id": "FI105433",
+    "country_id": "FI",
+    "name": "Loppi",
+    "shareBB": 0.6935,
+    "shareCircle": 0.5709
+  },
+  {
+    "gem_id": "FI105694",
+    "country_id": "FI",
+    "name": "Riihimäki",
+    "shareBB": 0.5789,
+    "shareCircle": 0.5325
+  },
+  {
+    "gem_id": "FI105834",
+    "country_id": "FI",
+    "name": "Tammela",
+    "shareBB": 0.6172,
+    "shareCircle": 0.5585
+  },
+  {
+    "gem_id": "FI105981",
+    "country_id": "FI",
+    "name": "Ypäjä",
+    "shareBB": 0.5485,
+    "shareCircle": 0.4762
+  },
+  {
+    "gem_id": "FI107016",
+    "country_id": "FI",
+    "name": "Asikkala",
+    "shareBB": 0.5537,
+    "shareCircle": 0.5974
+  },
+  {
+    "gem_id": "FI107081",
+    "country_id": "FI",
+    "name": "Hartola",
+    "shareBB": 0.4872,
+    "shareCircle": 0.359
+  },
+  {
+    "gem_id": "FI107098",
+    "country_id": "FI",
+    "name": "Hollola",
+    "shareBB": 0.4902,
+    "shareCircle": 0.438
+  },
+  {
+    "gem_id": "FI107111",
+    "country_id": "FI",
+    "name": "Heinola",
+    "shareBB": 0.5226,
+    "shareCircle": 0.5573
+  },
+  {
+    "gem_id": "FI107316",
+    "country_id": "FI",
+    "name": "Kärkölä",
+    "shareBB": 0.5144,
+    "shareCircle": 0.4764
+  },
+  {
+    "gem_id": "FI107398",
+    "country_id": "FI",
+    "name": "Lahti#Lahtis",
+    "shareBB": 0.5693,
+    "shareCircle": 0.5383
+  },
+  {
+    "gem_id": "FI107560",
+    "country_id": "FI",
+    "name": "Orimattila",
+    "shareBB": 0.5398,
+    "shareCircle": 0.4673
+  },
+  {
+    "gem_id": "FI107576",
+    "country_id": "FI",
+    "name": "Padasjoki",
+    "shareBB": 0.6001,
+    "shareCircle": 0.5724
+  },
+  {
+    "gem_id": "FI107781",
+    "country_id": "FI",
+    "name": "Sysmä",
+    "shareBB": 0.5045,
+    "shareCircle": 0.5067
+  },
+  {
+    "gem_id": "FI108075",
+    "country_id": "FI",
+    "name": "Hamina#Fredrikshamn",
+    "shareBB": 0.3121,
+    "shareCircle": 0.2554
+  },
+  {
+    "gem_id": "FI108142",
+    "country_id": "FI",
+    "name": "Iitti",
+    "shareBB": 0.4621,
+    "shareCircle": 0.4089
+  },
+  {
+    "gem_id": "FI108285",
+    "country_id": "FI",
+    "name": "Kotka",
+    "shareBB": 0.1733,
+    "shareCircle": 0.1167
+  },
+  {
+    "gem_id": "FI108286",
+    "country_id": "FI",
+    "name": "Kouvola",
+    "shareBB": 0.5027,
+    "shareCircle": 0.5569
+  },
+  {
+    "gem_id": "FI108489",
+    "country_id": "FI",
+    "name": "Miehikkälä",
+    "shareBB": 0.5094,
+    "shareCircle": 0.4158
+  },
+  {
+    "gem_id": "FI108624",
+    "country_id": "FI",
+    "name": "Pyhtää#Pyttis",
+    "shareBB": 0.3789,
+    "shareCircle": 0.2683
+  },
+  {
+    "gem_id": "FI108935",
+    "country_id": "FI",
+    "name": "Virolahti",
+    "shareBB": 0.4926,
+    "shareCircle": 0.5098
+  },
+  {
+    "gem_id": "FI109153",
+    "country_id": "FI",
+    "name": "Imatra",
+    "shareBB": 0.4187,
+    "shareCircle": 0.431
+  },
+  {
+    "gem_id": "FI109405",
+    "country_id": "FI",
+    "name": "Lappeenranta#Villmanstrand",
+    "shareBB": 0.501,
+    "shareCircle": 0.3932
+  },
+  {
+    "gem_id": "FI109416",
+    "country_id": "FI",
+    "name": "Lemi",
+    "shareBB": 0.607,
+    "shareCircle": 0.5756
+  },
+  {
+    "gem_id": "FI109441",
+    "country_id": "FI",
+    "name": "Luumäki",
+    "shareBB": 0.5982,
+    "shareCircle": 0.4803
+  },
+  {
+    "gem_id": "FI109580",
+    "country_id": "FI",
+    "name": "Parikkala",
+    "shareBB": 0.3785,
+    "shareCircle": 0.2591
+  },
+  {
+    "gem_id": "FI109689",
+    "country_id": "FI",
+    "name": "Rautjärvi",
+    "shareBB": 0.5388,
+    "shareCircle": 0.3907
+  },
+  {
+    "gem_id": "FI109700",
+    "country_id": "FI",
+    "name": "Ruokolahti",
+    "shareBB": 0.5297,
+    "shareCircle": 0.4606
+  },
+  {
+    "gem_id": "FI109739",
+    "country_id": "FI",
+    "name": "Savitaipale",
+    "shareBB": 0.5115,
+    "shareCircle": 0.3755
+  },
+  {
+    "gem_id": "FI109831",
+    "country_id": "FI",
+    "name": "Taipalsaari",
+    "shareBB": 0.5506,
+    "shareCircle": 0.6684
+  },
+  {
+    "gem_id": "FI202019",
+    "country_id": "FI",
+    "name": "Aura",
+    "shareBB": 0.3333,
+    "shareCircle": 0.2767
+  },
+  {
+    "gem_id": "FI202202",
+    "country_id": "FI",
+    "name": "Kaarina#S:t Karins",
+    "shareBB": 0.5003,
+    "shareCircle": 0.4696
+  },
+  {
+    "gem_id": "FI202284",
+    "country_id": "FI",
+    "name": "Koski Tl",
+    "shareBB": 0.4369,
+    "shareCircle": 0.4501
+  },
+  {
+    "gem_id": "FI202304",
+    "country_id": "FI",
+    "name": "Kustavi#Gustavs",
+    "shareBB": 0.186,
+    "shareCircle": 0.1271
+  },
+  {
+    "gem_id": "FI202322",
+    "country_id": "FI",
+    "name": "Kimitoön#Kemiönsaari",
+    "shareBB": 0.2905,
+    "shareCircle": 0.1929
+  },
+  {
+    "gem_id": "FI202400",
+    "country_id": "FI",
+    "name": "Laitila",
+    "shareBB": 0.4645,
+    "shareCircle": 0.5022
+  },
+  {
+    "gem_id": "FI202423",
+    "country_id": "FI",
+    "name": "Lieto#Lundo",
+    "shareBB": 0.4937,
+    "shareCircle": 0.374
+  },
+  {
+    "gem_id": "FI202430",
+    "country_id": "FI",
+    "name": "Loimaa",
+    "shareBB": 0.5116,
+    "shareCircle": 0.5045
+  },
+  {
+    "gem_id": "FI202445",
+    "country_id": "FI",
+    "name": "Pargas#Parainen",
+    "shareBB": 0.1276,
+    "shareCircle": 0.1046
+  },
+  {
+    "gem_id": "FI202480",
+    "country_id": "FI",
+    "name": "Marttila",
+    "shareBB": 0.5031,
+    "shareCircle": 0.4568
+  },
+  {
+    "gem_id": "FI202481",
+    "country_id": "FI",
+    "name": "Masku",
+    "shareBB": 0.1902,
+    "shareCircle": 0.1258
+  },
+  {
+    "gem_id": "FI202503",
+    "country_id": "FI",
+    "name": "Mynämäki",
+    "shareBB": 0.4159,
+    "shareCircle": 0.4252
+  },
+  {
+    "gem_id": "FI202529",
+    "country_id": "FI",
+    "name": "Naantali#Nådendal",
+    "shareBB": 0.3321,
+    "shareCircle": 0.3276
+  },
+  {
+    "gem_id": "FI202538",
+    "country_id": "FI",
+    "name": "Nousiainen#Nousis",
+    "shareBB": 0.3612,
+    "shareCircle": 0.2723
+  },
+  {
+    "gem_id": "FI202561",
+    "country_id": "FI",
+    "name": "Oripää",
+    "shareBB": 0.3628,
+    "shareCircle": 0.269
+  },
+  {
+    "gem_id": "FI202577",
+    "country_id": "FI",
+    "name": "Paimio#Pemar",
+    "shareBB": 0.6712,
+    "shareCircle": 0.6782
+  },
+  {
+    "gem_id": "FI202631",
+    "country_id": "FI",
+    "name": "Pyhäranta",
+    "shareBB": 0.3058,
+    "shareCircle": 0.2701
+  },
+  {
+    "gem_id": "FI202636",
+    "country_id": "FI",
+    "name": "Pöytyä",
+    "shareBB": 0.5143,
+    "shareCircle": 0.4359
+  },
+  {
+    "gem_id": "FI202680",
+    "country_id": "FI",
+    "name": "Raisio#Reso",
+    "shareBB": 0.5809,
+    "shareCircle": 0.5787
+  },
+  {
+    "gem_id": "FI202704",
+    "country_id": "FI",
+    "name": "Rusko",
+    "shareBB": 0.4181,
+    "shareCircle": 0.2058
+  },
+  {
+    "gem_id": "FI202734",
+    "country_id": "FI",
+    "name": "Salo",
+    "shareBB": 0.5394,
+    "shareCircle": 0.4711
+  },
+  {
+    "gem_id": "FI202738",
+    "country_id": "FI",
+    "name": "Sauvo#Sagu",
+    "shareBB": 0.5264,
+    "shareCircle": 0.5531
+  },
+  {
+    "gem_id": "FI202761",
+    "country_id": "FI",
+    "name": "Somero",
+    "shareBB": 0.5389,
+    "shareCircle": 0.3637
+  },
+  {
+    "gem_id": "FI202833",
+    "country_id": "FI",
+    "name": "Taivassalo#Tövsala",
+    "shareBB": 0.4133,
+    "shareCircle": 0.3926
+  },
+  {
+    "gem_id": "FI202853",
+    "country_id": "FI",
+    "name": "Turku#Åbo",
+    "shareBB": 0.3542,
+    "shareCircle": 0.1466
+  },
+  {
+    "gem_id": "FI202895",
+    "country_id": "FI",
+    "name": "Uusikaupunki#Nystad",
+    "shareBB": 0.3054,
+    "shareCircle": 0.2987
+  },
+  {
+    "gem_id": "FI202918",
+    "country_id": "FI",
+    "name": "Vehmaa",
+    "shareBB": 0.6159,
+    "shareCircle": 0.5723
+  },
+  {
+    "gem_id": "FI204050",
+    "country_id": "FI",
+    "name": "Eura",
+    "shareBB": 0.4961,
+    "shareCircle": 0.3098
+  },
+  {
+    "gem_id": "FI204051",
+    "country_id": "FI",
+    "name": "Eurajoki#Euraåminne",
+    "shareBB": 0.3881,
+    "shareCircle": 0.2881
+  },
+  {
+    "gem_id": "FI204079",
+    "country_id": "FI",
+    "name": "Harjavalta",
+    "shareBB": 0.5145,
+    "shareCircle": 0.4551
+  },
+  {
+    "gem_id": "FI204099",
+    "country_id": "FI",
+    "name": "Honkajoki",
+    "shareBB": 0.4947,
+    "shareCircle": 0.4692
+  },
+  {
+    "gem_id": "FI204102",
+    "country_id": "FI",
+    "name": "Huittinen",
+    "shareBB": 0.5319,
+    "shareCircle": 0.5128
+  },
+  {
+    "gem_id": "FI204181",
+    "country_id": "FI",
+    "name": "Jämijärvi",
+    "shareBB": 0.5427,
+    "shareCircle": 0.4819
+  },
+  {
+    "gem_id": "FI204214",
+    "country_id": "FI",
+    "name": "Kankaanpää",
+    "shareBB": 0.529,
+    "shareCircle": 0.5329
+  },
+  {
+    "gem_id": "FI204230",
+    "country_id": "FI",
+    "name": "Karvia",
+    "shareBB": 0.6121,
+    "shareCircle": 0.5042
+  },
+  {
+    "gem_id": "FI204271",
+    "country_id": "FI",
+    "name": "Kokemäki#Kumo",
+    "shareBB": 0.5881,
+    "shareCircle": 0.5307
+  },
+  {
+    "gem_id": "FI204484",
+    "country_id": "FI",
+    "name": "Merikarvia#Sastmola",
+    "shareBB": 0.562,
+    "shareCircle": 0.4926
+  },
+  {
+    "gem_id": "FI204531",
+    "country_id": "FI",
+    "name": "Nakkila",
+    "shareBB": 0.5058,
+    "shareCircle": 0.3994
+  },
+  {
+    "gem_id": "FI204608",
+    "country_id": "FI",
+    "name": "Pomarkku#Påmark",
+    "shareBB": 0.5056,
+    "shareCircle": 0.3449
+  },
+  {
+    "gem_id": "FI204609",
+    "country_id": "FI",
+    "name": "Pori#Björneborg",
+    "shareBB": 0.3985,
+    "shareCircle": 0.2929
+  },
+  {
+    "gem_id": "FI204684",
+    "country_id": "FI",
+    "name": "Rauma#Raumo",
+    "shareBB": 0.489,
+    "shareCircle": 0.3397
+  },
+  {
+    "gem_id": "FI204747",
+    "country_id": "FI",
+    "name": "Siikainen",
+    "shareBB": 0.6675,
+    "shareCircle": 0.5495
+  },
+  {
+    "gem_id": "FI204783",
+    "country_id": "FI",
+    "name": "Säkylä",
+    "shareBB": 0.4324,
+    "shareCircle": 0.3874
+  },
+  {
+    "gem_id": "FI204886",
+    "country_id": "FI",
+    "name": "Ulvila#Ulvsby",
+    "shareBB": 0.5401,
+    "shareCircle": 0.4276
+  },
+  {
+    "gem_id": "FI310046",
+    "country_id": "FI",
+    "name": "Enonkoski",
+    "shareBB": 0.5317,
+    "shareCircle": 0.4581
+  },
+  {
+    "gem_id": "FI310090",
+    "country_id": "FI",
+    "name": "Heinävesi",
+    "shareBB": 0.579,
+    "shareCircle": 0.6477
+  },
+  {
+    "gem_id": "FI310097",
+    "country_id": "FI",
+    "name": "Hirvensalmi",
+    "shareBB": 0.4695,
+    "shareCircle": 0.3826
+  },
+  {
+    "gem_id": "FI310171",
+    "country_id": "FI",
+    "name": "Joroinen#Jorois",
+    "shareBB": 0.517,
+    "shareCircle": 0.4769
+  },
+  {
+    "gem_id": "FI310178",
+    "country_id": "FI",
+    "name": "Juva",
+    "shareBB": 0.5284,
+    "shareCircle": 0.4163
+  },
+  {
+    "gem_id": "FI310213",
+    "country_id": "FI",
+    "name": "Kangasniemi",
+    "shareBB": 0.4692,
+    "shareCircle": 0.5087
+  },
+  {
+    "gem_id": "FI310491",
+    "country_id": "FI",
+    "name": "Mikkeli#S:t Michel",
+    "shareBB": 0.4394,
+    "shareCircle": 0.3332
+  },
+  {
+    "gem_id": "FI310507",
+    "country_id": "FI",
+    "name": "Mäntyharju",
+    "shareBB": 0.4638,
+    "shareCircle": 0.3803
+  },
+  {
+    "gem_id": "FI310588",
+    "country_id": "FI",
+    "name": "Pertunmaa",
+    "shareBB": 0.6408,
+    "shareCircle": 0.441
+  },
+  {
+    "gem_id": "FI310593",
+    "country_id": "FI",
+    "name": "Pieksämäki",
+    "shareBB": 0.5448,
+    "shareCircle": 0.4954
+  },
+  {
+    "gem_id": "FI310623",
+    "country_id": "FI",
+    "name": "Puumala",
+    "shareBB": 0.5075,
+    "shareCircle": 0.4084
+  },
+  {
+    "gem_id": "FI310681",
+    "country_id": "FI",
+    "name": "Rantasalmi",
+    "shareBB": 0.5937,
+    "shareCircle": 0.5007
+  },
+  {
+    "gem_id": "FI310740",
+    "country_id": "FI",
+    "name": "Savonlinna#Nyslott",
+    "shareBB": 0.4693,
+    "shareCircle": 0.4656
+  },
+  {
+    "gem_id": "FI310768",
+    "country_id": "FI",
+    "name": "Sulkava",
+    "shareBB": 0.3784,
+    "shareCircle": 0.2639
+  },
+  {
+    "gem_id": "FI311140",
+    "country_id": "FI",
+    "name": "Iisalmi#Idensalmi",
+    "shareBB": 0.426,
+    "shareCircle": 0.4609
+  },
+  {
+    "gem_id": "FI311204",
+    "country_id": "FI",
+    "name": "Kaavi",
+    "shareBB": 0.5283,
+    "shareCircle": 0.5084
+  },
+  {
+    "gem_id": "FI311239",
+    "country_id": "FI",
+    "name": "Keitele",
+    "shareBB": 0.3539,
+    "shareCircle": 0.262
+  },
+  {
+    "gem_id": "FI311263",
+    "country_id": "FI",
+    "name": "Kiuruvesi",
+    "shareBB": 0.6439,
+    "shareCircle": 0.5111
+  },
+  {
+    "gem_id": "FI311297",
+    "country_id": "FI",
+    "name": "Kuopio",
+    "shareBB": 0.5588,
+    "shareCircle": 0.5157
+  },
+  {
+    "gem_id": "FI311402",
+    "country_id": "FI",
+    "name": "Lapinlahti",
+    "shareBB": 0.5494,
+    "shareCircle": 0.5412
+  },
+  {
+    "gem_id": "FI311420",
+    "country_id": "FI",
+    "name": "Leppävirta",
+    "shareBB": 0.6285,
+    "shareCircle": 0.5282
+  },
+  {
+    "gem_id": "FI311595",
+    "country_id": "FI",
+    "name": "Pielavesi",
+    "shareBB": 0.4708,
+    "shareCircle": 0.5026
+  },
+  {
+    "gem_id": "FI311686",
+    "country_id": "FI",
+    "name": "Rautalampi",
+    "shareBB": 0.5243,
+    "shareCircle": 0.4254
+  },
+  {
+    "gem_id": "FI311687",
+    "country_id": "FI",
+    "name": "Rautavaara",
+    "shareBB": 0.5171,
+    "shareCircle": 0.3969
+  },
+  {
+    "gem_id": "FI311749",
+    "country_id": "FI",
+    "name": "Siilinjärvi",
+    "shareBB": 0.4927,
+    "shareCircle": 0.5192
+  },
+  {
+    "gem_id": "FI311762",
+    "country_id": "FI",
+    "name": "Sonkajärvi",
+    "shareBB": 0.5648,
+    "shareCircle": 0.4381
+  },
+  {
+    "gem_id": "FI311778",
+    "country_id": "FI",
+    "name": "Suonenjoki",
+    "shareBB": 0.4958,
+    "shareCircle": 0.4777
+  },
+  {
+    "gem_id": "FI311844",
+    "country_id": "FI",
+    "name": "Tervo",
+    "shareBB": 0.462,
+    "shareCircle": 0.449
+  },
+  {
+    "gem_id": "FI311857",
+    "country_id": "FI",
+    "name": "Tuusniemi",
+    "shareBB": 0.5392,
+    "shareCircle": 0.4247
+  },
+  {
+    "gem_id": "FI311915",
+    "country_id": "FI",
+    "name": "Varkaus",
+    "shareBB": 0.5078,
+    "shareCircle": 0.2496
+  },
+  {
+    "gem_id": "FI311921",
+    "country_id": "FI",
+    "name": "Vesanto",
+    "shareBB": 0.548,
+    "shareCircle": 0.6162
+  },
+  {
+    "gem_id": "FI311925",
+    "country_id": "FI",
+    "name": "Vieremä",
+    "shareBB": 0.5067,
+    "shareCircle": 0.5383
+  },
+  {
+    "gem_id": "FI312146",
+    "country_id": "FI",
+    "name": "Ilomantsi#Ilomants",
+    "shareBB": 0.563,
+    "shareCircle": 0.4828
+  },
+  {
+    "gem_id": "FI312167",
+    "country_id": "FI",
+    "name": "Joensuu",
+    "shareBB": 0.4461,
+    "shareCircle": 0.3607
+  },
+  {
+    "gem_id": "FI312176",
+    "country_id": "FI",
+    "name": "Juuka",
+    "shareBB": 0.5849,
+    "shareCircle": 0.5455
+  },
+  {
+    "gem_id": "FI312260",
+    "country_id": "FI",
+    "name": "Kitee",
+    "shareBB": 0.4576,
+    "shareCircle": 0.4694
+  },
+  {
+    "gem_id": "FI312276",
+    "country_id": "FI",
+    "name": "Kontiolahti",
+    "shareBB": 0.443,
+    "shareCircle": 0.4134
+  },
+  {
+    "gem_id": "FI312309",
+    "country_id": "FI",
+    "name": "Outokumpu",
+    "shareBB": 0.5417,
+    "shareCircle": 0.6238
+  },
+  {
+    "gem_id": "FI312422",
+    "country_id": "FI",
+    "name": "Lieksa",
+    "shareBB": 0.5397,
+    "shareCircle": 0.5454
+  },
+  {
+    "gem_id": "FI312426",
+    "country_id": "FI",
+    "name": "Liperi",
+    "shareBB": 0.5934,
+    "shareCircle": 0.6163
+  },
+  {
+    "gem_id": "FI312541",
+    "country_id": "FI",
+    "name": "Nurmes",
+    "shareBB": 0.555,
+    "shareCircle": 0.4677
+  },
+  {
+    "gem_id": "FI312607",
+    "country_id": "FI",
+    "name": "Polvijärvi",
+    "shareBB": 0.5061,
+    "shareCircle": 0.5415
+  },
+  {
+    "gem_id": "FI312707",
+    "country_id": "FI",
+    "name": "Rääkkylä",
+    "shareBB": 0.6348,
+    "shareCircle": 0.4772
+  },
+  {
+    "gem_id": "FI312848",
+    "country_id": "FI",
+    "name": "Tohmajärvi",
+    "shareBB": 0.5578,
+    "shareCircle": 0.5146
+  },
+  {
+    "gem_id": "FI312911",
+    "country_id": "FI",
+    "name": "Valtimo",
+    "shareBB": 0.5643,
+    "shareCircle": 0.5897
+  },
+  {
+    "gem_id": "FI406020",
+    "country_id": "FI",
+    "name": "Akaa",
+    "shareBB": 0.5561,
+    "shareCircle": 0.5879
+  },
+  {
+    "gem_id": "FI406108",
+    "country_id": "FI",
+    "name": "Hämeenkyrö#Tavastkyro",
+    "shareBB": 0.594,
+    "shareCircle": 0.4759
+  },
+  {
+    "gem_id": "FI406143",
+    "country_id": "FI",
+    "name": "Ikaalinen#Ikalis",
+    "shareBB": 0.52,
+    "shareCircle": 0.4208
+  },
+  {
+    "gem_id": "FI406177",
+    "country_id": "FI",
+    "name": "Juupajoki",
+    "shareBB": 0.5608,
+    "shareCircle": 0.5643
+  },
+  {
+    "gem_id": "FI406211",
+    "country_id": "FI",
+    "name": "Kangasala",
+    "shareBB": 0.4473,
+    "shareCircle": 0.3325
+  },
+  {
+    "gem_id": "FI406250",
+    "country_id": "FI",
+    "name": "Kihniö",
+    "shareBB": 0.5568,
+    "shareCircle": 0.5968
+  },
+  {
+    "gem_id": "FI406418",
+    "country_id": "FI",
+    "name": "Lempäälä",
+    "shareBB": 0.5998,
+    "shareCircle": 0.6691
+  },
+  {
+    "gem_id": "FI406508",
+    "country_id": "FI",
+    "name": "Mänttä-Vilppula",
+    "shareBB": 0.4658,
+    "shareCircle": 0.4805
+  },
+  {
+    "gem_id": "FI406536",
+    "country_id": "FI",
+    "name": "Nokia",
+    "shareBB": 0.4904,
+    "shareCircle": 0.5081
+  },
+  {
+    "gem_id": "FI406562",
+    "country_id": "FI",
+    "name": "Orivesi",
+    "shareBB": 0.5185,
+    "shareCircle": 0.4711
+  },
+  {
+    "gem_id": "FI406581",
+    "country_id": "FI",
+    "name": "Parkano",
+    "shareBB": 0.485,
+    "shareCircle": 0.4617
+  },
+  {
+    "gem_id": "FI406604",
+    "country_id": "FI",
+    "name": "Pirkkala#Birkala",
+    "shareBB": 0.4958,
+    "shareCircle": 0.4458
+  },
+  {
+    "gem_id": "FI406619",
+    "country_id": "FI",
+    "name": "Punkalaidun",
+    "shareBB": 0.5694,
+    "shareCircle": 0.5609
+  },
+  {
+    "gem_id": "FI406635",
+    "country_id": "FI",
+    "name": "Pälkäne",
+    "shareBB": 0.5047,
+    "shareCircle": 0.4419
+  },
+  {
+    "gem_id": "FI406702",
+    "country_id": "FI",
+    "name": "Ruovesi",
+    "shareBB": 0.5188,
+    "shareCircle": 0.5259
+  },
+  {
+    "gem_id": "FI406790",
+    "country_id": "FI",
+    "name": "Sastamala",
+    "shareBB": 0.5483,
+    "shareCircle": 0.4763
+  },
+  {
+    "gem_id": "FI406837",
+    "country_id": "FI",
+    "name": "Tampere#Tammerfors",
+    "shareBB": 0.5464,
+    "shareCircle": 0.4199
+  },
+  {
+    "gem_id": "FI406887",
+    "country_id": "FI",
+    "name": "Urjala",
+    "shareBB": 0.47,
+    "shareCircle": 0.315
+  },
+  {
+    "gem_id": "FI406908",
+    "country_id": "FI",
+    "name": "Valkeakoski",
+    "shareBB": 0.51,
+    "shareCircle": 0.6203
+  },
+  {
+    "gem_id": "FI406922",
+    "country_id": "FI",
+    "name": "Vesilahti",
+    "shareBB": 0.5603,
+    "shareCircle": 0.543
+  },
+  {
+    "gem_id": "FI406936",
+    "country_id": "FI",
+    "name": "Virrat#Virdois",
+    "shareBB": 0.4992,
+    "shareCircle": 0.557
+  },
+  {
+    "gem_id": "FI406980",
+    "country_id": "FI",
+    "name": "Ylöjärvi",
+    "shareBB": 0.5193,
+    "shareCircle": 0.3143
+  },
+  {
+    "gem_id": "FI413077",
+    "country_id": "FI",
+    "name": "Hankasalmi",
+    "shareBB": 0.4943,
+    "shareCircle": 0.405
+  },
+  {
+    "gem_id": "FI413172",
+    "country_id": "FI",
+    "name": "Joutsa",
+    "shareBB": 0.5405,
+    "shareCircle": 0.4651
+  },
+  {
+    "gem_id": "FI413179",
+    "country_id": "FI",
+    "name": "Jyväskylä",
+    "shareBB": 0.4925,
+    "shareCircle": 0.4319
+  },
+  {
+    "gem_id": "FI413182",
+    "country_id": "FI",
+    "name": "Jämsä",
+    "shareBB": 0.5051,
+    "shareCircle": 0.5492
+  },
+  {
+    "gem_id": "FI413216",
+    "country_id": "FI",
+    "name": "Kannonkoski",
+    "shareBB": 0.5058,
+    "shareCircle": 0.5783
+  },
+  {
+    "gem_id": "FI413226",
+    "country_id": "FI",
+    "name": "Karstula",
+    "shareBB": 0.4482,
+    "shareCircle": 0.463
+  },
+  {
+    "gem_id": "FI413249",
+    "country_id": "FI",
+    "name": "Keuruu",
+    "shareBB": 0.4774,
+    "shareCircle": 0.5197
+  },
+  {
+    "gem_id": "FI413256",
+    "country_id": "FI",
+    "name": "Kinnula",
+    "shareBB": 0.608,
+    "shareCircle": 0.6733
+  },
+  {
+    "gem_id": "FI413265",
+    "country_id": "FI",
+    "name": "Kivijärvi",
+    "shareBB": 0.5364,
+    "shareCircle": 0.5672
+  },
+  {
+    "gem_id": "FI413275",
+    "country_id": "FI",
+    "name": "Konnevesi",
+    "shareBB": 0.4963,
+    "shareCircle": 0.5017
+  },
+  {
+    "gem_id": "FI413291",
+    "country_id": "FI",
+    "name": "Kuhmoinen",
+    "shareBB": 0.5966,
+    "shareCircle": 0.5366
+  },
+  {
+    "gem_id": "FI413312",
+    "country_id": "FI",
+    "name": "Kyyjärvi",
+    "shareBB": 0.5743,
+    "shareCircle": 0.5252
+  },
+  {
+    "gem_id": "FI413410",
+    "country_id": "FI",
+    "name": "Laukaa",
+    "shareBB": 0.4356,
+    "shareCircle": 0.4608
+  },
+  {
+    "gem_id": "FI413435",
+    "country_id": "FI",
+    "name": "Luhanka",
+    "shareBB": 0.6016,
+    "shareCircle": 0.4408
+  },
+  {
+    "gem_id": "FI413495",
+    "country_id": "FI",
+    "name": "Multia",
+    "shareBB": 0.5571,
+    "shareCircle": 0.4788
+  },
+  {
+    "gem_id": "FI413500",
+    "country_id": "FI",
+    "name": "Muurame",
+    "shareBB": 0.5256,
+    "shareCircle": 0.4373
+  },
+  {
+    "gem_id": "FI413592",
+    "country_id": "FI",
+    "name": "Petäjävesi",
+    "shareBB": 0.7248,
+    "shareCircle": 0.6099
+  },
+  {
+    "gem_id": "FI413601",
+    "country_id": "FI",
+    "name": "Pihtipudas",
+    "shareBB": 0.6171,
+    "shareCircle": 0.4329
+  },
+  {
+    "gem_id": "FI413729",
+    "country_id": "FI",
+    "name": "Saarijärvi",
+    "shareBB": 0.4908,
+    "shareCircle": 0.4813
+  },
+  {
+    "gem_id": "FI413850",
+    "country_id": "FI",
+    "name": "Toivakka",
+    "shareBB": 0.4858,
+    "shareCircle": 0.4477
+  },
+  {
+    "gem_id": "FI413892",
+    "country_id": "FI",
+    "name": "Uurainen",
+    "shareBB": 0.6066,
+    "shareCircle": 0.4938
+  },
+  {
+    "gem_id": "FI413931",
+    "country_id": "FI",
+    "name": "Viitasaari",
+    "shareBB": 0.5944,
+    "shareCircle": 0.5101
+  },
+  {
+    "gem_id": "FI413992",
+    "country_id": "FI",
+    "name": "Äänekoski",
+    "shareBB": 0.6067,
+    "shareCircle": 0.5632
+  },
+  {
+    "gem_id": "FI414005",
+    "country_id": "FI",
+    "name": "Alajärvi",
+    "shareBB": 0.5334,
+    "shareCircle": 0.4995
+  },
+  {
+    "gem_id": "FI414010",
+    "country_id": "FI",
+    "name": "Alavus",
+    "shareBB": 0.5256,
+    "shareCircle": 0.5772
+  },
+  {
+    "gem_id": "FI414052",
+    "country_id": "FI",
+    "name": "Evijärvi",
+    "shareBB": 0.5821,
+    "shareCircle": 0.5939
+  },
+  {
+    "gem_id": "FI414145",
+    "country_id": "FI",
+    "name": "Ilmajoki",
+    "shareBB": 0.4999,
+    "shareCircle": 0.4767
+  },
+  {
+    "gem_id": "FI414151",
+    "country_id": "FI",
+    "name": "Isojoki#Storå",
+    "shareBB": 0.6458,
+    "shareCircle": 0.637
+  },
+  {
+    "gem_id": "FI414218",
+    "country_id": "FI",
+    "name": "Karijoki#Bötom",
+    "shareBB": 0.3662,
+    "shareCircle": 0.3235
+  },
+  {
+    "gem_id": "FI414232",
+    "country_id": "FI",
+    "name": "Kauhajoki",
+    "shareBB": 0.6591,
+    "shareCircle": 0.6203
+  },
+  {
+    "gem_id": "FI414233",
+    "country_id": "FI",
+    "name": "Kauhava",
+    "shareBB": 0.6195,
+    "shareCircle": 0.6439
+  },
+  {
+    "gem_id": "FI414300",
+    "country_id": "FI",
+    "name": "Kuortane",
+    "shareBB": 0.561,
+    "shareCircle": 0.6516
+  },
+  {
+    "gem_id": "FI414301",
+    "country_id": "FI",
+    "name": "Kurikka",
+    "shareBB": 0.3797,
+    "shareCircle": 0.2535
+  },
+  {
+    "gem_id": "FI414403",
+    "country_id": "FI",
+    "name": "Lappajärvi",
+    "shareBB": 0.4065,
+    "shareCircle": 0.3227
+  },
+  {
+    "gem_id": "FI414408",
+    "country_id": "FI",
+    "name": "Lapua#Lappo",
+    "shareBB": 0.5768,
+    "shareCircle": 0.5345
+  },
+  {
+    "gem_id": "FI414743",
+    "country_id": "FI",
+    "name": "Seinäjoki",
+    "shareBB": 0.301,
+    "shareCircle": 0.2309
+  },
+  {
+    "gem_id": "FI414759",
+    "country_id": "FI",
+    "name": "Soini",
+    "shareBB": 0.5267,
+    "shareCircle": 0.438
+  },
+  {
+    "gem_id": "FI414846",
+    "country_id": "FI",
+    "name": "Teuva#Östermark",
+    "shareBB": 0.6727,
+    "shareCircle": 0.5889
+  },
+  {
+    "gem_id": "FI414934",
+    "country_id": "FI",
+    "name": "Vimpeli",
+    "shareBB": 0.4825,
+    "shareCircle": 0.4364
+  },
+  {
+    "gem_id": "FI414989",
+    "country_id": "FI",
+    "name": "Ähtäri#Etseri",
+    "shareBB": 0.5505,
+    "shareCircle": 0.5071
+  },
+  {
+    "gem_id": "FI415152",
+    "country_id": "FI",
+    "name": "Isokyrö#Storkyro",
+    "shareBB": 0.3903,
+    "shareCircle": 0.3011
+  },
+  {
+    "gem_id": "FI415231",
+    "country_id": "FI",
+    "name": "Kaskinen#Kaskö",
+    "shareBB": 0.4028,
+    "shareCircle": 0.2247
+  },
+  {
+    "gem_id": "FI415280",
+    "country_id": "FI",
+    "name": "Korsnäs",
+    "shareBB": 0.4374,
+    "shareCircle": 0.3149
+  },
+  {
+    "gem_id": "FI415287",
+    "country_id": "FI",
+    "name": "Kristinestad#Kristiinankaupunki",
+    "shareBB": 0.5317,
+    "shareCircle": 0.3073
+  },
+  {
+    "gem_id": "FI415288",
+    "country_id": "FI",
+    "name": "Kronoby#Kruunupyy",
+    "shareBB": 0.3564,
+    "shareCircle": 0.269
+  },
+  {
+    "gem_id": "FI415399",
+    "country_id": "FI",
+    "name": "Laihia#Laihela",
+    "shareBB": 0.6176,
+    "shareCircle": 0.4901
+  },
+  {
+    "gem_id": "FI415440",
+    "country_id": "FI",
+    "name": "Larsmo#Luoto",
+    "shareBB": 0.0778,
+    "shareCircle": 0.0641
+  },
+  {
+    "gem_id": "FI415475",
+    "country_id": "FI",
+    "name": "Malax#Maalahti",
+    "shareBB": 0.2524,
+    "shareCircle": 0.1649
+  },
+  {
+    "gem_id": "FI415499",
+    "country_id": "FI",
+    "name": "Korsholm#Mustasaari",
+    "shareBB": 0.2162,
+    "shareCircle": 0.2038
+  },
+  {
+    "gem_id": "FI415545",
+    "country_id": "FI",
+    "name": "Närpes#Närpiö",
+    "shareBB": 0.4885,
+    "shareCircle": 0.3818
+  },
+  {
+    "gem_id": "FI415598",
+    "country_id": "FI",
+    "name": "Jakobstad#Pietarsaari",
+    "shareBB": 0.3405,
+    "shareCircle": 0.2903
+  },
+  {
+    "gem_id": "FI415599",
+    "country_id": "FI",
+    "name": "Pedersöre#Pedersören kunta",
+    "shareBB": 0.4732,
+    "shareCircle": 0.5046
+  },
+  {
+    "gem_id": "FI415893",
+    "country_id": "FI",
+    "name": "Nykarleby#Uusikaarlepyy",
+    "shareBB": 0.4349,
+    "shareCircle": 0.4078
+  },
+  {
+    "gem_id": "FI415905",
+    "country_id": "FI",
+    "name": "Vaasa#Vasa",
+    "shareBB": 0.3567,
+    "shareCircle": 0.2017
+  },
+  {
+    "gem_id": "FI415946",
+    "country_id": "FI",
+    "name": "Vörå#Vöyri",
+    "shareBB": 0.3578,
+    "shareCircle": 0.2668
+  },
+  {
+    "gem_id": "FI416074",
+    "country_id": "FI",
+    "name": "Halsua",
+    "shareBB": 0.6154,
+    "shareCircle": 0.5696
+  },
+  {
+    "gem_id": "FI416217",
+    "country_id": "FI",
+    "name": "Kannus",
+    "shareBB": 0.4327,
+    "shareCircle": 0.43
+  },
+  {
+    "gem_id": "FI416236",
+    "country_id": "FI",
+    "name": "Kaustinen#Kaustby",
+    "shareBB": 0.4928,
+    "shareCircle": 0.4028
+  },
+  {
+    "gem_id": "FI416272",
+    "country_id": "FI",
+    "name": "Kokkola#Karleby",
+    "shareBB": 0.2623,
+    "shareCircle": 0.2078
+  },
+  {
+    "gem_id": "FI416421",
+    "country_id": "FI",
+    "name": "Lestijärvi",
+    "shareBB": 0.5179,
+    "shareCircle": 0.5586
+  },
+  {
+    "gem_id": "FI416584",
+    "country_id": "FI",
+    "name": "Perho",
+    "shareBB": 0.6198,
+    "shareCircle": 0.5933
+  },
+  {
+    "gem_id": "FI416849",
+    "country_id": "FI",
+    "name": "Toholampi",
+    "shareBB": 0.5546,
+    "shareCircle": 0.5628
+  },
+  {
+    "gem_id": "FI416924",
+    "country_id": "FI",
+    "name": "Veteli#Vetil",
+    "shareBB": 0.6173,
+    "shareCircle": 0.6083
+  },
+  {
+    "gem_id": "FI517009",
+    "country_id": "FI",
+    "name": "Alavieska",
+    "shareBB": 0.4265,
+    "shareCircle": 0.386
+  },
+  {
+    "gem_id": "FI517069",
+    "country_id": "FI",
+    "name": "Haapajärvi",
+    "shareBB": 0.5774,
+    "shareCircle": 0.5993
+  },
+  {
+    "gem_id": "FI517071",
+    "country_id": "FI",
+    "name": "Haapavesi",
+    "shareBB": 0.5026,
+    "shareCircle": 0.5236
+  },
+  {
+    "gem_id": "FI517072",
+    "country_id": "FI",
+    "name": "Hailuoto#Karlö",
+    "shareBB": 0.4752,
+    "shareCircle": 0.4417
+  },
+  {
+    "gem_id": "FI517139",
+    "country_id": "FI",
+    "name": "Ii",
+    "shareBB": 0.3564,
+    "shareCircle": 0.3207
+  },
+  {
+    "gem_id": "FI517208",
+    "country_id": "FI",
+    "name": "Kalajoki",
+    "shareBB": 0.5011,
+    "shareCircle": 0.5295
+  },
+  {
+    "gem_id": "FI517244",
+    "country_id": "FI",
+    "name": "Kempele",
+    "shareBB": 0.6922,
+    "shareCircle": 0.5781
+  },
+  {
+    "gem_id": "FI517305",
+    "country_id": "FI",
+    "name": "Kuusamo",
+    "shareBB": 0.6136,
+    "shareCircle": 0.5035
+  },
+  {
+    "gem_id": "FI517317",
+    "country_id": "FI",
+    "name": "Kärsämäki",
+    "shareBB": 0.5388,
+    "shareCircle": 0.6022
+  },
+  {
+    "gem_id": "FI517425",
+    "country_id": "FI",
+    "name": "Liminka#Limingo",
+    "shareBB": 0.2842,
+    "shareCircle": 0.2051
+  },
+  {
+    "gem_id": "FI517436",
+    "country_id": "FI",
+    "name": "Lumijoki",
+    "shareBB": 0.6953,
+    "shareCircle": 0.5775
+  },
+  {
+    "gem_id": "FI517483",
+    "country_id": "FI",
+    "name": "Merijärvi",
+    "shareBB": 0.3896,
+    "shareCircle": 0.3492
+  },
+  {
+    "gem_id": "FI517494",
+    "country_id": "FI",
+    "name": "Muhos",
+    "shareBB": 0.3624,
+    "shareCircle": 0.3048
+  },
+  {
+    "gem_id": "FI517535",
+    "country_id": "FI",
+    "name": "Nivala",
+    "shareBB": 0.4412,
+    "shareCircle": 0.5017
+  },
+  {
+    "gem_id": "FI517563",
+    "country_id": "FI",
+    "name": "Oulainen",
+    "shareBB": 0.5841,
+    "shareCircle": 0.6075
+  },
+  {
+    "gem_id": "FI517564",
+    "country_id": "FI",
+    "name": "Oulu#Uleåborg",
+    "shareBB": 0.4691,
+    "shareCircle": 0.5115
+  },
+  {
+    "gem_id": "FI517615",
+    "country_id": "FI",
+    "name": "Pudasjärvi",
+    "shareBB": 0.5384,
+    "shareCircle": 0.6065
+  },
+  {
+    "gem_id": "FI517625",
+    "country_id": "FI",
+    "name": "Pyhäjoki",
+    "shareBB": 0.5239,
+    "shareCircle": 0.3674
+  },
+  {
+    "gem_id": "FI517626",
+    "country_id": "FI",
+    "name": "Pyhäjärvi",
+    "shareBB": 0.5663,
+    "shareCircle": 0.5038
+  },
+  {
+    "gem_id": "FI517630",
+    "country_id": "FI",
+    "name": "Pyhäntä",
+    "shareBB": 0.4812,
+    "shareCircle": 0.4545
+  },
+  {
+    "gem_id": "FI517678",
+    "country_id": "FI",
+    "name": "Raahe#Brahestad",
+    "shareBB": 0.3686,
+    "shareCircle": 0.31
+  },
+  {
+    "gem_id": "FI517691",
+    "country_id": "FI",
+    "name": "Reisjärvi",
+    "shareBB": 0.4025,
+    "shareCircle": 0.4321
+  },
+  {
+    "gem_id": "FI517746",
+    "country_id": "FI",
+    "name": "Sievi",
+    "shareBB": 0.4504,
+    "shareCircle": 0.369
+  },
+  {
+    "gem_id": "FI517748",
+    "country_id": "FI",
+    "name": "Siikajoki",
+    "shareBB": 0.2937,
+    "shareCircle": 0.238
+  },
+  {
+    "gem_id": "FI517785",
+    "country_id": "FI",
+    "name": "Vaala",
+    "shareBB": 0.5436,
+    "shareCircle": 0.5094
+  },
+  {
+    "gem_id": "FI517791",
+    "country_id": "FI",
+    "name": "Siikalatva",
+    "shareBB": 0.4875,
+    "shareCircle": 0.4372
+  },
+  {
+    "gem_id": "FI517832",
+    "country_id": "FI",
+    "name": "Taivalkoski",
+    "shareBB": 0.5132,
+    "shareCircle": 0.5369
+  },
+  {
+    "gem_id": "FI517859",
+    "country_id": "FI",
+    "name": "Tyrnävä",
+    "shareBB": 0.4152,
+    "shareCircle": 0.3538
+  },
+  {
+    "gem_id": "FI517889",
+    "country_id": "FI",
+    "name": "Utajärvi",
+    "shareBB": 0.4435,
+    "shareCircle": 0.4124
+  },
+  {
+    "gem_id": "FI517977",
+    "country_id": "FI",
+    "name": "Ylivieska",
+    "shareBB": 0.6653,
+    "shareCircle": 0.5886
+  },
+  {
+    "gem_id": "FI518105",
+    "country_id": "FI",
+    "name": "Hyrynsalmi",
+    "shareBB": 0.5513,
+    "shareCircle": 0.3629
+  },
+  {
+    "gem_id": "FI518205",
+    "country_id": "FI",
+    "name": "Kajaani#Kajana",
+    "shareBB": 0.5698,
+    "shareCircle": 0.464
+  },
+  {
+    "gem_id": "FI518290",
+    "country_id": "FI",
+    "name": "Kuhmo",
+    "shareBB": 0.5963,
+    "shareCircle": 0.6309
+  },
+  {
+    "gem_id": "FI518578",
+    "country_id": "FI",
+    "name": "Paltamo",
+    "shareBB": 0.4825,
+    "shareCircle": 0.3692
+  },
+  {
+    "gem_id": "FI518620",
+    "country_id": "FI",
+    "name": "Puolanka",
+    "shareBB": 0.6064,
+    "shareCircle": 0.4719
+  },
+  {
+    "gem_id": "FI518697",
+    "country_id": "FI",
+    "name": "Ristijärvi",
+    "shareBB": 0.5862,
+    "shareCircle": 0.4035
+  },
+  {
+    "gem_id": "FI518765",
+    "country_id": "FI",
+    "name": "Sotkamo",
+    "shareBB": 0.5119,
+    "shareCircle": 0.5932
+  },
+  {
+    "gem_id": "FI518777",
+    "country_id": "FI",
+    "name": "Suomussalmi",
+    "shareBB": 0.4895,
+    "shareCircle": 0.494
+  },
+  {
+    "gem_id": "FI619047",
+    "country_id": "FI",
+    "name": "Enontekiö#Enontekis",
+    "shareBB": 0.3775,
+    "shareCircle": 0.2717
+  },
+  {
+    "gem_id": "FI619148",
+    "country_id": "FI",
+    "name": "Inari#Enare",
+    "shareBB": 0.6176,
+    "shareCircle": 0.4723
+  },
+  {
+    "gem_id": "FI619240",
+    "country_id": "FI",
+    "name": "Kemi",
+    "shareBB": 0.2724,
+    "shareCircle": 0.2752
+  },
+  {
+    "gem_id": "FI619241",
+    "country_id": "FI",
+    "name": "Keminmaa",
+    "shareBB": 0.5508,
+    "shareCircle": 0.4618
+  },
+  {
+    "gem_id": "FI619261",
+    "country_id": "FI",
+    "name": "Kittilä",
+    "shareBB": 0.6945,
+    "shareCircle": 0.5374
+  },
+  {
+    "gem_id": "FI619273",
+    "country_id": "FI",
+    "name": "Kolari",
+    "shareBB": 0.5199,
+    "shareCircle": 0.4536
+  },
+  {
+    "gem_id": "FI619320",
+    "country_id": "FI",
+    "name": "Kemijärvi",
+    "shareBB": 0.5672,
+    "shareCircle": 0.5699
+  },
+  {
+    "gem_id": "FI619498",
+    "country_id": "FI",
+    "name": "Muonio",
+    "shareBB": 0.4525,
+    "shareCircle": 0.3806
+  },
+  {
+    "gem_id": "FI619583",
+    "country_id": "FI",
+    "name": "Pelkosenniemi",
+    "shareBB": 0.4364,
+    "shareCircle": 0.3517
+  },
+  {
+    "gem_id": "FI619614",
+    "country_id": "FI",
+    "name": "Posio",
+    "shareBB": 0.5753,
+    "shareCircle": 0.6213
+  },
+  {
+    "gem_id": "FI619683",
+    "country_id": "FI",
+    "name": "Ranua",
+    "shareBB": 0.6755,
+    "shareCircle": 0.6575
+  },
+  {
+    "gem_id": "FI619698",
+    "country_id": "FI",
+    "name": "Rovaniemi",
+    "shareBB": 0.5637,
+    "shareCircle": 0.4211
+  },
+  {
+    "gem_id": "FI619732",
+    "country_id": "FI",
+    "name": "Salla",
+    "shareBB": 0.4055,
+    "shareCircle": 0.275
+  },
+  {
+    "gem_id": "FI619742",
+    "country_id": "FI",
+    "name": "Savukoski",
+    "shareBB": 0.6192,
+    "shareCircle": 0.5615
+  },
+  {
+    "gem_id": "FI619751",
+    "country_id": "FI",
+    "name": "Simo",
+    "shareBB": 0.4345,
+    "shareCircle": 0.3762
+  },
+  {
+    "gem_id": "FI619758",
+    "country_id": "FI",
+    "name": "Sodankylä",
+    "shareBB": 0.6132,
+    "shareCircle": 0.4165
+  },
+  {
+    "gem_id": "FI619845",
+    "country_id": "FI",
+    "name": "Tervola",
+    "shareBB": 0.5475,
+    "shareCircle": 0.3898
+  },
+  {
+    "gem_id": "FI619851",
+    "country_id": "FI",
+    "name": "Tornio#Torneå",
+    "shareBB": 0.4428,
+    "shareCircle": 0.2747
+  },
+  {
+    "gem_id": "FI619854",
+    "country_id": "FI",
+    "name": "Pello",
+    "shareBB": 0.5223,
+    "shareCircle": 0.5034
+  },
+  {
+    "gem_id": "FI619890",
+    "country_id": "FI",
+    "name": "Utsjoki",
+    "shareBB": 0.5116,
+    "shareCircle": 0.3809
+  },
+  {
+    "gem_id": "FI619976",
+    "country_id": "FI",
+    "name": "Ylitornio#Övertorneå",
+    "shareBB": 0.4911,
+    "shareCircle": 0.4082
+  },
+  {
+    "gem_id": "FI721035",
+    "country_id": "FI",
+    "name": "Brändö",
+    "shareBB": 0.0684,
+    "shareCircle": 0.035
+  },
+  {
+    "gem_id": "FI721043",
+    "country_id": "FI",
+    "name": "Eckerö",
+    "shareBB": 0.3084,
+    "shareCircle": 0.2132
+  },
+  {
+    "gem_id": "FI721060",
+    "country_id": "FI",
+    "name": "Finström",
+    "shareBB": 0.4538,
+    "shareCircle": 0.3288
+  },
+  {
+    "gem_id": "FI721062",
+    "country_id": "FI",
+    "name": "Föglö",
+    "shareBB": 0.2711,
+    "shareCircle": 0.2606
+  },
+  {
+    "gem_id": "FI721065",
+    "country_id": "FI",
+    "name": "Geta",
+    "shareBB": 0.4315,
+    "shareCircle": 0.3183
+  },
+  {
+    "gem_id": "FI721076",
+    "country_id": "FI",
+    "name": "Hammarland",
+    "shareBB": 0.1486,
+    "shareCircle": 0.1481
+  },
+  {
+    "gem_id": "FI721170",
+    "country_id": "FI",
+    "name": "Jomala",
+    "shareBB": 0.5471,
+    "shareCircle": 0.4832
+  },
+  {
+    "gem_id": "FI721295",
+    "country_id": "FI",
+    "name": "Kumlinge",
+    "shareBB": 0.1182,
+    "shareCircle": 0.105
+  },
+  {
+    "gem_id": "FI721318",
+    "country_id": "FI",
+    "name": "Kökar",
+    "shareBB": 0.1401,
+    "shareCircle": 0.0963
+  },
+  {
+    "gem_id": "FI721417",
+    "country_id": "FI",
+    "name": "Lemland",
+    "shareBB": 0.3163,
+    "shareCircle": 0.3036
+  },
+  {
+    "gem_id": "FI721438",
+    "country_id": "FI",
+    "name": "Lumparland",
+    "shareBB": 0.5868,
+    "shareCircle": 0.341
+  },
+  {
+    "gem_id": "FI721478",
+    "country_id": "FI",
+    "name": "Mariehamn#Maarianhamina",
+    "shareBB": 0.3927,
+    "shareCircle": 0.1827
+  },
+  {
+    "gem_id": "FI721736",
+    "country_id": "FI",
+    "name": "Saltvik",
+    "shareBB": 0.2594,
+    "shareCircle": 0.2457
+  },
+  {
+    "gem_id": "FI721766",
+    "country_id": "FI",
+    "name": "Sottunga",
+    "shareBB": 0.0768,
+    "shareCircle": 0.0572
+  },
+  {
+    "gem_id": "FI721771",
+    "country_id": "FI",
+    "name": "Sund",
+    "shareBB": 0.4632,
+    "shareCircle": 0.4418
+  },
+  {
+    "gem_id": "FI721941",
+    "country_id": "FI",
+    "name": "Vårdö",
+    "shareBB": 0.1052,
+    "shareCircle": 0.0682
+  }
+]

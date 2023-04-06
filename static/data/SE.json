@@ -1,0 +1,2032 @@
+[
+  {
+    "gem_id": "SE0114",
+    "country_id": "SE",
+    "name": "Upplands Väsby",
+    "shareBB": 0.5751,
+    "shareCircle": 0.3674
+  },
+  {
+    "gem_id": "SE0115",
+    "country_id": "SE",
+    "name": "Vallentuna",
+    "shareBB": 0.6124,
+    "shareCircle": 0.6388
+  },
+  {
+    "gem_id": "SE0117",
+    "country_id": "SE",
+    "name": "Österåker",
+    "shareBB": 0.3136,
+    "shareCircle": 0.1987
+  },
+  {
+    "gem_id": "SE0120",
+    "country_id": "SE",
+    "name": "Värmdö",
+    "shareBB": 0.1589,
+    "shareCircle": 0.1613
+  },
+  {
+    "gem_id": "SE0123",
+    "country_id": "SE",
+    "name": "Järfälla",
+    "shareBB": 0.4742,
+    "shareCircle": 0.3855
+  },
+  {
+    "gem_id": "SE0125",
+    "country_id": "SE",
+    "name": "Ekerö",
+    "shareBB": 0.6079,
+    "shareCircle": 0.4536
+  },
+  {
+    "gem_id": "SE0126",
+    "country_id": "SE",
+    "name": "Huddinge",
+    "shareBB": 0.4774,
+    "shareCircle": 0.4524
+  },
+  {
+    "gem_id": "SE0127",
+    "country_id": "SE",
+    "name": "Botkyrka",
+    "shareBB": 0.5046,
+    "shareCircle": 0.4198
+  },
+  {
+    "gem_id": "SE0128",
+    "country_id": "SE",
+    "name": "Salem",
+    "shareBB": 0.4075,
+    "shareCircle": 0.3154
+  },
+  {
+    "gem_id": "SE0136",
+    "country_id": "SE",
+    "name": "Haninge",
+    "shareBB": 0.2622,
+    "shareCircle": 0.2496
+  },
+  {
+    "gem_id": "SE0138",
+    "country_id": "SE",
+    "name": "Tyresö",
+    "shareBB": 0.4652,
+    "shareCircle": 0.4027
+  },
+  {
+    "gem_id": "SE0139",
+    "country_id": "SE",
+    "name": "Upplands-Bro",
+    "shareBB": 0.6454,
+    "shareCircle": 0.5828
+  },
+  {
+    "gem_id": "SE0140",
+    "country_id": "SE",
+    "name": "Nykvarn",
+    "shareBB": 0.609,
+    "shareCircle": 0.6615
+  },
+  {
+    "gem_id": "SE0160",
+    "country_id": "SE",
+    "name": "Täby",
+    "shareBB": 0.6842,
+    "shareCircle": 0.5931
+  },
+  {
+    "gem_id": "SE0162",
+    "country_id": "SE",
+    "name": "Danderyd",
+    "shareBB": 0.5512,
+    "shareCircle": 0.4021
+  },
+  {
+    "gem_id": "SE0163",
+    "country_id": "SE",
+    "name": "Sollentuna",
+    "shareBB": 0.4696,
+    "shareCircle": 0.4424
+  },
+  {
+    "gem_id": "SE0180",
+    "country_id": "SE",
+    "name": "Stockholm",
+    "shareBB": 0.3544,
+    "shareCircle": 0.2865
+  },
+  {
+    "gem_id": "SE0181",
+    "country_id": "SE",
+    "name": "Södertälje",
+    "shareBB": 0.3891,
+    "shareCircle": 0.2046
+  },
+  {
+    "gem_id": "SE0182",
+    "country_id": "SE",
+    "name": "Nacka",
+    "shareBB": 0.4588,
+    "shareCircle": 0.4023
+  },
+  {
+    "gem_id": "SE0183",
+    "country_id": "SE",
+    "name": "Sundbyberg",
+    "shareBB": 0.5192,
+    "shareCircle": 0.4239
+  },
+  {
+    "gem_id": "SE0184",
+    "country_id": "SE",
+    "name": "Solna",
+    "shareBB": 0.6216,
+    "shareCircle": 0.5747
+  },
+  {
+    "gem_id": "SE0186",
+    "country_id": "SE",
+    "name": "Lidingö",
+    "shareBB": 0.4189,
+    "shareCircle": 0.3144
+  },
+  {
+    "gem_id": "SE0187",
+    "country_id": "SE",
+    "name": "Vaxholm",
+    "shareBB": 0.3969,
+    "shareCircle": 0.2422
+  },
+  {
+    "gem_id": "SE0188",
+    "country_id": "SE",
+    "name": "Norrtälje",
+    "shareBB": 0.2819,
+    "shareCircle": 0.2572
+  },
+  {
+    "gem_id": "SE0191",
+    "country_id": "SE",
+    "name": "Sigtuna",
+    "shareBB": 0.4912,
+    "shareCircle": 0.4138
+  },
+  {
+    "gem_id": "SE0192",
+    "country_id": "SE",
+    "name": "Nynäshamn",
+    "shareBB": 0.4477,
+    "shareCircle": 0.2472
+  },
+  {
+    "gem_id": "SE0305",
+    "country_id": "SE",
+    "name": "Håbo",
+    "shareBB": 0.4981,
+    "shareCircle": 0.3193
+  },
+  {
+    "gem_id": "SE0319",
+    "country_id": "SE",
+    "name": "Älvkarleby",
+    "shareBB": 0.4879,
+    "shareCircle": 0.3582
+  },
+  {
+    "gem_id": "SE0330",
+    "country_id": "SE",
+    "name": "Knivsta",
+    "shareBB": 0.5227,
+    "shareCircle": 0.3808
+  },
+  {
+    "gem_id": "SE0331",
+    "country_id": "SE",
+    "name": "Heby",
+    "shareBB": 0.6258,
+    "shareCircle": 0.5408
+  },
+  {
+    "gem_id": "SE0360",
+    "country_id": "SE",
+    "name": "Tierp",
+    "shareBB": 0.4836,
+    "shareCircle": 0.457
+  },
+  {
+    "gem_id": "SE0380",
+    "country_id": "SE",
+    "name": "Uppsala",
+    "shareBB": 0.5726,
+    "shareCircle": 0.4705
+  },
+  {
+    "gem_id": "SE0381",
+    "country_id": "SE",
+    "name": "Enköping",
+    "shareBB": 0.5213,
+    "shareCircle": 0.3932
+  },
+  {
+    "gem_id": "SE0382",
+    "country_id": "SE",
+    "name": "Östhammar",
+    "shareBB": 0.4083,
+    "shareCircle": 0.4297
+  },
+  {
+    "gem_id": "SE0428",
+    "country_id": "SE",
+    "name": "Vingåker",
+    "shareBB": 0.5592,
+    "shareCircle": 0.559
+  },
+  {
+    "gem_id": "SE0461",
+    "country_id": "SE",
+    "name": "Gnesta",
+    "shareBB": 0.5552,
+    "shareCircle": 0.4339
+  },
+  {
+    "gem_id": "SE0480",
+    "country_id": "SE",
+    "name": "Nyköping",
+    "shareBB": 0.4362,
+    "shareCircle": 0.3449
+  },
+  {
+    "gem_id": "SE0481",
+    "country_id": "SE",
+    "name": "Oxelösund",
+    "shareBB": 0.1622,
+    "shareCircle": 0.0868
+  },
+  {
+    "gem_id": "SE0482",
+    "country_id": "SE",
+    "name": "Flen",
+    "shareBB": 0.5645,
+    "shareCircle": 0.5424
+  },
+  {
+    "gem_id": "SE0483",
+    "country_id": "SE",
+    "name": "Katrineholm",
+    "shareBB": 0.4296,
+    "shareCircle": 0.3497
+  },
+  {
+    "gem_id": "SE0484",
+    "country_id": "SE",
+    "name": "Eskilstuna",
+    "shareBB": 0.5532,
+    "shareCircle": 0.4938
+  },
+  {
+    "gem_id": "SE0486",
+    "country_id": "SE",
+    "name": "Strängnäs",
+    "shareBB": 0.5945,
+    "shareCircle": 0.5306
+  },
+  {
+    "gem_id": "SE0488",
+    "country_id": "SE",
+    "name": "Trosa",
+    "shareBB": 0.3721,
+    "shareCircle": 0.3187
+  },
+  {
+    "gem_id": "SE0509",
+    "country_id": "SE",
+    "name": "Ödeshög",
+    "shareBB": 0.7264,
+    "shareCircle": 0.6224
+  },
+  {
+    "gem_id": "SE0512",
+    "country_id": "SE",
+    "name": "Ydre",
+    "shareBB": 0.6244,
+    "shareCircle": 0.575
+  },
+  {
+    "gem_id": "SE0513",
+    "country_id": "SE",
+    "name": "Kinda",
+    "shareBB": 0.6325,
+    "shareCircle": 0.6703
+  },
+  {
+    "gem_id": "SE0560",
+    "country_id": "SE",
+    "name": "Boxholm",
+    "shareBB": 0.51,
+    "shareCircle": 0.3657
+  },
+  {
+    "gem_id": "SE0561",
+    "country_id": "SE",
+    "name": "Åtvidaberg",
+    "shareBB": 0.5949,
+    "shareCircle": 0.6183
+  },
+  {
+    "gem_id": "SE0562",
+    "country_id": "SE",
+    "name": "Finspång",
+    "shareBB": 0.5873,
+    "shareCircle": 0.6174
+  },
+  {
+    "gem_id": "SE0563",
+    "country_id": "SE",
+    "name": "Valdemarsvik",
+    "shareBB": 0.3786,
+    "shareCircle": 0.3273
+  },
+  {
+    "gem_id": "SE0580",
+    "country_id": "SE",
+    "name": "Linköping",
+    "shareBB": 0.5041,
+    "shareCircle": 0.4524
+  },
+  {
+    "gem_id": "SE0581",
+    "country_id": "SE",
+    "name": "Norrköping",
+    "shareBB": 0.3956,
+    "shareCircle": 0.2975
+  },
+  {
+    "gem_id": "SE0582",
+    "country_id": "SE",
+    "name": "Söderköping",
+    "shareBB": 0.4275,
+    "shareCircle": 0.2401
+  },
+  {
+    "gem_id": "SE0583",
+    "country_id": "SE",
+    "name": "Motala",
+    "shareBB": 0.5453,
+    "shareCircle": 0.5071
+  },
+  {
+    "gem_id": "SE0584",
+    "country_id": "SE",
+    "name": "Vadstena",
+    "shareBB": 0.6151,
+    "shareCircle": 0.5111
+  },
+  {
+    "gem_id": "SE0586",
+    "country_id": "SE",
+    "name": "Mjölby",
+    "shareBB": 0.4542,
+    "shareCircle": 0.4496
+  },
+  {
+    "gem_id": "SE0604",
+    "country_id": "SE",
+    "name": "Aneby",
+    "shareBB": 0.4697,
+    "shareCircle": 0.3502
+  },
+  {
+    "gem_id": "SE0617",
+    "country_id": "SE",
+    "name": "Gnosjö",
+    "shareBB": 0.5509,
+    "shareCircle": 0.5726
+  },
+  {
+    "gem_id": "SE0642",
+    "country_id": "SE",
+    "name": "Mullsjö",
+    "shareBB": 0.5261,
+    "shareCircle": 0.4154
+  },
+  {
+    "gem_id": "SE0643",
+    "country_id": "SE",
+    "name": "Habo",
+    "shareBB": 0.4749,
+    "shareCircle": 0.3454
+  },
+  {
+    "gem_id": "SE0662",
+    "country_id": "SE",
+    "name": "Gislaved",
+    "shareBB": 0.3559,
+    "shareCircle": 0.2572
+  },
+  {
+    "gem_id": "SE0665",
+    "country_id": "SE",
+    "name": "Vaggeryd",
+    "shareBB": 0.5667,
+    "shareCircle": 0.5769
+  },
+  {
+    "gem_id": "SE0680",
+    "country_id": "SE",
+    "name": "Jönköping",
+    "shareBB": 0.4508,
+    "shareCircle": 0.3652
+  },
+  {
+    "gem_id": "SE0682",
+    "country_id": "SE",
+    "name": "Nässjö",
+    "shareBB": 0.5818,
+    "shareCircle": 0.5052
+  },
+  {
+    "gem_id": "SE0683",
+    "country_id": "SE",
+    "name": "Värnamo",
+    "shareBB": 0.52,
+    "shareCircle": 0.4711
+  },
+  {
+    "gem_id": "SE0684",
+    "country_id": "SE",
+    "name": "Sävsjö",
+    "shareBB": 0.6738,
+    "shareCircle": 0.5785
+  },
+  {
+    "gem_id": "SE0685",
+    "country_id": "SE",
+    "name": "Vetlanda",
+    "shareBB": 0.6215,
+    "shareCircle": 0.5107
+  },
+  {
+    "gem_id": "SE0686",
+    "country_id": "SE",
+    "name": "Eksjö",
+    "shareBB": 0.6134,
+    "shareCircle": 0.4058
+  },
+  {
+    "gem_id": "SE0687",
+    "country_id": "SE",
+    "name": "Tranås",
+    "shareBB": 0.5897,
+    "shareCircle": 0.5833
+  },
+  {
+    "gem_id": "SE0760",
+    "country_id": "SE",
+    "name": "Uppvidinge",
+    "shareBB": 0.5659,
+    "shareCircle": 0.5162
+  },
+  {
+    "gem_id": "SE0761",
+    "country_id": "SE",
+    "name": "Lessebo",
+    "shareBB": 0.4589,
+    "shareCircle": 0.4386
+  },
+  {
+    "gem_id": "SE0763",
+    "country_id": "SE",
+    "name": "Tingsryd",
+    "shareBB": 0.5884,
+    "shareCircle": 0.5645
+  },
+  {
+    "gem_id": "SE0764",
+    "country_id": "SE",
+    "name": "Alvesta",
+    "shareBB": 0.5852,
+    "shareCircle": 0.2752
+  },
+  {
+    "gem_id": "SE0765",
+    "country_id": "SE",
+    "name": "Älmhult",
+    "shareBB": 0.4669,
+    "shareCircle": 0.3877
+  },
+  {
+    "gem_id": "SE0767",
+    "country_id": "SE",
+    "name": "Markaryd",
+    "shareBB": 0.6479,
+    "shareCircle": 0.596
+  },
+  {
+    "gem_id": "SE0780",
+    "country_id": "SE",
+    "name": "Växjö",
+    "shareBB": 0.6036,
+    "shareCircle": 0.4675
+  },
+  {
+    "gem_id": "SE0781",
+    "country_id": "SE",
+    "name": "Ljungby",
+    "shareBB": 0.6385,
+    "shareCircle": 0.5926
+  },
+  {
+    "gem_id": "SE0821",
+    "country_id": "SE",
+    "name": "Högsby",
+    "shareBB": 0.5252,
+    "shareCircle": 0.4059
+  },
+  {
+    "gem_id": "SE0834",
+    "country_id": "SE",
+    "name": "Torsås",
+    "shareBB": 0.6563,
+    "shareCircle": 0.6514
+  },
+  {
+    "gem_id": "SE0840",
+    "country_id": "SE",
+    "name": "Mörbylånga",
+    "shareBB": 0.54,
+    "shareCircle": 0.2173
+  },
+  {
+    "gem_id": "SE0860",
+    "country_id": "SE",
+    "name": "Hultsfred",
+    "shareBB": 0.602,
+    "shareCircle": 0.5367
+  },
+  {
+    "gem_id": "SE0861",
+    "country_id": "SE",
+    "name": "Mönsterås",
+    "shareBB": 0.4821,
+    "shareCircle": 0.4339
+  },
+  {
+    "gem_id": "SE0862",
+    "country_id": "SE",
+    "name": "Emmaboda",
+    "shareBB": 0.6194,
+    "shareCircle": 0.4565
+  },
+  {
+    "gem_id": "SE0880",
+    "country_id": "SE",
+    "name": "Kalmar",
+    "shareBB": 0.424,
+    "shareCircle": 0.3604
+  },
+  {
+    "gem_id": "SE0881",
+    "country_id": "SE",
+    "name": "Nybro",
+    "shareBB": 0.4954,
+    "shareCircle": 0.4813
+  },
+  {
+    "gem_id": "SE0882",
+    "country_id": "SE",
+    "name": "Oskarshamn",
+    "shareBB": 0.4113,
+    "shareCircle": 0.4264
+  },
+  {
+    "gem_id": "SE0883",
+    "country_id": "SE",
+    "name": "Västervik",
+    "shareBB": 0.5675,
+    "shareCircle": 0.5122
+  },
+  {
+    "gem_id": "SE0884",
+    "country_id": "SE",
+    "name": "Vimmerby",
+    "shareBB": 0.5179,
+    "shareCircle": 0.4524
+  },
+  {
+    "gem_id": "SE0885",
+    "country_id": "SE",
+    "name": "Borgholm",
+    "shareBB": 0.2728,
+    "shareCircle": 0.1282
+  },
+  {
+    "gem_id": "SE0980",
+    "country_id": "SE",
+    "name": "Gotland",
+    "shareBB": 0.2527,
+    "shareCircle": 0.1283
+  },
+  {
+    "gem_id": "SE1060",
+    "country_id": "SE",
+    "name": "Olofström",
+    "shareBB": 0.6306,
+    "shareCircle": 0.5809
+  },
+  {
+    "gem_id": "SE1080",
+    "country_id": "SE",
+    "name": "Karlskrona",
+    "shareBB": 0.4131,
+    "shareCircle": 0.4187
+  },
+  {
+    "gem_id": "SE1081",
+    "country_id": "SE",
+    "name": "Ronneby",
+    "shareBB": 0.549,
+    "shareCircle": 0.5117
+  },
+  {
+    "gem_id": "SE1082",
+    "country_id": "SE",
+    "name": "Karlshamn",
+    "shareBB": 0.6456,
+    "shareCircle": 0.483
+  },
+  {
+    "gem_id": "SE1083",
+    "country_id": "SE",
+    "name": "Sölvesborg",
+    "shareBB": 0.3865,
+    "shareCircle": 0.3151
+  },
+  {
+    "gem_id": "SE1214",
+    "country_id": "SE",
+    "name": "Svalöv",
+    "shareBB": 0.5607,
+    "shareCircle": 0.5479
+  },
+  {
+    "gem_id": "SE1230",
+    "country_id": "SE",
+    "name": "Staffanstorp",
+    "shareBB": 0.5572,
+    "shareCircle": 0.4156
+  },
+  {
+    "gem_id": "SE1231",
+    "country_id": "SE",
+    "name": "Burlöv",
+    "shareBB": 0.4593,
+    "shareCircle": 0.4908
+  },
+  {
+    "gem_id": "SE1233",
+    "country_id": "SE",
+    "name": "Vellinge",
+    "shareBB": 0.3167,
+    "shareCircle": 0.2448
+  },
+  {
+    "gem_id": "SE1256",
+    "country_id": "SE",
+    "name": "Östra Göinge",
+    "shareBB": 0.5449,
+    "shareCircle": 0.4206
+  },
+  {
+    "gem_id": "SE1257",
+    "country_id": "SE",
+    "name": "Örkelljunga",
+    "shareBB": 0.4458,
+    "shareCircle": 0.3516
+  },
+  {
+    "gem_id": "SE1260",
+    "country_id": "SE",
+    "name": "Bjuv",
+    "shareBB": 0.5734,
+    "shareCircle": 0.5528
+  },
+  {
+    "gem_id": "SE1261",
+    "country_id": "SE",
+    "name": "Kävlinge",
+    "shareBB": 0.5692,
+    "shareCircle": 0.4075
+  },
+  {
+    "gem_id": "SE1262",
+    "country_id": "SE",
+    "name": "Lomma",
+    "shareBB": 0.4949,
+    "shareCircle": 0.3981
+  },
+  {
+    "gem_id": "SE1263",
+    "country_id": "SE",
+    "name": "Svedala",
+    "shareBB": 0.564,
+    "shareCircle": 0.5084
+  },
+  {
+    "gem_id": "SE1264",
+    "country_id": "SE",
+    "name": "Skurup",
+    "shareBB": 0.6214,
+    "shareCircle": 0.4753
+  },
+  {
+    "gem_id": "SE1265",
+    "country_id": "SE",
+    "name": "Sjöbo",
+    "shareBB": 0.5861,
+    "shareCircle": 0.5872
+  },
+  {
+    "gem_id": "SE1266",
+    "country_id": "SE",
+    "name": "Hörby",
+    "shareBB": 0.6145,
+    "shareCircle": 0.5831
+  },
+  {
+    "gem_id": "SE1267",
+    "country_id": "SE",
+    "name": "Höör",
+    "shareBB": 0.5158,
+    "shareCircle": 0.3416
+  },
+  {
+    "gem_id": "SE1270",
+    "country_id": "SE",
+    "name": "Tomelilla",
+    "shareBB": 0.5702,
+    "shareCircle": 0.4012
+  },
+  {
+    "gem_id": "SE1272",
+    "country_id": "SE",
+    "name": "Bromölla",
+    "shareBB": 0.6437,
+    "shareCircle": 0.4084
+  },
+  {
+    "gem_id": "SE1273",
+    "country_id": "SE",
+    "name": "Osby",
+    "shareBB": 0.4506,
+    "shareCircle": 0.2993
+  },
+  {
+    "gem_id": "SE1275",
+    "country_id": "SE",
+    "name": "Perstorp",
+    "shareBB": 0.6707,
+    "shareCircle": 0.5399
+  },
+  {
+    "gem_id": "SE1276",
+    "country_id": "SE",
+    "name": "Klippan",
+    "shareBB": 0.449,
+    "shareCircle": 0.3698
+  },
+  {
+    "gem_id": "SE1277",
+    "country_id": "SE",
+    "name": "Åstorp",
+    "shareBB": 0.4494,
+    "shareCircle": 0.4119
+  },
+  {
+    "gem_id": "SE1278",
+    "country_id": "SE",
+    "name": "Båstad",
+    "shareBB": 0.4955,
+    "shareCircle": 0.3756
+  },
+  {
+    "gem_id": "SE1280",
+    "country_id": "SE",
+    "name": "Malmö",
+    "shareBB": 0.6381,
+    "shareCircle": 0.6141
+  },
+  {
+    "gem_id": "SE1281",
+    "country_id": "SE",
+    "name": "Lund",
+    "shareBB": 0.4722,
+    "shareCircle": 0.4187
+  },
+  {
+    "gem_id": "SE1282",
+    "country_id": "SE",
+    "name": "Landskrona",
+    "shareBB": 0.3808,
+    "shareCircle": 0.269
+  },
+  {
+    "gem_id": "SE1283",
+    "country_id": "SE",
+    "name": "Helsingborg",
+    "shareBB": 0.4068,
+    "shareCircle": 0.3581
+  },
+  {
+    "gem_id": "SE1284",
+    "country_id": "SE",
+    "name": "Höganäs",
+    "shareBB": 0.396,
+    "shareCircle": 0.3597
+  },
+  {
+    "gem_id": "SE1285",
+    "country_id": "SE",
+    "name": "Eslöv",
+    "shareBB": 0.3802,
+    "shareCircle": 0.3682
+  },
+  {
+    "gem_id": "SE1286",
+    "country_id": "SE",
+    "name": "Ystad",
+    "shareBB": 0.4556,
+    "shareCircle": 0.3135
+  },
+  {
+    "gem_id": "SE1287",
+    "country_id": "SE",
+    "name": "Trelleborg",
+    "shareBB": 0.5859,
+    "shareCircle": 0.4522
+  },
+  {
+    "gem_id": "SE1290",
+    "country_id": "SE",
+    "name": "Kristianstad",
+    "shareBB": 0.4913,
+    "shareCircle": 0.4047
+  },
+  {
+    "gem_id": "SE1291",
+    "country_id": "SE",
+    "name": "Simrishamn",
+    "shareBB": 0.4994,
+    "shareCircle": 0.3009
+  },
+  {
+    "gem_id": "SE1292",
+    "country_id": "SE",
+    "name": "Ängelholm",
+    "shareBB": 0.5657,
+    "shareCircle": 0.5181
+  },
+  {
+    "gem_id": "SE1293",
+    "country_id": "SE",
+    "name": "Hässleholm",
+    "shareBB": 0.6468,
+    "shareCircle": 0.5768
+  },
+  {
+    "gem_id": "SE1315",
+    "country_id": "SE",
+    "name": "Hylte",
+    "shareBB": 0.6075,
+    "shareCircle": 0.4757
+  },
+  {
+    "gem_id": "SE1380",
+    "country_id": "SE",
+    "name": "Halmstad",
+    "shareBB": 0.5337,
+    "shareCircle": 0.6572
+  },
+  {
+    "gem_id": "SE1381",
+    "country_id": "SE",
+    "name": "Laholm",
+    "shareBB": 0.6337,
+    "shareCircle": 0.6338
+  },
+  {
+    "gem_id": "SE1382",
+    "country_id": "SE",
+    "name": "Falkenberg",
+    "shareBB": 0.4446,
+    "shareCircle": 0.424
+  },
+  {
+    "gem_id": "SE1383",
+    "country_id": "SE",
+    "name": "Varberg",
+    "shareBB": 0.5483,
+    "shareCircle": 0.5322
+  },
+  {
+    "gem_id": "SE1384",
+    "country_id": "SE",
+    "name": "Kungsbacka",
+    "shareBB": 0.5693,
+    "shareCircle": 0.5098
+  },
+  {
+    "gem_id": "SE1401",
+    "country_id": "SE",
+    "name": "Härryda",
+    "shareBB": 0.6534,
+    "shareCircle": 0.3943
+  },
+  {
+    "gem_id": "SE1402",
+    "country_id": "SE",
+    "name": "Partille",
+    "shareBB": 0.5567,
+    "shareCircle": 0.5651
+  },
+  {
+    "gem_id": "SE1407",
+    "country_id": "SE",
+    "name": "Öckerö",
+    "shareBB": 0.2374,
+    "shareCircle": 0.1256
+  },
+  {
+    "gem_id": "SE1415",
+    "country_id": "SE",
+    "name": "Stenungsund",
+    "shareBB": 0.6836,
+    "shareCircle": 0.6096
+  },
+  {
+    "gem_id": "SE1419",
+    "country_id": "SE",
+    "name": "Tjörn",
+    "shareBB": 0.4133,
+    "shareCircle": 0.3672
+  },
+  {
+    "gem_id": "SE1421",
+    "country_id": "SE",
+    "name": "Orust",
+    "shareBB": 0.4482,
+    "shareCircle": 0.4164
+  },
+  {
+    "gem_id": "SE1427",
+    "country_id": "SE",
+    "name": "Sotenäs",
+    "shareBB": 0.4055,
+    "shareCircle": 0.3194
+  },
+  {
+    "gem_id": "SE1430",
+    "country_id": "SE",
+    "name": "Munkedal",
+    "shareBB": 0.522,
+    "shareCircle": 0.3887
+  },
+  {
+    "gem_id": "SE1435",
+    "country_id": "SE",
+    "name": "Tanum",
+    "shareBB": 0.4903,
+    "shareCircle": 0.4053
+  },
+  {
+    "gem_id": "SE1438",
+    "country_id": "SE",
+    "name": "Dals-Ed",
+    "shareBB": 0.5382,
+    "shareCircle": 0.3593
+  },
+  {
+    "gem_id": "SE1439",
+    "country_id": "SE",
+    "name": "Färgelanda",
+    "shareBB": 0.678,
+    "shareCircle": 0.4356
+  },
+  {
+    "gem_id": "SE1440",
+    "country_id": "SE",
+    "name": "Ale",
+    "shareBB": 0.3882,
+    "shareCircle": 0.2469
+  },
+  {
+    "gem_id": "SE1441",
+    "country_id": "SE",
+    "name": "Lerum",
+    "shareBB": 0.5241,
+    "shareCircle": 0.4606
+  },
+  {
+    "gem_id": "SE1442",
+    "country_id": "SE",
+    "name": "Vårgårda",
+    "shareBB": 0.5801,
+    "shareCircle": 0.5495
+  },
+  {
+    "gem_id": "SE1443",
+    "country_id": "SE",
+    "name": "Bollebygd",
+    "shareBB": 0.5088,
+    "shareCircle": 0.4111
+  },
+  {
+    "gem_id": "SE1444",
+    "country_id": "SE",
+    "name": "Grästorp",
+    "shareBB": 0.5076,
+    "shareCircle": 0.4342
+  },
+  {
+    "gem_id": "SE1445",
+    "country_id": "SE",
+    "name": "Essunga",
+    "shareBB": 0.3758,
+    "shareCircle": 0.2799
+  },
+  {
+    "gem_id": "SE1446",
+    "country_id": "SE",
+    "name": "Karlsborg",
+    "shareBB": 0.5711,
+    "shareCircle": 0.4682
+  },
+  {
+    "gem_id": "SE1447",
+    "country_id": "SE",
+    "name": "Gullspång",
+    "shareBB": 0.3829,
+    "shareCircle": 0.2241
+  },
+  {
+    "gem_id": "SE1452",
+    "country_id": "SE",
+    "name": "Tranemo",
+    "shareBB": 0.5108,
+    "shareCircle": 0.3757
+  },
+  {
+    "gem_id": "SE1460",
+    "country_id": "SE",
+    "name": "Bengtsfors",
+    "shareBB": 0.5009,
+    "shareCircle": 0.3939
+  },
+  {
+    "gem_id": "SE1461",
+    "country_id": "SE",
+    "name": "Mellerud",
+    "shareBB": 0.5989,
+    "shareCircle": 0.6183
+  },
+  {
+    "gem_id": "SE1462",
+    "country_id": "SE",
+    "name": "Lilla Edet",
+    "shareBB": 0.3943,
+    "shareCircle": 0.3504
+  },
+  {
+    "gem_id": "SE1463",
+    "country_id": "SE",
+    "name": "Mark",
+    "shareBB": 0.5921,
+    "shareCircle": 0.5398
+  },
+  {
+    "gem_id": "SE1465",
+    "country_id": "SE",
+    "name": "Svenljunga",
+    "shareBB": 0.5803,
+    "shareCircle": 0.359
+  },
+  {
+    "gem_id": "SE1466",
+    "country_id": "SE",
+    "name": "Herrljunga",
+    "shareBB": 0.5979,
+    "shareCircle": 0.6133
+  },
+  {
+    "gem_id": "SE1470",
+    "country_id": "SE",
+    "name": "Vara",
+    "shareBB": 0.63,
+    "shareCircle": 0.5946
+  },
+  {
+    "gem_id": "SE1471",
+    "country_id": "SE",
+    "name": "Götene",
+    "shareBB": 0.6501,
+    "shareCircle": 0.5844
+  },
+  {
+    "gem_id": "SE1472",
+    "country_id": "SE",
+    "name": "Tibro",
+    "shareBB": 0.5329,
+    "shareCircle": 0.4632
+  },
+  {
+    "gem_id": "SE1473",
+    "country_id": "SE",
+    "name": "Töreboda",
+    "shareBB": 0.5634,
+    "shareCircle": 0.5108
+  },
+  {
+    "gem_id": "SE1480",
+    "country_id": "SE",
+    "name": "Göteborg",
+    "shareBB": 0.297,
+    "shareCircle": 0.2674
+  },
+  {
+    "gem_id": "SE1481",
+    "country_id": "SE",
+    "name": "Mölndal",
+    "shareBB": 0.5249,
+    "shareCircle": 0.4495
+  },
+  {
+    "gem_id": "SE1482",
+    "country_id": "SE",
+    "name": "Kungälv",
+    "shareBB": 0.381,
+    "shareCircle": 0.3058
+  },
+  {
+    "gem_id": "SE1484",
+    "country_id": "SE",
+    "name": "Lysekil",
+    "shareBB": 0.3601,
+    "shareCircle": 0.2132
+  },
+  {
+    "gem_id": "SE1485",
+    "country_id": "SE",
+    "name": "Uddevalla",
+    "shareBB": 0.5008,
+    "shareCircle": 0.4609
+  },
+  {
+    "gem_id": "SE1486",
+    "country_id": "SE",
+    "name": "Strömstad",
+    "shareBB": 0.5117,
+    "shareCircle": 0.4556
+  },
+  {
+    "gem_id": "SE1487",
+    "country_id": "SE",
+    "name": "Vänersborg",
+    "shareBB": 0.5613,
+    "shareCircle": 0.5155
+  },
+  {
+    "gem_id": "SE1488",
+    "country_id": "SE",
+    "name": "Trollhättan",
+    "shareBB": 0.6111,
+    "shareCircle": 0.5797
+  },
+  {
+    "gem_id": "SE1489",
+    "country_id": "SE",
+    "name": "Alingsås",
+    "shareBB": 0.5454,
+    "shareCircle": 0.3012
+  },
+  {
+    "gem_id": "SE1490",
+    "country_id": "SE",
+    "name": "Borås",
+    "shareBB": 0.5633,
+    "shareCircle": 0.5437
+  },
+  {
+    "gem_id": "SE1491",
+    "country_id": "SE",
+    "name": "Ulricehamn",
+    "shareBB": 0.6226,
+    "shareCircle": 0.6756
+  },
+  {
+    "gem_id": "SE1492",
+    "country_id": "SE",
+    "name": "Åmål",
+    "shareBB": 0.6295,
+    "shareCircle": 0.4476
+  },
+  {
+    "gem_id": "SE1493",
+    "country_id": "SE",
+    "name": "Mariestad",
+    "shareBB": 0.5538,
+    "shareCircle": 0.5105
+  },
+  {
+    "gem_id": "SE1494",
+    "country_id": "SE",
+    "name": "Lidköping",
+    "shareBB": 0.57,
+    "shareCircle": 0.5087
+  },
+  {
+    "gem_id": "SE1495",
+    "country_id": "SE",
+    "name": "Skara",
+    "shareBB": 0.5367,
+    "shareCircle": 0.441
+  },
+  {
+    "gem_id": "SE1496",
+    "country_id": "SE",
+    "name": "Skövde",
+    "shareBB": 0.5654,
+    "shareCircle": 0.5586
+  },
+  {
+    "gem_id": "SE1497",
+    "country_id": "SE",
+    "name": "Hjo",
+    "shareBB": 0.5809,
+    "shareCircle": 0.557
+  },
+  {
+    "gem_id": "SE1498",
+    "country_id": "SE",
+    "name": "Tidaholm",
+    "shareBB": 0.6952,
+    "shareCircle": 0.6798
+  },
+  {
+    "gem_id": "SE1499",
+    "country_id": "SE",
+    "name": "Falköping",
+    "shareBB": 0.4463,
+    "shareCircle": 0.3853
+  },
+  {
+    "gem_id": "SE1715",
+    "country_id": "SE",
+    "name": "Kil",
+    "shareBB": 0.653,
+    "shareCircle": 0.619
+  },
+  {
+    "gem_id": "SE1730",
+    "country_id": "SE",
+    "name": "Eda",
+    "shareBB": 0.4713,
+    "shareCircle": 0.4084
+  },
+  {
+    "gem_id": "SE1737",
+    "country_id": "SE",
+    "name": "Torsby",
+    "shareBB": 0.4893,
+    "shareCircle": 0.4062
+  },
+  {
+    "gem_id": "SE1760",
+    "country_id": "SE",
+    "name": "Storfors",
+    "shareBB": 0.5547,
+    "shareCircle": 0.5037
+  },
+  {
+    "gem_id": "SE1761",
+    "country_id": "SE",
+    "name": "Hammarö",
+    "shareBB": 0.6589,
+    "shareCircle": 0.5035
+  },
+  {
+    "gem_id": "SE1762",
+    "country_id": "SE",
+    "name": "Munkfors",
+    "shareBB": 0.6345,
+    "shareCircle": 0.5708
+  },
+  {
+    "gem_id": "SE1763",
+    "country_id": "SE",
+    "name": "Forshaga",
+    "shareBB": 0.5675,
+    "shareCircle": 0.3414
+  },
+  {
+    "gem_id": "SE1764",
+    "country_id": "SE",
+    "name": "Grums",
+    "shareBB": 0.6209,
+    "shareCircle": 0.4092
+  },
+  {
+    "gem_id": "SE1765",
+    "country_id": "SE",
+    "name": "Årjäng",
+    "shareBB": 0.5787,
+    "shareCircle": 0.4856
+  },
+  {
+    "gem_id": "SE1766",
+    "country_id": "SE",
+    "name": "Sunne",
+    "shareBB": 0.5881,
+    "shareCircle": 0.4558
+  },
+  {
+    "gem_id": "SE1780",
+    "country_id": "SE",
+    "name": "Karlstad",
+    "shareBB": 0.4285,
+    "shareCircle": 0.3797
+  },
+  {
+    "gem_id": "SE1781",
+    "country_id": "SE",
+    "name": "Kristinehamn",
+    "shareBB": 0.6262,
+    "shareCircle": 0.5121
+  },
+  {
+    "gem_id": "SE1782",
+    "country_id": "SE",
+    "name": "Filipstad",
+    "shareBB": 0.5578,
+    "shareCircle": 0.3334
+  },
+  {
+    "gem_id": "SE1783",
+    "country_id": "SE",
+    "name": "Hagfors",
+    "shareBB": 0.5828,
+    "shareCircle": 0.4922
+  },
+  {
+    "gem_id": "SE1784",
+    "country_id": "SE",
+    "name": "Arvika",
+    "shareBB": 0.5128,
+    "shareCircle": 0.359
+  },
+  {
+    "gem_id": "SE1785",
+    "country_id": "SE",
+    "name": "Säffle",
+    "shareBB": 0.468,
+    "shareCircle": 0.3842
+  },
+  {
+    "gem_id": "SE1814",
+    "country_id": "SE",
+    "name": "Lekeberg",
+    "shareBB": 0.4855,
+    "shareCircle": 0.5199
+  },
+  {
+    "gem_id": "SE1860",
+    "country_id": "SE",
+    "name": "Laxå",
+    "shareBB": 0.5128,
+    "shareCircle": 0.3606
+  },
+  {
+    "gem_id": "SE1861",
+    "country_id": "SE",
+    "name": "Hallsberg",
+    "shareBB": 0.3208,
+    "shareCircle": 0.3108
+  },
+  {
+    "gem_id": "SE1862",
+    "country_id": "SE",
+    "name": "Degerfors",
+    "shareBB": 0.632,
+    "shareCircle": 0.3948
+  },
+  {
+    "gem_id": "SE1863",
+    "country_id": "SE",
+    "name": "Hällefors",
+    "shareBB": 0.519,
+    "shareCircle": 0.3661
+  },
+  {
+    "gem_id": "SE1864",
+    "country_id": "SE",
+    "name": "Ljusnarsberg",
+    "shareBB": 0.5977,
+    "shareCircle": 0.5188
+  },
+  {
+    "gem_id": "SE1880",
+    "country_id": "SE",
+    "name": "Örebro",
+    "shareBB": 0.4363,
+    "shareCircle": 0.4242
+  },
+  {
+    "gem_id": "SE1881",
+    "country_id": "SE",
+    "name": "Kumla",
+    "shareBB": 0.5121,
+    "shareCircle": 0.3447
+  },
+  {
+    "gem_id": "SE1882",
+    "country_id": "SE",
+    "name": "Askersund",
+    "shareBB": 0.5726,
+    "shareCircle": 0.6218
+  },
+  {
+    "gem_id": "SE1883",
+    "country_id": "SE",
+    "name": "Karlskoga",
+    "shareBB": 0.5877,
+    "shareCircle": 0.4598
+  },
+  {
+    "gem_id": "SE1884",
+    "country_id": "SE",
+    "name": "Nora",
+    "shareBB": 0.5429,
+    "shareCircle": 0.5114
+  },
+  {
+    "gem_id": "SE1885",
+    "country_id": "SE",
+    "name": "Lindesberg",
+    "shareBB": 0.4555,
+    "shareCircle": 0.3836
+  },
+  {
+    "gem_id": "SE1904",
+    "country_id": "SE",
+    "name": "Skinnskatteberg",
+    "shareBB": 0.6199,
+    "shareCircle": 0.548
+  },
+  {
+    "gem_id": "SE1907",
+    "country_id": "SE",
+    "name": "Surahammar",
+    "shareBB": 0.5915,
+    "shareCircle": 0.555
+  },
+  {
+    "gem_id": "SE1960",
+    "country_id": "SE",
+    "name": "Kungsör",
+    "shareBB": 0.6212,
+    "shareCircle": 0.4545
+  },
+  {
+    "gem_id": "SE1961",
+    "country_id": "SE",
+    "name": "Hallstahammar",
+    "shareBB": 0.4736,
+    "shareCircle": 0.3604
+  },
+  {
+    "gem_id": "SE1962",
+    "country_id": "SE",
+    "name": "Norberg",
+    "shareBB": 0.5649,
+    "shareCircle": 0.5624
+  },
+  {
+    "gem_id": "SE1980",
+    "country_id": "SE",
+    "name": "Västerås",
+    "shareBB": 0.6238,
+    "shareCircle": 0.5493
+  },
+  {
+    "gem_id": "SE1981",
+    "country_id": "SE",
+    "name": "Sala",
+    "shareBB": 0.5857,
+    "shareCircle": 0.5624
+  },
+  {
+    "gem_id": "SE1982",
+    "country_id": "SE",
+    "name": "Fagersta",
+    "shareBB": 0.592,
+    "shareCircle": 0.5895
+  },
+  {
+    "gem_id": "SE1983",
+    "country_id": "SE",
+    "name": "Köping",
+    "shareBB": 0.5134,
+    "shareCircle": 0.3777
+  },
+  {
+    "gem_id": "SE1984",
+    "country_id": "SE",
+    "name": "Arboga",
+    "shareBB": 0.4927,
+    "shareCircle": 0.3686
+  },
+  {
+    "gem_id": "SE2021",
+    "country_id": "SE",
+    "name": "Vansbro",
+    "shareBB": 0.7458,
+    "shareCircle": 0.6746
+  },
+  {
+    "gem_id": "SE2023",
+    "country_id": "SE",
+    "name": "Malung-Sälen",
+    "shareBB": 0.3763,
+    "shareCircle": 0.2239
+  },
+  {
+    "gem_id": "SE2026",
+    "country_id": "SE",
+    "name": "Gagnef",
+    "shareBB": 0.4685,
+    "shareCircle": 0.3597
+  },
+  {
+    "gem_id": "SE2029",
+    "country_id": "SE",
+    "name": "Leksand",
+    "shareBB": 0.47,
+    "shareCircle": 0.3523
+  },
+  {
+    "gem_id": "SE2031",
+    "country_id": "SE",
+    "name": "Rättvik",
+    "shareBB": 0.5329,
+    "shareCircle": 0.3631
+  },
+  {
+    "gem_id": "SE2034",
+    "country_id": "SE",
+    "name": "Orsa",
+    "shareBB": 0.6813,
+    "shareCircle": 0.5021
+  },
+  {
+    "gem_id": "SE2039",
+    "country_id": "SE",
+    "name": "Älvdalen",
+    "shareBB": 0.4387,
+    "shareCircle": 0.3195
+  },
+  {
+    "gem_id": "SE2061",
+    "country_id": "SE",
+    "name": "Smedjebacken",
+    "shareBB": 0.6277,
+    "shareCircle": 0.5571
+  },
+  {
+    "gem_id": "SE2062",
+    "country_id": "SE",
+    "name": "Mora",
+    "shareBB": 0.3644,
+    "shareCircle": 0.3442
+  },
+  {
+    "gem_id": "SE2080",
+    "country_id": "SE",
+    "name": "Falun",
+    "shareBB": 0.5574,
+    "shareCircle": 0.6442
+  },
+  {
+    "gem_id": "SE2081",
+    "country_id": "SE",
+    "name": "Borlänge",
+    "shareBB": 0.4721,
+    "shareCircle": 0.4714
+  },
+  {
+    "gem_id": "SE2082",
+    "country_id": "SE",
+    "name": "Säter",
+    "shareBB": 0.2873,
+    "shareCircle": 0.2107
+  },
+  {
+    "gem_id": "SE2083",
+    "country_id": "SE",
+    "name": "Hedemora",
+    "shareBB": 0.4751,
+    "shareCircle": 0.4475
+  },
+  {
+    "gem_id": "SE2084",
+    "country_id": "SE",
+    "name": "Avesta",
+    "shareBB": 0.5066,
+    "shareCircle": 0.5773
+  },
+  {
+    "gem_id": "SE2085",
+    "country_id": "SE",
+    "name": "Ludvika",
+    "shareBB": 0.5582,
+    "shareCircle": 0.5209
+  },
+  {
+    "gem_id": "SE2101",
+    "country_id": "SE",
+    "name": "Ockelbo",
+    "shareBB": 0.6776,
+    "shareCircle": 0.5904
+  },
+  {
+    "gem_id": "SE2104",
+    "country_id": "SE",
+    "name": "Hofors",
+    "shareBB": 0.5333,
+    "shareCircle": 0.4446
+  },
+  {
+    "gem_id": "SE2121",
+    "country_id": "SE",
+    "name": "Ovanåker",
+    "shareBB": 0.5426,
+    "shareCircle": 0.4886
+  },
+  {
+    "gem_id": "SE2132",
+    "country_id": "SE",
+    "name": "Nordanstig",
+    "shareBB": 0.3966,
+    "shareCircle": 0.2332
+  },
+  {
+    "gem_id": "SE2161",
+    "country_id": "SE",
+    "name": "Ljusdal",
+    "shareBB": 0.4955,
+    "shareCircle": 0.4766
+  },
+  {
+    "gem_id": "SE2180",
+    "country_id": "SE",
+    "name": "Gävle",
+    "shareBB": 0.4849,
+    "shareCircle": 0.2731
+  },
+  {
+    "gem_id": "SE2181",
+    "country_id": "SE",
+    "name": "Sandviken",
+    "shareBB": 0.4644,
+    "shareCircle": 0.3416
+  },
+  {
+    "gem_id": "SE2182",
+    "country_id": "SE",
+    "name": "Söderhamn",
+    "shareBB": 0.5235,
+    "shareCircle": 0.4335
+  },
+  {
+    "gem_id": "SE2183",
+    "country_id": "SE",
+    "name": "Bollnäs",
+    "shareBB": 0.6417,
+    "shareCircle": 0.4096
+  },
+  {
+    "gem_id": "SE2184",
+    "country_id": "SE",
+    "name": "Hudiksvall",
+    "shareBB": 0.386,
+    "shareCircle": 0.3035
+  },
+  {
+    "gem_id": "SE2260",
+    "country_id": "SE",
+    "name": "Ånge",
+    "shareBB": 0.6509,
+    "shareCircle": 0.4823
+  },
+  {
+    "gem_id": "SE2262",
+    "country_id": "SE",
+    "name": "Timrå",
+    "shareBB": 0.3766,
+    "shareCircle": 0.2935
+  },
+  {
+    "gem_id": "SE2280",
+    "country_id": "SE",
+    "name": "Härnösand",
+    "shareBB": 0.4806,
+    "shareCircle": 0.4337
+  },
+  {
+    "gem_id": "SE2281",
+    "country_id": "SE",
+    "name": "Sundsvall",
+    "shareBB": 0.5149,
+    "shareCircle": 0.446
+  },
+  {
+    "gem_id": "SE2282",
+    "country_id": "SE",
+    "name": "Kramfors",
+    "shareBB": 0.5207,
+    "shareCircle": 0.4476
+  },
+  {
+    "gem_id": "SE2283",
+    "country_id": "SE",
+    "name": "Sollefteå",
+    "shareBB": 0.3852,
+    "shareCircle": 0.4232
+  },
+  {
+    "gem_id": "SE2284",
+    "country_id": "SE",
+    "name": "Örnsköldsvik",
+    "shareBB": 0.5522,
+    "shareCircle": 0.5455
+  },
+  {
+    "gem_id": "SE2303",
+    "country_id": "SE",
+    "name": "Ragunda",
+    "shareBB": 0.3764,
+    "shareCircle": 0.3645
+  },
+  {
+    "gem_id": "SE2305",
+    "country_id": "SE",
+    "name": "Bräcke",
+    "shareBB": 0.6582,
+    "shareCircle": 0.5951
+  },
+  {
+    "gem_id": "SE2309",
+    "country_id": "SE",
+    "name": "Krokom",
+    "shareBB": 0.5635,
+    "shareCircle": 0.4591
+  },
+  {
+    "gem_id": "SE2313",
+    "country_id": "SE",
+    "name": "Strömsund",
+    "shareBB": 0.4019,
+    "shareCircle": 0.3629
+  },
+  {
+    "gem_id": "SE2321",
+    "country_id": "SE",
+    "name": "Åre",
+    "shareBB": 0.4979,
+    "shareCircle": 0.454
+  },
+  {
+    "gem_id": "SE2326",
+    "country_id": "SE",
+    "name": "Berg",
+    "shareBB": 0.4761,
+    "shareCircle": 0.329
+  },
+  {
+    "gem_id": "SE2361",
+    "country_id": "SE",
+    "name": "Härjedalen",
+    "shareBB": 0.5168,
+    "shareCircle": 0.4235
+  },
+  {
+    "gem_id": "SE2380",
+    "country_id": "SE",
+    "name": "Östersund",
+    "shareBB": 0.3807,
+    "shareCircle": 0.2982
+  },
+  {
+    "gem_id": "SE2401",
+    "country_id": "SE",
+    "name": "Nordmaling",
+    "shareBB": 0.4717,
+    "shareCircle": 0.4022
+  },
+  {
+    "gem_id": "SE2403",
+    "country_id": "SE",
+    "name": "Bjurholm",
+    "shareBB": 0.6007,
+    "shareCircle": 0.5365
+  },
+  {
+    "gem_id": "SE2404",
+    "country_id": "SE",
+    "name": "Vindeln",
+    "shareBB": 0.6043,
+    "shareCircle": 0.4933
+  },
+  {
+    "gem_id": "SE2409",
+    "country_id": "SE",
+    "name": "Robertsfors",
+    "shareBB": 0.4512,
+    "shareCircle": 0.407
+  },
+  {
+    "gem_id": "SE2417",
+    "country_id": "SE",
+    "name": "Norsjö",
+    "shareBB": 0.4926,
+    "shareCircle": 0.4461
+  },
+  {
+    "gem_id": "SE2418",
+    "country_id": "SE",
+    "name": "Malå",
+    "shareBB": 0.5232,
+    "shareCircle": 0.4669
+  },
+  {
+    "gem_id": "SE2421",
+    "country_id": "SE",
+    "name": "Storuman",
+    "shareBB": 0.3341,
+    "shareCircle": 0.2371
+  },
+  {
+    "gem_id": "SE2422",
+    "country_id": "SE",
+    "name": "Sorsele",
+    "shareBB": 0.3722,
+    "shareCircle": 0.2848
+  },
+  {
+    "gem_id": "SE2425",
+    "country_id": "SE",
+    "name": "Dorotea",
+    "shareBB": 0.2396,
+    "shareCircle": 0.1555
+  },
+  {
+    "gem_id": "SE2460",
+    "country_id": "SE",
+    "name": "Vännäs",
+    "shareBB": 0.5584,
+    "shareCircle": 0.5694
+  },
+  {
+    "gem_id": "SE2462",
+    "country_id": "SE",
+    "name": "Vilhelmina",
+    "shareBB": 0.4698,
+    "shareCircle": 0.3274
+  },
+  {
+    "gem_id": "SE2463",
+    "country_id": "SE",
+    "name": "Åsele",
+    "shareBB": 0.6031,
+    "shareCircle": 0.4988
+  },
+  {
+    "gem_id": "SE2480",
+    "country_id": "SE",
+    "name": "Umeå",
+    "shareBB": 0.3588,
+    "shareCircle": 0.288
+  },
+  {
+    "gem_id": "SE2481",
+    "country_id": "SE",
+    "name": "Lycksele",
+    "shareBB": 0.534,
+    "shareCircle": 0.4155
+  },
+  {
+    "gem_id": "SE2482",
+    "country_id": "SE",
+    "name": "Skellefteå",
+    "shareBB": 0.5569,
+    "shareCircle": 0.472
+  },
+  {
+    "gem_id": "SE2505",
+    "country_id": "SE",
+    "name": "Arvidsjaur",
+    "shareBB": 0.5897,
+    "shareCircle": 0.5849
+  },
+  {
+    "gem_id": "SE2506",
+    "country_id": "SE",
+    "name": "Arjeplog",
+    "shareBB": 0.5131,
+    "shareCircle": 0.4755
+  },
+  {
+    "gem_id": "SE2510",
+    "country_id": "SE",
+    "name": "Jokkmokk",
+    "shareBB": 0.3971,
+    "shareCircle": 0.3354
+  },
+  {
+    "gem_id": "SE2513",
+    "country_id": "SE",
+    "name": "Överkalix",
+    "shareBB": 0.5856,
+    "shareCircle": 0.4531
+  },
+  {
+    "gem_id": "SE2514",
+    "country_id": "SE",
+    "name": "Kalix",
+    "shareBB": 0.4011,
+    "shareCircle": 0.2819
+  },
+  {
+    "gem_id": "SE2518",
+    "country_id": "SE",
+    "name": "Övertorneå",
+    "shareBB": 0.5176,
+    "shareCircle": 0.3046
+  },
+  {
+    "gem_id": "SE2521",
+    "country_id": "SE",
+    "name": "Pajala",
+    "shareBB": 0.5126,
+    "shareCircle": 0.3741
+  },
+  {
+    "gem_id": "SE2523",
+    "country_id": "SE",
+    "name": "Gällivare",
+    "shareBB": 0.3713,
+    "shareCircle": 0.2636
+  },
+  {
+    "gem_id": "SE2560",
+    "country_id": "SE",
+    "name": "Älvsbyn",
+    "shareBB": 0.5877,
+    "shareCircle": 0.5679
+  },
+  {
+    "gem_id": "SE2580",
+    "country_id": "SE",
+    "name": "Luleå",
+    "shareBB": 0.3071,
+    "shareCircle": 0.2415
+  },
+  {
+    "gem_id": "SE2581",
+    "country_id": "SE",
+    "name": "Piteå",
+    "shareBB": 0.4538,
+    "shareCircle": 0.3221
+  },
+  {
+    "gem_id": "SE2582",
+    "country_id": "SE",
+    "name": "Boden",
+    "shareBB": 0.6004,
+    "shareCircle": 0.6281
+  },
+  {
+    "gem_id": "SE2583",
+    "country_id": "SE",
+    "name": "Haparanda",
+    "shareBB": 0.3054,
+    "shareCircle": 0.2685
+  },
+  {
+    "gem_id": "SE2584",
+    "country_id": "SE",
+    "name": "Kiruna",
+    "shareBB": 0.5341,
+    "shareCircle": 0.5118
+  }
+]

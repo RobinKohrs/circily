@@ -1,0 +1,478 @@
+[
+  {
+    "gem_id": "MT11101",
+    "country_id": "MT",
+    "name": "Valletta (Ċitta' Umilissima)",
+    "shareBB": 0.5317,
+    "shareCircle": 0.4775
+  },
+  {
+    "gem_id": "MT11103",
+    "country_id": "MT",
+    "name": "Birgu (Ċitta' Vittoriosa)",
+    "shareBB": 0.4589,
+    "shareCircle": 0.3369
+  },
+  {
+    "gem_id": "MT11104",
+    "country_id": "MT",
+    "name": "Isla (Ċitta' Invicta)",
+    "shareBB": 0.3259,
+    "shareCircle": 0.2348
+  },
+  {
+    "gem_id": "MT11105",
+    "country_id": "MT",
+    "name": "Bormla (Ċitta'  Cospicua)",
+    "shareBB": 0.5364,
+    "shareCircle": 0.3929
+  },
+  {
+    "gem_id": "MT11108",
+    "country_id": "MT",
+    "name": "Żabbar (Ċitta' Hompesch)",
+    "shareBB": 0.6475,
+    "shareCircle": 0.538
+  },
+  {
+    "gem_id": "MT11117",
+    "country_id": "MT",
+    "name": "Fgura",
+    "shareBB": 0.7413,
+    "shareCircle": 0.6238
+  },
+  {
+    "gem_id": "MT11118",
+    "country_id": "MT",
+    "name": "Floriana",
+    "shareBB": 0.542,
+    "shareCircle": 0.5536
+  },
+  {
+    "gem_id": "MT11129",
+    "country_id": "MT",
+    "name": "Kalkara",
+    "shareBB": 0.5527,
+    "shareCircle": 0.5011
+  },
+  {
+    "gem_id": "MT11133",
+    "country_id": "MT",
+    "name": "Luqa",
+    "shareBB": 0.297,
+    "shareCircle": 0.2683
+  },
+  {
+    "gem_id": "MT11134",
+    "country_id": "MT",
+    "name": "Marsa",
+    "shareBB": 0.5482,
+    "shareCircle": 0.4903
+  },
+  {
+    "gem_id": "MT11145",
+    "country_id": "MT",
+    "name": "Paola",
+    "shareBB": 0.5354,
+    "shareCircle": 0.3678
+  },
+  {
+    "gem_id": "MT11157",
+    "country_id": "MT",
+    "name": "Santa Luċija",
+    "shareBB": 0.5869,
+    "shareCircle": 0.445
+  },
+  {
+    "gem_id": "MT11162",
+    "country_id": "MT",
+    "name": "Tarxien",
+    "shareBB": 0.6309,
+    "shareCircle": 0.6593
+  },
+  {
+    "gem_id": "MT11165",
+    "country_id": "MT",
+    "name": "Xgħajra",
+    "shareBB": 0.4441,
+    "shareCircle": 0.4012
+  },
+  {
+    "gem_id": "MT11206",
+    "country_id": "MT",
+    "name": "Qormi (Ċitta' Pinto)",
+    "shareBB": 0.5395,
+    "shareCircle": 0.5685
+  },
+  {
+    "gem_id": "MT11214",
+    "country_id": "MT",
+    "name": "Birkirkara",
+    "shareBB": 0.6501,
+    "shareCircle": 0.5922
+  },
+  {
+    "gem_id": "MT11221",
+    "country_id": "MT",
+    "name": "Gżira",
+    "shareBB": 0.5688,
+    "shareCircle": 0.4657
+  },
+  {
+    "gem_id": "MT11227",
+    "country_id": "MT",
+    "name": "Ħamrun",
+    "shareBB": 0.5076,
+    "shareCircle": 0.3558
+  },
+  {
+    "gem_id": "MT11241",
+    "country_id": "MT",
+    "name": "Msida",
+    "shareBB": 0.649,
+    "shareCircle": 0.5679
+  },
+  {
+    "gem_id": "MT11246",
+    "country_id": "MT",
+    "name": "Pembroke",
+    "shareBB": 0.5896,
+    "shareCircle": 0.4786
+  },
+  {
+    "gem_id": "MT11247",
+    "country_id": "MT",
+    "name": "Pieta'",
+    "shareBB": 0.7458,
+    "shareCircle": 0.6584
+  },
+  {
+    "gem_id": "MT11252",
+    "country_id": "MT",
+    "name": "San Ġiljan",
+    "shareBB": 0.6028,
+    "shareCircle": 0.3807
+  },
+  {
+    "gem_id": "MT11253",
+    "country_id": "MT",
+    "name": "San Ġwann",
+    "shareBB": 0.6544,
+    "shareCircle": 0.5171
+  },
+  {
+    "gem_id": "MT11258",
+    "country_id": "MT",
+    "name": "Santa Venera",
+    "shareBB": 0.6591,
+    "shareCircle": 0.6155
+  },
+  {
+    "gem_id": "MT11259",
+    "country_id": "MT",
+    "name": "Sliema",
+    "shareBB": 0.6222,
+    "shareCircle": 0.4737
+  },
+  {
+    "gem_id": "MT11260",
+    "country_id": "MT",
+    "name": "Swieqi",
+    "shareBB": 0.4618,
+    "shareCircle": 0.3513
+  },
+  {
+    "gem_id": "MT11261",
+    "country_id": "MT",
+    "name": "Ta'  Xbiex",
+    "shareBB": 0.7064,
+    "shareCircle": 0.5273
+  },
+  {
+    "gem_id": "MT11310",
+    "country_id": "MT",
+    "name": "Żejtun (Ċitta' Beland)",
+    "shareBB": 0.6636,
+    "shareCircle": 0.5579
+  },
+  {
+    "gem_id": "MT11315",
+    "country_id": "MT",
+    "name": "Birżebbuġia",
+    "shareBB": 0.5376,
+    "shareCircle": 0.5384
+  },
+  {
+    "gem_id": "MT11320",
+    "country_id": "MT",
+    "name": "Gudja",
+    "shareBB": 0.7049,
+    "shareCircle": 0.5411
+  },
+  {
+    "gem_id": "MT11326",
+    "country_id": "MT",
+    "name": "Għaxaq",
+    "shareBB": 0.54,
+    "shareCircle": 0.4293
+  },
+  {
+    "gem_id": "MT11331",
+    "country_id": "MT",
+    "name": "Kirkop",
+    "shareBB": 0.5245,
+    "shareCircle": 0.5314
+  },
+  {
+    "gem_id": "MT11335",
+    "country_id": "MT",
+    "name": "Marsaskala",
+    "shareBB": 0.5406,
+    "shareCircle": 0.5099
+  },
+  {
+    "gem_id": "MT11336",
+    "country_id": "MT",
+    "name": "Marsaxlokk",
+    "shareBB": 0.4351,
+    "shareCircle": 0.3582
+  },
+  {
+    "gem_id": "MT11340",
+    "country_id": "MT",
+    "name": "Mqabba",
+    "shareBB": 0.5913,
+    "shareCircle": 0.379
+  },
+  {
+    "gem_id": "MT11349",
+    "country_id": "MT",
+    "name": "Qrendi",
+    "shareBB": 0.5659,
+    "shareCircle": 0.4284
+  },
+  {
+    "gem_id": "MT11351",
+    "country_id": "MT",
+    "name": "Safi",
+    "shareBB": 0.4825,
+    "shareCircle": 0.4953
+  },
+  {
+    "gem_id": "MT11367",
+    "country_id": "MT",
+    "name": "Żurrieq",
+    "shareBB": 0.5436,
+    "shareCircle": 0.4029
+  },
+  {
+    "gem_id": "MT11402",
+    "country_id": "MT",
+    "name": "Mdina (Ċitta' Notabile)",
+    "shareBB": 0.5585,
+    "shareCircle": 0.3871
+  },
+  {
+    "gem_id": "MT11407",
+    "country_id": "MT",
+    "name": "Żebbuġ (Malta) (Ċitta' Rohan)",
+    "shareBB": 0.6397,
+    "shareCircle": 0.4014
+  },
+  {
+    "gem_id": "MT11409",
+    "country_id": "MT",
+    "name": "Siġġiewi (Ċitta' Ferdinand)",
+    "shareBB": 0.5806,
+    "shareCircle": 0.4434
+  },
+  {
+    "gem_id": "MT11412",
+    "country_id": "MT",
+    "name": "Attard",
+    "shareBB": 0.6719,
+    "shareCircle": 0.4169
+  },
+  {
+    "gem_id": "MT11413",
+    "country_id": "MT",
+    "name": "Balzan",
+    "shareBB": 0.6088,
+    "shareCircle": 0.5638
+  },
+  {
+    "gem_id": "MT11416",
+    "country_id": "MT",
+    "name": "Dingli",
+    "shareBB": 0.6028,
+    "shareCircle": 0.5705
+  },
+  {
+    "gem_id": "MT11428",
+    "country_id": "MT",
+    "name": "Iklin",
+    "shareBB": 0.7158,
+    "shareCircle": 0.7342
+  },
+  {
+    "gem_id": "MT11432",
+    "country_id": "MT",
+    "name": "Lija",
+    "shareBB": 0.7013,
+    "shareCircle": 0.4351
+  },
+  {
+    "gem_id": "MT11450",
+    "country_id": "MT",
+    "name": "Rabat (Malta)",
+    "shareBB": 0.6441,
+    "shareCircle": 0.4153
+  },
+  {
+    "gem_id": "MT11468",
+    "country_id": "MT",
+    "name": "Mtarfa",
+    "shareBB": 0.4973,
+    "shareCircle": 0.4762
+  },
+  {
+    "gem_id": "MT11524",
+    "country_id": "MT",
+    "name": "Għargħur",
+    "shareBB": 0.584,
+    "shareCircle": 0.4346
+  },
+  {
+    "gem_id": "MT11537",
+    "country_id": "MT",
+    "name": "Mellieħa",
+    "shareBB": 0.4372,
+    "shareCircle": 0.487
+  },
+  {
+    "gem_id": "MT11538",
+    "country_id": "MT",
+    "name": "Mġarr",
+    "shareBB": 0.5253,
+    "shareCircle": 0.465
+  },
+  {
+    "gem_id": "MT11539",
+    "country_id": "MT",
+    "name": "Mosta",
+    "shareBB": 0.5745,
+    "shareCircle": 0.4155
+  },
+  {
+    "gem_id": "MT11544",
+    "country_id": "MT",
+    "name": "Naxxar",
+    "shareBB": 0.5289,
+    "shareCircle": 0.4724
+  },
+  {
+    "gem_id": "MT11555",
+    "country_id": "MT",
+    "name": "San Pawl Il-Baħar",
+    "shareBB": 0.527,
+    "shareCircle": 0.5051
+  },
+  {
+    "gem_id": "MT12611",
+    "country_id": "MT",
+    "name": "Rabat (Għawdex) (Ċitta' Vittoria)",
+    "shareBB": 0.5816,
+    "shareCircle": 0.4953
+  },
+  {
+    "gem_id": "MT12619",
+    "country_id": "MT",
+    "name": "Fontana",
+    "shareBB": 0.7262,
+    "shareCircle": 0.5315
+  },
+  {
+    "gem_id": "MT12622",
+    "country_id": "MT",
+    "name": "Għajnsielem u Kemmuna",
+    "shareBB": 0.2992,
+    "shareCircle": 0.1637
+  },
+  {
+    "gem_id": "MT12623",
+    "country_id": "MT",
+    "name": "Għarb",
+    "shareBB": 0.5144,
+    "shareCircle": 0.4213
+  },
+  {
+    "gem_id": "MT12625",
+    "country_id": "MT",
+    "name": "Għasri",
+    "shareBB": 0.5467,
+    "shareCircle": 0.4581
+  },
+  {
+    "gem_id": "MT12630",
+    "country_id": "MT",
+    "name": "Kerċem",
+    "shareBB": 0.5773,
+    "shareCircle": 0.4896
+  },
+  {
+    "gem_id": "MT12642",
+    "country_id": "MT",
+    "name": "Munxar",
+    "shareBB": 0.6968,
+    "shareCircle": 0.6174
+  },
+  {
+    "gem_id": "MT12643",
+    "country_id": "MT",
+    "name": "Nadur",
+    "shareBB": 0.6109,
+    "shareCircle": 0.5836
+  },
+  {
+    "gem_id": "MT12648",
+    "country_id": "MT",
+    "name": "Qala",
+    "shareBB": 0.6189,
+    "shareCircle": 0.5691
+  },
+  {
+    "gem_id": "MT12654",
+    "country_id": "MT",
+    "name": "San Lawrenż",
+    "shareBB": 0.614,
+    "shareCircle": 0.4419
+  },
+  {
+    "gem_id": "MT12656",
+    "country_id": "MT",
+    "name": "Sannat",
+    "shareBB": 0.5423,
+    "shareCircle": 0.3468
+  },
+  {
+    "gem_id": "MT12663",
+    "country_id": "MT",
+    "name": "Xagħra",
+    "shareBB": 0.636,
+    "shareCircle": 0.6036
+  },
+  {
+    "gem_id": "MT12664",
+    "country_id": "MT",
+    "name": "Xewkija",
+    "shareBB": 0.534,
+    "shareCircle": 0.4103
+  },
+  {
+    "gem_id": "MT12666",
+    "country_id": "MT",
+    "name": "Żebbuġ (Għawdex)",
+    "shareBB": 0.6282,
+    "shareCircle": 0.6026
+  }
+]

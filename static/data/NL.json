@@ -1,0 +1,2718 @@
+[
+  {
+    "gem_id": "NL200003",
+    "country_id": "NL",
+    "name": "Appingedam",
+    "shareBB": 0.7142,
+    "shareCircle": 0.6216
+  },
+  {
+    "gem_id": "NL200005",
+    "country_id": "NL",
+    "name": "Bedum",
+    "shareBB": 0.5729,
+    "shareCircle": 0.4431
+  },
+  {
+    "gem_id": "NL200007",
+    "country_id": "NL",
+    "name": "Bellingwedde",
+    "shareBB": 0.6487,
+    "shareCircle": 0.6002
+  },
+  {
+    "gem_id": "NL200009",
+    "country_id": "NL",
+    "name": "Ten Boer",
+    "shareBB": 0.5655,
+    "shareCircle": 0.497
+  },
+  {
+    "gem_id": "NL200010",
+    "country_id": "NL",
+    "name": "Delfzijl",
+    "shareBB": 0.3241,
+    "shareCircle": 0.2533
+  },
+  {
+    "gem_id": "NL200014",
+    "country_id": "NL",
+    "name": "Groningen",
+    "shareBB": 0.6175,
+    "shareCircle": 0.4163
+  },
+  {
+    "gem_id": "NL200015",
+    "country_id": "NL",
+    "name": "Grootegast",
+    "shareBB": 0.4159,
+    "shareCircle": 0.3395
+  },
+  {
+    "gem_id": "NL200017",
+    "country_id": "NL",
+    "name": "Haren",
+    "shareBB": 0.5322,
+    "shareCircle": 0.4568
+  },
+  {
+    "gem_id": "NL200018",
+    "country_id": "NL",
+    "name": "Hoogezand-Sappemeer",
+    "shareBB": 0.399,
+    "shareCircle": 0.3017
+  },
+  {
+    "gem_id": "NL200022",
+    "country_id": "NL",
+    "name": "Leek",
+    "shareBB": 0.3523,
+    "shareCircle": 0.2981
+  },
+  {
+    "gem_id": "NL200024",
+    "country_id": "NL",
+    "name": "Loppersum",
+    "shareBB": 0.4943,
+    "shareCircle": 0.5231
+  },
+  {
+    "gem_id": "NL200025",
+    "country_id": "NL",
+    "name": "Marum",
+    "shareBB": 0.4862,
+    "shareCircle": 0.4648
+  },
+  {
+    "gem_id": "NL200037",
+    "country_id": "NL",
+    "name": "Stadskanaal",
+    "shareBB": 0.4414,
+    "shareCircle": 0.4298
+  },
+  {
+    "gem_id": "NL200040",
+    "country_id": "NL",
+    "name": "Slochteren",
+    "shareBB": 0.5854,
+    "shareCircle": 0.5416
+  },
+  {
+    "gem_id": "NL200047",
+    "country_id": "NL",
+    "name": "Veendam",
+    "shareBB": 0.6803,
+    "shareCircle": 0.6171
+  },
+  {
+    "gem_id": "NL200048",
+    "country_id": "NL",
+    "name": "Vlagtwedde",
+    "shareBB": 0.4841,
+    "shareCircle": 0.328
+  },
+  {
+    "gem_id": "NL200053",
+    "country_id": "NL",
+    "name": "Winsum",
+    "shareBB": 0.5157,
+    "shareCircle": 0.3612
+  },
+  {
+    "gem_id": "NL200056",
+    "country_id": "NL",
+    "name": "Zuidhorn",
+    "shareBB": 0.4481,
+    "shareCircle": 0.451
+  },
+  {
+    "gem_id": "NL200765",
+    "country_id": "NL",
+    "name": "Pekela",
+    "shareBB": 0.4599,
+    "shareCircle": 0.4124
+  },
+  {
+    "gem_id": "NL201651",
+    "country_id": "NL",
+    "name": "Eemsmond",
+    "shareBB": 0.2882,
+    "shareCircle": 0.2462
+  },
+  {
+    "gem_id": "NL201663",
+    "country_id": "NL",
+    "name": "De Marne",
+    "shareBB": 0.5778,
+    "shareCircle": 0.3541
+  },
+  {
+    "gem_id": "NL201895",
+    "country_id": "NL",
+    "name": "Oldambt",
+    "shareBB": 0.6528,
+    "shareCircle": 0.6017
+  },
+  {
+    "gem_id": "NL201987",
+    "country_id": "NL",
+    "name": "Menterwolde",
+    "shareBB": 0.5549,
+    "shareCircle": 0.4794
+  },
+  {
+    "gem_id": "NL210058",
+    "country_id": "NL",
+    "name": "Dongeradeel",
+    "shareBB": 0.6174,
+    "shareCircle": 0.405
+  },
+  {
+    "gem_id": "NL210059",
+    "country_id": "NL",
+    "name": "Achtkarspelen",
+    "shareBB": 0.5338,
+    "shareCircle": 0.5199
+  },
+  {
+    "gem_id": "NL210060",
+    "country_id": "NL",
+    "name": "Ameland",
+    "shareBB": 0.4839,
+    "shareCircle": 0.1361
+  },
+  {
+    "gem_id": "NL210063",
+    "country_id": "NL",
+    "name": "Het Bildt",
+    "shareBB": 0.5634,
+    "shareCircle": 0.5249
+  },
+  {
+    "gem_id": "NL210070",
+    "country_id": "NL",
+    "name": "Franekeradeel",
+    "shareBB": 0.5662,
+    "shareCircle": 0.5603
+  },
+  {
+    "gem_id": "NL210072",
+    "country_id": "NL",
+    "name": "Harlingen",
+    "shareBB": 0.6036,
+    "shareCircle": 0.5679
+  },
+  {
+    "gem_id": "NL210074",
+    "country_id": "NL",
+    "name": "Heerenveen",
+    "shareBB": 0.3724,
+    "shareCircle": 0.3168
+  },
+  {
+    "gem_id": "NL210079",
+    "country_id": "NL",
+    "name": "Kollumerland en Nieuwkruisland",
+    "shareBB": 0.513,
+    "shareCircle": 0.3875
+  },
+  {
+    "gem_id": "NL210080",
+    "country_id": "NL",
+    "name": "Leeuwarden",
+    "shareBB": 0.5718,
+    "shareCircle": 0.4211
+  },
+  {
+    "gem_id": "NL210081",
+    "country_id": "NL",
+    "name": "Leeuwarderadeel",
+    "shareBB": 0.6537,
+    "shareCircle": 0.6099
+  },
+  {
+    "gem_id": "NL210085",
+    "country_id": "NL",
+    "name": "Ooststellingwerf",
+    "shareBB": 0.5227,
+    "shareCircle": 0.4844
+  },
+  {
+    "gem_id": "NL210086",
+    "country_id": "NL",
+    "name": "Opsterland",
+    "shareBB": 0.4746,
+    "shareCircle": 0.3713
+  },
+  {
+    "gem_id": "NL210088",
+    "country_id": "NL",
+    "name": "Schiermonnikoog",
+    "shareBB": 0.4027,
+    "shareCircle": 0.1541
+  },
+  {
+    "gem_id": "NL210090",
+    "country_id": "NL",
+    "name": "Smallingerland",
+    "shareBB": 0.6077,
+    "shareCircle": 0.3199
+  },
+  {
+    "gem_id": "NL210093",
+    "country_id": "NL",
+    "name": "Terschelling",
+    "shareBB": 0.153,
+    "shareCircle": 0.1246
+  },
+  {
+    "gem_id": "NL210096",
+    "country_id": "NL",
+    "name": "Vlieland",
+    "shareBB": 0.2046,
+    "shareCircle": 0.1219
+  },
+  {
+    "gem_id": "NL210098",
+    "country_id": "NL",
+    "name": "Weststellingwerf",
+    "shareBB": 0.5359,
+    "shareCircle": 0.3013
+  },
+  {
+    "gem_id": "NL210140",
+    "country_id": "NL",
+    "name": "Littenseradiel",
+    "shareBB": 0.6192,
+    "shareCircle": 0.5452
+  },
+  {
+    "gem_id": "NL210737",
+    "country_id": "NL",
+    "name": "Tytsjerksteradiel",
+    "shareBB": 0.4661,
+    "shareCircle": 0.3992
+  },
+  {
+    "gem_id": "NL211722",
+    "country_id": "NL",
+    "name": "Ferwerderadiel",
+    "shareBB": 0.6113,
+    "shareCircle": 0.5934
+  },
+  {
+    "gem_id": "NL211891",
+    "country_id": "NL",
+    "name": "Dantumadiel",
+    "shareBB": 0.6228,
+    "shareCircle": 0.5549
+  },
+  {
+    "gem_id": "NL211900",
+    "country_id": "NL",
+    "name": "Súdwest-Fryslân",
+    "shareBB": 0.5032,
+    "shareCircle": 0.4989
+  },
+  {
+    "gem_id": "NL211908",
+    "country_id": "NL",
+    "name": "Menameradiel",
+    "shareBB": 0.7104,
+    "shareCircle": 0.6022
+  },
+  {
+    "gem_id": "NL211940",
+    "country_id": "NL",
+    "name": "De Fryske Marren",
+    "shareBB": 0.4314,
+    "shareCircle": 0.3686
+  },
+  {
+    "gem_id": "NL220106",
+    "country_id": "NL",
+    "name": "Assen",
+    "shareBB": 0.5875,
+    "shareCircle": 0.4786
+  },
+  {
+    "gem_id": "NL220109",
+    "country_id": "NL",
+    "name": "Coevorden",
+    "shareBB": 0.5704,
+    "shareCircle": 0.4803
+  },
+  {
+    "gem_id": "NL220114",
+    "country_id": "NL",
+    "name": "Emmen",
+    "shareBB": 0.7022,
+    "shareCircle": 0.5666
+  },
+  {
+    "gem_id": "NL220118",
+    "country_id": "NL",
+    "name": "Hoogeveen",
+    "shareBB": 0.5144,
+    "shareCircle": 0.4694
+  },
+  {
+    "gem_id": "NL220119",
+    "country_id": "NL",
+    "name": "Meppel",
+    "shareBB": 0.4384,
+    "shareCircle": 0.3941
+  },
+  {
+    "gem_id": "NL221680",
+    "country_id": "NL",
+    "name": "Aa en Hunze",
+    "shareBB": 0.44,
+    "shareCircle": 0.5341
+  },
+  {
+    "gem_id": "NL221681",
+    "country_id": "NL",
+    "name": "Borger-Odoorn",
+    "shareBB": 0.6242,
+    "shareCircle": 0.6843
+  },
+  {
+    "gem_id": "NL221690",
+    "country_id": "NL",
+    "name": "De Wolden",
+    "shareBB": 0.5104,
+    "shareCircle": 0.4713
+  },
+  {
+    "gem_id": "NL221699",
+    "country_id": "NL",
+    "name": "Noordenveld",
+    "shareBB": 0.5338,
+    "shareCircle": 0.4264
+  },
+  {
+    "gem_id": "NL221701",
+    "country_id": "NL",
+    "name": "Westerveld",
+    "shareBB": 0.5426,
+    "shareCircle": 0.5904
+  },
+  {
+    "gem_id": "NL221730",
+    "country_id": "NL",
+    "name": "Tynaarlo",
+    "shareBB": 0.3878,
+    "shareCircle": 0.3862
+  },
+  {
+    "gem_id": "NL221731",
+    "country_id": "NL",
+    "name": "Midden-Drenthe",
+    "shareBB": 0.4669,
+    "shareCircle": 0.4663
+  },
+  {
+    "gem_id": "NL230141",
+    "country_id": "NL",
+    "name": "Almelo",
+    "shareBB": 0.6983,
+    "shareCircle": 0.5646
+  },
+  {
+    "gem_id": "NL230147",
+    "country_id": "NL",
+    "name": "Borne",
+    "shareBB": 0.5271,
+    "shareCircle": 0.5731
+  },
+  {
+    "gem_id": "NL230148",
+    "country_id": "NL",
+    "name": "Dalfsen",
+    "shareBB": 0.5769,
+    "shareCircle": 0.4739
+  },
+  {
+    "gem_id": "NL230150",
+    "country_id": "NL",
+    "name": "Deventer",
+    "shareBB": 0.6424,
+    "shareCircle": 0.4235
+  },
+  {
+    "gem_id": "NL230153",
+    "country_id": "NL",
+    "name": "Enschede",
+    "shareBB": 0.6741,
+    "shareCircle": 0.6913
+  },
+  {
+    "gem_id": "NL230158",
+    "country_id": "NL",
+    "name": "Haaksbergen",
+    "shareBB": 0.5857,
+    "shareCircle": 0.401
+  },
+  {
+    "gem_id": "NL230160",
+    "country_id": "NL",
+    "name": "Hardenberg",
+    "shareBB": 0.4405,
+    "shareCircle": 0.3947
+  },
+  {
+    "gem_id": "NL230163",
+    "country_id": "NL",
+    "name": "Hellendoorn",
+    "shareBB": 0.4802,
+    "shareCircle": 0.36
+  },
+  {
+    "gem_id": "NL230164",
+    "country_id": "NL",
+    "name": "Hengelo",
+    "shareBB": 0.439,
+    "shareCircle": 0.4109
+  },
+  {
+    "gem_id": "NL230166",
+    "country_id": "NL",
+    "name": "Kampen",
+    "shareBB": 0.5638,
+    "shareCircle": 0.5108
+  },
+  {
+    "gem_id": "NL230168",
+    "country_id": "NL",
+    "name": "Losser",
+    "shareBB": 0.5871,
+    "shareCircle": 0.3808
+  },
+  {
+    "gem_id": "NL230173",
+    "country_id": "NL",
+    "name": "Oldenzaal",
+    "shareBB": 0.6354,
+    "shareCircle": 0.6081
+  },
+  {
+    "gem_id": "NL230175",
+    "country_id": "NL",
+    "name": "Ommen",
+    "shareBB": 0.5238,
+    "shareCircle": 0.445
+  },
+  {
+    "gem_id": "NL230177",
+    "country_id": "NL",
+    "name": "Raalte",
+    "shareBB": 0.5007,
+    "shareCircle": 0.4412
+  },
+  {
+    "gem_id": "NL230180",
+    "country_id": "NL",
+    "name": "Staphorst",
+    "shareBB": 0.7054,
+    "shareCircle": 0.6255
+  },
+  {
+    "gem_id": "NL230183",
+    "country_id": "NL",
+    "name": "Tubbergen",
+    "shareBB": 0.4652,
+    "shareCircle": 0.4784
+  },
+  {
+    "gem_id": "NL230189",
+    "country_id": "NL",
+    "name": "Wierden",
+    "shareBB": 0.5288,
+    "shareCircle": 0.4462
+  },
+  {
+    "gem_id": "NL230193",
+    "country_id": "NL",
+    "name": "Zwolle",
+    "shareBB": 0.5283,
+    "shareCircle": 0.4804
+  },
+  {
+    "gem_id": "NL231700",
+    "country_id": "NL",
+    "name": "Twenterand",
+    "shareBB": 0.4835,
+    "shareCircle": 0.3732
+  },
+  {
+    "gem_id": "NL231708",
+    "country_id": "NL",
+    "name": "Steenwijkerland",
+    "shareBB": 0.5088,
+    "shareCircle": 0.5114
+  },
+  {
+    "gem_id": "NL231735",
+    "country_id": "NL",
+    "name": "Hof van Twente",
+    "shareBB": 0.592,
+    "shareCircle": 0.5183
+  },
+  {
+    "gem_id": "NL231742",
+    "country_id": "NL",
+    "name": "Rijssen-Holten",
+    "shareBB": 0.6626,
+    "shareCircle": 0.4912
+  },
+  {
+    "gem_id": "NL231773",
+    "country_id": "NL",
+    "name": "Olst-Wijhe",
+    "shareBB": 0.5939,
+    "shareCircle": 0.479
+  },
+  {
+    "gem_id": "NL231774",
+    "country_id": "NL",
+    "name": "Dinkelland",
+    "shareBB": 0.3835,
+    "shareCircle": 0.401
+  },
+  {
+    "gem_id": "NL231896",
+    "country_id": "NL",
+    "name": "Zwartewaterland",
+    "shareBB": 0.5247,
+    "shareCircle": 0.5101
+  },
+  {
+    "gem_id": "NL240034",
+    "country_id": "NL",
+    "name": "Almere",
+    "shareBB": 0.3863,
+    "shareCircle": 0.2374
+  },
+  {
+    "gem_id": "NL240050",
+    "country_id": "NL",
+    "name": "Zeewolde",
+    "shareBB": 0.5783,
+    "shareCircle": 0.5867
+  },
+  {
+    "gem_id": "NL240171",
+    "country_id": "NL",
+    "name": "Noordoostpolder",
+    "shareBB": 0.5255,
+    "shareCircle": 0.3687
+  },
+  {
+    "gem_id": "NL240184",
+    "country_id": "NL",
+    "name": "Urk",
+    "shareBB": 0.4012,
+    "shareCircle": 0.2814
+  },
+  {
+    "gem_id": "NL240303",
+    "country_id": "NL",
+    "name": "Dronten",
+    "shareBB": 0.5493,
+    "shareCircle": 0.4496
+  },
+  {
+    "gem_id": "NL240995",
+    "country_id": "NL",
+    "name": "Lelystad",
+    "shareBB": 0.6173,
+    "shareCircle": 0.6061
+  },
+  {
+    "gem_id": "NL250196",
+    "country_id": "NL",
+    "name": "Rijnwaarden",
+    "shareBB": 0.446,
+    "shareCircle": 0.2795
+  },
+  {
+    "gem_id": "NL250197",
+    "country_id": "NL",
+    "name": "Aalten",
+    "shareBB": 0.5148,
+    "shareCircle": 0.4291
+  },
+  {
+    "gem_id": "NL250200",
+    "country_id": "NL",
+    "name": "Apeldoorn",
+    "shareBB": 0.619,
+    "shareCircle": 0.5495
+  },
+  {
+    "gem_id": "NL250202",
+    "country_id": "NL",
+    "name": "Arnhem",
+    "shareBB": 0.5127,
+    "shareCircle": 0.4594
+  },
+  {
+    "gem_id": "NL250203",
+    "country_id": "NL",
+    "name": "Barneveld",
+    "shareBB": 0.5137,
+    "shareCircle": 0.4068
+  },
+  {
+    "gem_id": "NL250209",
+    "country_id": "NL",
+    "name": "Beuningen",
+    "shareBB": 0.5889,
+    "shareCircle": 0.5058
+  },
+  {
+    "gem_id": "NL250213",
+    "country_id": "NL",
+    "name": "Brummen",
+    "shareBB": 0.5124,
+    "shareCircle": 0.4119
+  },
+  {
+    "gem_id": "NL250214",
+    "country_id": "NL",
+    "name": "Buren",
+    "shareBB": 0.5077,
+    "shareCircle": 0.3261
+  },
+  {
+    "gem_id": "NL250216",
+    "country_id": "NL",
+    "name": "Culemborg",
+    "shareBB": 0.5426,
+    "shareCircle": 0.4123
+  },
+  {
+    "gem_id": "NL250221",
+    "country_id": "NL",
+    "name": "Doesburg",
+    "shareBB": 0.549,
+    "shareCircle": 0.3867
+  },
+  {
+    "gem_id": "NL250222",
+    "country_id": "NL",
+    "name": "Doetinchem",
+    "shareBB": 0.5377,
+    "shareCircle": 0.292
+  },
+  {
+    "gem_id": "NL250225",
+    "country_id": "NL",
+    "name": "Druten",
+    "shareBB": 0.5379,
+    "shareCircle": 0.4605
+  },
+  {
+    "gem_id": "NL250226",
+    "country_id": "NL",
+    "name": "Duiven",
+    "shareBB": 0.6527,
+    "shareCircle": 0.5215
+  },
+  {
+    "gem_id": "NL250228",
+    "country_id": "NL",
+    "name": "Ede",
+    "shareBB": 0.6666,
+    "shareCircle": 0.5172
+  },
+  {
+    "gem_id": "NL250230",
+    "country_id": "NL",
+    "name": "Elburg",
+    "shareBB": 0.4492,
+    "shareCircle": 0.4832
+  },
+  {
+    "gem_id": "NL250232",
+    "country_id": "NL",
+    "name": "Epe",
+    "shareBB": 0.5821,
+    "shareCircle": 0.5245
+  },
+  {
+    "gem_id": "NL250233",
+    "country_id": "NL",
+    "name": "Ermelo",
+    "shareBB": 0.5555,
+    "shareCircle": 0.4205
+  },
+  {
+    "gem_id": "NL250236",
+    "country_id": "NL",
+    "name": "Geldermalsen",
+    "shareBB": 0.7007,
+    "shareCircle": 0.5351
+  },
+  {
+    "gem_id": "NL250243",
+    "country_id": "NL",
+    "name": "Harderwijk",
+    "shareBB": 0.5625,
+    "shareCircle": 0.5969
+  },
+  {
+    "gem_id": "NL250244",
+    "country_id": "NL",
+    "name": "Hattem",
+    "shareBB": 0.4978,
+    "shareCircle": 0.4143
+  },
+  {
+    "gem_id": "NL250246",
+    "country_id": "NL",
+    "name": "Heerde",
+    "shareBB": 0.6165,
+    "shareCircle": 0.6326
+  },
+  {
+    "gem_id": "NL250252",
+    "country_id": "NL",
+    "name": "Heumen",
+    "shareBB": 0.6194,
+    "shareCircle": 0.4118
+  },
+  {
+    "gem_id": "NL250262",
+    "country_id": "NL",
+    "name": "Lochem",
+    "shareBB": 0.5648,
+    "shareCircle": 0.4149
+  },
+  {
+    "gem_id": "NL250263",
+    "country_id": "NL",
+    "name": "Maasdriel",
+    "shareBB": 0.4081,
+    "shareCircle": 0.2866
+  },
+  {
+    "gem_id": "NL250267",
+    "country_id": "NL",
+    "name": "Nijkerk",
+    "shareBB": 0.4067,
+    "shareCircle": 0.3314
+  },
+  {
+    "gem_id": "NL250268",
+    "country_id": "NL",
+    "name": "Nijmegen",
+    "shareBB": 0.4953,
+    "shareCircle": 0.511
+  },
+  {
+    "gem_id": "NL250269",
+    "country_id": "NL",
+    "name": "Oldebroek",
+    "shareBB": 0.505,
+    "shareCircle": 0.5328
+  },
+  {
+    "gem_id": "NL250273",
+    "country_id": "NL",
+    "name": "Putten",
+    "shareBB": 0.6121,
+    "shareCircle": 0.5247
+  },
+  {
+    "gem_id": "NL250274",
+    "country_id": "NL",
+    "name": "Renkum",
+    "shareBB": 0.6264,
+    "shareCircle": 0.5136
+  },
+  {
+    "gem_id": "NL250275",
+    "country_id": "NL",
+    "name": "Rheden",
+    "shareBB": 0.5267,
+    "shareCircle": 0.5128
+  },
+  {
+    "gem_id": "NL250277",
+    "country_id": "NL",
+    "name": "Rozendaal",
+    "shareBB": 0.6267,
+    "shareCircle": 0.4117
+  },
+  {
+    "gem_id": "NL250279",
+    "country_id": "NL",
+    "name": "Scherpenzeel",
+    "shareBB": 0.5617,
+    "shareCircle": 0.5469
+  },
+  {
+    "gem_id": "NL250281",
+    "country_id": "NL",
+    "name": "Tiel",
+    "shareBB": 0.4514,
+    "shareCircle": 0.3244
+  },
+  {
+    "gem_id": "NL250285",
+    "country_id": "NL",
+    "name": "Voorst",
+    "shareBB": 0.5545,
+    "shareCircle": 0.3605
+  },
+  {
+    "gem_id": "NL250289",
+    "country_id": "NL",
+    "name": "Wageningen",
+    "shareBB": 0.5387,
+    "shareCircle": 0.3869
+  },
+  {
+    "gem_id": "NL250293",
+    "country_id": "NL",
+    "name": "Westervoort",
+    "shareBB": 0.4582,
+    "shareCircle": 0.3352
+  },
+  {
+    "gem_id": "NL250294",
+    "country_id": "NL",
+    "name": "Winterswijk",
+    "shareBB": 0.6174,
+    "shareCircle": 0.6735
+  },
+  {
+    "gem_id": "NL250296",
+    "country_id": "NL",
+    "name": "Wijchen",
+    "shareBB": 0.4663,
+    "shareCircle": 0.4216
+  },
+  {
+    "gem_id": "NL250297",
+    "country_id": "NL",
+    "name": "Zaltbommel",
+    "shareBB": 0.4511,
+    "shareCircle": 0.2872
+  },
+  {
+    "gem_id": "NL250299",
+    "country_id": "NL",
+    "name": "Zevenaar",
+    "shareBB": 0.3858,
+    "shareCircle": 0.3296
+  },
+  {
+    "gem_id": "NL250301",
+    "country_id": "NL",
+    "name": "Zutphen",
+    "shareBB": 0.3617,
+    "shareCircle": 0.3253
+  },
+  {
+    "gem_id": "NL250302",
+    "country_id": "NL",
+    "name": "Nunspeet",
+    "shareBB": 0.6059,
+    "shareCircle": 0.5599
+  },
+  {
+    "gem_id": "NL250304",
+    "country_id": "NL",
+    "name": "Neerijnen",
+    "shareBB": 0.631,
+    "shareCircle": 0.2788
+  },
+  {
+    "gem_id": "NL250668",
+    "country_id": "NL",
+    "name": "West Maas en Waal",
+    "shareBB": 0.6526,
+    "shareCircle": 0.5193
+  },
+  {
+    "gem_id": "NL250733",
+    "country_id": "NL",
+    "name": "Lingewaal",
+    "shareBB": 0.5897,
+    "shareCircle": 0.4583
+  },
+  {
+    "gem_id": "NL251509",
+    "country_id": "NL",
+    "name": "Oude IJsselstreek",
+    "shareBB": 0.4973,
+    "shareCircle": 0.4414
+  },
+  {
+    "gem_id": "NL251586",
+    "country_id": "NL",
+    "name": "Oost Gelre",
+    "shareBB": 0.5914,
+    "shareCircle": 0.4975
+  },
+  {
+    "gem_id": "NL251705",
+    "country_id": "NL",
+    "name": "Lingewaard",
+    "shareBB": 0.4544,
+    "shareCircle": 0.4618
+  },
+  {
+    "gem_id": "NL251734",
+    "country_id": "NL",
+    "name": "Overbetuwe",
+    "shareBB": 0.5922,
+    "shareCircle": 0.4972
+  },
+  {
+    "gem_id": "NL251740",
+    "country_id": "NL",
+    "name": "Neder-Betuwe",
+    "shareBB": 0.5654,
+    "shareCircle": 0.2714
+  },
+  {
+    "gem_id": "NL251859",
+    "country_id": "NL",
+    "name": "Berkelland",
+    "shareBB": 0.5972,
+    "shareCircle": 0.5315
+  },
+  {
+    "gem_id": "NL251876",
+    "country_id": "NL",
+    "name": "Bronckhorst",
+    "shareBB": 0.6108,
+    "shareCircle": 0.5425
+  },
+  {
+    "gem_id": "NL251945",
+    "country_id": "NL",
+    "name": "Berg en Dal",
+    "shareBB": 0.4656,
+    "shareCircle": 0.4198
+  },
+  {
+    "gem_id": "NL251955",
+    "country_id": "NL",
+    "name": "Montferland",
+    "shareBB": 0.5035,
+    "shareCircle": 0.3536
+  },
+  {
+    "gem_id": "NL260307",
+    "country_id": "NL",
+    "name": "Amersfoort",
+    "shareBB": 0.4325,
+    "shareCircle": 0.3954
+  },
+  {
+    "gem_id": "NL260308",
+    "country_id": "NL",
+    "name": "Baarn",
+    "shareBB": 0.5405,
+    "shareCircle": 0.4072
+  },
+  {
+    "gem_id": "NL260310",
+    "country_id": "NL",
+    "name": "De Bilt",
+    "shareBB": 0.5693,
+    "shareCircle": 0.4718
+  },
+  {
+    "gem_id": "NL260312",
+    "country_id": "NL",
+    "name": "Bunnik",
+    "shareBB": 0.4777,
+    "shareCircle": 0.3435
+  },
+  {
+    "gem_id": "NL260313",
+    "country_id": "NL",
+    "name": "Bunschoten",
+    "shareBB": 0.5894,
+    "shareCircle": 0.4695
+  },
+  {
+    "gem_id": "NL260317",
+    "country_id": "NL",
+    "name": "Eemnes",
+    "shareBB": 0.5226,
+    "shareCircle": 0.3856
+  },
+  {
+    "gem_id": "NL260321",
+    "country_id": "NL",
+    "name": "Houten",
+    "shareBB": 0.5241,
+    "shareCircle": 0.4459
+  },
+  {
+    "gem_id": "NL260327",
+    "country_id": "NL",
+    "name": "Leusden",
+    "shareBB": 0.5366,
+    "shareCircle": 0.3703
+  },
+  {
+    "gem_id": "NL260331",
+    "country_id": "NL",
+    "name": "Lopik",
+    "shareBB": 0.5554,
+    "shareCircle": 0.4112
+  },
+  {
+    "gem_id": "NL260335",
+    "country_id": "NL",
+    "name": "Montfoort",
+    "shareBB": 0.4942,
+    "shareCircle": 0.4513
+  },
+  {
+    "gem_id": "NL260339",
+    "country_id": "NL",
+    "name": "Renswoude",
+    "shareBB": 0.5657,
+    "shareCircle": 0.4289
+  },
+  {
+    "gem_id": "NL260340",
+    "country_id": "NL",
+    "name": "Rhenen",
+    "shareBB": 0.497,
+    "shareCircle": 0.4652
+  },
+  {
+    "gem_id": "NL260342",
+    "country_id": "NL",
+    "name": "Soest",
+    "shareBB": 0.6104,
+    "shareCircle": 0.5402
+  },
+  {
+    "gem_id": "NL260344",
+    "country_id": "NL",
+    "name": "Utrecht",
+    "shareBB": 0.5074,
+    "shareCircle": 0.4798
+  },
+  {
+    "gem_id": "NL260345",
+    "country_id": "NL",
+    "name": "Veenendaal",
+    "shareBB": 0.6238,
+    "shareCircle": 0.6842
+  },
+  {
+    "gem_id": "NL260351",
+    "country_id": "NL",
+    "name": "Woudenberg",
+    "shareBB": 0.3516,
+    "shareCircle": 0.2293
+  },
+  {
+    "gem_id": "NL260352",
+    "country_id": "NL",
+    "name": "Wijk bij Duurstede",
+    "shareBB": 0.5427,
+    "shareCircle": 0.4684
+  },
+  {
+    "gem_id": "NL260353",
+    "country_id": "NL",
+    "name": "IJsselstein",
+    "shareBB": 0.4244,
+    "shareCircle": 0.3842
+  },
+  {
+    "gem_id": "NL260355",
+    "country_id": "NL",
+    "name": "Zeist",
+    "shareBB": 0.4107,
+    "shareCircle": 0.3699
+  },
+  {
+    "gem_id": "NL260356",
+    "country_id": "NL",
+    "name": "Nieuwegein",
+    "shareBB": 0.7563,
+    "shareCircle": 0.5573
+  },
+  {
+    "gem_id": "NL260589",
+    "country_id": "NL",
+    "name": "Oudewater",
+    "shareBB": 0.542,
+    "shareCircle": 0.6299
+  },
+  {
+    "gem_id": "NL260620",
+    "country_id": "NL",
+    "name": "Vianen",
+    "shareBB": 0.5585,
+    "shareCircle": 0.5688
+  },
+  {
+    "gem_id": "NL260632",
+    "country_id": "NL",
+    "name": "Woerden",
+    "shareBB": 0.5872,
+    "shareCircle": 0.4923
+  },
+  {
+    "gem_id": "NL260736",
+    "country_id": "NL",
+    "name": "De Ronde Venen",
+    "shareBB": 0.4777,
+    "shareCircle": 0.4209
+  },
+  {
+    "gem_id": "NL261581",
+    "country_id": "NL",
+    "name": "Utrechtse Heuvelrug",
+    "shareBB": 0.5282,
+    "shareCircle": 0.4516
+  },
+  {
+    "gem_id": "NL261904",
+    "country_id": "NL",
+    "name": "Stichtse Vecht",
+    "shareBB": 0.3935,
+    "shareCircle": 0.3499
+  },
+  {
+    "gem_id": "NL270358",
+    "country_id": "NL",
+    "name": "Aalsmeer",
+    "shareBB": 0.3152,
+    "shareCircle": 0.2585
+  },
+  {
+    "gem_id": "NL270361",
+    "country_id": "NL",
+    "name": "Alkmaar",
+    "shareBB": 0.4447,
+    "shareCircle": 0.4346
+  },
+  {
+    "gem_id": "NL270362",
+    "country_id": "NL",
+    "name": "Amstelveen",
+    "shareBB": 0.5482,
+    "shareCircle": 0.5502
+  },
+  {
+    "gem_id": "NL270363",
+    "country_id": "NL",
+    "name": "Amsterdam",
+    "shareBB": 0.5131,
+    "shareCircle": 0.464
+  },
+  {
+    "gem_id": "NL270370",
+    "country_id": "NL",
+    "name": "Beemster",
+    "shareBB": 0.5618,
+    "shareCircle": 0.5953
+  },
+  {
+    "gem_id": "NL270373",
+    "country_id": "NL",
+    "name": "Bergen",
+    "shareBB": 0.4752,
+    "shareCircle": 0.2996
+  },
+  {
+    "gem_id": "NL270375",
+    "country_id": "NL",
+    "name": "Beverwijk",
+    "shareBB": 0.419,
+    "shareCircle": 0.3271
+  },
+  {
+    "gem_id": "NL270376",
+    "country_id": "NL",
+    "name": "Blaricum",
+    "shareBB": 0.3045,
+    "shareCircle": 0.2289
+  },
+  {
+    "gem_id": "NL270377",
+    "country_id": "NL",
+    "name": "Bloemendaal",
+    "shareBB": 0.4404,
+    "shareCircle": 0.2543
+  },
+  {
+    "gem_id": "NL270383",
+    "country_id": "NL",
+    "name": "Castricum",
+    "shareBB": 0.6113,
+    "shareCircle": 0.4328
+  },
+  {
+    "gem_id": "NL270384",
+    "country_id": "NL",
+    "name": "Diemen",
+    "shareBB": 0.4564,
+    "shareCircle": 0.3545
+  },
+  {
+    "gem_id": "NL270385",
+    "country_id": "NL",
+    "name": "Edam-Volendam",
+    "shareBB": 0.5475,
+    "shareCircle": 0.4272
+  },
+  {
+    "gem_id": "NL270388",
+    "country_id": "NL",
+    "name": "Enkhuizen",
+    "shareBB": 0.5743,
+    "shareCircle": 0.4046
+  },
+  {
+    "gem_id": "NL270392",
+    "country_id": "NL",
+    "name": "Haarlem",
+    "shareBB": 0.5461,
+    "shareCircle": 0.4085
+  },
+  {
+    "gem_id": "NL270393",
+    "country_id": "NL",
+    "name": "Haarlemmerliede en Spaarnwoude",
+    "shareBB": 0.5666,
+    "shareCircle": 0.4909
+  },
+  {
+    "gem_id": "NL270394",
+    "country_id": "NL",
+    "name": "Haarlemmermeer",
+    "shareBB": 0.5241,
+    "shareCircle": 0.4681
+  },
+  {
+    "gem_id": "NL270396",
+    "country_id": "NL",
+    "name": "Heemskerk",
+    "shareBB": 0.5589,
+    "shareCircle": 0.411
+  },
+  {
+    "gem_id": "NL270397",
+    "country_id": "NL",
+    "name": "Heemstede",
+    "shareBB": 0.5851,
+    "shareCircle": 0.5404
+  },
+  {
+    "gem_id": "NL270398",
+    "country_id": "NL",
+    "name": "Heerhugowaard",
+    "shareBB": 0.4942,
+    "shareCircle": 0.4385
+  },
+  {
+    "gem_id": "NL270399",
+    "country_id": "NL",
+    "name": "Heiloo",
+    "shareBB": 0.6637,
+    "shareCircle": 0.6863
+  },
+  {
+    "gem_id": "NL270400",
+    "country_id": "NL",
+    "name": "Den Helder",
+    "shareBB": 0.7015,
+    "shareCircle": 0.5206
+  },
+  {
+    "gem_id": "NL270402",
+    "country_id": "NL",
+    "name": "Hilversum",
+    "shareBB": 0.5065,
+    "shareCircle": 0.3329
+  },
+  {
+    "gem_id": "NL270405",
+    "country_id": "NL",
+    "name": "Hoorn",
+    "shareBB": 0.5781,
+    "shareCircle": 0.4876
+  },
+  {
+    "gem_id": "NL270406",
+    "country_id": "NL",
+    "name": "Huizen",
+    "shareBB": 0.4359,
+    "shareCircle": 0.3835
+  },
+  {
+    "gem_id": "NL270415",
+    "country_id": "NL",
+    "name": "Landsmeer",
+    "shareBB": 0.7521,
+    "shareCircle": 0.4358
+  },
+  {
+    "gem_id": "NL270416",
+    "country_id": "NL",
+    "name": "Langedijk",
+    "shareBB": 0.4189,
+    "shareCircle": 0.4264
+  },
+  {
+    "gem_id": "NL270417",
+    "country_id": "NL",
+    "name": "Laren",
+    "shareBB": 0.4936,
+    "shareCircle": 0.3528
+  },
+  {
+    "gem_id": "NL270420",
+    "country_id": "NL",
+    "name": "Medemblik",
+    "shareBB": 0.4399,
+    "shareCircle": 0.3418
+  },
+  {
+    "gem_id": "NL270431",
+    "country_id": "NL",
+    "name": "Oostzaan",
+    "shareBB": 0.599,
+    "shareCircle": 0.5051
+  },
+  {
+    "gem_id": "NL270432",
+    "country_id": "NL",
+    "name": "Opmeer",
+    "shareBB": 0.5968,
+    "shareCircle": 0.5818
+  },
+  {
+    "gem_id": "NL270437",
+    "country_id": "NL",
+    "name": "Ouder-Amstel",
+    "shareBB": 0.4484,
+    "shareCircle": 0.2719
+  },
+  {
+    "gem_id": "NL270439",
+    "country_id": "NL",
+    "name": "Purmerend",
+    "shareBB": 0.5113,
+    "shareCircle": 0.5044
+  },
+  {
+    "gem_id": "NL270441",
+    "country_id": "NL",
+    "name": "Schagen",
+    "shareBB": 0.6067,
+    "shareCircle": 0.4719
+  },
+  {
+    "gem_id": "NL270448",
+    "country_id": "NL",
+    "name": "Texel",
+    "shareBB": 0.5208,
+    "shareCircle": 0.3542
+  },
+  {
+    "gem_id": "NL270450",
+    "country_id": "NL",
+    "name": "Uitgeest",
+    "shareBB": 0.5728,
+    "shareCircle": 0.6227
+  },
+  {
+    "gem_id": "NL270451",
+    "country_id": "NL",
+    "name": "Uithoorn",
+    "shareBB": 0.3864,
+    "shareCircle": 0.2923
+  },
+  {
+    "gem_id": "NL270453",
+    "country_id": "NL",
+    "name": "Velsen",
+    "shareBB": 0.4935,
+    "shareCircle": 0.4488
+  },
+  {
+    "gem_id": "NL270457",
+    "country_id": "NL",
+    "name": "Weesp",
+    "shareBB": 0.6787,
+    "shareCircle": 0.4816
+  },
+  {
+    "gem_id": "NL270473",
+    "country_id": "NL",
+    "name": "Zandvoort",
+    "shareBB": 0.4847,
+    "shareCircle": 0.4503
+  },
+  {
+    "gem_id": "NL270479",
+    "country_id": "NL",
+    "name": "Zaanstad",
+    "shareBB": 0.5556,
+    "shareCircle": 0.5365
+  },
+  {
+    "gem_id": "NL270498",
+    "country_id": "NL",
+    "name": "Drechterland",
+    "shareBB": 0.6195,
+    "shareCircle": 0.6429
+  },
+  {
+    "gem_id": "NL270532",
+    "country_id": "NL",
+    "name": "Stede Broec",
+    "shareBB": 0.6537,
+    "shareCircle": 0.4953
+  },
+  {
+    "gem_id": "NL270852",
+    "country_id": "NL",
+    "name": "Waterland",
+    "shareBB": 0.5952,
+    "shareCircle": 0.4695
+  },
+  {
+    "gem_id": "NL270880",
+    "country_id": "NL",
+    "name": "Wormerland",
+    "shareBB": 0.5511,
+    "shareCircle": 0.5778
+  },
+  {
+    "gem_id": "NL271598",
+    "country_id": "NL",
+    "name": "Koggenland",
+    "shareBB": 0.6041,
+    "shareCircle": 0.6203
+  },
+  {
+    "gem_id": "NL271696",
+    "country_id": "NL",
+    "name": "Wijdemeren",
+    "shareBB": 0.71,
+    "shareCircle": 0.5565
+  },
+  {
+    "gem_id": "NL271911",
+    "country_id": "NL",
+    "name": "Hollands Kroon",
+    "shareBB": 0.4976,
+    "shareCircle": 0.4332
+  },
+  {
+    "gem_id": "NL271942",
+    "country_id": "NL",
+    "name": "Gooise Meren",
+    "shareBB": 0.3445,
+    "shareCircle": 0.3577
+  },
+  {
+    "gem_id": "NL280482",
+    "country_id": "NL",
+    "name": "Alblasserdam",
+    "shareBB": 0.4103,
+    "shareCircle": 0.3499
+  },
+  {
+    "gem_id": "NL280484",
+    "country_id": "NL",
+    "name": "Alphen aan den Rijn",
+    "shareBB": 0.6983,
+    "shareCircle": 0.5621
+  },
+  {
+    "gem_id": "NL280489",
+    "country_id": "NL",
+    "name": "Barendrecht",
+    "shareBB": 0.725,
+    "shareCircle": 0.6519
+  },
+  {
+    "gem_id": "NL280501",
+    "country_id": "NL",
+    "name": "Brielle",
+    "shareBB": 0.4895,
+    "shareCircle": 0.4206
+  },
+  {
+    "gem_id": "NL280502",
+    "country_id": "NL",
+    "name": "Capelle aan den IJssel",
+    "shareBB": 0.4187,
+    "shareCircle": 0.3793
+  },
+  {
+    "gem_id": "NL280503",
+    "country_id": "NL",
+    "name": "Delft",
+    "shareBB": 0.5766,
+    "shareCircle": 0.4992
+  },
+  {
+    "gem_id": "NL280505",
+    "country_id": "NL",
+    "name": "Dordrecht",
+    "shareBB": 0.4469,
+    "shareCircle": 0.2725
+  },
+  {
+    "gem_id": "NL280512",
+    "country_id": "NL",
+    "name": "Gorinchem",
+    "shareBB": 0.5644,
+    "shareCircle": 0.4619
+  },
+  {
+    "gem_id": "NL280513",
+    "country_id": "NL",
+    "name": "Gouda",
+    "shareBB": 0.5754,
+    "shareCircle": 0.504
+  },
+  {
+    "gem_id": "NL280518",
+    "country_id": "NL",
+    "name": "'s-Gravenhage",
+    "shareBB": 0.4455,
+    "shareCircle": 0.4562
+  },
+  {
+    "gem_id": "NL280523",
+    "country_id": "NL",
+    "name": "Hardinxveld-Giessendam",
+    "shareBB": 0.4545,
+    "shareCircle": 0.3266
+  },
+  {
+    "gem_id": "NL280530",
+    "country_id": "NL",
+    "name": "Hellevoetsluis",
+    "shareBB": 0.519,
+    "shareCircle": 0.5315
+  },
+  {
+    "gem_id": "NL280531",
+    "country_id": "NL",
+    "name": "Hendrik-Ido-Ambacht",
+    "shareBB": 0.4563,
+    "shareCircle": 0.4437
+  },
+  {
+    "gem_id": "NL280534",
+    "country_id": "NL",
+    "name": "Hillegom",
+    "shareBB": 0.5301,
+    "shareCircle": 0.5346
+  },
+  {
+    "gem_id": "NL280537",
+    "country_id": "NL",
+    "name": "Katwijk",
+    "shareBB": 0.5588,
+    "shareCircle": 0.5759
+  },
+  {
+    "gem_id": "NL280542",
+    "country_id": "NL",
+    "name": "Krimpen aan den IJssel",
+    "shareBB": 0.4799,
+    "shareCircle": 0.2812
+  },
+  {
+    "gem_id": "NL280545",
+    "country_id": "NL",
+    "name": "Leerdam",
+    "shareBB": 0.3896,
+    "shareCircle": 0.3082
+  },
+  {
+    "gem_id": "NL280546",
+    "country_id": "NL",
+    "name": "Leiden",
+    "shareBB": 0.5786,
+    "shareCircle": 0.4981
+  },
+  {
+    "gem_id": "NL280547",
+    "country_id": "NL",
+    "name": "Leiderdorp",
+    "shareBB": 0.5732,
+    "shareCircle": 0.4053
+  },
+  {
+    "gem_id": "NL280553",
+    "country_id": "NL",
+    "name": "Lisse",
+    "shareBB": 0.5374,
+    "shareCircle": 0.3972
+  },
+  {
+    "gem_id": "NL280556",
+    "country_id": "NL",
+    "name": "Maassluis",
+    "shareBB": 0.3864,
+    "shareCircle": 0.4089
+  },
+  {
+    "gem_id": "NL280569",
+    "country_id": "NL",
+    "name": "Nieuwkoop",
+    "shareBB": 0.4785,
+    "shareCircle": 0.5522
+  },
+  {
+    "gem_id": "NL280575",
+    "country_id": "NL",
+    "name": "Noordwijk",
+    "shareBB": 0.2691,
+    "shareCircle": 0.2268
+  },
+  {
+    "gem_id": "NL280576",
+    "country_id": "NL",
+    "name": "Noordwijkerhout",
+    "shareBB": 0.3324,
+    "shareCircle": 0.2758
+  },
+  {
+    "gem_id": "NL280579",
+    "country_id": "NL",
+    "name": "Oegstgeest",
+    "shareBB": 0.4444,
+    "shareCircle": 0.3473
+  },
+  {
+    "gem_id": "NL280584",
+    "country_id": "NL",
+    "name": "Oud-Beijerland",
+    "shareBB": 0.5907,
+    "shareCircle": 0.5227
+  },
+  {
+    "gem_id": "NL280585",
+    "country_id": "NL",
+    "name": "Binnenmaas",
+    "shareBB": 0.4288,
+    "shareCircle": 0.3399
+  },
+  {
+    "gem_id": "NL280588",
+    "country_id": "NL",
+    "name": "Korendijk",
+    "shareBB": 0.576,
+    "shareCircle": 0.562
+  },
+  {
+    "gem_id": "NL280590",
+    "country_id": "NL",
+    "name": "Papendrecht",
+    "shareBB": 0.6808,
+    "shareCircle": 0.4793
+  },
+  {
+    "gem_id": "NL280597",
+    "country_id": "NL",
+    "name": "Ridderkerk",
+    "shareBB": 0.5379,
+    "shareCircle": 0.5764
+  },
+  {
+    "gem_id": "NL280599",
+    "country_id": "NL",
+    "name": "Rotterdam",
+    "shareBB": 0.3487,
+    "shareCircle": 0.1913
+  },
+  {
+    "gem_id": "NL280603",
+    "country_id": "NL",
+    "name": "Rijswijk",
+    "shareBB": 0.6166,
+    "shareCircle": 0.6081
+  },
+  {
+    "gem_id": "NL280606",
+    "country_id": "NL",
+    "name": "Schiedam",
+    "shareBB": 0.6243,
+    "shareCircle": 0.4515
+  },
+  {
+    "gem_id": "NL280610",
+    "country_id": "NL",
+    "name": "Sliedrecht",
+    "shareBB": 0.7158,
+    "shareCircle": 0.508
+  },
+  {
+    "gem_id": "NL280611",
+    "country_id": "NL",
+    "name": "Cromstrijen",
+    "shareBB": 0.5855,
+    "shareCircle": 0.5191
+  },
+  {
+    "gem_id": "NL280613",
+    "country_id": "NL",
+    "name": "Albrandswaard",
+    "shareBB": 0.663,
+    "shareCircle": 0.4924
+  },
+  {
+    "gem_id": "NL280614",
+    "country_id": "NL",
+    "name": "Westvoorne",
+    "shareBB": 0.5534,
+    "shareCircle": 0.5309
+  },
+  {
+    "gem_id": "NL280617",
+    "country_id": "NL",
+    "name": "Strijen",
+    "shareBB": 0.5868,
+    "shareCircle": 0.5269
+  },
+  {
+    "gem_id": "NL280622",
+    "country_id": "NL",
+    "name": "Vlaardingen",
+    "shareBB": 0.6072,
+    "shareCircle": 0.5163
+  },
+  {
+    "gem_id": "NL280626",
+    "country_id": "NL",
+    "name": "Voorschoten",
+    "shareBB": 0.4713,
+    "shareCircle": 0.4019
+  },
+  {
+    "gem_id": "NL280627",
+    "country_id": "NL",
+    "name": "Waddinxveen",
+    "shareBB": 0.5023,
+    "shareCircle": 0.5282
+  },
+  {
+    "gem_id": "NL280629",
+    "country_id": "NL",
+    "name": "Wassenaar",
+    "shareBB": 0.5353,
+    "shareCircle": 0.574
+  },
+  {
+    "gem_id": "NL280637",
+    "country_id": "NL",
+    "name": "Zoetermeer",
+    "shareBB": 0.5743,
+    "shareCircle": 0.5053
+  },
+  {
+    "gem_id": "NL280638",
+    "country_id": "NL",
+    "name": "Zoeterwoude",
+    "shareBB": 0.5309,
+    "shareCircle": 0.5016
+  },
+  {
+    "gem_id": "NL280642",
+    "country_id": "NL",
+    "name": "Zwijndrecht",
+    "shareBB": 0.5256,
+    "shareCircle": 0.4305
+  },
+  {
+    "gem_id": "NL280689",
+    "country_id": "NL",
+    "name": "Giessenlanden",
+    "shareBB": 0.46,
+    "shareCircle": 0.4298
+  },
+  {
+    "gem_id": "NL280707",
+    "country_id": "NL",
+    "name": "Zederik",
+    "shareBB": 0.5589,
+    "shareCircle": 0.605
+  },
+  {
+    "gem_id": "NL281525",
+    "country_id": "NL",
+    "name": "Teylingen",
+    "shareBB": 0.5622,
+    "shareCircle": 0.5779
+  },
+  {
+    "gem_id": "NL281621",
+    "country_id": "NL",
+    "name": "Lansingerland",
+    "shareBB": 0.5027,
+    "shareCircle": 0.4013
+  },
+  {
+    "gem_id": "NL281783",
+    "country_id": "NL",
+    "name": "Westland",
+    "shareBB": 0.5126,
+    "shareCircle": 0.6355
+  },
+  {
+    "gem_id": "NL281842",
+    "country_id": "NL",
+    "name": "Midden-Delfland",
+    "shareBB": 0.3928,
+    "shareCircle": 0.4463
+  },
+  {
+    "gem_id": "NL281884",
+    "country_id": "NL",
+    "name": "Kaag en Braassem",
+    "shareBB": 0.6547,
+    "shareCircle": 0.4676
+  },
+  {
+    "gem_id": "NL281892",
+    "country_id": "NL",
+    "name": "Zuidplas",
+    "shareBB": 0.443,
+    "shareCircle": 0.3779
+  },
+  {
+    "gem_id": "NL281901",
+    "country_id": "NL",
+    "name": "Bodegraven-Reeuwijk",
+    "shareBB": 0.5058,
+    "shareCircle": 0.5272
+  },
+  {
+    "gem_id": "NL281916",
+    "country_id": "NL",
+    "name": "Leidschendam-Voorburg",
+    "shareBB": 0.4582,
+    "shareCircle": 0.3498
+  },
+  {
+    "gem_id": "NL281924",
+    "country_id": "NL",
+    "name": "Goeree-Overflakkee",
+    "shareBB": 0.3904,
+    "shareCircle": 0.2895
+  },
+  {
+    "gem_id": "NL281926",
+    "country_id": "NL",
+    "name": "Pijnacker-Nootdorp",
+    "shareBB": 0.5806,
+    "shareCircle": 0.5167
+  },
+  {
+    "gem_id": "NL281927",
+    "country_id": "NL",
+    "name": "Molenwaard",
+    "shareBB": 0.5038,
+    "shareCircle": 0.3186
+  },
+  {
+    "gem_id": "NL281930",
+    "country_id": "NL",
+    "name": "Nissewaard",
+    "shareBB": 0.5038,
+    "shareCircle": 0.3206
+  },
+  {
+    "gem_id": "NL281931",
+    "country_id": "NL",
+    "name": "Krimpenerwaard",
+    "shareBB": 0.5473,
+    "shareCircle": 0.4021
+  },
+  {
+    "gem_id": "NL290654",
+    "country_id": "NL",
+    "name": "Borsele",
+    "shareBB": 0.6373,
+    "shareCircle": 0.5613
+  },
+  {
+    "gem_id": "NL290664",
+    "country_id": "NL",
+    "name": "Goes",
+    "shareBB": 0.5907,
+    "shareCircle": 0.3642
+  },
+  {
+    "gem_id": "NL290677",
+    "country_id": "NL",
+    "name": "Hulst",
+    "shareBB": 0.55,
+    "shareCircle": 0.5256
+  },
+  {
+    "gem_id": "NL290678",
+    "country_id": "NL",
+    "name": "Kapelle",
+    "shareBB": 0.562,
+    "shareCircle": 0.528
+  },
+  {
+    "gem_id": "NL290687",
+    "country_id": "NL",
+    "name": "Middelburg",
+    "shareBB": 0.5865,
+    "shareCircle": 0.4768
+  },
+  {
+    "gem_id": "NL290703",
+    "country_id": "NL",
+    "name": "Reimerswaal",
+    "shareBB": 0.3415,
+    "shareCircle": 0.2452
+  },
+  {
+    "gem_id": "NL290715",
+    "country_id": "NL",
+    "name": "Terneuzen",
+    "shareBB": 0.5588,
+    "shareCircle": 0.4365
+  },
+  {
+    "gem_id": "NL290716",
+    "country_id": "NL",
+    "name": "Tholen",
+    "shareBB": 0.4576,
+    "shareCircle": 0.4273
+  },
+  {
+    "gem_id": "NL290717",
+    "country_id": "NL",
+    "name": "Veere",
+    "shareBB": 0.3588,
+    "shareCircle": 0.3094
+  },
+  {
+    "gem_id": "NL290718",
+    "country_id": "NL",
+    "name": "Vlissingen",
+    "shareBB": 0.4077,
+    "shareCircle": 0.238
+  },
+  {
+    "gem_id": "NL291676",
+    "country_id": "NL",
+    "name": "Schouwen-Duiveland",
+    "shareBB": 0.4742,
+    "shareCircle": 0.2888
+  },
+  {
+    "gem_id": "NL291695",
+    "country_id": "NL",
+    "name": "Noord-Beveland",
+    "shareBB": 0.5982,
+    "shareCircle": 0.3451
+  },
+  {
+    "gem_id": "NL291714",
+    "country_id": "NL",
+    "name": "Sluis",
+    "shareBB": 0.6417,
+    "shareCircle": 0.5605
+  },
+  {
+    "gem_id": "NL300738",
+    "country_id": "NL",
+    "name": "Aalburg",
+    "shareBB": 0.5935,
+    "shareCircle": 0.4674
+  },
+  {
+    "gem_id": "NL300743",
+    "country_id": "NL",
+    "name": "Asten",
+    "shareBB": 0.5079,
+    "shareCircle": 0.3732
+  },
+  {
+    "gem_id": "NL300744",
+    "country_id": "NL",
+    "name": "Baarle-Nassau",
+    "shareBB": 0.4429,
+    "shareCircle": 0.3221
+  },
+  {
+    "gem_id": "NL300748",
+    "country_id": "NL",
+    "name": "Bergen op Zoom",
+    "shareBB": 0.6096,
+    "shareCircle": 0.5079
+  },
+  {
+    "gem_id": "NL300753",
+    "country_id": "NL",
+    "name": "Best",
+    "shareBB": 0.622,
+    "shareCircle": 0.593
+  },
+  {
+    "gem_id": "NL300755",
+    "country_id": "NL",
+    "name": "Boekel",
+    "shareBB": 0.7598,
+    "shareCircle": 0.4665
+  },
+  {
+    "gem_id": "NL300756",
+    "country_id": "NL",
+    "name": "Boxmeer",
+    "shareBB": 0.4914,
+    "shareCircle": 0.3735
+  },
+  {
+    "gem_id": "NL300757",
+    "country_id": "NL",
+    "name": "Boxtel",
+    "shareBB": 0.5788,
+    "shareCircle": 0.5575
+  },
+  {
+    "gem_id": "NL300758",
+    "country_id": "NL",
+    "name": "Breda",
+    "shareBB": 0.5174,
+    "shareCircle": 0.4988
+  },
+  {
+    "gem_id": "NL300762",
+    "country_id": "NL",
+    "name": "Deurne",
+    "shareBB": 0.4832,
+    "shareCircle": 0.4419
+  },
+  {
+    "gem_id": "NL300766",
+    "country_id": "NL",
+    "name": "Dongen",
+    "shareBB": 0.5582,
+    "shareCircle": 0.4418
+  },
+  {
+    "gem_id": "NL300770",
+    "country_id": "NL",
+    "name": "Eersel",
+    "shareBB": 0.5,
+    "shareCircle": 0.3309
+  },
+  {
+    "gem_id": "NL300772",
+    "country_id": "NL",
+    "name": "Eindhoven",
+    "shareBB": 0.6159,
+    "shareCircle": 0.6096
+  },
+  {
+    "gem_id": "NL300777",
+    "country_id": "NL",
+    "name": "Etten-Leur",
+    "shareBB": 0.6134,
+    "shareCircle": 0.4144
+  },
+  {
+    "gem_id": "NL300779",
+    "country_id": "NL",
+    "name": "Geertruidenberg",
+    "shareBB": 0.7518,
+    "shareCircle": 0.5371
+  },
+  {
+    "gem_id": "NL300784",
+    "country_id": "NL",
+    "name": "Gilze en Rijen",
+    "shareBB": 0.5376,
+    "shareCircle": 0.5233
+  },
+  {
+    "gem_id": "NL300785",
+    "country_id": "NL",
+    "name": "Goirle",
+    "shareBB": 0.5371,
+    "shareCircle": 0.5224
+  },
+  {
+    "gem_id": "NL300786",
+    "country_id": "NL",
+    "name": "Grave",
+    "shareBB": 0.5845,
+    "shareCircle": 0.4854
+  },
+  {
+    "gem_id": "NL300788",
+    "country_id": "NL",
+    "name": "Haaren",
+    "shareBB": 0.5361,
+    "shareCircle": 0.5091
+  },
+  {
+    "gem_id": "NL300794",
+    "country_id": "NL",
+    "name": "Helmond",
+    "shareBB": 0.5948,
+    "shareCircle": 0.4589
+  },
+  {
+    "gem_id": "NL300796",
+    "country_id": "NL",
+    "name": "'s-Hertogenbosch",
+    "shareBB": 0.5571,
+    "shareCircle": 0.3577
+  },
+  {
+    "gem_id": "NL300797",
+    "country_id": "NL",
+    "name": "Heusden",
+    "shareBB": 0.6097,
+    "shareCircle": 0.5555
+  },
+  {
+    "gem_id": "NL300798",
+    "country_id": "NL",
+    "name": "Hilvarenbeek",
+    "shareBB": 0.5156,
+    "shareCircle": 0.5791
+  },
+  {
+    "gem_id": "NL300809",
+    "country_id": "NL",
+    "name": "Loon op Zand",
+    "shareBB": 0.7873,
+    "shareCircle": 0.6169
+  },
+  {
+    "gem_id": "NL300815",
+    "country_id": "NL",
+    "name": "Mill en Sint Hubert",
+    "shareBB": 0.5196,
+    "shareCircle": 0.5039
+  },
+  {
+    "gem_id": "NL300820",
+    "country_id": "NL",
+    "name": "Nuenen, Gerwen en Nederwetten",
+    "shareBB": 0.4401,
+    "shareCircle": 0.3268
+  },
+  {
+    "gem_id": "NL300823",
+    "country_id": "NL",
+    "name": "Oirschot",
+    "shareBB": 0.5222,
+    "shareCircle": 0.4453
+  },
+  {
+    "gem_id": "NL300824",
+    "country_id": "NL",
+    "name": "Oisterwijk",
+    "shareBB": 0.6117,
+    "shareCircle": 0.7034
+  },
+  {
+    "gem_id": "NL300826",
+    "country_id": "NL",
+    "name": "Oosterhout",
+    "shareBB": 0.5891,
+    "shareCircle": 0.5978
+  },
+  {
+    "gem_id": "NL300828",
+    "country_id": "NL",
+    "name": "Oss",
+    "shareBB": 0.6046,
+    "shareCircle": 0.3551
+  },
+  {
+    "gem_id": "NL300840",
+    "country_id": "NL",
+    "name": "Rucphen",
+    "shareBB": 0.5414,
+    "shareCircle": 0.4904
+  },
+  {
+    "gem_id": "NL300845",
+    "country_id": "NL",
+    "name": "Sint-Michielsgestel",
+    "shareBB": 0.5022,
+    "shareCircle": 0.4543
+  },
+  {
+    "gem_id": "NL300847",
+    "country_id": "NL",
+    "name": "Someren",
+    "shareBB": 0.587,
+    "shareCircle": 0.3939
+  },
+  {
+    "gem_id": "NL300848",
+    "country_id": "NL",
+    "name": "Son en Breugel",
+    "shareBB": 0.6255,
+    "shareCircle": 0.4407
+  },
+  {
+    "gem_id": "NL300851",
+    "country_id": "NL",
+    "name": "Steenbergen",
+    "shareBB": 0.6944,
+    "shareCircle": 0.6176
+  },
+  {
+    "gem_id": "NL300855",
+    "country_id": "NL",
+    "name": "Tilburg",
+    "shareBB": 0.6115,
+    "shareCircle": 0.5421
+  },
+  {
+    "gem_id": "NL300856",
+    "country_id": "NL",
+    "name": "Uden",
+    "shareBB": 0.5646,
+    "shareCircle": 0.4414
+  },
+  {
+    "gem_id": "NL300858",
+    "country_id": "NL",
+    "name": "Valkenswaard",
+    "shareBB": 0.447,
+    "shareCircle": 0.3345
+  },
+  {
+    "gem_id": "NL300861",
+    "country_id": "NL",
+    "name": "Veldhoven",
+    "shareBB": 0.5868,
+    "shareCircle": 0.5617
+  },
+  {
+    "gem_id": "NL300865",
+    "country_id": "NL",
+    "name": "Vught",
+    "shareBB": 0.5459,
+    "shareCircle": 0.5484
+  },
+  {
+    "gem_id": "NL300866",
+    "country_id": "NL",
+    "name": "Waalre",
+    "shareBB": 0.781,
+    "shareCircle": 0.5878
+  },
+  {
+    "gem_id": "NL300867",
+    "country_id": "NL",
+    "name": "Waalwijk",
+    "shareBB": 0.6477,
+    "shareCircle": 0.4526
+  },
+  {
+    "gem_id": "NL300870",
+    "country_id": "NL",
+    "name": "Werkendam",
+    "shareBB": 0.4296,
+    "shareCircle": 0.2836
+  },
+  {
+    "gem_id": "NL300873",
+    "country_id": "NL",
+    "name": "Woensdrecht",
+    "shareBB": 0.6371,
+    "shareCircle": 0.5533
+  },
+  {
+    "gem_id": "NL300874",
+    "country_id": "NL",
+    "name": "Woudrichem",
+    "shareBB": 0.5879,
+    "shareCircle": 0.5293
+  },
+  {
+    "gem_id": "NL300879",
+    "country_id": "NL",
+    "name": "Zundert",
+    "shareBB": 0.5794,
+    "shareCircle": 0.4394
+  },
+  {
+    "gem_id": "NL301652",
+    "country_id": "NL",
+    "name": "Gemert-Bakel",
+    "shareBB": 0.7421,
+    "shareCircle": 0.5817
+  },
+  {
+    "gem_id": "NL301655",
+    "country_id": "NL",
+    "name": "Halderberge",
+    "shareBB": 0.6684,
+    "shareCircle": 0.5586
+  },
+  {
+    "gem_id": "NL301658",
+    "country_id": "NL",
+    "name": "Heeze-Leende",
+    "shareBB": 0.6112,
+    "shareCircle": 0.4458
+  },
+  {
+    "gem_id": "NL301659",
+    "country_id": "NL",
+    "name": "Laarbeek",
+    "shareBB": 0.6764,
+    "shareCircle": 0.5139
+  },
+  {
+    "gem_id": "NL301667",
+    "country_id": "NL",
+    "name": "Reusel-De Mierden",
+    "shareBB": 0.6555,
+    "shareCircle": 0.5118
+  },
+  {
+    "gem_id": "NL301674",
+    "country_id": "NL",
+    "name": "Roosendaal",
+    "shareBB": 0.5661,
+    "shareCircle": 0.5534
+  },
+  {
+    "gem_id": "NL301684",
+    "country_id": "NL",
+    "name": "Cuijk",
+    "shareBB": 0.5717,
+    "shareCircle": 0.5709
+  },
+  {
+    "gem_id": "NL301685",
+    "country_id": "NL",
+    "name": "Landerd",
+    "shareBB": 0.4939,
+    "shareCircle": 0.3724
+  },
+  {
+    "gem_id": "NL301702",
+    "country_id": "NL",
+    "name": "Sint Anthonis",
+    "shareBB": 0.5559,
+    "shareCircle": 0.6397
+  },
+  {
+    "gem_id": "NL301706",
+    "country_id": "NL",
+    "name": "Cranendonck",
+    "shareBB": 0.4895,
+    "shareCircle": 0.3849
+  },
+  {
+    "gem_id": "NL301709",
+    "country_id": "NL",
+    "name": "Moerdijk",
+    "shareBB": 0.6477,
+    "shareCircle": 0.4083
+  },
+  {
+    "gem_id": "NL301719",
+    "country_id": "NL",
+    "name": "Drimmelen",
+    "shareBB": 0.5417,
+    "shareCircle": 0.5353
+  },
+  {
+    "gem_id": "NL301721",
+    "country_id": "NL",
+    "name": "Bernheze",
+    "shareBB": 0.5803,
+    "shareCircle": 0.5917
+  },
+  {
+    "gem_id": "NL301723",
+    "country_id": "NL",
+    "name": "Alphen-Chaam",
+    "shareBB": 0.4389,
+    "shareCircle": 0.3196
+  },
+  {
+    "gem_id": "NL301724",
+    "country_id": "NL",
+    "name": "Bergeijk",
+    "shareBB": 0.5158,
+    "shareCircle": 0.3749
+  },
+  {
+    "gem_id": "NL301728",
+    "country_id": "NL",
+    "name": "Bladel",
+    "shareBB": 0.5734,
+    "shareCircle": 0.4473
+  },
+  {
+    "gem_id": "NL301771",
+    "country_id": "NL",
+    "name": "Geldrop-Mierlo",
+    "shareBB": 0.5487,
+    "shareCircle": 0.3477
+  },
+  {
+    "gem_id": "NL301948",
+    "country_id": "NL",
+    "name": "Meierijstad",
+    "shareBB": 0.6321,
+    "shareCircle": 0.5349
+  },
+  {
+    "gem_id": "NL310881",
+    "country_id": "NL",
+    "name": "Onderbanken",
+    "shareBB": 0.6104,
+    "shareCircle": 0.4096
+  },
+  {
+    "gem_id": "NL310882",
+    "country_id": "NL",
+    "name": "Landgraaf",
+    "shareBB": 0.4961,
+    "shareCircle": 0.5149
+  },
+  {
+    "gem_id": "NL310888",
+    "country_id": "NL",
+    "name": "Beek",
+    "shareBB": 0.4915,
+    "shareCircle": 0.3672
+  },
+  {
+    "gem_id": "NL310889",
+    "country_id": "NL",
+    "name": "Beesel",
+    "shareBB": 0.5739,
+    "shareCircle": 0.5039
+  },
+  {
+    "gem_id": "NL310893",
+    "country_id": "NL",
+    "name": "Bergen",
+    "shareBB": 0.3538,
+    "shareCircle": 0.271
+  },
+  {
+    "gem_id": "NL310899",
+    "country_id": "NL",
+    "name": "Brunssum",
+    "shareBB": 0.6601,
+    "shareCircle": 0.5297
+  },
+  {
+    "gem_id": "NL310907",
+    "country_id": "NL",
+    "name": "Gennep",
+    "shareBB": 0.5042,
+    "shareCircle": 0.4715
+  },
+  {
+    "gem_id": "NL310917",
+    "country_id": "NL",
+    "name": "Heerlen",
+    "shareBB": 0.4039,
+    "shareCircle": 0.2668
+  },
+  {
+    "gem_id": "NL310928",
+    "country_id": "NL",
+    "name": "Kerkrade",
+    "shareBB": 0.5456,
+    "shareCircle": 0.4256
+  },
+  {
+    "gem_id": "NL310935",
+    "country_id": "NL",
+    "name": "Maastricht",
+    "shareBB": 0.5733,
+    "shareCircle": 0.5373
+  },
+  {
+    "gem_id": "NL310938",
+    "country_id": "NL",
+    "name": "Meerssen",
+    "shareBB": 0.514,
+    "shareCircle": 0.4746
+  },
+  {
+    "gem_id": "NL310944",
+    "country_id": "NL",
+    "name": "Mook en Middelaar",
+    "shareBB": 0.5533,
+    "shareCircle": 0.4474
+  },
+  {
+    "gem_id": "NL310946",
+    "country_id": "NL",
+    "name": "Nederweert",
+    "shareBB": 0.5187,
+    "shareCircle": 0.4676
+  },
+  {
+    "gem_id": "NL310951",
+    "country_id": "NL",
+    "name": "Nuth",
+    "shareBB": 0.652,
+    "shareCircle": 0.4307
+  },
+  {
+    "gem_id": "NL310957",
+    "country_id": "NL",
+    "name": "Roermond",
+    "shareBB": 0.5514,
+    "shareCircle": 0.5092
+  },
+  {
+    "gem_id": "NL310962",
+    "country_id": "NL",
+    "name": "Schinnen",
+    "shareBB": 0.5886,
+    "shareCircle": 0.5102
+  },
+  {
+    "gem_id": "NL310965",
+    "country_id": "NL",
+    "name": "Simpelveld",
+    "shareBB": 0.5095,
+    "shareCircle": 0.4178
+  },
+  {
+    "gem_id": "NL310971",
+    "country_id": "NL",
+    "name": "Stein",
+    "shareBB": 0.4543,
+    "shareCircle": 0.285
+  },
+  {
+    "gem_id": "NL310981",
+    "country_id": "NL",
+    "name": "Vaals",
+    "shareBB": 0.5711,
+    "shareCircle": 0.549
+  },
+  {
+    "gem_id": "NL310983",
+    "country_id": "NL",
+    "name": "Venlo",
+    "shareBB": 0.4682,
+    "shareCircle": 0.2365
+  },
+  {
+    "gem_id": "NL310984",
+    "country_id": "NL",
+    "name": "Venray",
+    "shareBB": 0.5923,
+    "shareCircle": 0.4259
+  },
+  {
+    "gem_id": "NL310986",
+    "country_id": "NL",
+    "name": "Voerendaal",
+    "shareBB": 0.5867,
+    "shareCircle": 0.6247
+  },
+  {
+    "gem_id": "NL310988",
+    "country_id": "NL",
+    "name": "Weert",
+    "shareBB": 0.5375,
+    "shareCircle": 0.5359
+  },
+  {
+    "gem_id": "NL310994",
+    "country_id": "NL",
+    "name": "Valkenburg aan de Geul",
+    "shareBB": 0.5632,
+    "shareCircle": 0.5
+  },
+  {
+    "gem_id": "NL311507",
+    "country_id": "NL",
+    "name": "Horst aan de Maas",
+    "shareBB": 0.5696,
+    "shareCircle": 0.5153
+  },
+  {
+    "gem_id": "NL311640",
+    "country_id": "NL",
+    "name": "Leudal",
+    "shareBB": 0.4856,
+    "shareCircle": 0.4635
+  },
+  {
+    "gem_id": "NL311641",
+    "country_id": "NL",
+    "name": "Maasgouw",
+    "shareBB": 0.4381,
+    "shareCircle": 0.3718
+  },
+  {
+    "gem_id": "NL311669",
+    "country_id": "NL",
+    "name": "Roerdalen",
+    "shareBB": 0.4553,
+    "shareCircle": 0.2923
+  },
+  {
+    "gem_id": "NL311711",
+    "country_id": "NL",
+    "name": "Echt-Susteren",
+    "shareBB": 0.5345,
+    "shareCircle": 0.4528
+  },
+  {
+    "gem_id": "NL311729",
+    "country_id": "NL",
+    "name": "Gulpen-Wittem",
+    "shareBB": 0.5908,
+    "shareCircle": 0.5989
+  },
+  {
+    "gem_id": "NL311883",
+    "country_id": "NL",
+    "name": "Sittard-Geleen",
+    "shareBB": 0.5732,
+    "shareCircle": 0.5175
+  },
+  {
+    "gem_id": "NL311894",
+    "country_id": "NL",
+    "name": "Peel en Maas",
+    "shareBB": 0.5636,
+    "shareCircle": 0.5048
+  },
+  {
+    "gem_id": "NL311903",
+    "country_id": "NL",
+    "name": "Eijsden-Margraten",
+    "shareBB": 0.5352,
+    "shareCircle": 0.44
+  }
+]

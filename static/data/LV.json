@@ -1,0 +1,4111 @@
+[
+  {
+    "gem_id": "LV010000",
+    "country_id": "LV",
+    "name": "Rīga",
+    "shareBB": 0.5125,
+    "shareCircle": 0.4559
+  },
+  {
+    "gem_id": "LV050000",
+    "country_id": "LV",
+    "name": "Daugavpils",
+    "shareBB": 0.3761,
+    "shareCircle": 0.4158
+  },
+  {
+    "gem_id": "LV090000",
+    "country_id": "LV",
+    "name": "Jelgava",
+    "shareBB": 0.5189,
+    "shareCircle": 0.5487
+  },
+  {
+    "gem_id": "LV110000",
+    "country_id": "LV",
+    "name": "Jēkabpils",
+    "shareBB": 0.5655,
+    "shareCircle": 0.539
+  },
+  {
+    "gem_id": "LV130000",
+    "country_id": "LV",
+    "name": "Jūrmala",
+    "shareBB": 0.2631,
+    "shareCircle": 0.1381
+  },
+  {
+    "gem_id": "LV170000",
+    "country_id": "LV",
+    "name": "Liepāja",
+    "shareBB": 0.5231,
+    "shareCircle": 0.3009
+  },
+  {
+    "gem_id": "LV210000",
+    "country_id": "LV",
+    "name": "Rēzekne",
+    "shareBB": 0.5775,
+    "shareCircle": 0.4992
+  },
+  {
+    "gem_id": "LV250000",
+    "country_id": "LV",
+    "name": "Valmiera",
+    "shareBB": 0.5692,
+    "shareCircle": 0.5347
+  },
+  {
+    "gem_id": "LV270000",
+    "country_id": "LV",
+    "name": "Ventspils",
+    "shareBB": 0.4846,
+    "shareCircle": 0.381
+  },
+  {
+    "gem_id": "LV320201",
+    "country_id": "LV",
+    "name": "Aizkraukle",
+    "shareBB": 0.5598,
+    "shareCircle": 0.5491
+  },
+  {
+    "gem_id": "LV320244",
+    "country_id": "LV",
+    "name": "Aizkraukles",
+    "shareBB": 0.5886,
+    "shareCircle": 0.4844
+  },
+  {
+    "gem_id": "LV321007",
+    "country_id": "LV",
+    "name": "Jaunjelgava",
+    "shareBB": 0.7147,
+    "shareCircle": 0.4879
+  },
+  {
+    "gem_id": "LV321027",
+    "country_id": "LV",
+    "name": "Jaunjelgavas",
+    "shareBB": 0.6724,
+    "shareCircle": 0.4866
+  },
+  {
+    "gem_id": "LV321050",
+    "country_id": "LV",
+    "name": "Daudzeses",
+    "shareBB": 0.5868,
+    "shareCircle": 0.4817
+  },
+  {
+    "gem_id": "LV321078",
+    "country_id": "LV",
+    "name": "Seces",
+    "shareBB": 0.6179,
+    "shareCircle": 0.3532
+  },
+  {
+    "gem_id": "LV321080",
+    "country_id": "LV",
+    "name": "Sērenes",
+    "shareBB": 0.5313,
+    "shareCircle": 0.3078
+  },
+  {
+    "gem_id": "LV321084",
+    "country_id": "LV",
+    "name": "Staburaga",
+    "shareBB": 0.6437,
+    "shareCircle": 0.5143
+  },
+  {
+    "gem_id": "LV321086",
+    "country_id": "LV",
+    "name": "Sunākstes",
+    "shareBB": 0.5585,
+    "shareCircle": 0.4479
+  },
+  {
+    "gem_id": "LV321413",
+    "country_id": "LV",
+    "name": "Pļaviņas",
+    "shareBB": 0.253,
+    "shareCircle": 0.1733
+  },
+  {
+    "gem_id": "LV321442",
+    "country_id": "LV",
+    "name": "Aiviekstes",
+    "shareBB": 0.6374,
+    "shareCircle": 0.4446
+  },
+  {
+    "gem_id": "LV321458",
+    "country_id": "LV",
+    "name": "Klintaines",
+    "shareBB": 0.4465,
+    "shareCircle": 0.4135
+  },
+  {
+    "gem_id": "LV321492",
+    "country_id": "LV",
+    "name": "Vietalvas",
+    "shareBB": 0.468,
+    "shareCircle": 0.4298
+  },
+  {
+    "gem_id": "LV326146",
+    "country_id": "LV",
+    "name": "Bebru",
+    "shareBB": 0.6461,
+    "shareCircle": 0.2707
+  },
+  {
+    "gem_id": "LV326154",
+    "country_id": "LV",
+    "name": "Iršu",
+    "shareBB": 0.5919,
+    "shareCircle": 0.3191
+  },
+  {
+    "gem_id": "LV326160",
+    "country_id": "LV",
+    "name": "Kokneses",
+    "shareBB": 0.54,
+    "shareCircle": 0.4851
+  },
+  {
+    "gem_id": "LV327166",
+    "country_id": "LV",
+    "name": "Mazzalves",
+    "shareBB": 0.4572,
+    "shareCircle": 0.3527
+  },
+  {
+    "gem_id": "LV327170",
+    "country_id": "LV",
+    "name": "Neretas",
+    "shareBB": 0.5273,
+    "shareCircle": 0.4488
+  },
+  {
+    "gem_id": "LV327174",
+    "country_id": "LV",
+    "name": "Pilskalnes",
+    "shareBB": 0.6524,
+    "shareCircle": 0.5453
+  },
+  {
+    "gem_id": "LV327196",
+    "country_id": "LV",
+    "name": "Zalves",
+    "shareBB": 0.601,
+    "shareCircle": 0.6368
+  },
+  {
+    "gem_id": "LV328200",
+    "country_id": "LV",
+    "name": "Skrīveru novads",
+    "shareBB": 0.6123,
+    "shareCircle": 0.5458
+  },
+  {
+    "gem_id": "LV360201",
+    "country_id": "LV",
+    "name": "Alūksne",
+    "shareBB": 0.4571,
+    "shareCircle": 0.4909
+  },
+  {
+    "gem_id": "LV360242",
+    "country_id": "LV",
+    "name": "Alsviķu",
+    "shareBB": 0.6611,
+    "shareCircle": 0.571
+  },
+  {
+    "gem_id": "LV360244",
+    "country_id": "LV",
+    "name": "Annas",
+    "shareBB": 0.538,
+    "shareCircle": 0.3996
+  },
+  {
+    "gem_id": "LV360252",
+    "country_id": "LV",
+    "name": "Ilzenes",
+    "shareBB": 0.5649,
+    "shareCircle": 0.5289
+  },
+  {
+    "gem_id": "LV360256",
+    "country_id": "LV",
+    "name": "Jaunalūksnes",
+    "shareBB": 0.512,
+    "shareCircle": 0.4052
+  },
+  {
+    "gem_id": "LV360258",
+    "country_id": "LV",
+    "name": "Jaunannas",
+    "shareBB": 0.4794,
+    "shareCircle": 0.4367
+  },
+  {
+    "gem_id": "LV360260",
+    "country_id": "LV",
+    "name": "Jaunlaicenes",
+    "shareBB": 0.6198,
+    "shareCircle": 0.5436
+  },
+  {
+    "gem_id": "LV360264",
+    "country_id": "LV",
+    "name": "Kalncempju",
+    "shareBB": 0.5515,
+    "shareCircle": 0.4763
+  },
+  {
+    "gem_id": "LV360268",
+    "country_id": "LV",
+    "name": "Liepnas",
+    "shareBB": 0.5967,
+    "shareCircle": 0.6737
+  },
+  {
+    "gem_id": "LV360272",
+    "country_id": "LV",
+    "name": "Malienas",
+    "shareBB": 0.5014,
+    "shareCircle": 0.4528
+  },
+  {
+    "gem_id": "LV360274",
+    "country_id": "LV",
+    "name": "Mālupes",
+    "shareBB": 0.6458,
+    "shareCircle": 0.5677
+  },
+  {
+    "gem_id": "LV360276",
+    "country_id": "LV",
+    "name": "Mārkalnes",
+    "shareBB": 0.6543,
+    "shareCircle": 0.5256
+  },
+  {
+    "gem_id": "LV360280",
+    "country_id": "LV",
+    "name": "Pededzes",
+    "shareBB": 0.6655,
+    "shareCircle": 0.5616
+  },
+  {
+    "gem_id": "LV360288",
+    "country_id": "LV",
+    "name": "Veclaicenes",
+    "shareBB": 0.5608,
+    "shareCircle": 0.4649
+  },
+  {
+    "gem_id": "LV360294",
+    "country_id": "LV",
+    "name": "Zeltiņu",
+    "shareBB": 0.5666,
+    "shareCircle": 0.4398
+  },
+  {
+    "gem_id": "LV360296",
+    "country_id": "LV",
+    "name": "Ziemera",
+    "shareBB": 0.5509,
+    "shareCircle": 0.5201
+  },
+  {
+    "gem_id": "LV360805",
+    "country_id": "LV",
+    "name": "Ape",
+    "shareBB": 0.5565,
+    "shareCircle": 0.3918
+  },
+  {
+    "gem_id": "LV360825",
+    "country_id": "LV",
+    "name": "Apes",
+    "shareBB": 0.5637,
+    "shareCircle": 0.4535
+  },
+  {
+    "gem_id": "LV360848",
+    "country_id": "LV",
+    "name": "Gaujienas",
+    "shareBB": 0.5935,
+    "shareCircle": 0.4681
+  },
+  {
+    "gem_id": "LV360884",
+    "country_id": "LV",
+    "name": "Trapenes",
+    "shareBB": 0.5427,
+    "shareCircle": 0.51
+  },
+  {
+    "gem_id": "LV360890",
+    "country_id": "LV",
+    "name": "Virešu",
+    "shareBB": 0.576,
+    "shareCircle": 0.4973
+  },
+  {
+    "gem_id": "LV380201",
+    "country_id": "LV",
+    "name": "Balvi",
+    "shareBB": 0.5593,
+    "shareCircle": 0.4643
+  },
+  {
+    "gem_id": "LV380246",
+    "country_id": "LV",
+    "name": "Balvu",
+    "shareBB": 0.5132,
+    "shareCircle": 0.4228
+  },
+  {
+    "gem_id": "LV380248",
+    "country_id": "LV",
+    "name": "Bērzkalnes",
+    "shareBB": 0.4629,
+    "shareCircle": 0.336
+  },
+  {
+    "gem_id": "LV380250",
+    "country_id": "LV",
+    "name": "Bērzpils",
+    "shareBB": 0.4431,
+    "shareCircle": 0.3338
+  },
+  {
+    "gem_id": "LV380252",
+    "country_id": "LV",
+    "name": "Briežuciema",
+    "shareBB": 0.4563,
+    "shareCircle": 0.4446
+  },
+  {
+    "gem_id": "LV380256",
+    "country_id": "LV",
+    "name": "Krišjāņu",
+    "shareBB": 0.4628,
+    "shareCircle": 0.3596
+  },
+  {
+    "gem_id": "LV380258",
+    "country_id": "LV",
+    "name": "Kubulu",
+    "shareBB": 0.4406,
+    "shareCircle": 0.3844
+  },
+  {
+    "gem_id": "LV380266",
+    "country_id": "LV",
+    "name": "Lazdulejas",
+    "shareBB": 0.4625,
+    "shareCircle": 0.4628
+  },
+  {
+    "gem_id": "LV380286",
+    "country_id": "LV",
+    "name": "Tilžas",
+    "shareBB": 0.4281,
+    "shareCircle": 0.4545
+  },
+  {
+    "gem_id": "LV380290",
+    "country_id": "LV",
+    "name": "Vectilžas",
+    "shareBB": 0.5701,
+    "shareCircle": 0.6924
+  },
+  {
+    "gem_id": "LV380294",
+    "country_id": "LV",
+    "name": "Vīksnas",
+    "shareBB": 0.5037,
+    "shareCircle": 0.4499
+  },
+  {
+    "gem_id": "LV381615",
+    "country_id": "LV",
+    "name": "Viļaka",
+    "shareBB": 0.6128,
+    "shareCircle": 0.5885
+  },
+  {
+    "gem_id": "LV381660",
+    "country_id": "LV",
+    "name": "Kupravas",
+    "shareBB": 0.2736,
+    "shareCircle": 0.1881
+  },
+  {
+    "gem_id": "LV381670",
+    "country_id": "LV",
+    "name": "Medņevas",
+    "shareBB": 0.4345,
+    "shareCircle": 0.3726
+  },
+  {
+    "gem_id": "LV381678",
+    "country_id": "LV",
+    "name": "Susāju",
+    "shareBB": 0.532,
+    "shareCircle": 0.3882
+  },
+  {
+    "gem_id": "LV381682",
+    "country_id": "LV",
+    "name": "Šķilbēnu",
+    "shareBB": 0.5577,
+    "shareCircle": 0.514
+  },
+  {
+    "gem_id": "LV381692",
+    "country_id": "LV",
+    "name": "Vecumu",
+    "shareBB": 0.5898,
+    "shareCircle": 0.2749
+  },
+  {
+    "gem_id": "LV381698",
+    "country_id": "LV",
+    "name": "Žīguru",
+    "shareBB": 0.4422,
+    "shareCircle": 0.3843
+  },
+  {
+    "gem_id": "LV384400",
+    "country_id": "LV",
+    "name": "Baltinavas novads",
+    "shareBB": 0.4646,
+    "shareCircle": 0.3359
+  },
+  {
+    "gem_id": "LV387564",
+    "country_id": "LV",
+    "name": "Lazdukalna",
+    "shareBB": 0.5103,
+    "shareCircle": 0.3731
+  },
+  {
+    "gem_id": "LV387574",
+    "country_id": "LV",
+    "name": "Rugāju",
+    "shareBB": 0.5888,
+    "shareCircle": 0.4677
+  },
+  {
+    "gem_id": "LV400201",
+    "country_id": "LV",
+    "name": "Bauska",
+    "shareBB": 0.3975,
+    "shareCircle": 0.2906
+  },
+  {
+    "gem_id": "LV400246",
+    "country_id": "LV",
+    "name": "Brunavas",
+    "shareBB": 0.5393,
+    "shareCircle": 0.4141
+  },
+  {
+    "gem_id": "LV400250",
+    "country_id": "LV",
+    "name": "Ceraukstes",
+    "shareBB": 0.4794,
+    "shareCircle": 0.4595
+  },
+  {
+    "gem_id": "LV400252",
+    "country_id": "LV",
+    "name": "Codes",
+    "shareBB": 0.5259,
+    "shareCircle": 0.5007
+  },
+  {
+    "gem_id": "LV400256",
+    "country_id": "LV",
+    "name": "Dāviņu",
+    "shareBB": 0.6306,
+    "shareCircle": 0.5493
+  },
+  {
+    "gem_id": "LV400260",
+    "country_id": "LV",
+    "name": "Gailīšu",
+    "shareBB": 0.4969,
+    "shareCircle": 0.393
+  },
+  {
+    "gem_id": "LV400268",
+    "country_id": "LV",
+    "name": "Īslīces",
+    "shareBB": 0.5262,
+    "shareCircle": 0.4191
+  },
+  {
+    "gem_id": "LV400272",
+    "country_id": "LV",
+    "name": "Mežotnes",
+    "shareBB": 0.5522,
+    "shareCircle": 0.4059
+  },
+  {
+    "gem_id": "LV400292",
+    "country_id": "LV",
+    "name": "Vecsaules",
+    "shareBB": 0.4898,
+    "shareCircle": 0.4764
+  },
+  {
+    "gem_id": "LV406400",
+    "country_id": "LV",
+    "name": "Iecavas novads",
+    "shareBB": 0.5198,
+    "shareCircle": 0.4902
+  },
+  {
+    "gem_id": "LV407776",
+    "country_id": "LV",
+    "name": "Rundāles",
+    "shareBB": 0.3769,
+    "shareCircle": 0.4378
+  },
+  {
+    "gem_id": "LV407788",
+    "country_id": "LV",
+    "name": "Svitenes",
+    "shareBB": 0.6636,
+    "shareCircle": 0.5107
+  },
+  {
+    "gem_id": "LV407796",
+    "country_id": "LV",
+    "name": "Viesturu",
+    "shareBB": 0.4283,
+    "shareCircle": 0.3154
+  },
+  {
+    "gem_id": "LV409544",
+    "country_id": "LV",
+    "name": "Bārbeles",
+    "shareBB": 0.5068,
+    "shareCircle": 0.5006
+  },
+  {
+    "gem_id": "LV409562",
+    "country_id": "LV",
+    "name": "Kurmenes",
+    "shareBB": 0.3393,
+    "shareCircle": 0.2482
+  },
+  {
+    "gem_id": "LV409580",
+    "country_id": "LV",
+    "name": "Skaistkalnes",
+    "shareBB": 0.4961,
+    "shareCircle": 0.53
+  },
+  {
+    "gem_id": "LV409584",
+    "country_id": "LV",
+    "name": "Stelpes",
+    "shareBB": 0.4917,
+    "shareCircle": 0.3698
+  },
+  {
+    "gem_id": "LV409590",
+    "country_id": "LV",
+    "name": "Valles",
+    "shareBB": 0.4111,
+    "shareCircle": 0.3734
+  },
+  {
+    "gem_id": "LV409594",
+    "country_id": "LV",
+    "name": "Vecumnieku",
+    "shareBB": 0.5594,
+    "shareCircle": 0.5809
+  },
+  {
+    "gem_id": "LV420201",
+    "country_id": "LV",
+    "name": "Cēsis",
+    "shareBB": 0.6602,
+    "shareCircle": 0.5213
+  },
+  {
+    "gem_id": "LV420290",
+    "country_id": "LV",
+    "name": "Vaives",
+    "shareBB": 0.5194,
+    "shareCircle": 0.393
+  },
+  {
+    "gem_id": "LV421211",
+    "country_id": "LV",
+    "name": "Līgatne",
+    "shareBB": 0.518,
+    "shareCircle": 0.4995
+  },
+  {
+    "gem_id": "LV421262",
+    "country_id": "LV",
+    "name": "Līgatnes",
+    "shareBB": 0.5393,
+    "shareCircle": 0.5364
+  },
+  {
+    "gem_id": "LV424742",
+    "country_id": "LV",
+    "name": "Amatas",
+    "shareBB": 0.6954,
+    "shareCircle": 0.4316
+  },
+  {
+    "gem_id": "LV424746",
+    "country_id": "LV",
+    "name": "Drabešu",
+    "shareBB": 0.4786,
+    "shareCircle": 0.4438
+  },
+  {
+    "gem_id": "LV424768",
+    "country_id": "LV",
+    "name": "Nītaures",
+    "shareBB": 0.511,
+    "shareCircle": 0.5228
+  },
+  {
+    "gem_id": "LV424778",
+    "country_id": "LV",
+    "name": "Skujenes",
+    "shareBB": 0.518,
+    "shareCircle": 0.5883
+  },
+  {
+    "gem_id": "LV424796",
+    "country_id": "LV",
+    "name": "Zaubes",
+    "shareBB": 0.4938,
+    "shareCircle": 0.5042
+  },
+  {
+    "gem_id": "LV425756",
+    "country_id": "LV",
+    "name": "Jaunpiebalgas",
+    "shareBB": 0.647,
+    "shareCircle": 0.6519
+  },
+  {
+    "gem_id": "LV425798",
+    "country_id": "LV",
+    "name": "Zosēnu",
+    "shareBB": 0.5878,
+    "shareCircle": 0.5417
+  },
+  {
+    "gem_id": "LV427360",
+    "country_id": "LV",
+    "name": "Liepas",
+    "shareBB": 0.5906,
+    "shareCircle": 0.5534
+  },
+  {
+    "gem_id": "LV427364",
+    "country_id": "LV",
+    "name": "Mārsnēnu",
+    "shareBB": 0.5497,
+    "shareCircle": 0.5233
+  },
+  {
+    "gem_id": "LV427372",
+    "country_id": "LV",
+    "name": "Priekuļu",
+    "shareBB": 0.546,
+    "shareCircle": 0.3225
+  },
+  {
+    "gem_id": "LV427394",
+    "country_id": "LV",
+    "name": "Veselavas",
+    "shareBB": 0.5814,
+    "shareCircle": 0.5741
+  },
+  {
+    "gem_id": "LV427574",
+    "country_id": "LV",
+    "name": "Raiskuma",
+    "shareBB": 0.4945,
+    "shareCircle": 0.4244
+  },
+  {
+    "gem_id": "LV427580",
+    "country_id": "LV",
+    "name": "Stalbes",
+    "shareBB": 0.4528,
+    "shareCircle": 0.4851
+  },
+  {
+    "gem_id": "LV427582",
+    "country_id": "LV",
+    "name": "Straupes",
+    "shareBB": 0.3693,
+    "shareCircle": 0.2865
+  },
+  {
+    "gem_id": "LV427748",
+    "country_id": "LV",
+    "name": "Drustu",
+    "shareBB": 0.6261,
+    "shareCircle": 0.5152
+  },
+  {
+    "gem_id": "LV427776",
+    "country_id": "LV",
+    "name": "Raunas",
+    "shareBB": 0.4805,
+    "shareCircle": 0.4557
+  },
+  {
+    "gem_id": "LV429350",
+    "country_id": "LV",
+    "name": "Dzērbenes",
+    "shareBB": 0.6013,
+    "shareCircle": 0.5453
+  },
+  {
+    "gem_id": "LV429354",
+    "country_id": "LV",
+    "name": "Inešu",
+    "shareBB": 0.6051,
+    "shareCircle": 0.5838
+  },
+  {
+    "gem_id": "LV429358",
+    "country_id": "LV",
+    "name": "Kaives",
+    "shareBB": 0.4469,
+    "shareCircle": 0.4203
+  },
+  {
+    "gem_id": "LV429386",
+    "country_id": "LV",
+    "name": "Taurenes",
+    "shareBB": 0.6406,
+    "shareCircle": 0.4706
+  },
+  {
+    "gem_id": "LV429392",
+    "country_id": "LV",
+    "name": "Vecpiebalgas",
+    "shareBB": 0.4924,
+    "shareCircle": 0.4742
+  },
+  {
+    "gem_id": "LV440242",
+    "country_id": "LV",
+    "name": "Ambeļu",
+    "shareBB": 0.5823,
+    "shareCircle": 0.5309
+  },
+  {
+    "gem_id": "LV440246",
+    "country_id": "LV",
+    "name": "Biķernieku",
+    "shareBB": 0.6269,
+    "shareCircle": 0.5112
+  },
+  {
+    "gem_id": "LV440250",
+    "country_id": "LV",
+    "name": "Demenes",
+    "shareBB": 0.624,
+    "shareCircle": 0.5847
+  },
+  {
+    "gem_id": "LV440252",
+    "country_id": "LV",
+    "name": "Dubnas",
+    "shareBB": 0.526,
+    "shareCircle": 0.432
+  },
+  {
+    "gem_id": "LV440260",
+    "country_id": "LV",
+    "name": "Kalkūnes",
+    "shareBB": 0.5041,
+    "shareCircle": 0.3929
+  },
+  {
+    "gem_id": "LV440262",
+    "country_id": "LV",
+    "name": "Kalupes",
+    "shareBB": 0.4636,
+    "shareCircle": 0.4605
+  },
+  {
+    "gem_id": "LV440264",
+    "country_id": "LV",
+    "name": "Laucesas",
+    "shareBB": 0.4621,
+    "shareCircle": 0.4418
+  },
+  {
+    "gem_id": "LV440268",
+    "country_id": "LV",
+    "name": "Līksnas",
+    "shareBB": 0.3204,
+    "shareCircle": 0.2711
+  },
+  {
+    "gem_id": "LV440270",
+    "country_id": "LV",
+    "name": "Maļinovas",
+    "shareBB": 0.5015,
+    "shareCircle": 0.3065
+  },
+  {
+    "gem_id": "LV440272",
+    "country_id": "LV",
+    "name": "Medumu",
+    "shareBB": 0.4603,
+    "shareCircle": 0.3987
+  },
+  {
+    "gem_id": "LV440274",
+    "country_id": "LV",
+    "name": "Naujenes",
+    "shareBB": 0.4377,
+    "shareCircle": 0.3065
+  },
+  {
+    "gem_id": "LV440276",
+    "country_id": "LV",
+    "name": "Nīcgales",
+    "shareBB": 0.5161,
+    "shareCircle": 0.5761
+  },
+  {
+    "gem_id": "LV440284",
+    "country_id": "LV",
+    "name": "Salienas",
+    "shareBB": 0.5361,
+    "shareCircle": 0.3104
+  },
+  {
+    "gem_id": "LV440286",
+    "country_id": "LV",
+    "name": "Skrudalienas",
+    "shareBB": 0.3667,
+    "shareCircle": 0.3153
+  },
+  {
+    "gem_id": "LV440288",
+    "country_id": "LV",
+    "name": "Sventes",
+    "shareBB": 0.6138,
+    "shareCircle": 0.5364
+  },
+  {
+    "gem_id": "LV440292",
+    "country_id": "LV",
+    "name": "Tabores",
+    "shareBB": 0.5136,
+    "shareCircle": 0.5203
+  },
+  {
+    "gem_id": "LV440294",
+    "country_id": "LV",
+    "name": "Vaboles",
+    "shareBB": 0.4868,
+    "shareCircle": 0.4334
+  },
+  {
+    "gem_id": "LV440296",
+    "country_id": "LV",
+    "name": "Vecsalienas",
+    "shareBB": 0.5927,
+    "shareCircle": 0.4631
+  },
+  {
+    "gem_id": "LV440298",
+    "country_id": "LV",
+    "name": "Višķu",
+    "shareBB": 0.5494,
+    "shareCircle": 0.3868
+  },
+  {
+    "gem_id": "LV440807",
+    "country_id": "LV",
+    "name": "Ilūkste",
+    "shareBB": 0.3252,
+    "shareCircle": 0.2802
+  },
+  {
+    "gem_id": "LV440815",
+    "country_id": "LV",
+    "name": "Subate",
+    "shareBB": 0.4979,
+    "shareCircle": 0.462
+  },
+  {
+    "gem_id": "LV440835",
+    "country_id": "LV",
+    "name": "Prodes",
+    "shareBB": 0.5162,
+    "shareCircle": 0.4661
+  },
+  {
+    "gem_id": "LV440844",
+    "country_id": "LV",
+    "name": "Bebrenes",
+    "shareBB": 0.6182,
+    "shareCircle": 0.3935
+  },
+  {
+    "gem_id": "LV440854",
+    "country_id": "LV",
+    "name": "Dvietes",
+    "shareBB": 0.4644,
+    "shareCircle": 0.3918
+  },
+  {
+    "gem_id": "LV440856",
+    "country_id": "LV",
+    "name": "Eglaines",
+    "shareBB": 0.395,
+    "shareCircle": 0.349
+  },
+  {
+    "gem_id": "LV440880",
+    "country_id": "LV",
+    "name": "Pilskalnes",
+    "shareBB": 0.5615,
+    "shareCircle": 0.5386
+  },
+  {
+    "gem_id": "LV440890",
+    "country_id": "LV",
+    "name": "Šēderes",
+    "shareBB": 0.4061,
+    "shareCircle": 0.4082
+  },
+  {
+    "gem_id": "LV460201",
+    "country_id": "LV",
+    "name": "Dobele",
+    "shareBB": 0.4394,
+    "shareCircle": 0.389
+  },
+  {
+    "gem_id": "LV460242",
+    "country_id": "LV",
+    "name": "Annenieku",
+    "shareBB": 0.498,
+    "shareCircle": 0.4612
+  },
+  {
+    "gem_id": "LV460246",
+    "country_id": "LV",
+    "name": "Auru",
+    "shareBB": 0.4177,
+    "shareCircle": 0.3747
+  },
+  {
+    "gem_id": "LV460252",
+    "country_id": "LV",
+    "name": "Bērzes",
+    "shareBB": 0.6008,
+    "shareCircle": 0.5397
+  },
+  {
+    "gem_id": "LV460254",
+    "country_id": "LV",
+    "name": "Bikstu",
+    "shareBB": 0.5374,
+    "shareCircle": 0.4527
+  },
+  {
+    "gem_id": "LV460260",
+    "country_id": "LV",
+    "name": "Dobeles",
+    "shareBB": 0.6871,
+    "shareCircle": 0.5375
+  },
+  {
+    "gem_id": "LV460268",
+    "country_id": "LV",
+    "name": "Jaunbērzes",
+    "shareBB": 0.5285,
+    "shareCircle": 0.4767
+  },
+  {
+    "gem_id": "LV460272",
+    "country_id": "LV",
+    "name": "Krimūnu",
+    "shareBB": 0.4362,
+    "shareCircle": 0.3233
+  },
+  {
+    "gem_id": "LV460280",
+    "country_id": "LV",
+    "name": "Naudītes",
+    "shareBB": 0.5498,
+    "shareCircle": 0.5617
+  },
+  {
+    "gem_id": "LV460284",
+    "country_id": "LV",
+    "name": "Penkules",
+    "shareBB": 0.4652,
+    "shareCircle": 0.4388
+  },
+  {
+    "gem_id": "LV460298",
+    "country_id": "LV",
+    "name": "Zebrenes",
+    "shareBB": 0.4595,
+    "shareCircle": 0.3764
+  },
+  {
+    "gem_id": "LV460805",
+    "country_id": "LV",
+    "name": "Auce",
+    "shareBB": 0.6336,
+    "shareCircle": 0.6489
+  },
+  {
+    "gem_id": "LV460825",
+    "country_id": "LV",
+    "name": "Vecauces",
+    "shareBB": 0.5375,
+    "shareCircle": 0.4479
+  },
+  {
+    "gem_id": "LV460850",
+    "country_id": "LV",
+    "name": "Bēnes",
+    "shareBB": 0.533,
+    "shareCircle": 0.5537
+  },
+  {
+    "gem_id": "LV460864",
+    "country_id": "LV",
+    "name": "Īles",
+    "shareBB": 0.5966,
+    "shareCircle": 0.5444
+  },
+  {
+    "gem_id": "LV460876",
+    "country_id": "LV",
+    "name": "Lielauces",
+    "shareBB": 0.562,
+    "shareCircle": 0.3631
+  },
+  {
+    "gem_id": "LV460890",
+    "country_id": "LV",
+    "name": "Ukru",
+    "shareBB": 0.6062,
+    "shareCircle": 0.633
+  },
+  {
+    "gem_id": "LV460894",
+    "country_id": "LV",
+    "name": "Vītiņu",
+    "shareBB": 0.4942,
+    "shareCircle": 0.3661
+  },
+  {
+    "gem_id": "LV468944",
+    "country_id": "LV",
+    "name": "Augstkalnes",
+    "shareBB": 0.403,
+    "shareCircle": 0.3595
+  },
+  {
+    "gem_id": "LV468956",
+    "country_id": "LV",
+    "name": "Bukaišu",
+    "shareBB": 0.5572,
+    "shareCircle": 0.5133
+  },
+  {
+    "gem_id": "LV468988",
+    "country_id": "LV",
+    "name": "Tērvetes",
+    "shareBB": 0.4231,
+    "shareCircle": 0.448
+  },
+  {
+    "gem_id": "LV500201",
+    "country_id": "LV",
+    "name": "Gulbene",
+    "shareBB": 0.4779,
+    "shareCircle": 0.3942
+  },
+  {
+    "gem_id": "LV500244",
+    "country_id": "LV",
+    "name": "Beļavas",
+    "shareBB": 0.6646,
+    "shareCircle": 0.4858
+  },
+  {
+    "gem_id": "LV500248",
+    "country_id": "LV",
+    "name": "Daukstu",
+    "shareBB": 0.392,
+    "shareCircle": 0.3471
+  },
+  {
+    "gem_id": "LV500252",
+    "country_id": "LV",
+    "name": "Druvienas",
+    "shareBB": 0.5221,
+    "shareCircle": 0.388
+  },
+  {
+    "gem_id": "LV500256",
+    "country_id": "LV",
+    "name": "Galgauskas",
+    "shareBB": 0.5306,
+    "shareCircle": 0.5523
+  },
+  {
+    "gem_id": "LV500260",
+    "country_id": "LV",
+    "name": "Jaungulbenes",
+    "shareBB": 0.545,
+    "shareCircle": 0.5301
+  },
+  {
+    "gem_id": "LV500264",
+    "country_id": "LV",
+    "name": "Lejasciema",
+    "shareBB": 0.4744,
+    "shareCircle": 0.5253
+  },
+  {
+    "gem_id": "LV500268",
+    "country_id": "LV",
+    "name": "Litenes",
+    "shareBB": 0.578,
+    "shareCircle": 0.4656
+  },
+  {
+    "gem_id": "LV500272",
+    "country_id": "LV",
+    "name": "Lizuma",
+    "shareBB": 0.4674,
+    "shareCircle": 0.4166
+  },
+  {
+    "gem_id": "LV500276",
+    "country_id": "LV",
+    "name": "Līgo",
+    "shareBB": 0.5256,
+    "shareCircle": 0.5845
+  },
+  {
+    "gem_id": "LV500284",
+    "country_id": "LV",
+    "name": "Rankas",
+    "shareBB": 0.556,
+    "shareCircle": 0.5238
+  },
+  {
+    "gem_id": "LV500288",
+    "country_id": "LV",
+    "name": "Stāmerienas",
+    "shareBB": 0.5278,
+    "shareCircle": 0.5384
+  },
+  {
+    "gem_id": "LV500290",
+    "country_id": "LV",
+    "name": "Stradu",
+    "shareBB": 0.492,
+    "shareCircle": 0.4575
+  },
+  {
+    "gem_id": "LV500294",
+    "country_id": "LV",
+    "name": "Tirzas",
+    "shareBB": 0.5199,
+    "shareCircle": 0.4607
+  },
+  {
+    "gem_id": "LV540248",
+    "country_id": "LV",
+    "name": "Elejas",
+    "shareBB": 0.591,
+    "shareCircle": 0.2855
+  },
+  {
+    "gem_id": "LV540252",
+    "country_id": "LV",
+    "name": "Glūdas",
+    "shareBB": 0.5786,
+    "shareCircle": 0.4395
+  },
+  {
+    "gem_id": "LV540256",
+    "country_id": "LV",
+    "name": "Jaunsvirlaukas",
+    "shareBB": 0.4023,
+    "shareCircle": 0.3038
+  },
+  {
+    "gem_id": "LV540258",
+    "country_id": "LV",
+    "name": "Kalnciema",
+    "shareBB": 0.2749,
+    "shareCircle": 0.1912
+  },
+  {
+    "gem_id": "LV540260",
+    "country_id": "LV",
+    "name": "Lielplatones",
+    "shareBB": 0.5488,
+    "shareCircle": 0.362
+  },
+  {
+    "gem_id": "LV540262",
+    "country_id": "LV",
+    "name": "Līvbērzes",
+    "shareBB": 0.4636,
+    "shareCircle": 0.4882
+  },
+  {
+    "gem_id": "LV540270",
+    "country_id": "LV",
+    "name": "Platones",
+    "shareBB": 0.5318,
+    "shareCircle": 0.369
+  },
+  {
+    "gem_id": "LV540274",
+    "country_id": "LV",
+    "name": "Sesavas",
+    "shareBB": 0.5035,
+    "shareCircle": 0.3048
+  },
+  {
+    "gem_id": "LV540282",
+    "country_id": "LV",
+    "name": "Svētes",
+    "shareBB": 0.4641,
+    "shareCircle": 0.3115
+  },
+  {
+    "gem_id": "LV540286",
+    "country_id": "LV",
+    "name": "Valgundes",
+    "shareBB": 0.471,
+    "shareCircle": 0.3652
+  },
+  {
+    "gem_id": "LV540290",
+    "country_id": "LV",
+    "name": "Vilces",
+    "shareBB": 0.6356,
+    "shareCircle": 0.6328
+  },
+  {
+    "gem_id": "LV540292",
+    "country_id": "LV",
+    "name": "Vircavas",
+    "shareBB": 0.4278,
+    "shareCircle": 0.3549
+  },
+  {
+    "gem_id": "LV540296",
+    "country_id": "LV",
+    "name": "Zaļenieku",
+    "shareBB": 0.5601,
+    "shareCircle": 0.4575
+  },
+  {
+    "gem_id": "LV546744",
+    "country_id": "LV",
+    "name": "Cenu",
+    "shareBB": 0.3981,
+    "shareCircle": 0.3604
+  },
+  {
+    "gem_id": "LV546766",
+    "country_id": "LV",
+    "name": "Ozolnieku",
+    "shareBB": 0.4773,
+    "shareCircle": 0.3799
+  },
+  {
+    "gem_id": "LV546778",
+    "country_id": "LV",
+    "name": "Salgales",
+    "shareBB": 0.4401,
+    "shareCircle": 0.3721
+  },
+  {
+    "gem_id": "LV560248",
+    "country_id": "LV",
+    "name": "Ābeļu",
+    "shareBB": 0.6049,
+    "shareCircle": 0.4567
+  },
+  {
+    "gem_id": "LV560252",
+    "country_id": "LV",
+    "name": "Dignājas",
+    "shareBB": 0.4759,
+    "shareCircle": 0.4555
+  },
+  {
+    "gem_id": "LV560254",
+    "country_id": "LV",
+    "name": "Dunavas",
+    "shareBB": 0.3439,
+    "shareCircle": 0.297
+  },
+  {
+    "gem_id": "LV560266",
+    "country_id": "LV",
+    "name": "Kalna",
+    "shareBB": 0.4079,
+    "shareCircle": 0.3357
+  },
+  {
+    "gem_id": "LV560274",
+    "country_id": "LV",
+    "name": "Leimaņu",
+    "shareBB": 0.3333,
+    "shareCircle": 0.2499
+  },
+  {
+    "gem_id": "LV560282",
+    "country_id": "LV",
+    "name": "Rubenes",
+    "shareBB": 0.4393,
+    "shareCircle": 0.4258
+  },
+  {
+    "gem_id": "LV560298",
+    "country_id": "LV",
+    "name": "Zasas",
+    "shareBB": 0.4776,
+    "shareCircle": 0.435
+  },
+  {
+    "gem_id": "LV560805",
+    "country_id": "LV",
+    "name": "Aknīste",
+    "shareBB": 0.5593,
+    "shareCircle": 0.549
+  },
+  {
+    "gem_id": "LV560825",
+    "country_id": "LV",
+    "name": "Aknīstes",
+    "shareBB": 0.5881,
+    "shareCircle": 0.5219
+  },
+  {
+    "gem_id": "LV560844",
+    "country_id": "LV",
+    "name": "Asares",
+    "shareBB": 0.3897,
+    "shareCircle": 0.3342
+  },
+  {
+    "gem_id": "LV560862",
+    "country_id": "LV",
+    "name": "Gārsenes",
+    "shareBB": 0.5925,
+    "shareCircle": 0.5644
+  },
+  {
+    "gem_id": "LV561815",
+    "country_id": "LV",
+    "name": "Viesīte",
+    "shareBB": 0.5515,
+    "shareCircle": 0.6028
+  },
+  {
+    "gem_id": "LV561835",
+    "country_id": "LV",
+    "name": "Viesītes",
+    "shareBB": 0.5018,
+    "shareCircle": 0.4378
+  },
+  {
+    "gem_id": "LV561858",
+    "country_id": "LV",
+    "name": "Elkšņu",
+    "shareBB": 0.5129,
+    "shareCircle": 0.411
+  },
+  {
+    "gem_id": "LV561880",
+    "country_id": "LV",
+    "name": "Rites",
+    "shareBB": 0.5766,
+    "shareCircle": 0.5398
+  },
+  {
+    "gem_id": "LV561888",
+    "country_id": "LV",
+    "name": "Saukas",
+    "shareBB": 0.5916,
+    "shareCircle": 0.6809
+  },
+  {
+    "gem_id": "LV566946",
+    "country_id": "LV",
+    "name": "Atašienes",
+    "shareBB": 0.534,
+    "shareCircle": 0.5579
+  },
+  {
+    "gem_id": "LV566968",
+    "country_id": "LV",
+    "name": "Krustpils",
+    "shareBB": 0.6212,
+    "shareCircle": 0.6515
+  },
+  {
+    "gem_id": "LV566970",
+    "country_id": "LV",
+    "name": "Kūku",
+    "shareBB": 0.512,
+    "shareCircle": 0.4905
+  },
+  {
+    "gem_id": "LV566976",
+    "country_id": "LV",
+    "name": "Mežāres",
+    "shareBB": 0.4633,
+    "shareCircle": 0.5002
+  },
+  {
+    "gem_id": "LV566994",
+    "country_id": "LV",
+    "name": "Variešu",
+    "shareBB": 0.4375,
+    "shareCircle": 0.3673
+  },
+  {
+    "gem_id": "LV566996",
+    "country_id": "LV",
+    "name": "Vīpes",
+    "shareBB": 0.5943,
+    "shareCircle": 0.4923
+  },
+  {
+    "gem_id": "LV568786",
+    "country_id": "LV",
+    "name": "Salas",
+    "shareBB": 0.6083,
+    "shareCircle": 0.542
+  },
+  {
+    "gem_id": "LV568790",
+    "country_id": "LV",
+    "name": "Sēlpils",
+    "shareBB": 0.4755,
+    "shareCircle": 0.3716
+  },
+  {
+    "gem_id": "LV600201",
+    "country_id": "LV",
+    "name": "Krāslava",
+    "shareBB": 0.5071,
+    "shareCircle": 0.581
+  },
+  {
+    "gem_id": "LV600248",
+    "country_id": "LV",
+    "name": "Aulejas",
+    "shareBB": 0.6815,
+    "shareCircle": 0.5535
+  },
+  {
+    "gem_id": "LV600262",
+    "country_id": "LV",
+    "name": "Indras",
+    "shareBB": 0.7006,
+    "shareCircle": 0.6107
+  },
+  {
+    "gem_id": "LV600264",
+    "country_id": "LV",
+    "name": "Izvaltas",
+    "shareBB": 0.5465,
+    "shareCircle": 0.4765
+  },
+  {
+    "gem_id": "LV600268",
+    "country_id": "LV",
+    "name": "Kalniešu",
+    "shareBB": 0.6138,
+    "shareCircle": 0.562
+  },
+  {
+    "gem_id": "LV600270",
+    "country_id": "LV",
+    "name": "Kaplavas",
+    "shareBB": 0.4645,
+    "shareCircle": 0.2618
+  },
+  {
+    "gem_id": "LV600274",
+    "country_id": "LV",
+    "name": "Kombuļu",
+    "shareBB": 0.5071,
+    "shareCircle": 0.5553
+  },
+  {
+    "gem_id": "LV600278",
+    "country_id": "LV",
+    "name": "Krāslavas",
+    "shareBB": 0.5445,
+    "shareCircle": 0.4362
+  },
+  {
+    "gem_id": "LV600284",
+    "country_id": "LV",
+    "name": "Piedrujas",
+    "shareBB": 0.544,
+    "shareCircle": 0.2661
+  },
+  {
+    "gem_id": "LV600286",
+    "country_id": "LV",
+    "name": "Robežnieku",
+    "shareBB": 0.5447,
+    "shareCircle": 0.456
+  },
+  {
+    "gem_id": "LV600288",
+    "country_id": "LV",
+    "name": "Skaistas",
+    "shareBB": 0.5652,
+    "shareCircle": 0.5783
+  },
+  {
+    "gem_id": "LV600296",
+    "country_id": "LV",
+    "name": "Ūdrīšu",
+    "shareBB": 0.5258,
+    "shareCircle": 0.3874
+  },
+  {
+    "gem_id": "LV601009",
+    "country_id": "LV",
+    "name": "Dagda",
+    "shareBB": 0.5314,
+    "shareCircle": 0.4944
+  },
+  {
+    "gem_id": "LV601042",
+    "country_id": "LV",
+    "name": "Andrupenes",
+    "shareBB": 0.5028,
+    "shareCircle": 0.4905
+  },
+  {
+    "gem_id": "LV601044",
+    "country_id": "LV",
+    "name": "Andzeļu",
+    "shareBB": 0.5127,
+    "shareCircle": 0.4952
+  },
+  {
+    "gem_id": "LV601046",
+    "country_id": "LV",
+    "name": "Asūnes",
+    "shareBB": 0.5215,
+    "shareCircle": 0.4686
+  },
+  {
+    "gem_id": "LV601050",
+    "country_id": "LV",
+    "name": "Bērziņu",
+    "shareBB": 0.511,
+    "shareCircle": 0.4604
+  },
+  {
+    "gem_id": "LV601054",
+    "country_id": "LV",
+    "name": "Dagdas",
+    "shareBB": 0.4319,
+    "shareCircle": 0.4467
+  },
+  {
+    "gem_id": "LV601056",
+    "country_id": "LV",
+    "name": "Ezernieku",
+    "shareBB": 0.4806,
+    "shareCircle": 0.5144
+  },
+  {
+    "gem_id": "LV601076",
+    "country_id": "LV",
+    "name": "Konstantinovas",
+    "shareBB": 0.5601,
+    "shareCircle": 0.4896
+  },
+  {
+    "gem_id": "LV601080",
+    "country_id": "LV",
+    "name": "Ķepovas",
+    "shareBB": 0.6494,
+    "shareCircle": 0.7365
+  },
+  {
+    "gem_id": "LV601090",
+    "country_id": "LV",
+    "name": "Svariņu",
+    "shareBB": 0.4075,
+    "shareCircle": 0.3844
+  },
+  {
+    "gem_id": "LV601092",
+    "country_id": "LV",
+    "name": "Šķaunes",
+    "shareBB": 0.5108,
+    "shareCircle": 0.4276
+  },
+  {
+    "gem_id": "LV604342",
+    "country_id": "LV",
+    "name": "Aglonas",
+    "shareBB": 0.5955,
+    "shareCircle": 0.6589
+  },
+  {
+    "gem_id": "LV604358",
+    "country_id": "LV",
+    "name": "Grāveru",
+    "shareBB": 0.5321,
+    "shareCircle": 0.4281
+  },
+  {
+    "gem_id": "LV604372",
+    "country_id": "LV",
+    "name": "Kastuļinas",
+    "shareBB": 0.5781,
+    "shareCircle": 0.6545
+  },
+  {
+    "gem_id": "LV604394",
+    "country_id": "LV",
+    "name": "Šķeltovas",
+    "shareBB": 0.5501,
+    "shareCircle": 0.522
+  },
+  {
+    "gem_id": "LV620201",
+    "country_id": "LV",
+    "name": "Kuldīga",
+    "shareBB": 0.474,
+    "shareCircle": 0.4715
+  },
+  {
+    "gem_id": "LV620246",
+    "country_id": "LV",
+    "name": "Ēdoles",
+    "shareBB": 0.5013,
+    "shareCircle": 0.5118
+  },
+  {
+    "gem_id": "LV620250",
+    "country_id": "LV",
+    "name": "Gudenieku",
+    "shareBB": 0.4711,
+    "shareCircle": 0.3899
+  },
+  {
+    "gem_id": "LV620254",
+    "country_id": "LV",
+    "name": "Īvandes",
+    "shareBB": 0.4574,
+    "shareCircle": 0.4584
+  },
+  {
+    "gem_id": "LV620258",
+    "country_id": "LV",
+    "name": "Kabiles",
+    "shareBB": 0.601,
+    "shareCircle": 0.5448
+  },
+  {
+    "gem_id": "LV620260",
+    "country_id": "LV",
+    "name": "Kurmāles",
+    "shareBB": 0.4985,
+    "shareCircle": 0.485
+  },
+  {
+    "gem_id": "LV620264",
+    "country_id": "LV",
+    "name": "Laidu",
+    "shareBB": 0.4168,
+    "shareCircle": 0.4036
+  },
+  {
+    "gem_id": "LV620272",
+    "country_id": "LV",
+    "name": "Padures",
+    "shareBB": 0.5256,
+    "shareCircle": 0.5525
+  },
+  {
+    "gem_id": "LV620274",
+    "country_id": "LV",
+    "name": "Pelču",
+    "shareBB": 0.667,
+    "shareCircle": 0.5525
+  },
+  {
+    "gem_id": "LV620280",
+    "country_id": "LV",
+    "name": "Rendas",
+    "shareBB": 0.5158,
+    "shareCircle": 0.5072
+  },
+  {
+    "gem_id": "LV620284",
+    "country_id": "LV",
+    "name": "Rumbas",
+    "shareBB": 0.353,
+    "shareCircle": 0.3377
+  },
+  {
+    "gem_id": "LV620290",
+    "country_id": "LV",
+    "name": "Snēpeles",
+    "shareBB": 0.5301,
+    "shareCircle": 0.5509
+  },
+  {
+    "gem_id": "LV620292",
+    "country_id": "LV",
+    "name": "Turlavas",
+    "shareBB": 0.529,
+    "shareCircle": 0.4799
+  },
+  {
+    "gem_id": "LV620296",
+    "country_id": "LV",
+    "name": "Vārmes",
+    "shareBB": 0.5399,
+    "shareCircle": 0.5072
+  },
+  {
+    "gem_id": "LV621209",
+    "country_id": "LV",
+    "name": "Skrunda",
+    "shareBB": 0.6128,
+    "shareCircle": 0.5628
+  },
+  {
+    "gem_id": "LV621229",
+    "country_id": "LV",
+    "name": "Skrundas",
+    "shareBB": 0.6007,
+    "shareCircle": 0.3383
+  },
+  {
+    "gem_id": "LV621268",
+    "country_id": "LV",
+    "name": "Nīkrāces",
+    "shareBB": 0.5123,
+    "shareCircle": 0.49
+  },
+  {
+    "gem_id": "LV621278",
+    "country_id": "LV",
+    "name": "Raņķu",
+    "shareBB": 0.396,
+    "shareCircle": 0.2327
+  },
+  {
+    "gem_id": "LV621282",
+    "country_id": "LV",
+    "name": "Rudbāržu",
+    "shareBB": 0.5517,
+    "shareCircle": 0.3712
+  },
+  {
+    "gem_id": "LV624200",
+    "country_id": "LV",
+    "name": "Alsungas novads",
+    "shareBB": 0.5201,
+    "shareCircle": 0.5479
+  },
+  {
+    "gem_id": "LV640605",
+    "country_id": "LV",
+    "name": "Aizpute",
+    "shareBB": 0.5705,
+    "shareCircle": 0.3926
+  },
+  {
+    "gem_id": "LV640642",
+    "country_id": "LV",
+    "name": "Aizputes",
+    "shareBB": 0.5912,
+    "shareCircle": 0.5663
+  },
+  {
+    "gem_id": "LV640648",
+    "country_id": "LV",
+    "name": "Cīravas",
+    "shareBB": 0.5029,
+    "shareCircle": 0.5054
+  },
+  {
+    "gem_id": "LV640666",
+    "country_id": "LV",
+    "name": "Kalvenes",
+    "shareBB": 0.5404,
+    "shareCircle": 0.4374
+  },
+  {
+    "gem_id": "LV640668",
+    "country_id": "LV",
+    "name": "Kazdangas",
+    "shareBB": 0.5495,
+    "shareCircle": 0.5081
+  },
+  {
+    "gem_id": "LV640672",
+    "country_id": "LV",
+    "name": "Lažas",
+    "shareBB": 0.426,
+    "shareCircle": 0.3359
+  },
+  {
+    "gem_id": "LV640807",
+    "country_id": "LV",
+    "name": "Durbe",
+    "shareBB": 0.6049,
+    "shareCircle": 0.5144
+  },
+  {
+    "gem_id": "LV640827",
+    "country_id": "LV",
+    "name": "Durbes",
+    "shareBB": 0.5169,
+    "shareCircle": 0.4028
+  },
+  {
+    "gem_id": "LV640850",
+    "country_id": "LV",
+    "name": "Dunalkas",
+    "shareBB": 0.432,
+    "shareCircle": 0.3546
+  },
+  {
+    "gem_id": "LV640888",
+    "country_id": "LV",
+    "name": "Tadaiķu",
+    "shareBB": 0.4956,
+    "shareCircle": 0.3888
+  },
+  {
+    "gem_id": "LV640894",
+    "country_id": "LV",
+    "name": "Vecpils",
+    "shareBB": 0.5861,
+    "shareCircle": 0.5803
+  },
+  {
+    "gem_id": "LV641009",
+    "country_id": "LV",
+    "name": "Grobiņa",
+    "shareBB": 0.3651,
+    "shareCircle": 0.3148
+  },
+  {
+    "gem_id": "LV641044",
+    "country_id": "LV",
+    "name": "Bārtas",
+    "shareBB": 0.7547,
+    "shareCircle": 0.6671
+  },
+  {
+    "gem_id": "LV641056",
+    "country_id": "LV",
+    "name": "Gaviezes",
+    "shareBB": 0.5882,
+    "shareCircle": 0.5225
+  },
+  {
+    "gem_id": "LV641060",
+    "country_id": "LV",
+    "name": "Grobiņas",
+    "shareBB": 0.5254,
+    "shareCircle": 0.4379
+  },
+  {
+    "gem_id": "LV641076",
+    "country_id": "LV",
+    "name": "Medzes",
+    "shareBB": 0.5127,
+    "shareCircle": 0.5914
+  },
+  {
+    "gem_id": "LV641413",
+    "country_id": "LV",
+    "name": "Pāvilosta",
+    "shareBB": 0.5671,
+    "shareCircle": 0.4294
+  },
+  {
+    "gem_id": "LV641486",
+    "country_id": "LV",
+    "name": "Sakas",
+    "shareBB": 0.4728,
+    "shareCircle": 0.4882
+  },
+  {
+    "gem_id": "LV641496",
+    "country_id": "LV",
+    "name": "Vērgales",
+    "shareBB": 0.5718,
+    "shareCircle": 0.5029
+  },
+  {
+    "gem_id": "LV641615",
+    "country_id": "LV",
+    "name": "Priekule",
+    "shareBB": 0.6411,
+    "shareCircle": 0.6057
+  },
+  {
+    "gem_id": "LV641646",
+    "country_id": "LV",
+    "name": "Bunkas",
+    "shareBB": 0.4878,
+    "shareCircle": 0.2923
+  },
+  {
+    "gem_id": "LV641658",
+    "country_id": "LV",
+    "name": "Gramzdas",
+    "shareBB": 0.5792,
+    "shareCircle": 0.4622
+  },
+  {
+    "gem_id": "LV641664",
+    "country_id": "LV",
+    "name": "Kalētu",
+    "shareBB": 0.5966,
+    "shareCircle": 0.576
+  },
+  {
+    "gem_id": "LV641682",
+    "country_id": "LV",
+    "name": "Priekules",
+    "shareBB": 0.4268,
+    "shareCircle": 0.3932
+  },
+  {
+    "gem_id": "LV641698",
+    "country_id": "LV",
+    "name": "Virgas",
+    "shareBB": 0.4446,
+    "shareCircle": 0.3454
+  },
+  {
+    "gem_id": "LV647978",
+    "country_id": "LV",
+    "name": "Nīcas",
+    "shareBB": 0.4399,
+    "shareCircle": 0.2245
+  },
+  {
+    "gem_id": "LV647980",
+    "country_id": "LV",
+    "name": "Otaņķu",
+    "shareBB": 0.5528,
+    "shareCircle": 0.4661
+  },
+  {
+    "gem_id": "LV648552",
+    "country_id": "LV",
+    "name": "Dunikas",
+    "shareBB": 0.5801,
+    "shareCircle": 0.5522
+  },
+  {
+    "gem_id": "LV648584",
+    "country_id": "LV",
+    "name": "Rucavas",
+    "shareBB": 0.5345,
+    "shareCircle": 0.5179
+  },
+  {
+    "gem_id": "LV649354",
+    "country_id": "LV",
+    "name": "Embūtes",
+    "shareBB": 0.5551,
+    "shareCircle": 0.4632
+  },
+  {
+    "gem_id": "LV649392",
+    "country_id": "LV",
+    "name": "Vaiņodes",
+    "shareBB": 0.5539,
+    "shareCircle": 0.5141
+  },
+  {
+    "gem_id": "LV660201",
+    "country_id": "LV",
+    "name": "Limbaži",
+    "shareBB": 0.4705,
+    "shareCircle": 0.4527
+  },
+  {
+    "gem_id": "LV660252",
+    "country_id": "LV",
+    "name": "Katvaru",
+    "shareBB": 0.5893,
+    "shareCircle": 0.4905
+  },
+  {
+    "gem_id": "LV660264",
+    "country_id": "LV",
+    "name": "Limbažu",
+    "shareBB": 0.4825,
+    "shareCircle": 0.461
+  },
+  {
+    "gem_id": "LV660268",
+    "country_id": "LV",
+    "name": "Pāles",
+    "shareBB": 0.648,
+    "shareCircle": 0.5653
+  },
+  {
+    "gem_id": "LV660276",
+    "country_id": "LV",
+    "name": "Skultes",
+    "shareBB": 0.5773,
+    "shareCircle": 0.4838
+  },
+  {
+    "gem_id": "LV660280",
+    "country_id": "LV",
+    "name": "Umurgas",
+    "shareBB": 0.5032,
+    "shareCircle": 0.5189
+  },
+  {
+    "gem_id": "LV660284",
+    "country_id": "LV",
+    "name": "Vidrižu",
+    "shareBB": 0.4548,
+    "shareCircle": 0.3306
+  },
+  {
+    "gem_id": "LV660288",
+    "country_id": "LV",
+    "name": "Viļķenes",
+    "shareBB": 0.6134,
+    "shareCircle": 0.5409
+  },
+  {
+    "gem_id": "LV661007",
+    "country_id": "LV",
+    "name": "Aloja",
+    "shareBB": 0.6967,
+    "shareCircle": 0.5874
+  },
+  {
+    "gem_id": "LV661017",
+    "country_id": "LV",
+    "name": "Staicele",
+    "shareBB": 0.5706,
+    "shareCircle": 0.4249
+  },
+  {
+    "gem_id": "LV661027",
+    "country_id": "LV",
+    "name": "Alojas",
+    "shareBB": 0.4676,
+    "shareCircle": 0.5259
+  },
+  {
+    "gem_id": "LV661037",
+    "country_id": "LV",
+    "name": "Staiceles",
+    "shareBB": 0.544,
+    "shareCircle": 0.563
+  },
+  {
+    "gem_id": "LV661044",
+    "country_id": "LV",
+    "name": "Braslavas",
+    "shareBB": 0.5201,
+    "shareCircle": 0.3815
+  },
+  {
+    "gem_id": "LV661048",
+    "country_id": "LV",
+    "name": "Brīvzemnieku",
+    "shareBB": 0.4824,
+    "shareCircle": 0.4702
+  },
+  {
+    "gem_id": "LV661405",
+    "country_id": "LV",
+    "name": "Ainaži",
+    "shareBB": 0.5467,
+    "shareCircle": 0.2498
+  },
+  {
+    "gem_id": "LV661415",
+    "country_id": "LV",
+    "name": "Salacgrīva",
+    "shareBB": 0.3824,
+    "shareCircle": 0.2119
+  },
+  {
+    "gem_id": "LV661425",
+    "country_id": "LV",
+    "name": "Ainažu",
+    "shareBB": 0.4857,
+    "shareCircle": 0.4356
+  },
+  {
+    "gem_id": "LV661435",
+    "country_id": "LV",
+    "name": "Salacgrīvas",
+    "shareBB": 0.4482,
+    "shareCircle": 0.3319
+  },
+  {
+    "gem_id": "LV661460",
+    "country_id": "LV",
+    "name": "Liepupes",
+    "shareBB": 0.5656,
+    "shareCircle": 0.5687
+  },
+  {
+    "gem_id": "LV680201",
+    "country_id": "LV",
+    "name": "Ludza",
+    "shareBB": 0.5115,
+    "shareCircle": 0.4658
+  },
+  {
+    "gem_id": "LV680246",
+    "country_id": "LV",
+    "name": "Briģu",
+    "shareBB": 0.6007,
+    "shareCircle": 0.4766
+  },
+  {
+    "gem_id": "LV680250",
+    "country_id": "LV",
+    "name": "Cirmas",
+    "shareBB": 0.5036,
+    "shareCircle": 0.487
+  },
+  {
+    "gem_id": "LV680258",
+    "country_id": "LV",
+    "name": "Isnaudas",
+    "shareBB": 0.4486,
+    "shareCircle": 0.448
+  },
+  {
+    "gem_id": "LV680260",
+    "country_id": "LV",
+    "name": "Istras",
+    "shareBB": 0.5501,
+    "shareCircle": 0.5151
+  },
+  {
+    "gem_id": "LV680278",
+    "country_id": "LV",
+    "name": "Nirzas",
+    "shareBB": 0.612,
+    "shareCircle": 0.6291
+  },
+  {
+    "gem_id": "LV680280",
+    "country_id": "LV",
+    "name": "Ņukšu",
+    "shareBB": 0.4565,
+    "shareCircle": 0.3871
+  },
+  {
+    "gem_id": "LV680286",
+    "country_id": "LV",
+    "name": "Pildas",
+    "shareBB": 0.6488,
+    "shareCircle": 0.5765
+  },
+  {
+    "gem_id": "LV680288",
+    "country_id": "LV",
+    "name": "Pureņu",
+    "shareBB": 0.5891,
+    "shareCircle": 0.5566
+  },
+  {
+    "gem_id": "LV680292",
+    "country_id": "LV",
+    "name": "Rundēnu",
+    "shareBB": 0.6012,
+    "shareCircle": 0.4919
+  },
+  {
+    "gem_id": "LV681009",
+    "country_id": "LV",
+    "name": "Kārsava",
+    "shareBB": 0.4706,
+    "shareCircle": 0.4646
+  },
+  {
+    "gem_id": "LV681054",
+    "country_id": "LV",
+    "name": "Goliševas",
+    "shareBB": 0.3825,
+    "shareCircle": 0.3508
+  },
+  {
+    "gem_id": "LV681068",
+    "country_id": "LV",
+    "name": "Malnavas",
+    "shareBB": 0.5336,
+    "shareCircle": 0.4352
+  },
+  {
+    "gem_id": "LV681070",
+    "country_id": "LV",
+    "name": "Mežvidu",
+    "shareBB": 0.5892,
+    "shareCircle": 0.3877
+  },
+  {
+    "gem_id": "LV681072",
+    "country_id": "LV",
+    "name": "Mērdzenes",
+    "shareBB": 0.4951,
+    "shareCircle": 0.4842
+  },
+  {
+    "gem_id": "LV681094",
+    "country_id": "LV",
+    "name": "Salnavas",
+    "shareBB": 0.5429,
+    "shareCircle": 0.3617
+  },
+  {
+    "gem_id": "LV681817",
+    "country_id": "LV",
+    "name": "Zilupe",
+    "shareBB": 0.4979,
+    "shareCircle": 0.478
+  },
+  {
+    "gem_id": "LV681864",
+    "country_id": "LV",
+    "name": "Lauderu",
+    "shareBB": 0.429,
+    "shareCircle": 0.3969
+  },
+  {
+    "gem_id": "LV681884",
+    "country_id": "LV",
+    "name": "Pasienes",
+    "shareBB": 0.5782,
+    "shareCircle": 0.2822
+  },
+  {
+    "gem_id": "LV681896",
+    "country_id": "LV",
+    "name": "Zaļesjes",
+    "shareBB": 0.4928,
+    "shareCircle": 0.4769
+  },
+  {
+    "gem_id": "LV684944",
+    "country_id": "LV",
+    "name": "Blontu",
+    "shareBB": 0.4296,
+    "shareCircle": 0.3388
+  },
+  {
+    "gem_id": "LV684948",
+    "country_id": "LV",
+    "name": "Ciblas",
+    "shareBB": 0.4314,
+    "shareCircle": 0.4006
+  },
+  {
+    "gem_id": "LV684966",
+    "country_id": "LV",
+    "name": "Līdumnieku",
+    "shareBB": 0.44,
+    "shareCircle": 0.3622
+  },
+  {
+    "gem_id": "LV684990",
+    "country_id": "LV",
+    "name": "Pušmucovas",
+    "shareBB": 0.5277,
+    "shareCircle": 0.4311
+  },
+  {
+    "gem_id": "LV684998",
+    "country_id": "LV",
+    "name": "Zvirgzdenes",
+    "shareBB": 0.5394,
+    "shareCircle": 0.3368
+  },
+  {
+    "gem_id": "LV700201",
+    "country_id": "LV",
+    "name": "Madona",
+    "shareBB": 0.6606,
+    "shareCircle": 0.6201
+  },
+  {
+    "gem_id": "LV700242",
+    "country_id": "LV",
+    "name": "Aronas",
+    "shareBB": 0.5443,
+    "shareCircle": 0.5615
+  },
+  {
+    "gem_id": "LV700244",
+    "country_id": "LV",
+    "name": "Barkavas",
+    "shareBB": 0.4775,
+    "shareCircle": 0.3879
+  },
+  {
+    "gem_id": "LV700246",
+    "country_id": "LV",
+    "name": "Bērzaunes",
+    "shareBB": 0.5224,
+    "shareCircle": 0.4557
+  },
+  {
+    "gem_id": "LV700250",
+    "country_id": "LV",
+    "name": "Dzelzavas",
+    "shareBB": 0.5458,
+    "shareCircle": 0.4725
+  },
+  {
+    "gem_id": "LV700262",
+    "country_id": "LV",
+    "name": "Kalsnavas",
+    "shareBB": 0.5529,
+    "shareCircle": 0.5754
+  },
+  {
+    "gem_id": "LV700266",
+    "country_id": "LV",
+    "name": "Lazdonas",
+    "shareBB": 0.5624,
+    "shareCircle": 0.5155
+  },
+  {
+    "gem_id": "LV700268",
+    "country_id": "LV",
+    "name": "Liezēres",
+    "shareBB": 0.6625,
+    "shareCircle": 0.604
+  },
+  {
+    "gem_id": "LV700270",
+    "country_id": "LV",
+    "name": "Ļaudonas",
+    "shareBB": 0.5238,
+    "shareCircle": 0.4568
+  },
+  {
+    "gem_id": "LV700274",
+    "country_id": "LV",
+    "name": "Mārcienas",
+    "shareBB": 0.4319,
+    "shareCircle": 0.4732
+  },
+  {
+    "gem_id": "LV700276",
+    "country_id": "LV",
+    "name": "Mētrienas",
+    "shareBB": 0.4812,
+    "shareCircle": 0.373
+  },
+  {
+    "gem_id": "LV700282",
+    "country_id": "LV",
+    "name": "Ošupes",
+    "shareBB": 0.5827,
+    "shareCircle": 0.5973
+  },
+  {
+    "gem_id": "LV700286",
+    "country_id": "LV",
+    "name": "Praulienas",
+    "shareBB": 0.4724,
+    "shareCircle": 0.4526
+  },
+  {
+    "gem_id": "LV700290",
+    "country_id": "LV",
+    "name": "Sarkaņu",
+    "shareBB": 0.4846,
+    "shareCircle": 0.4091
+  },
+  {
+    "gem_id": "LV700296",
+    "country_id": "LV",
+    "name": "Vestienas",
+    "shareBB": 0.484,
+    "shareCircle": 0.5137
+  },
+  {
+    "gem_id": "LV700807",
+    "country_id": "LV",
+    "name": "Cesvaine",
+    "shareBB": 0.678,
+    "shareCircle": 0.5731
+  },
+  {
+    "gem_id": "LV700827",
+    "country_id": "LV",
+    "name": "Cesvaines",
+    "shareBB": 0.5859,
+    "shareCircle": 0.5521
+  },
+  {
+    "gem_id": "LV701413",
+    "country_id": "LV",
+    "name": "Lubāna",
+    "shareBB": 0.5696,
+    "shareCircle": 0.455
+  },
+  {
+    "gem_id": "LV701458",
+    "country_id": "LV",
+    "name": "Indrānu",
+    "shareBB": 0.4427,
+    "shareCircle": 0.4183
+  },
+  {
+    "gem_id": "LV701817",
+    "country_id": "LV",
+    "name": "Varakļāni",
+    "shareBB": 0.4515,
+    "shareCircle": 0.3627
+  },
+  {
+    "gem_id": "LV701878",
+    "country_id": "LV",
+    "name": "Murmastienes",
+    "shareBB": 0.4975,
+    "shareCircle": 0.4049
+  },
+  {
+    "gem_id": "LV701894",
+    "country_id": "LV",
+    "name": "Varakļānu",
+    "shareBB": 0.5554,
+    "shareCircle": 0.3825
+  },
+  {
+    "gem_id": "LV705554",
+    "country_id": "LV",
+    "name": "Ērgļu",
+    "shareBB": 0.4279,
+    "shareCircle": 0.3927
+  },
+  {
+    "gem_id": "LV705560",
+    "country_id": "LV",
+    "name": "Jumurdas",
+    "shareBB": 0.5534,
+    "shareCircle": 0.4369
+  },
+  {
+    "gem_id": "LV705592",
+    "country_id": "LV",
+    "name": "Sausnējas",
+    "shareBB": 0.562,
+    "shareCircle": 0.4385
+  },
+  {
+    "gem_id": "LV740201",
+    "country_id": "LV",
+    "name": "Ogre",
+    "shareBB": 0.4842,
+    "shareCircle": 0.4552
+  },
+  {
+    "gem_id": "LV740252",
+    "country_id": "LV",
+    "name": "Krapes",
+    "shareBB": 0.5152,
+    "shareCircle": 0.4385
+  },
+  {
+    "gem_id": "LV740256",
+    "country_id": "LV",
+    "name": "Ķeipenes",
+    "shareBB": 0.6615,
+    "shareCircle": 0.501
+  },
+  {
+    "gem_id": "LV740260",
+    "country_id": "LV",
+    "name": "Lauberes",
+    "shareBB": 0.5942,
+    "shareCircle": 0.5832
+  },
+  {
+    "gem_id": "LV740268",
+    "country_id": "LV",
+    "name": "Madlienas",
+    "shareBB": 0.5794,
+    "shareCircle": 0.41
+  },
+  {
+    "gem_id": "LV740272",
+    "country_id": "LV",
+    "name": "Mazozolu",
+    "shareBB": 0.4751,
+    "shareCircle": 0.4557
+  },
+  {
+    "gem_id": "LV740276",
+    "country_id": "LV",
+    "name": "Menģeles",
+    "shareBB": 0.5366,
+    "shareCircle": 0.5424
+  },
+  {
+    "gem_id": "LV740280",
+    "country_id": "LV",
+    "name": "Ogresgala",
+    "shareBB": 0.6215,
+    "shareCircle": 0.5511
+  },
+  {
+    "gem_id": "LV740288",
+    "country_id": "LV",
+    "name": "Suntažu",
+    "shareBB": 0.5874,
+    "shareCircle": 0.4955
+  },
+  {
+    "gem_id": "LV740292",
+    "country_id": "LV",
+    "name": "Taurupes",
+    "shareBB": 0.5247,
+    "shareCircle": 0.5505
+  },
+  {
+    "gem_id": "LV740605",
+    "country_id": "LV",
+    "name": "Ikšķile",
+    "shareBB": 0.5255,
+    "shareCircle": 0.3846
+  },
+  {
+    "gem_id": "LV740625",
+    "country_id": "LV",
+    "name": "Tīnūžu",
+    "shareBB": 0.4588,
+    "shareCircle": 0.3675
+  },
+  {
+    "gem_id": "LV741009",
+    "country_id": "LV",
+    "name": "Ķegums",
+    "shareBB": 0.7295,
+    "shareCircle": 0.7031
+  },
+  {
+    "gem_id": "LV741029",
+    "country_id": "LV",
+    "name": "Tomes",
+    "shareBB": 0.463,
+    "shareCircle": 0.404
+  },
+  {
+    "gem_id": "LV741044",
+    "country_id": "LV",
+    "name": "Birzgales",
+    "shareBB": 0.4754,
+    "shareCircle": 0.4111
+  },
+  {
+    "gem_id": "LV741084",
+    "country_id": "LV",
+    "name": "Rembates",
+    "shareBB": 0.513,
+    "shareCircle": 0.4106
+  },
+  {
+    "gem_id": "LV741413",
+    "country_id": "LV",
+    "name": "Lielvārde",
+    "shareBB": 0.6146,
+    "shareCircle": 0.4077
+  },
+  {
+    "gem_id": "LV741433",
+    "country_id": "LV",
+    "name": "Lielvārdes",
+    "shareBB": 0.5355,
+    "shareCircle": 0.4933
+  },
+  {
+    "gem_id": "LV741448",
+    "country_id": "LV",
+    "name": "Jumpravas",
+    "shareBB": 0.5544,
+    "shareCircle": 0.408
+  },
+  {
+    "gem_id": "LV741464",
+    "country_id": "LV",
+    "name": "Lēdmanes",
+    "shareBB": 0.62,
+    "shareCircle": 0.5212
+  },
+  {
+    "gem_id": "LV760201",
+    "country_id": "LV",
+    "name": "Preiļi",
+    "shareBB": 0.5415,
+    "shareCircle": 0.5299
+  },
+  {
+    "gem_id": "LV760244",
+    "country_id": "LV",
+    "name": "Aizkalnes",
+    "shareBB": 0.5646,
+    "shareCircle": 0.6008
+  },
+  {
+    "gem_id": "LV760256",
+    "country_id": "LV",
+    "name": "Pelēču",
+    "shareBB": 0.4707,
+    "shareCircle": 0.3153
+  },
+  {
+    "gem_id": "LV760258",
+    "country_id": "LV",
+    "name": "Preiļu",
+    "shareBB": 0.4074,
+    "shareCircle": 0.3701
+  },
+  {
+    "gem_id": "LV760274",
+    "country_id": "LV",
+    "name": "Saunas",
+    "shareBB": 0.4774,
+    "shareCircle": 0.4755
+  },
+  {
+    "gem_id": "LV761211",
+    "country_id": "LV",
+    "name": "Līvāni",
+    "shareBB": 0.3552,
+    "shareCircle": 0.3128
+  },
+  {
+    "gem_id": "LV761252",
+    "country_id": "LV",
+    "name": "Jersikas",
+    "shareBB": 0.4107,
+    "shareCircle": 0.3111
+  },
+  {
+    "gem_id": "LV761266",
+    "country_id": "LV",
+    "name": "Rožupes",
+    "shareBB": 0.4873,
+    "shareCircle": 0.5528
+  },
+  {
+    "gem_id": "LV761268",
+    "country_id": "LV",
+    "name": "Rudzātu",
+    "shareBB": 0.6208,
+    "shareCircle": 0.609
+  },
+  {
+    "gem_id": "LV761282",
+    "country_id": "LV",
+    "name": "Sutru",
+    "shareBB": 0.6761,
+    "shareCircle": 0.5209
+  },
+  {
+    "gem_id": "LV761286",
+    "country_id": "LV",
+    "name": "Turku",
+    "shareBB": 0.408,
+    "shareCircle": 0.4239
+  },
+  {
+    "gem_id": "LV766348",
+    "country_id": "LV",
+    "name": "Galēnu",
+    "shareBB": 0.4695,
+    "shareCircle": 0.4758
+  },
+  {
+    "gem_id": "LV766362",
+    "country_id": "LV",
+    "name": "Riebiņu",
+    "shareBB": 0.5894,
+    "shareCircle": 0.6412
+  },
+  {
+    "gem_id": "LV766370",
+    "country_id": "LV",
+    "name": "Rušonas",
+    "shareBB": 0.4503,
+    "shareCircle": 0.4244
+  },
+  {
+    "gem_id": "LV766376",
+    "country_id": "LV",
+    "name": "Silajāņu",
+    "shareBB": 0.561,
+    "shareCircle": 0.5785
+  },
+  {
+    "gem_id": "LV766378",
+    "country_id": "LV",
+    "name": "Sīļukalna",
+    "shareBB": 0.406,
+    "shareCircle": 0.3274
+  },
+  {
+    "gem_id": "LV766380",
+    "country_id": "LV",
+    "name": "Stabulnieku",
+    "shareBB": 0.4977,
+    "shareCircle": 0.3728
+  },
+  {
+    "gem_id": "LV769164",
+    "country_id": "LV",
+    "name": "Rožkalnu",
+    "shareBB": 0.2952,
+    "shareCircle": 0.1805
+  },
+  {
+    "gem_id": "LV769190",
+    "country_id": "LV",
+    "name": "Upmalas",
+    "shareBB": 0.3745,
+    "shareCircle": 0.2483
+  },
+  {
+    "gem_id": "LV769194",
+    "country_id": "LV",
+    "name": "Vārkavas",
+    "shareBB": 0.5575,
+    "shareCircle": 0.5328
+  },
+  {
+    "gem_id": "LV780242",
+    "country_id": "LV",
+    "name": "Audriņu",
+    "shareBB": 0.4468,
+    "shareCircle": 0.4167
+  },
+  {
+    "gem_id": "LV780244",
+    "country_id": "LV",
+    "name": "Bērzgales",
+    "shareBB": 0.6,
+    "shareCircle": 0.4636
+  },
+  {
+    "gem_id": "LV780246",
+    "country_id": "LV",
+    "name": "Čornajas",
+    "shareBB": 0.6216,
+    "shareCircle": 0.6304
+  },
+  {
+    "gem_id": "LV780250",
+    "country_id": "LV",
+    "name": "Dricānu",
+    "shareBB": 0.6315,
+    "shareCircle": 0.4665
+  },
+  {
+    "gem_id": "LV780252",
+    "country_id": "LV",
+    "name": "Feimaņu",
+    "shareBB": 0.4617,
+    "shareCircle": 0.37
+  },
+  {
+    "gem_id": "LV780254",
+    "country_id": "LV",
+    "name": "Gaigalavas",
+    "shareBB": 0.5007,
+    "shareCircle": 0.467
+  },
+  {
+    "gem_id": "LV780256",
+    "country_id": "LV",
+    "name": "Griškānu",
+    "shareBB": 0.5699,
+    "shareCircle": 0.5056
+  },
+  {
+    "gem_id": "LV780258",
+    "country_id": "LV",
+    "name": "Ilzeskalna",
+    "shareBB": 0.5045,
+    "shareCircle": 0.3432
+  },
+  {
+    "gem_id": "LV780260",
+    "country_id": "LV",
+    "name": "Kantinieku",
+    "shareBB": 0.6332,
+    "shareCircle": 0.4896
+  },
+  {
+    "gem_id": "LV780262",
+    "country_id": "LV",
+    "name": "Kaunatas",
+    "shareBB": 0.5771,
+    "shareCircle": 0.5926
+  },
+  {
+    "gem_id": "LV780266",
+    "country_id": "LV",
+    "name": "Lendžu",
+    "shareBB": 0.5446,
+    "shareCircle": 0.5774
+  },
+  {
+    "gem_id": "LV780268",
+    "country_id": "LV",
+    "name": "Lūznavas",
+    "shareBB": 0.4637,
+    "shareCircle": 0.4538
+  },
+  {
+    "gem_id": "LV780270",
+    "country_id": "LV",
+    "name": "Maltas",
+    "shareBB": 0.5488,
+    "shareCircle": 0.5413
+  },
+  {
+    "gem_id": "LV780272",
+    "country_id": "LV",
+    "name": "Mākoņkalna",
+    "shareBB": 0.5385,
+    "shareCircle": 0.5441
+  },
+  {
+    "gem_id": "LV780274",
+    "country_id": "LV",
+    "name": "Nagļu",
+    "shareBB": 0.5546,
+    "shareCircle": 0.4846
+  },
+  {
+    "gem_id": "LV780276",
+    "country_id": "LV",
+    "name": "Ozolaines",
+    "shareBB": 0.6111,
+    "shareCircle": 0.5126
+  },
+  {
+    "gem_id": "LV780278",
+    "country_id": "LV",
+    "name": "Ozolmuižas",
+    "shareBB": 0.6836,
+    "shareCircle": 0.5722
+  },
+  {
+    "gem_id": "LV780280",
+    "country_id": "LV",
+    "name": "Pušas",
+    "shareBB": 0.423,
+    "shareCircle": 0.3943
+  },
+  {
+    "gem_id": "LV780282",
+    "country_id": "LV",
+    "name": "Rikavas",
+    "shareBB": 0.6279,
+    "shareCircle": 0.5111
+  },
+  {
+    "gem_id": "LV780284",
+    "country_id": "LV",
+    "name": "Nautrēnu",
+    "shareBB": 0.6354,
+    "shareCircle": 0.5819
+  },
+  {
+    "gem_id": "LV780286",
+    "country_id": "LV",
+    "name": "Sakstagala",
+    "shareBB": 0.559,
+    "shareCircle": 0.4819
+  },
+  {
+    "gem_id": "LV780288",
+    "country_id": "LV",
+    "name": "Silmalas",
+    "shareBB": 0.5812,
+    "shareCircle": 0.6508
+  },
+  {
+    "gem_id": "LV780292",
+    "country_id": "LV",
+    "name": "Stoļerovas",
+    "shareBB": 0.3136,
+    "shareCircle": 0.3086
+  },
+  {
+    "gem_id": "LV780294",
+    "country_id": "LV",
+    "name": "Stružānu",
+    "shareBB": 0.4678,
+    "shareCircle": 0.4677
+  },
+  {
+    "gem_id": "LV780296",
+    "country_id": "LV",
+    "name": "Vērēmu",
+    "shareBB": 0.5869,
+    "shareCircle": 0.5538
+  },
+  {
+    "gem_id": "LV781817",
+    "country_id": "LV",
+    "name": "Viļāni",
+    "shareBB": 0.4948,
+    "shareCircle": 0.338
+  },
+  {
+    "gem_id": "LV781848",
+    "country_id": "LV",
+    "name": "Dekšāres",
+    "shareBB": 0.642,
+    "shareCircle": 0.5216
+  },
+  {
+    "gem_id": "LV781890",
+    "country_id": "LV",
+    "name": "Sokolku",
+    "shareBB": 0.4725,
+    "shareCircle": 0.4377
+  },
+  {
+    "gem_id": "LV781898",
+    "country_id": "LV",
+    "name": "Viļānu",
+    "shareBB": 0.5315,
+    "shareCircle": 0.4928
+  },
+  {
+    "gem_id": "LV800605",
+    "country_id": "LV",
+    "name": "Baldone",
+    "shareBB": 0.5993,
+    "shareCircle": 0.3513
+  },
+  {
+    "gem_id": "LV800625",
+    "country_id": "LV",
+    "name": "Baldones",
+    "shareBB": 0.5944,
+    "shareCircle": 0.5577
+  },
+  {
+    "gem_id": "LV800807",
+    "country_id": "LV",
+    "name": "Baloži",
+    "shareBB": 0.6371,
+    "shareCircle": 0.602
+  },
+  {
+    "gem_id": "LV800856",
+    "country_id": "LV",
+    "name": "Daugmales",
+    "shareBB": 0.5748,
+    "shareCircle": 0.3644
+  },
+  {
+    "gem_id": "LV800870",
+    "country_id": "LV",
+    "name": "Ķekavas",
+    "shareBB": 0.4338,
+    "shareCircle": 0.3942
+  },
+  {
+    "gem_id": "LV801009",
+    "country_id": "LV",
+    "name": "Olaine",
+    "shareBB": 0.5856,
+    "shareCircle": 0.5379
+  },
+  {
+    "gem_id": "LV801080",
+    "country_id": "LV",
+    "name": "Olaines",
+    "shareBB": 0.4061,
+    "shareCircle": 0.362
+  },
+  {
+    "gem_id": "LV801211",
+    "country_id": "LV",
+    "name": "Salaspils",
+    "shareBB": 0.5606,
+    "shareCircle": 0.5721
+  },
+  {
+    "gem_id": "LV801231",
+    "country_id": "LV",
+    "name": "Salaspils",
+    "shareBB": 0.4387,
+    "shareCircle": 0.3567
+  },
+  {
+    "gem_id": "LV801413",
+    "country_id": "LV",
+    "name": "Saulkrasti",
+    "shareBB": 0.4073,
+    "shareCircle": 0.175
+  },
+  {
+    "gem_id": "LV801433",
+    "country_id": "LV",
+    "name": "Saulkrastu",
+    "shareBB": 0.2958,
+    "shareCircle": 0.1519
+  },
+  {
+    "gem_id": "LV801615",
+    "country_id": "LV",
+    "name": "Sigulda",
+    "shareBB": 0.5566,
+    "shareCircle": 0.5818
+  },
+  {
+    "gem_id": "LV801642",
+    "country_id": "LV",
+    "name": "Allažu",
+    "shareBB": 0.5542,
+    "shareCircle": 0.6057
+  },
+  {
+    "gem_id": "LV801666",
+    "country_id": "LV",
+    "name": "Mores",
+    "shareBB": 0.5492,
+    "shareCircle": 0.4261
+  },
+  {
+    "gem_id": "LV801694",
+    "country_id": "LV",
+    "name": "Siguldas",
+    "shareBB": 0.4879,
+    "shareCircle": 0.4459
+  },
+  {
+    "gem_id": "LV801817",
+    "country_id": "LV",
+    "name": "Vangaži",
+    "shareBB": 0.483,
+    "shareCircle": 0.459
+  },
+  {
+    "gem_id": "LV801864",
+    "country_id": "LV",
+    "name": "Inčukalna",
+    "shareBB": 0.5376,
+    "shareCircle": 0.4371
+  },
+  {
+    "gem_id": "LV804400",
+    "country_id": "LV",
+    "name": "Ādažu novads",
+    "shareBB": 0.5728,
+    "shareCircle": 0.5079
+  },
+  {
+    "gem_id": "LV804948",
+    "country_id": "LV",
+    "name": "Babītes",
+    "shareBB": 0.3943,
+    "shareCircle": 0.3303
+  },
+  {
+    "gem_id": "LV804988",
+    "country_id": "LV",
+    "name": "Salas",
+    "shareBB": 0.3014,
+    "shareCircle": 0.2092
+  },
+  {
+    "gem_id": "LV805200",
+    "country_id": "LV",
+    "name": "Carnikavas novads",
+    "shareBB": 0.3899,
+    "shareCircle": 0.278
+  },
+  {
+    "gem_id": "LV806000",
+    "country_id": "LV",
+    "name": "Garkalnes novads",
+    "shareBB": 0.3525,
+    "shareCircle": 0.2935
+  },
+  {
+    "gem_id": "LV806956",
+    "country_id": "LV",
+    "name": "Lēdurgas",
+    "shareBB": 0.5584,
+    "shareCircle": 0.5476
+  },
+  {
+    "gem_id": "LV806968",
+    "country_id": "LV",
+    "name": "Krimuldas",
+    "shareBB": 0.445,
+    "shareCircle": 0.3861
+  },
+  {
+    "gem_id": "LV807400",
+    "country_id": "LV",
+    "name": "Mālpils novads",
+    "shareBB": 0.5328,
+    "shareCircle": 0.4478
+  },
+  {
+    "gem_id": "LV807600",
+    "country_id": "LV",
+    "name": "Mārupes novads",
+    "shareBB": 0.5678,
+    "shareCircle": 0.5491
+  },
+  {
+    "gem_id": "LV808400",
+    "country_id": "LV",
+    "name": "Ropažu novads",
+    "shareBB": 0.6096,
+    "shareCircle": 0.5511
+  },
+  {
+    "gem_id": "LV809200",
+    "country_id": "LV",
+    "name": "Sējas novads",
+    "shareBB": 0.4936,
+    "shareCircle": 0.5141
+  },
+  {
+    "gem_id": "LV809600",
+    "country_id": "LV",
+    "name": "Stopiņu novads",
+    "shareBB": 0.3833,
+    "shareCircle": 0.3931
+  },
+  {
+    "gem_id": "LV840201",
+    "country_id": "LV",
+    "name": "Saldus",
+    "shareBB": 0.6157,
+    "shareCircle": 0.4294
+  },
+  {
+    "gem_id": "LV840248",
+    "country_id": "LV",
+    "name": "Ezeres",
+    "shareBB": 0.5995,
+    "shareCircle": 0.3486
+  },
+  {
+    "gem_id": "LV840256",
+    "country_id": "LV",
+    "name": "Jaunauces",
+    "shareBB": 0.6845,
+    "shareCircle": 0.6082
+  },
+  {
+    "gem_id": "LV840258",
+    "country_id": "LV",
+    "name": "Jaunlutriņu",
+    "shareBB": 0.6472,
+    "shareCircle": 0.4732
+  },
+  {
+    "gem_id": "LV840262",
+    "country_id": "LV",
+    "name": "Kursīšu",
+    "shareBB": 0.6513,
+    "shareCircle": 0.5609
+  },
+  {
+    "gem_id": "LV840266",
+    "country_id": "LV",
+    "name": "Lutriņu",
+    "shareBB": 0.5696,
+    "shareCircle": 0.4358
+  },
+  {
+    "gem_id": "LV840270",
+    "country_id": "LV",
+    "name": "Nīgrandes",
+    "shareBB": 0.4241,
+    "shareCircle": 0.3838
+  },
+  {
+    "gem_id": "LV840272",
+    "country_id": "LV",
+    "name": "Novadnieku",
+    "shareBB": 0.5021,
+    "shareCircle": 0.3641
+  },
+  {
+    "gem_id": "LV840276",
+    "country_id": "LV",
+    "name": "Pampāļu",
+    "shareBB": 0.5296,
+    "shareCircle": 0.5168
+  },
+  {
+    "gem_id": "LV840282",
+    "country_id": "LV",
+    "name": "Rubas",
+    "shareBB": 0.4422,
+    "shareCircle": 0.3577
+  },
+  {
+    "gem_id": "LV840286",
+    "country_id": "LV",
+    "name": "Saldus",
+    "shareBB": 0.4654,
+    "shareCircle": 0.4376
+  },
+  {
+    "gem_id": "LV840288",
+    "country_id": "LV",
+    "name": "Šķēdes",
+    "shareBB": 0.4627,
+    "shareCircle": 0.3931
+  },
+  {
+    "gem_id": "LV840292",
+    "country_id": "LV",
+    "name": "Vadakstes",
+    "shareBB": 0.4846,
+    "shareCircle": 0.3041
+  },
+  {
+    "gem_id": "LV840294",
+    "country_id": "LV",
+    "name": "Zaņas",
+    "shareBB": 0.4567,
+    "shareCircle": 0.4169
+  },
+  {
+    "gem_id": "LV840296",
+    "country_id": "LV",
+    "name": "Zirņu",
+    "shareBB": 0.3917,
+    "shareCircle": 0.3973
+  },
+  {
+    "gem_id": "LV840298",
+    "country_id": "LV",
+    "name": "Zvārdes",
+    "shareBB": 0.5925,
+    "shareCircle": 0.662
+  },
+  {
+    "gem_id": "LV840605",
+    "country_id": "LV",
+    "name": "Brocēni",
+    "shareBB": 0.4932,
+    "shareCircle": 0.3964
+  },
+  {
+    "gem_id": "LV840625",
+    "country_id": "LV",
+    "name": "Cieceres",
+    "shareBB": 0.4752,
+    "shareCircle": 0.3652
+  },
+  {
+    "gem_id": "LV840644",
+    "country_id": "LV",
+    "name": "Blīdenes",
+    "shareBB": 0.5943,
+    "shareCircle": 0.6236
+  },
+  {
+    "gem_id": "LV840652",
+    "country_id": "LV",
+    "name": "Gaiķu",
+    "shareBB": 0.6925,
+    "shareCircle": 0.6066
+  },
+  {
+    "gem_id": "LV840680",
+    "country_id": "LV",
+    "name": "Remtes",
+    "shareBB": 0.7265,
+    "shareCircle": 0.6651
+  },
+  {
+    "gem_id": "LV880201",
+    "country_id": "LV",
+    "name": "Talsi",
+    "shareBB": 0.5076,
+    "shareCircle": 0.4909
+  },
+  {
+    "gem_id": "LV880213",
+    "country_id": "LV",
+    "name": "Sabile",
+    "shareBB": 0.4693,
+    "shareCircle": 0.3564
+  },
+  {
+    "gem_id": "LV880215",
+    "country_id": "LV",
+    "name": "Stende",
+    "shareBB": 0.5519,
+    "shareCircle": 0.5629
+  },
+  {
+    "gem_id": "LV880217",
+    "country_id": "LV",
+    "name": "Valdemārpils",
+    "shareBB": 0.519,
+    "shareCircle": 0.4592
+  },
+  {
+    "gem_id": "LV880237",
+    "country_id": "LV",
+    "name": "Ārlavas",
+    "shareBB": 0.4715,
+    "shareCircle": 0.4389
+  },
+  {
+    "gem_id": "LV880242",
+    "country_id": "LV",
+    "name": "Abavas",
+    "shareBB": 0.5823,
+    "shareCircle": 0.5931
+  },
+  {
+    "gem_id": "LV880246",
+    "country_id": "LV",
+    "name": "Balgales",
+    "shareBB": 0.6033,
+    "shareCircle": 0.5417
+  },
+  {
+    "gem_id": "LV880254",
+    "country_id": "LV",
+    "name": "Ģibuļu",
+    "shareBB": 0.5225,
+    "shareCircle": 0.5542
+  },
+  {
+    "gem_id": "LV880258",
+    "country_id": "LV",
+    "name": "Īves",
+    "shareBB": 0.5571,
+    "shareCircle": 0.3607
+  },
+  {
+    "gem_id": "LV880264",
+    "country_id": "LV",
+    "name": "Ķūļciema",
+    "shareBB": 0.505,
+    "shareCircle": 0.4237
+  },
+  {
+    "gem_id": "LV880268",
+    "country_id": "LV",
+    "name": "Laidzes",
+    "shareBB": 0.5194,
+    "shareCircle": 0.5214
+  },
+  {
+    "gem_id": "LV880270",
+    "country_id": "LV",
+    "name": "Laucienes",
+    "shareBB": 0.3905,
+    "shareCircle": 0.4222
+  },
+  {
+    "gem_id": "LV880272",
+    "country_id": "LV",
+    "name": "Lībagu",
+    "shareBB": 0.4578,
+    "shareCircle": 0.4544
+  },
+  {
+    "gem_id": "LV880274",
+    "country_id": "LV",
+    "name": "Lubes",
+    "shareBB": 0.5471,
+    "shareCircle": 0.5288
+  },
+  {
+    "gem_id": "LV880286",
+    "country_id": "LV",
+    "name": "Strazdes",
+    "shareBB": 0.5383,
+    "shareCircle": 0.4086
+  },
+  {
+    "gem_id": "LV880292",
+    "country_id": "LV",
+    "name": "Valdgales",
+    "shareBB": 0.5413,
+    "shareCircle": 0.349
+  },
+  {
+    "gem_id": "LV880294",
+    "country_id": "LV",
+    "name": "Vandzenes",
+    "shareBB": 0.436,
+    "shareCircle": 0.3377
+  },
+  {
+    "gem_id": "LV880296",
+    "country_id": "LV",
+    "name": "Virbu",
+    "shareBB": 0.6036,
+    "shareCircle": 0.6173
+  },
+  {
+    "gem_id": "LV885150",
+    "country_id": "LV",
+    "name": "Dundagas",
+    "shareBB": 0.5394,
+    "shareCircle": 0.5095
+  },
+  {
+    "gem_id": "LV885162",
+    "country_id": "LV",
+    "name": "Kolkas",
+    "shareBB": 0.2781,
+    "shareCircle": 0.1923
+  },
+  {
+    "gem_id": "LV887600",
+    "country_id": "LV",
+    "name": "Mērsraga novads",
+    "shareBB": 0.4416,
+    "shareCircle": 0.3817
+  },
+  {
+    "gem_id": "LV888300",
+    "country_id": "LV",
+    "name": "Rojas novads",
+    "shareBB": 0.2055,
+    "shareCircle": 0.1494
+  },
+  {
+    "gem_id": "LV900201",
+    "country_id": "LV",
+    "name": "Tukums",
+    "shareBB": 0.5091,
+    "shareCircle": 0.409
+  },
+  {
+    "gem_id": "LV900246",
+    "country_id": "LV",
+    "name": "Degoles",
+    "shareBB": 0.5567,
+    "shareCircle": 0.5972
+  },
+  {
+    "gem_id": "LV900248",
+    "country_id": "LV",
+    "name": "Džūkstes",
+    "shareBB": 0.3608,
+    "shareCircle": 0.2761
+  },
+  {
+    "gem_id": "LV900254",
+    "country_id": "LV",
+    "name": "Irlavas",
+    "shareBB": 0.5617,
+    "shareCircle": 0.5433
+  },
+  {
+    "gem_id": "LV900258",
+    "country_id": "LV",
+    "name": "Jaunsātu",
+    "shareBB": 0.6968,
+    "shareCircle": 0.5149
+  },
+  {
+    "gem_id": "LV900268",
+    "country_id": "LV",
+    "name": "Lestenes",
+    "shareBB": 0.6048,
+    "shareCircle": 0.6064
+  },
+  {
+    "gem_id": "LV900274",
+    "country_id": "LV",
+    "name": "Pūres",
+    "shareBB": 0.5432,
+    "shareCircle": 0.5048
+  },
+  {
+    "gem_id": "LV900278",
+    "country_id": "LV",
+    "name": "Sēmes",
+    "shareBB": 0.4926,
+    "shareCircle": 0.4922
+  },
+  {
+    "gem_id": "LV900280",
+    "country_id": "LV",
+    "name": "Slampes",
+    "shareBB": 0.4453,
+    "shareCircle": 0.3818
+  },
+  {
+    "gem_id": "LV900284",
+    "country_id": "LV",
+    "name": "Tumes",
+    "shareBB": 0.5087,
+    "shareCircle": 0.4152
+  },
+  {
+    "gem_id": "LV900296",
+    "country_id": "LV",
+    "name": "Zentenes",
+    "shareBB": 0.5571,
+    "shareCircle": 0.3516
+  },
+  {
+    "gem_id": "LV901211",
+    "country_id": "LV",
+    "name": "Kandava",
+    "shareBB": 0.5789,
+    "shareCircle": 0.6019
+  },
+  {
+    "gem_id": "LV901244",
+    "country_id": "LV",
+    "name": "Cēres",
+    "shareBB": 0.5793,
+    "shareCircle": 0.478
+  },
+  {
+    "gem_id": "LV901262",
+    "country_id": "LV",
+    "name": "Kandavas",
+    "shareBB": 0.5922,
+    "shareCircle": 0.5953
+  },
+  {
+    "gem_id": "LV901270",
+    "country_id": "LV",
+    "name": "Matkules",
+    "shareBB": 0.4637,
+    "shareCircle": 0.3309
+  },
+  {
+    "gem_id": "LV901288",
+    "country_id": "LV",
+    "name": "Vānes",
+    "shareBB": 0.5062,
+    "shareCircle": 0.5373
+  },
+  {
+    "gem_id": "LV901292",
+    "country_id": "LV",
+    "name": "Zantes",
+    "shareBB": 0.5794,
+    "shareCircle": 0.5363
+  },
+  {
+    "gem_id": "LV901294",
+    "country_id": "LV",
+    "name": "Zemītes",
+    "shareBB": 0.5572,
+    "shareCircle": 0.4816
+  },
+  {
+    "gem_id": "LV905150",
+    "country_id": "LV",
+    "name": "Engures",
+    "shareBB": 0.2003,
+    "shareCircle": 0.1373
+  },
+  {
+    "gem_id": "LV905166",
+    "country_id": "LV",
+    "name": "Lapmežciema",
+    "shareBB": 0.4391,
+    "shareCircle": 0.3713
+  },
+  {
+    "gem_id": "LV905182",
+    "country_id": "LV",
+    "name": "Smārdes",
+    "shareBB": 0.6069,
+    "shareCircle": 0.533
+  },
+  {
+    "gem_id": "LV905756",
+    "country_id": "LV",
+    "name": "Jaunpils",
+    "shareBB": 0.5175,
+    "shareCircle": 0.4817
+  },
+  {
+    "gem_id": "LV905790",
+    "country_id": "LV",
+    "name": "Viesatu",
+    "shareBB": 0.5741,
+    "shareCircle": 0.476
+  },
+  {
+    "gem_id": "LV940201",
+    "country_id": "LV",
+    "name": "Valka",
+    "shareBB": 0.4598,
+    "shareCircle": 0.3836
+  },
+  {
+    "gem_id": "LV940252",
+    "country_id": "LV",
+    "name": "Ērģemes",
+    "shareBB": 0.5805,
+    "shareCircle": 0.4692
+  },
+  {
+    "gem_id": "LV940266",
+    "country_id": "LV",
+    "name": "Kārķu",
+    "shareBB": 0.5135,
+    "shareCircle": 0.4465
+  },
+  {
+    "gem_id": "LV940288",
+    "country_id": "LV",
+    "name": "Valkas",
+    "shareBB": 0.5803,
+    "shareCircle": 0.5218
+  },
+  {
+    "gem_id": "LV940292",
+    "country_id": "LV",
+    "name": "Vijciema",
+    "shareBB": 0.4839,
+    "shareCircle": 0.5036
+  },
+  {
+    "gem_id": "LV940296",
+    "country_id": "LV",
+    "name": "Zvārtavas",
+    "shareBB": 0.4926,
+    "shareCircle": 0.4074
+  },
+  {
+    "gem_id": "LV941615",
+    "country_id": "LV",
+    "name": "Smiltene",
+    "shareBB": 0.5838,
+    "shareCircle": 0.5147
+  },
+  {
+    "gem_id": "LV941644",
+    "country_id": "LV",
+    "name": "Bilskas",
+    "shareBB": 0.5845,
+    "shareCircle": 0.6477
+  },
+  {
+    "gem_id": "LV941646",
+    "country_id": "LV",
+    "name": "Blomes",
+    "shareBB": 0.6442,
+    "shareCircle": 0.7413
+  },
+  {
+    "gem_id": "LV941648",
+    "country_id": "LV",
+    "name": "Brantu",
+    "shareBB": 0.5441,
+    "shareCircle": 0.5742
+  },
+  {
+    "gem_id": "LV941658",
+    "country_id": "LV",
+    "name": "Grundzāles",
+    "shareBB": 0.4196,
+    "shareCircle": 0.2917
+  },
+  {
+    "gem_id": "LV941670",
+    "country_id": "LV",
+    "name": "Launkalnes",
+    "shareBB": 0.4715,
+    "shareCircle": 0.4525
+  },
+  {
+    "gem_id": "LV941674",
+    "country_id": "LV",
+    "name": "Palsmanes",
+    "shareBB": 0.5119,
+    "shareCircle": 0.5249
+  },
+  {
+    "gem_id": "LV941680",
+    "country_id": "LV",
+    "name": "Smiltenes",
+    "shareBB": 0.5387,
+    "shareCircle": 0.5139
+  },
+  {
+    "gem_id": "LV941690",
+    "country_id": "LV",
+    "name": "Variņu",
+    "shareBB": 0.4739,
+    "shareCircle": 0.4658
+  },
+  {
+    "gem_id": "LV941813",
+    "country_id": "LV",
+    "name": "Seda",
+    "shareBB": 0.5294,
+    "shareCircle": 0.4316
+  },
+  {
+    "gem_id": "LV941817",
+    "country_id": "LV",
+    "name": "Strenči",
+    "shareBB": 0.4239,
+    "shareCircle": 0.3451
+  },
+  {
+    "gem_id": "LV941860",
+    "country_id": "LV",
+    "name": "Jērcēnu",
+    "shareBB": 0.4089,
+    "shareCircle": 0.3619
+  },
+  {
+    "gem_id": "LV941876",
+    "country_id": "LV",
+    "name": "Plāņu",
+    "shareBB": 0.5444,
+    "shareCircle": 0.4608
+  },
+  {
+    "gem_id": "LV960244",
+    "country_id": "LV",
+    "name": "Bērzaines",
+    "shareBB": 0.4476,
+    "shareCircle": 0.4043
+  },
+  {
+    "gem_id": "LV960252",
+    "country_id": "LV",
+    "name": "Dikļu",
+    "shareBB": 0.4915,
+    "shareCircle": 0.5221
+  },
+  {
+    "gem_id": "LV960264",
+    "country_id": "LV",
+    "name": "Kocēnu",
+    "shareBB": 0.5623,
+    "shareCircle": 0.5309
+  },
+  {
+    "gem_id": "LV960288",
+    "country_id": "LV",
+    "name": "Vaidavas",
+    "shareBB": 0.5533,
+    "shareCircle": 0.3355
+  },
+  {
+    "gem_id": "LV960296",
+    "country_id": "LV",
+    "name": "Zilākalna",
+    "shareBB": 0.6153,
+    "shareCircle": 0.4667
+  },
+  {
+    "gem_id": "LV961011",
+    "country_id": "LV",
+    "name": "Mazsalaca",
+    "shareBB": 0.3968,
+    "shareCircle": 0.3503
+  },
+  {
+    "gem_id": "LV961031",
+    "country_id": "LV",
+    "name": "Mazsalacas",
+    "shareBB": 0.5737,
+    "shareCircle": 0.5255
+  },
+  {
+    "gem_id": "LV961076",
+    "country_id": "LV",
+    "name": "Ramatas",
+    "shareBB": 0.4544,
+    "shareCircle": 0.4006
+  },
+  {
+    "gem_id": "LV961082",
+    "country_id": "LV",
+    "name": "Sēļu",
+    "shareBB": 0.3582,
+    "shareCircle": 0.2519
+  },
+  {
+    "gem_id": "LV961084",
+    "country_id": "LV",
+    "name": "Skaņkalnes",
+    "shareBB": 0.4746,
+    "shareCircle": 0.3637
+  },
+  {
+    "gem_id": "LV961615",
+    "country_id": "LV",
+    "name": "Rūjiena",
+    "shareBB": 0.6077,
+    "shareCircle": 0.3843
+  },
+  {
+    "gem_id": "LV961656",
+    "country_id": "LV",
+    "name": "Ipiķu",
+    "shareBB": 0.5518,
+    "shareCircle": 0.54
+  },
+  {
+    "gem_id": "LV961658",
+    "country_id": "LV",
+    "name": "Jeru",
+    "shareBB": 0.5287,
+    "shareCircle": 0.5007
+  },
+  {
+    "gem_id": "LV961668",
+    "country_id": "LV",
+    "name": "Lodes",
+    "shareBB": 0.4251,
+    "shareCircle": 0.3628
+  },
+  {
+    "gem_id": "LV961694",
+    "country_id": "LV",
+    "name": "Vilpulkas",
+    "shareBB": 0.5799,
+    "shareCircle": 0.4877
+  },
+  {
+    "gem_id": "LV964746",
+    "country_id": "LV",
+    "name": "Brenguļu",
+    "shareBB": 0.5334,
+    "shareCircle": 0.5308
+  },
+  {
+    "gem_id": "LV964762",
+    "country_id": "LV",
+    "name": "Kauguru",
+    "shareBB": 0.5174,
+    "shareCircle": 0.5693
+  },
+  {
+    "gem_id": "LV964784",
+    "country_id": "LV",
+    "name": "Trikātas",
+    "shareBB": 0.4378,
+    "shareCircle": 0.4775
+  },
+  {
+    "gem_id": "LV967148",
+    "country_id": "LV",
+    "name": "Burtnieku",
+    "shareBB": 0.6293,
+    "shareCircle": 0.4741
+  },
+  {
+    "gem_id": "LV967154",
+    "country_id": "LV",
+    "name": "Ēveles",
+    "shareBB": 0.542,
+    "shareCircle": 0.5673
+  },
+  {
+    "gem_id": "LV967170",
+    "country_id": "LV",
+    "name": "Matīšu",
+    "shareBB": 0.6064,
+    "shareCircle": 0.4478
+  },
+  {
+    "gem_id": "LV967178",
+    "country_id": "LV",
+    "name": "Rencēnu",
+    "shareBB": 0.4897,
+    "shareCircle": 0.435
+  },
+  {
+    "gem_id": "LV967190",
+    "country_id": "LV",
+    "name": "Valmieras",
+    "shareBB": 0.5247,
+    "shareCircle": 0.4597
+  },
+  {
+    "gem_id": "LV967192",
+    "country_id": "LV",
+    "name": "Vecates",
+    "shareBB": 0.4246,
+    "shareCircle": 0.3988
+  },
+  {
+    "gem_id": "LV967366",
+    "country_id": "LV",
+    "name": "Ķoņu",
+    "shareBB": 0.5357,
+    "shareCircle": 0.55
+  },
+  {
+    "gem_id": "LV967372",
+    "country_id": "LV",
+    "name": "Naukšēnu",
+    "shareBB": 0.5183,
+    "shareCircle": 0.4917
+  },
+  {
+    "gem_id": "LV980213",
+    "country_id": "LV",
+    "name": "Piltene",
+    "shareBB": 0.4487,
+    "shareCircle": 0.2125
+  },
+  {
+    "gem_id": "LV980233",
+    "country_id": "LV",
+    "name": "Piltenes",
+    "shareBB": 0.5541,
+    "shareCircle": 0.5071
+  },
+  {
+    "gem_id": "LV980244",
+    "country_id": "LV",
+    "name": "Ances",
+    "shareBB": 0.5133,
+    "shareCircle": 0.4638
+  },
+  {
+    "gem_id": "LV980250",
+    "country_id": "LV",
+    "name": "Jūrkalnes",
+    "shareBB": 0.52,
+    "shareCircle": 0.2875
+  },
+  {
+    "gem_id": "LV980256",
+    "country_id": "LV",
+    "name": "Popes",
+    "shareBB": 0.637,
+    "shareCircle": 0.5194
+  },
+  {
+    "gem_id": "LV980260",
+    "country_id": "LV",
+    "name": "Puzes",
+    "shareBB": 0.4967,
+    "shareCircle": 0.4135
+  },
+  {
+    "gem_id": "LV980266",
+    "country_id": "LV",
+    "name": "Tārgales",
+    "shareBB": 0.2375,
+    "shareCircle": 0.1572
+  },
+  {
+    "gem_id": "LV980270",
+    "country_id": "LV",
+    "name": "Ugāles",
+    "shareBB": 0.5271,
+    "shareCircle": 0.3448
+  },
+  {
+    "gem_id": "LV980274",
+    "country_id": "LV",
+    "name": "Usmas",
+    "shareBB": 0.594,
+    "shareCircle": 0.3812
+  },
+  {
+    "gem_id": "LV980278",
+    "country_id": "LV",
+    "name": "Užavas",
+    "shareBB": 0.4815,
+    "shareCircle": 0.2494
+  },
+  {
+    "gem_id": "LV980284",
+    "country_id": "LV",
+    "name": "Vārves",
+    "shareBB": 0.4121,
+    "shareCircle": 0.3452
+  },
+  {
+    "gem_id": "LV980290",
+    "country_id": "LV",
+    "name": "Ziru",
+    "shareBB": 0.5411,
+    "shareCircle": 0.5576
+  },
+  {
+    "gem_id": "LV980294",
+    "country_id": "LV",
+    "name": "Zlēku",
+    "shareBB": 0.504,
+    "shareCircle": 0.4729
+  }
+]

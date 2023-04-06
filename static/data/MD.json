@@ -1,0 +1,6876 @@
+[
+  {
+    "gem_id": "MD010060",
+    "country_id": "MD",
+    "name": "Ţînţăreni",
+    "shareBB": 0.2852,
+    "shareCircle": 0.1927
+  },
+  {
+    "gem_id": "MD010090",
+    "country_id": "MD",
+    "name": "Şerpeni",
+    "shareBB": 0.3703,
+    "shareCircle": 0.2942
+  },
+  {
+    "gem_id": "MD010275",
+    "country_id": "MD",
+    "name": "Anenii Noi",
+    "shareBB": 0.6363,
+    "shareCircle": 0.3967
+  },
+  {
+    "gem_id": "MD010615",
+    "country_id": "MD",
+    "name": "Botnăreşti",
+    "shareBB": 0.4401,
+    "shareCircle": 0.3067
+  },
+  {
+    "gem_id": "MD010765",
+    "country_id": "MD",
+    "name": "Bulboaca",
+    "shareBB": 0.353,
+    "shareCircle": 0.284
+  },
+  {
+    "gem_id": "MD010915",
+    "country_id": "MD",
+    "name": "Calfa",
+    "shareBB": 0.5837,
+    "shareCircle": 0.6358
+  },
+  {
+    "gem_id": "MD011060",
+    "country_id": "MD",
+    "name": "Chetrosu",
+    "shareBB": 0.4779,
+    "shareCircle": 0.36
+  },
+  {
+    "gem_id": "MD011130",
+    "country_id": "MD",
+    "name": "Chirca",
+    "shareBB": 0.4748,
+    "shareCircle": 0.3596
+  },
+  {
+    "gem_id": "MD011210",
+    "country_id": "MD",
+    "name": "Ciobanovca",
+    "shareBB": 0.4051,
+    "shareCircle": 0.3308
+  },
+  {
+    "gem_id": "MD011385",
+    "country_id": "MD",
+    "name": "Cobusca Nouă",
+    "shareBB": 0.5993,
+    "shareCircle": 0.5202
+  },
+  {
+    "gem_id": "MD011390",
+    "country_id": "MD",
+    "name": "Cobusca Veche",
+    "shareBB": 0.5203,
+    "shareCircle": 0.5337
+  },
+  {
+    "gem_id": "MD011825",
+    "country_id": "MD",
+    "name": "Delacău",
+    "shareBB": 0.5432,
+    "shareCircle": 0.4159
+  },
+  {
+    "gem_id": "MD012095",
+    "country_id": "MD",
+    "name": "Floreni",
+    "shareBB": 0.5653,
+    "shareCircle": 0.4034
+  },
+  {
+    "gem_id": "MD012190",
+    "country_id": "MD",
+    "name": "Geamăna",
+    "shareBB": 0.6289,
+    "shareCircle": 0.531
+  },
+  {
+    "gem_id": "MD012340",
+    "country_id": "MD",
+    "name": "Gura Bîcului",
+    "shareBB": 0.4781,
+    "shareCircle": 0.3357
+  },
+  {
+    "gem_id": "MD012445",
+    "country_id": "MD",
+    "name": "Hîrbovăţ",
+    "shareBB": 0.4544,
+    "shareCircle": 0.3948
+  },
+  {
+    "gem_id": "MD012970",
+    "country_id": "MD",
+    "name": "Maximovca",
+    "shareBB": 0.6698,
+    "shareCircle": 0.4129
+  },
+  {
+    "gem_id": "MD013000",
+    "country_id": "MD",
+    "name": "Mereni",
+    "shareBB": 0.5045,
+    "shareCircle": 0.532
+  },
+  {
+    "gem_id": "MD013005",
+    "country_id": "MD",
+    "name": "Merenii Noi",
+    "shareBB": 0.4091,
+    "shareCircle": 0.1636
+  },
+  {
+    "gem_id": "MD013320",
+    "country_id": "MD",
+    "name": "Ochiul Roş",
+    "shareBB": 0.5254,
+    "shareCircle": 0.5411
+  },
+  {
+    "gem_id": "MD013775",
+    "country_id": "MD",
+    "name": "Puhăceni",
+    "shareBB": 0.3605,
+    "shareCircle": 0.3533
+  },
+  {
+    "gem_id": "MD013925",
+    "country_id": "MD",
+    "name": "Roşcani",
+    "shareBB": 0.5889,
+    "shareCircle": 0.6183
+  },
+  {
+    "gem_id": "MD014290",
+    "country_id": "MD",
+    "name": "Speia",
+    "shareBB": 0.5658,
+    "shareCircle": 0.5094
+  },
+  {
+    "gem_id": "MD014490",
+    "country_id": "MD",
+    "name": "Teliţa",
+    "shareBB": 0.5206,
+    "shareCircle": 0.5771
+  },
+  {
+    "gem_id": "MD014815",
+    "country_id": "MD",
+    "name": "Varniţa",
+    "shareBB": 0.5383,
+    "shareCircle": 0.476
+  },
+  {
+    "gem_id": "MD014995",
+    "country_id": "MD",
+    "name": "Zolotievca",
+    "shareBB": 0.5543,
+    "shareCircle": 0.5835
+  },
+  {
+    "gem_id": "MD020165",
+    "country_id": "MD",
+    "name": "Abaclia",
+    "shareBB": 0.4751,
+    "shareCircle": 0.4115
+  },
+  {
+    "gem_id": "MD020385",
+    "country_id": "MD",
+    "name": "Başcalia",
+    "shareBB": 0.4454,
+    "shareCircle": 0.4199
+  },
+  {
+    "gem_id": "MD020445",
+    "country_id": "MD",
+    "name": "Basarabeasca",
+    "shareBB": 0.5048,
+    "shareCircle": 0.3105
+  },
+  {
+    "gem_id": "MD020950",
+    "country_id": "MD",
+    "name": "Carabetovca",
+    "shareBB": 0.4775,
+    "shareCircle": 0.4986
+  },
+  {
+    "gem_id": "MD022650",
+    "country_id": "MD",
+    "name": "Iordanovca",
+    "shareBB": 0.3666,
+    "shareCircle": 0.29
+  },
+  {
+    "gem_id": "MD022660",
+    "country_id": "MD",
+    "name": "Iserlia",
+    "shareBB": 0.4924,
+    "shareCircle": 0.4895
+  },
+  {
+    "gem_id": "MD024055",
+    "country_id": "MD",
+    "name": "Sadaclia",
+    "shareBB": 0.4415,
+    "shareCircle": 0.4741
+  },
+  {
+    "gem_id": "MD030125",
+    "country_id": "MD",
+    "name": "Şirăuţi",
+    "shareBB": 0.4497,
+    "shareCircle": 0.3421
+  },
+  {
+    "gem_id": "MD030360",
+    "country_id": "MD",
+    "name": "Bălcăuţi",
+    "shareBB": 0.6327,
+    "shareCircle": 0.6108
+  },
+  {
+    "gem_id": "MD030420",
+    "country_id": "MD",
+    "name": "Balasineşti",
+    "shareBB": 0.5758,
+    "shareCircle": 0.5619
+  },
+  {
+    "gem_id": "MD030480",
+    "country_id": "MD",
+    "name": "Beleavinţi",
+    "shareBB": 0.6287,
+    "shareCircle": 0.5369
+  },
+  {
+    "gem_id": "MD030495",
+    "country_id": "MD",
+    "name": "Berlinţi",
+    "shareBB": 0.3678,
+    "shareCircle": 0.2286
+  },
+  {
+    "gem_id": "MD030565",
+    "country_id": "MD",
+    "name": "Bogdăneşti",
+    "shareBB": 0.4706,
+    "shareCircle": 0.4823
+  },
+  {
+    "gem_id": "MD030660",
+    "country_id": "MD",
+    "name": "Briceni",
+    "shareBB": 0.4079,
+    "shareCircle": 0.3838
+  },
+  {
+    "gem_id": "MD030760",
+    "country_id": "MD",
+    "name": "Bulboaca",
+    "shareBB": 0.6016,
+    "shareCircle": 0.5346
+  },
+  {
+    "gem_id": "MD030955",
+    "country_id": "MD",
+    "name": "Caracuşenii Vechi",
+    "shareBB": 0.5719,
+    "shareCircle": 0.5645
+  },
+  {
+    "gem_id": "MD031445",
+    "country_id": "MD",
+    "name": "Colicăuţi",
+    "shareBB": 0.5251,
+    "shareCircle": 0.4242
+  },
+  {
+    "gem_id": "MD031520",
+    "country_id": "MD",
+    "name": "Corjeuţi",
+    "shareBB": 0.4017,
+    "shareCircle": 0.3229
+  },
+  {
+    "gem_id": "MD031590",
+    "country_id": "MD",
+    "name": "Coteala",
+    "shareBB": 0.6267,
+    "shareCircle": 0.5753
+  },
+  {
+    "gem_id": "MD031600",
+    "country_id": "MD",
+    "name": "Cotiujeni",
+    "shareBB": 0.5819,
+    "shareCircle": 0.4683
+  },
+  {
+    "gem_id": "MD031710",
+    "country_id": "MD",
+    "name": "Criva",
+    "shareBB": 0.4942,
+    "shareCircle": 0.3929
+  },
+  {
+    "gem_id": "MD031925",
+    "country_id": "MD",
+    "name": "Drepcăuţi",
+    "shareBB": 0.4375,
+    "shareCircle": 0.3609
+  },
+  {
+    "gem_id": "MD032320",
+    "country_id": "MD",
+    "name": "Grimăncăuţi",
+    "shareBB": 0.3768,
+    "shareCircle": 0.3951
+  },
+  {
+    "gem_id": "MD032385",
+    "country_id": "MD",
+    "name": "Halahora de Sus",
+    "shareBB": 0.7156,
+    "shareCircle": 0.5428
+  },
+  {
+    "gem_id": "MD032495",
+    "country_id": "MD",
+    "name": "Hlina",
+    "shareBB": 0.5917,
+    "shareCircle": 0.4057
+  },
+  {
+    "gem_id": "MD032755",
+    "country_id": "MD",
+    "name": "Larga",
+    "shareBB": 0.5657,
+    "shareCircle": 0.5227
+  },
+  {
+    "gem_id": "MD032810",
+    "country_id": "MD",
+    "name": "Lipcani",
+    "shareBB": 0.4236,
+    "shareCircle": 0.3037
+  },
+  {
+    "gem_id": "MD032910",
+    "country_id": "MD",
+    "name": "Mărcăuţi",
+    "shareBB": 0.5174,
+    "shareCircle": 0.4739
+  },
+  {
+    "gem_id": "MD032980",
+    "country_id": "MD",
+    "name": "Medveja",
+    "shareBB": 0.4581,
+    "shareCircle": 0.3559
+  },
+  {
+    "gem_id": "MD033035",
+    "country_id": "MD",
+    "name": "Mihăileni",
+    "shareBB": 0.5671,
+    "shareCircle": 0.6089
+  },
+  {
+    "gem_id": "MD033505",
+    "country_id": "MD",
+    "name": "Pererita",
+    "shareBB": 0.4564,
+    "shareCircle": 0.5235
+  },
+  {
+    "gem_id": "MD034235",
+    "country_id": "MD",
+    "name": "Slobozia-Şirăuţi",
+    "shareBB": 0.5918,
+    "shareCircle": 0.5516
+  },
+  {
+    "gem_id": "MD034415",
+    "country_id": "MD",
+    "name": "Tabani",
+    "shareBB": 0.5734,
+    "shareCircle": 0.4715
+  },
+  {
+    "gem_id": "MD034455",
+    "country_id": "MD",
+    "name": "Teţcani",
+    "shareBB": 0.5966,
+    "shareCircle": 0.4968
+  },
+  {
+    "gem_id": "MD034590",
+    "country_id": "MD",
+    "name": "Trebisăuţi",
+    "shareBB": 0.5579,
+    "shareCircle": 0.4869
+  },
+  {
+    "gem_id": "MD040225",
+    "country_id": "MD",
+    "name": "Alexanderfeld",
+    "shareBB": 0.4781,
+    "shareCircle": 0.3495
+  },
+  {
+    "gem_id": "MD040230",
+    "country_id": "MD",
+    "name": "Alexandru Ioan Cuza",
+    "shareBB": 0.5376,
+    "shareCircle": 0.4794
+  },
+  {
+    "gem_id": "MD040265",
+    "country_id": "MD",
+    "name": "Andruşul de Jos",
+    "shareBB": 0.4212,
+    "shareCircle": 0.4148
+  },
+  {
+    "gem_id": "MD040270",
+    "country_id": "MD",
+    "name": "Andruşul de Sus",
+    "shareBB": 0.5204,
+    "shareCircle": 0.4162
+  },
+  {
+    "gem_id": "MD040395",
+    "country_id": "MD",
+    "name": "Badicul Moldovenesc",
+    "shareBB": 0.378,
+    "shareCircle": 0.1424
+  },
+  {
+    "gem_id": "MD040460",
+    "country_id": "MD",
+    "name": "Baurci-Moldoveni",
+    "shareBB": 0.5556,
+    "shareCircle": 0.4747
+  },
+  {
+    "gem_id": "MD040600",
+    "country_id": "MD",
+    "name": "Borceag",
+    "shareBB": 0.5259,
+    "shareCircle": 0.5073
+  },
+  {
+    "gem_id": "MD040665",
+    "country_id": "MD",
+    "name": "Brînza",
+    "shareBB": 0.2045,
+    "shareCircle": 0.1686
+  },
+  {
+    "gem_id": "MD040715",
+    "country_id": "MD",
+    "name": "Bucuria",
+    "shareBB": 0.4965,
+    "shareCircle": 0.3809
+  },
+  {
+    "gem_id": "MD040780",
+    "country_id": "MD",
+    "name": "Burlăceni",
+    "shareBB": 0.4513,
+    "shareCircle": 0.4728
+  },
+  {
+    "gem_id": "MD040790",
+    "country_id": "MD",
+    "name": "Burlacu",
+    "shareBB": 0.6632,
+    "shareCircle": 0.6598
+  },
+  {
+    "gem_id": "MD040895",
+    "country_id": "MD",
+    "name": "Cahul",
+    "shareBB": 0.4513,
+    "shareCircle": 0.3823
+  },
+  {
+    "gem_id": "MD041095",
+    "country_id": "MD",
+    "name": "Chioselia Mare",
+    "shareBB": 0.7232,
+    "shareCircle": 0.6239
+  },
+  {
+    "gem_id": "MD041165",
+    "country_id": "MD",
+    "name": "Cîşliţa-Prut",
+    "shareBB": 0.306,
+    "shareCircle": 0.2159
+  },
+  {
+    "gem_id": "MD041435",
+    "country_id": "MD",
+    "name": "Colibaşi",
+    "shareBB": 0.5834,
+    "shareCircle": 0.4757
+  },
+  {
+    "gem_id": "MD041695",
+    "country_id": "MD",
+    "name": "Crihana Veche",
+    "shareBB": 0.6508,
+    "shareCircle": 0.409
+  },
+  {
+    "gem_id": "MD041740",
+    "country_id": "MD",
+    "name": "Cucoara",
+    "shareBB": 0.6271,
+    "shareCircle": 0.4467
+  },
+  {
+    "gem_id": "MD041865",
+    "country_id": "MD",
+    "name": "Doina",
+    "shareBB": 0.4557,
+    "shareCircle": 0.3361
+  },
+  {
+    "gem_id": "MD042170",
+    "country_id": "MD",
+    "name": "Găvănoasa",
+    "shareBB": 0.5986,
+    "shareCircle": 0.4934
+  },
+  {
+    "gem_id": "MD042240",
+    "country_id": "MD",
+    "name": "Giurgiuleşti",
+    "shareBB": 0.3596,
+    "shareCircle": 0.2865
+  },
+  {
+    "gem_id": "MD042585",
+    "country_id": "MD",
+    "name": "Huluboaia",
+    "shareBB": 0.7773,
+    "shareCircle": 0.5907
+  },
+  {
+    "gem_id": "MD042665",
+    "country_id": "MD",
+    "name": "Iujnoe",
+    "shareBB": 0.594,
+    "shareCircle": 0.5711
+  },
+  {
+    "gem_id": "MD042760",
+    "country_id": "MD",
+    "name": "Larga Nouă",
+    "shareBB": 0.5947,
+    "shareCircle": 0.3364
+  },
+  {
+    "gem_id": "MD042765",
+    "country_id": "MD",
+    "name": "Lebedenco",
+    "shareBB": 0.4712,
+    "shareCircle": 0.4767
+  },
+  {
+    "gem_id": "MD042840",
+    "country_id": "MD",
+    "name": "Lopăţica",
+    "shareBB": 0.4415,
+    "shareCircle": 0.3399
+  },
+  {
+    "gem_id": "MD042855",
+    "country_id": "MD",
+    "name": "Luceşti",
+    "shareBB": 0.1859,
+    "shareCircle": 0.1366
+  },
+  {
+    "gem_id": "MD042945",
+    "country_id": "MD",
+    "name": "Manta",
+    "shareBB": 0.7125,
+    "shareCircle": 0.3879
+  },
+  {
+    "gem_id": "MD043155",
+    "country_id": "MD",
+    "name": "Moscovei",
+    "shareBB": 0.4977,
+    "shareCircle": 0.4483
+  },
+  {
+    "gem_id": "MD043485",
+    "country_id": "MD",
+    "name": "Pelinei",
+    "shareBB": 0.5184,
+    "shareCircle": 0.3877
+  },
+  {
+    "gem_id": "MD043935",
+    "country_id": "MD",
+    "name": "Roşu",
+    "shareBB": 0.5822,
+    "shareCircle": 0.5951
+  },
+  {
+    "gem_id": "MD044230",
+    "country_id": "MD",
+    "name": "Slobozia Mare",
+    "shareBB": 0.4188,
+    "shareCircle": 0.395
+  },
+  {
+    "gem_id": "MD044395",
+    "country_id": "MD",
+    "name": "Tătăreşti",
+    "shareBB": 0.4194,
+    "shareCircle": 0.3383
+  },
+  {
+    "gem_id": "MD044435",
+    "country_id": "MD",
+    "name": "Taraclia de Salcie",
+    "shareBB": 0.5992,
+    "shareCircle": 0.5214
+  },
+  {
+    "gem_id": "MD044445",
+    "country_id": "MD",
+    "name": "Tartaul de Salcie",
+    "shareBB": 0.6112,
+    "shareCircle": 0.4741
+  },
+  {
+    "gem_id": "MD044710",
+    "country_id": "MD",
+    "name": "Văleni",
+    "shareBB": 0.27,
+    "shareCircle": 0.1854
+  },
+  {
+    "gem_id": "MD044770",
+    "country_id": "MD",
+    "name": "Vadul lui Isac",
+    "shareBB": 0.451,
+    "shareCircle": 0.2527
+  },
+  {
+    "gem_id": "MD044990",
+    "country_id": "MD",
+    "name": "Zîrneşti",
+    "shareBB": 0.6021,
+    "shareCircle": 0.589
+  },
+  {
+    "gem_id": "MD050045",
+    "country_id": "MD",
+    "name": "Ţiganca",
+    "shareBB": 0.6886,
+    "shareCircle": 0.6279
+  },
+  {
+    "gem_id": "MD050075",
+    "country_id": "MD",
+    "name": "Şamalia",
+    "shareBB": 0.5832,
+    "shareCircle": 0.4276
+  },
+  {
+    "gem_id": "MD050280",
+    "country_id": "MD",
+    "name": "Antoneşti",
+    "shareBB": 0.3982,
+    "shareCircle": 0.2584
+  },
+  {
+    "gem_id": "MD050405",
+    "country_id": "MD",
+    "name": "Baimaclia",
+    "shareBB": 0.4402,
+    "shareCircle": 0.4644
+  },
+  {
+    "gem_id": "MD050935",
+    "country_id": "MD",
+    "name": "Cania",
+    "shareBB": 0.5162,
+    "shareCircle": 0.4673
+  },
+  {
+    "gem_id": "MD050940",
+    "country_id": "MD",
+    "name": "Cantemir",
+    "shareBB": 0.4762,
+    "shareCircle": 0.2864
+  },
+  {
+    "gem_id": "MD050945",
+    "country_id": "MD",
+    "name": "Capaclia",
+    "shareBB": 0.4874,
+    "shareCircle": 0.4075
+  },
+  {
+    "gem_id": "MD051090",
+    "country_id": "MD",
+    "name": "Chioselia",
+    "shareBB": 0.4288,
+    "shareCircle": 0.3282
+  },
+  {
+    "gem_id": "MD051160",
+    "country_id": "MD",
+    "name": "Cîşla",
+    "shareBB": 0.4176,
+    "shareCircle": 0.367
+  },
+  {
+    "gem_id": "MD051180",
+    "country_id": "MD",
+    "name": "Cîietu",
+    "shareBB": 0.4965,
+    "shareCircle": 0.4278
+  },
+  {
+    "gem_id": "MD051205",
+    "country_id": "MD",
+    "name": "Ciobalaccia",
+    "shareBB": 0.5039,
+    "shareCircle": 0.4324
+  },
+  {
+    "gem_id": "MD051270",
+    "country_id": "MD",
+    "name": "Cîrpeşti",
+    "shareBB": 0.4516,
+    "shareCircle": 0.312
+  },
+  {
+    "gem_id": "MD051365",
+    "country_id": "MD",
+    "name": "Coştangalia",
+    "shareBB": 0.4329,
+    "shareCircle": 0.3445
+  },
+  {
+    "gem_id": "MD051400",
+    "country_id": "MD",
+    "name": "Cociulia",
+    "shareBB": 0.4766,
+    "shareCircle": 0.4398
+  },
+  {
+    "gem_id": "MD052020",
+    "country_id": "MD",
+    "name": "Enichioi",
+    "shareBB": 0.54,
+    "shareCircle": 0.4525
+  },
+  {
+    "gem_id": "MD052275",
+    "country_id": "MD",
+    "name": "Goteşti",
+    "shareBB": 0.6321,
+    "shareCircle": 0.5759
+  },
+  {
+    "gem_id": "MD052405",
+    "country_id": "MD",
+    "name": "Haragîş",
+    "shareBB": 0.3572,
+    "shareCircle": 0.2645
+  },
+  {
+    "gem_id": "MD052745",
+    "country_id": "MD",
+    "name": "Lărguţa",
+    "shareBB": 0.5625,
+    "shareCircle": 0.5075
+  },
+  {
+    "gem_id": "MD052805",
+    "country_id": "MD",
+    "name": "Lingura",
+    "shareBB": 0.4775,
+    "shareCircle": 0.3654
+  },
+  {
+    "gem_id": "MD053625",
+    "country_id": "MD",
+    "name": "Pleşeni",
+    "shareBB": 0.4791,
+    "shareCircle": 0.5251
+  },
+  {
+    "gem_id": "MD053650",
+    "country_id": "MD",
+    "name": "Plopi",
+    "shareBB": 0.6207,
+    "shareCircle": 0.5024
+  },
+  {
+    "gem_id": "MD053730",
+    "country_id": "MD",
+    "name": "Porumbeşti",
+    "shareBB": 0.6265,
+    "shareCircle": 0.5058
+  },
+  {
+    "gem_id": "MD054060",
+    "country_id": "MD",
+    "name": "Sadîc",
+    "shareBB": 0.6069,
+    "shareCircle": 0.4407
+  },
+  {
+    "gem_id": "MD054305",
+    "country_id": "MD",
+    "name": "Stoianovca",
+    "shareBB": 0.5406,
+    "shareCircle": 0.3624
+  },
+  {
+    "gem_id": "MD054440",
+    "country_id": "MD",
+    "name": "Tartaul",
+    "shareBB": 0.6071,
+    "shareCircle": 0.4223
+  },
+  {
+    "gem_id": "MD054545",
+    "country_id": "MD",
+    "name": "Toceni",
+    "shareBB": 0.4038,
+    "shareCircle": 0.3018
+  },
+  {
+    "gem_id": "MD054855",
+    "country_id": "MD",
+    "name": "Vişniovca",
+    "shareBB": 0.5678,
+    "shareCircle": 0.5566
+  },
+  {
+    "gem_id": "MD060030",
+    "country_id": "MD",
+    "name": "Ţibirica",
+    "shareBB": 0.562,
+    "shareCircle": 0.3187
+  },
+  {
+    "gem_id": "MD060400",
+    "country_id": "MD",
+    "name": "Bahmut",
+    "shareBB": 0.5471,
+    "shareCircle": 0.5978
+  },
+  {
+    "gem_id": "MD060645",
+    "country_id": "MD",
+    "name": "Bravicea",
+    "shareBB": 0.4193,
+    "shareCircle": 0.31
+  },
+  {
+    "gem_id": "MD060730",
+    "country_id": "MD",
+    "name": "Buda",
+    "shareBB": 0.7383,
+    "shareCircle": 0.6381
+  },
+  {
+    "gem_id": "MD060820",
+    "country_id": "MD",
+    "name": "Căbăieşti",
+    "shareBB": 0.3953,
+    "shareCircle": 0.3157
+  },
+  {
+    "gem_id": "MD060835",
+    "country_id": "MD",
+    "name": "Călăraşi",
+    "shareBB": 0.5107,
+    "shareCircle": 0.3085
+  },
+  {
+    "gem_id": "MD061830",
+    "country_id": "MD",
+    "name": "Dereneu",
+    "shareBB": 0.5832,
+    "shareCircle": 0.2807
+  },
+  {
+    "gem_id": "MD062110",
+    "country_id": "MD",
+    "name": "Frumoasa",
+    "shareBB": 0.5255,
+    "shareCircle": 0.4223
+  },
+  {
+    "gem_id": "MD062465",
+    "country_id": "MD",
+    "name": "Hîrjauca",
+    "shareBB": 0.4682,
+    "shareCircle": 0.2485
+  },
+  {
+    "gem_id": "MD062470",
+    "country_id": "MD",
+    "name": "Hirova",
+    "shareBB": 0.6177,
+    "shareCircle": 0.4235
+  },
+  {
+    "gem_id": "MD062515",
+    "country_id": "MD",
+    "name": "Hogineşti",
+    "shareBB": 0.486,
+    "shareCircle": 0.2451
+  },
+  {
+    "gem_id": "MD062555",
+    "country_id": "MD",
+    "name": "Horodişte",
+    "shareBB": 0.3343,
+    "shareCircle": 0.2518
+  },
+  {
+    "gem_id": "MD062985",
+    "country_id": "MD",
+    "name": "Meleşeni",
+    "shareBB": 0.6112,
+    "shareCircle": 0.3593
+  },
+  {
+    "gem_id": "MD063260",
+    "country_id": "MD",
+    "name": "Nişcani",
+    "shareBB": 0.3599,
+    "shareCircle": 0.2471
+  },
+  {
+    "gem_id": "MD063380",
+    "country_id": "MD",
+    "name": "Onişcani",
+    "shareBB": 0.5375,
+    "shareCircle": 0.4052
+  },
+  {
+    "gem_id": "MD063435",
+    "country_id": "MD",
+    "name": "Păuleşti",
+    "shareBB": 0.4131,
+    "shareCircle": 0.2865
+  },
+  {
+    "gem_id": "MD063535",
+    "country_id": "MD",
+    "name": "Peticeni",
+    "shareBB": 0.5936,
+    "shareCircle": 0.4033
+  },
+  {
+    "gem_id": "MD063585",
+    "country_id": "MD",
+    "name": "Pîrjolteni",
+    "shareBB": 0.4003,
+    "shareCircle": 0.2726
+  },
+  {
+    "gem_id": "MD063615",
+    "country_id": "MD",
+    "name": "Pituşca",
+    "shareBB": 0.4647,
+    "shareCircle": 0.3719
+  },
+  {
+    "gem_id": "MD063800",
+    "country_id": "MD",
+    "name": "Răciula",
+    "shareBB": 0.3881,
+    "shareCircle": 0.295
+  },
+  {
+    "gem_id": "MD063810",
+    "country_id": "MD",
+    "name": "Rădeni",
+    "shareBB": 0.5534,
+    "shareCircle": 0.2702
+  },
+  {
+    "gem_id": "MD064050",
+    "country_id": "MD",
+    "name": "Săseni",
+    "shareBB": 0.379,
+    "shareCircle": 0.2915
+  },
+  {
+    "gem_id": "MD064065",
+    "country_id": "MD",
+    "name": "Sadova",
+    "shareBB": 0.5881,
+    "shareCircle": 0.4064
+  },
+  {
+    "gem_id": "MD064200",
+    "country_id": "MD",
+    "name": "Sipoteni",
+    "shareBB": 0.6109,
+    "shareCircle": 0.5031
+  },
+  {
+    "gem_id": "MD064500",
+    "country_id": "MD",
+    "name": "Temeleuţi",
+    "shareBB": 0.492,
+    "shareCircle": 0.3579
+  },
+  {
+    "gem_id": "MD064635",
+    "country_id": "MD",
+    "name": "Tuzara",
+    "shareBB": 0.5299,
+    "shareCircle": 0.2398
+  },
+  {
+    "gem_id": "MD064705",
+    "country_id": "MD",
+    "name": "Vălcineţ",
+    "shareBB": 0.4559,
+    "shareCircle": 0.4902
+  },
+  {
+    "gem_id": "MD064745",
+    "country_id": "MD",
+    "name": "Vărzăreştii Noi",
+    "shareBB": 0.3465,
+    "shareCircle": 0.2161
+  },
+  {
+    "gem_id": "MD070390",
+    "country_id": "MD",
+    "name": "Baccealia",
+    "shareBB": 0.4971,
+    "shareCircle": 0.4552
+  },
+  {
+    "gem_id": "MD070410",
+    "country_id": "MD",
+    "name": "Baimaclia",
+    "shareBB": 0.5705,
+    "shareCircle": 0.5067
+  },
+  {
+    "gem_id": "MD070825",
+    "country_id": "MD",
+    "name": "Căinari",
+    "shareBB": 0.5824,
+    "shareCircle": 0.586
+  },
+  {
+    "gem_id": "MD070880",
+    "country_id": "MD",
+    "name": "Căuşeni",
+    "shareBB": 0.2956,
+    "shareCircle": 0.3199
+  },
+  {
+    "gem_id": "MD071070",
+    "country_id": "MD",
+    "name": "Chiţcani",
+    "shareBB": 0.361,
+    "shareCircle": 0.4107
+  },
+  {
+    "gem_id": "MD071120",
+    "country_id": "MD",
+    "name": "Chircăieşti",
+    "shareBB": 0.5869,
+    "shareCircle": 0.5164
+  },
+  {
+    "gem_id": "MD071125",
+    "country_id": "MD",
+    "name": "Chircăieştii Noi",
+    "shareBB": 0.5454,
+    "shareCircle": 0.496
+  },
+  {
+    "gem_id": "MD071260",
+    "country_id": "MD",
+    "name": "Cîrnăţeni",
+    "shareBB": 0.4757,
+    "shareCircle": 0.4928
+  },
+  {
+    "gem_id": "MD071265",
+    "country_id": "MD",
+    "name": "Cîrnăţenii Noi",
+    "shareBB": 0.5157,
+    "shareCircle": 0.4482
+  },
+  {
+    "gem_id": "MD071295",
+    "country_id": "MD",
+    "name": "Ciufleşti",
+    "shareBB": 0.4587,
+    "shareCircle": 0.4591
+  },
+  {
+    "gem_id": "MD071335",
+    "country_id": "MD",
+    "name": "Coşcalia",
+    "shareBB": 0.6298,
+    "shareCircle": 0.6476
+  },
+  {
+    "gem_id": "MD071495",
+    "country_id": "MD",
+    "name": "Copanca",
+    "shareBB": 0.6442,
+    "shareCircle": 0.5758
+  },
+  {
+    "gem_id": "MD071675",
+    "country_id": "MD",
+    "name": "Cremenciug",
+    "shareBB": 0.4899,
+    "shareCircle": 0.3959
+  },
+  {
+    "gem_id": "MD072080",
+    "country_id": "MD",
+    "name": "Fîrlădeni",
+    "shareBB": 0.4819,
+    "shareCircle": 0.3448
+  },
+  {
+    "gem_id": "MD072235",
+    "country_id": "MD",
+    "name": "Gîsca",
+    "shareBB": 0.6325,
+    "shareCircle": 0.6182
+  },
+  {
+    "gem_id": "MD072280",
+    "country_id": "MD",
+    "name": "Grădiniţa",
+    "shareBB": 0.5873,
+    "shareCircle": 0.4722
+  },
+  {
+    "gem_id": "MD072310",
+    "country_id": "MD",
+    "name": "Grigorievca",
+    "shareBB": 0.5923,
+    "shareCircle": 0.5047
+  },
+  {
+    "gem_id": "MD072380",
+    "country_id": "MD",
+    "name": "Hagimus",
+    "shareBB": 0.4026,
+    "shareCircle": 0.4379
+  },
+  {
+    "gem_id": "MD073385",
+    "country_id": "MD",
+    "name": "Opaci",
+    "shareBB": 0.4702,
+    "shareCircle": 0.4595
+  },
+  {
+    "gem_id": "MD073520",
+    "country_id": "MD",
+    "name": "Pervomaisc",
+    "shareBB": 0.5268,
+    "shareCircle": 0.5009
+  },
+  {
+    "gem_id": "MD073635",
+    "country_id": "MD",
+    "name": "Plop-Ştiubei",
+    "shareBB": 0.2318,
+    "shareCircle": 0.1322
+  },
+  {
+    "gem_id": "MD073985",
+    "country_id": "MD",
+    "name": "Săiţi",
+    "shareBB": 0.4369,
+    "shareCircle": 0.3094
+  },
+  {
+    "gem_id": "MD073990",
+    "country_id": "MD",
+    "name": "Sălcuţa",
+    "shareBB": 0.5542,
+    "shareCircle": 0.5431
+  },
+  {
+    "gem_id": "MD074380",
+    "country_id": "MD",
+    "name": "Tănătari",
+    "shareBB": 0.5006,
+    "shareCircle": 0.2803
+  },
+  {
+    "gem_id": "MD074385",
+    "country_id": "MD",
+    "name": "Tănătarii Noi",
+    "shareBB": 0.3611,
+    "shareCircle": 0.2571
+  },
+  {
+    "gem_id": "MD074430",
+    "country_id": "MD",
+    "name": "Taraclia",
+    "shareBB": 0.5379,
+    "shareCircle": 0.4655
+  },
+  {
+    "gem_id": "MD074555",
+    "country_id": "MD",
+    "name": "Tocuz",
+    "shareBB": 0.5871,
+    "shareCircle": 0.6681
+  },
+  {
+    "gem_id": "MD074645",
+    "country_id": "MD",
+    "name": "Ucrainca",
+    "shareBB": 0.5047,
+    "shareCircle": 0.3495
+  },
+  {
+    "gem_id": "MD074680",
+    "country_id": "MD",
+    "name": "Ursoaia",
+    "shareBB": 0.4613,
+    "shareCircle": 0.5217
+  },
+  {
+    "gem_id": "MD074960",
+    "country_id": "MD",
+    "name": "Zaim",
+    "shareBB": 0.524,
+    "shareCircle": 0.3229
+  },
+  {
+    "gem_id": "MD080180",
+    "country_id": "MD",
+    "name": "Albina",
+    "shareBB": 0.4812,
+    "shareCircle": 0.4339
+  },
+  {
+    "gem_id": "MD080450",
+    "country_id": "MD",
+    "name": "Batîr",
+    "shareBB": 0.5994,
+    "shareCircle": 0.5835
+  },
+  {
+    "gem_id": "MD081025",
+    "country_id": "MD",
+    "name": "Cenac",
+    "shareBB": 0.5793,
+    "shareCircle": 0.4355
+  },
+  {
+    "gem_id": "MD081190",
+    "country_id": "MD",
+    "name": "Cimişlia",
+    "shareBB": 0.5551,
+    "shareCircle": 0.604
+  },
+  {
+    "gem_id": "MD081290",
+    "country_id": "MD",
+    "name": "Ciucur-Mingir",
+    "shareBB": 0.5018,
+    "shareCircle": 0.4567
+  },
+  {
+    "gem_id": "MD081410",
+    "country_id": "MD",
+    "name": "Codreni",
+    "shareBB": 0.4396,
+    "shareCircle": 0.3116
+  },
+  {
+    "gem_id": "MD081985",
+    "country_id": "MD",
+    "name": "Ecaterinovca",
+    "shareBB": 0.3324,
+    "shareCircle": 0.2829
+  },
+  {
+    "gem_id": "MD082290",
+    "country_id": "MD",
+    "name": "Gradişte",
+    "shareBB": 0.4991,
+    "shareCircle": 0.3524
+  },
+  {
+    "gem_id": "MD082355",
+    "country_id": "MD",
+    "name": "Gura Galbenei",
+    "shareBB": 0.4999,
+    "shareCircle": 0.4804
+  },
+  {
+    "gem_id": "MD082480",
+    "country_id": "MD",
+    "name": "Hîrtop",
+    "shareBB": 0.509,
+    "shareCircle": 0.4803
+  },
+  {
+    "gem_id": "MD082610",
+    "country_id": "MD",
+    "name": "Ialpujeni",
+    "shareBB": 0.5744,
+    "shareCircle": 0.5694
+  },
+  {
+    "gem_id": "MD082685",
+    "country_id": "MD",
+    "name": "Ivanovca Nouă",
+    "shareBB": 0.4655,
+    "shareCircle": 0.3815
+  },
+  {
+    "gem_id": "MD082715",
+    "country_id": "MD",
+    "name": "Javgur",
+    "shareBB": 0.4122,
+    "shareCircle": 0.3412
+  },
+  {
+    "gem_id": "MD082825",
+    "country_id": "MD",
+    "name": "Lipoveni",
+    "shareBB": 0.4213,
+    "shareCircle": 0.3622
+  },
+  {
+    "gem_id": "MD083055",
+    "country_id": "MD",
+    "name": "Mihailovca",
+    "shareBB": 0.4685,
+    "shareCircle": 0.4806
+  },
+  {
+    "gem_id": "MD083735",
+    "country_id": "MD",
+    "name": "Porumbrei",
+    "shareBB": 0.1757,
+    "shareCircle": 0.1252
+  },
+  {
+    "gem_id": "MD084075",
+    "country_id": "MD",
+    "name": "Sagaidac",
+    "shareBB": 0.5166,
+    "shareCircle": 0.5304
+  },
+  {
+    "gem_id": "MD084100",
+    "country_id": "MD",
+    "name": "Satul Nou",
+    "shareBB": 0.4111,
+    "shareCircle": 0.3604
+  },
+  {
+    "gem_id": "MD084145",
+    "country_id": "MD",
+    "name": "Selemet",
+    "shareBB": 0.4616,
+    "shareCircle": 0.4526
+  },
+  {
+    "gem_id": "MD084360",
+    "country_id": "MD",
+    "name": "Suric",
+    "shareBB": 0.5051,
+    "shareCircle": 0.5309
+  },
+  {
+    "gem_id": "MD084585",
+    "country_id": "MD",
+    "name": "Topala",
+    "shareBB": 0.5752,
+    "shareCircle": 0.4453
+  },
+  {
+    "gem_id": "MD084620",
+    "country_id": "MD",
+    "name": "Troiţcoe",
+    "shareBB": 0.579,
+    "shareCircle": 0.6262
+  },
+  {
+    "gem_id": "MD084800",
+    "country_id": "MD",
+    "name": "Valea Perjei",
+    "shareBB": 0.6054,
+    "shareCircle": 0.6664
+  },
+  {
+    "gem_id": "MD090335",
+    "country_id": "MD",
+    "name": "Bălţata",
+    "shareBB": 0.5222,
+    "shareCircle": 0.4225
+  },
+  {
+    "gem_id": "MD090345",
+    "country_id": "MD",
+    "name": "Bălăbăneşti",
+    "shareBB": 0.448,
+    "shareCircle": 0.3762
+  },
+  {
+    "gem_id": "MD090550",
+    "country_id": "MD",
+    "name": "Boşcana",
+    "shareBB": 0.5999,
+    "shareCircle": 0.3981
+  },
+  {
+    "gem_id": "MD091185",
+    "country_id": "MD",
+    "name": "Cimişeni",
+    "shareBB": 0.3805,
+    "shareCircle": 0.3464
+  },
+  {
+    "gem_id": "MD091350",
+    "country_id": "MD",
+    "name": "Coşerniţa",
+    "shareBB": 0.5009,
+    "shareCircle": 0.5064
+  },
+  {
+    "gem_id": "MD091525",
+    "country_id": "MD",
+    "name": "Corjova",
+    "shareBB": 0.3113,
+    "shareCircle": 0.2227
+  },
+  {
+    "gem_id": "MD091705",
+    "country_id": "MD",
+    "name": "Criuleni",
+    "shareBB": 0.535,
+    "shareCircle": 0.5493
+  },
+  {
+    "gem_id": "MD091720",
+    "country_id": "MD",
+    "name": "Cruglic",
+    "shareBB": 0.5034,
+    "shareCircle": 0.3699
+  },
+  {
+    "gem_id": "MD091870",
+    "country_id": "MD",
+    "name": "Dolinnoe",
+    "shareBB": 0.5385,
+    "shareCircle": 0.3489
+  },
+  {
+    "gem_id": "MD091920",
+    "country_id": "MD",
+    "name": "Drăsliceni",
+    "shareBB": 0.5741,
+    "shareCircle": 0.3507
+  },
+  {
+    "gem_id": "MD091950",
+    "country_id": "MD",
+    "name": "Dubăsarii Vechi",
+    "shareBB": 0.4747,
+    "shareCircle": 0.3339
+  },
+  {
+    "gem_id": "MD092485",
+    "country_id": "MD",
+    "name": "Hîrtopul Mare",
+    "shareBB": 0.5647,
+    "shareCircle": 0.4243
+  },
+  {
+    "gem_id": "MD092580",
+    "country_id": "MD",
+    "name": "Hruşova",
+    "shareBB": 0.5301,
+    "shareCircle": 0.5615
+  },
+  {
+    "gem_id": "MD092595",
+    "country_id": "MD",
+    "name": "Işnovăţ",
+    "shareBB": 0.6469,
+    "shareCircle": 0.5792
+  },
+  {
+    "gem_id": "MD092690",
+    "country_id": "MD",
+    "name": "Izbişte",
+    "shareBB": 0.6012,
+    "shareCircle": 0.3945
+  },
+  {
+    "gem_id": "MD092720",
+    "country_id": "MD",
+    "name": "Jevreni",
+    "shareBB": 0.5567,
+    "shareCircle": 0.4505
+  },
+  {
+    "gem_id": "MD092875",
+    "country_id": "MD",
+    "name": "Măgdăceşti",
+    "shareBB": 0.4365,
+    "shareCircle": 0.1989
+  },
+  {
+    "gem_id": "MD092925",
+    "country_id": "MD",
+    "name": "Maşcăuţi",
+    "shareBB": 0.4701,
+    "shareCircle": 0.4963
+  },
+  {
+    "gem_id": "MD093020",
+    "country_id": "MD",
+    "name": "Micleşti",
+    "shareBB": 0.5304,
+    "shareCircle": 0.4748
+  },
+  {
+    "gem_id": "MD093375",
+    "country_id": "MD",
+    "name": "Oniţcani",
+    "shareBB": 0.4483,
+    "shareCircle": 0.4864
+  },
+  {
+    "gem_id": "MD093445",
+    "country_id": "MD",
+    "name": "Paşcani",
+    "shareBB": 0.5373,
+    "shareCircle": 0.5701
+  },
+  {
+    "gem_id": "MD093905",
+    "country_id": "MD",
+    "name": "Rîşcova",
+    "shareBB": 0.2871,
+    "shareCircle": 0.2655
+  },
+  {
+    "gem_id": "MD094240",
+    "country_id": "MD",
+    "name": "Slobozia-Duşca",
+    "shareBB": 0.6247,
+    "shareCircle": 0.5677
+  },
+  {
+    "gem_id": "MD094935",
+    "country_id": "MD",
+    "name": "Zăicana",
+    "shareBB": 0.5803,
+    "shareCircle": 0.5118
+  },
+  {
+    "gem_id": "MD094945",
+    "country_id": "MD",
+    "name": "Răculeşti",
+    "shareBB": 0.5317,
+    "shareCircle": 0.4018
+  },
+  {
+    "gem_id": "MD100025",
+    "country_id": "MD",
+    "name": "Ţaul",
+    "shareBB": 0.6361,
+    "shareCircle": 0.4619
+  },
+  {
+    "gem_id": "MD100295",
+    "country_id": "MD",
+    "name": "Arioneşti",
+    "shareBB": 0.3973,
+    "shareCircle": 0.3502
+  },
+  {
+    "gem_id": "MD100430",
+    "country_id": "MD",
+    "name": "Baraboi",
+    "shareBB": 0.4783,
+    "shareCircle": 0.2894
+  },
+  {
+    "gem_id": "MD100655",
+    "country_id": "MD",
+    "name": "Briceni",
+    "shareBB": 0.3732,
+    "shareCircle": 0.3075
+  },
+  {
+    "gem_id": "MD101045",
+    "country_id": "MD",
+    "name": "Cernoleuca",
+    "shareBB": 0.5535,
+    "shareCircle": 0.4425
+  },
+  {
+    "gem_id": "MD101315",
+    "country_id": "MD",
+    "name": "Climăuţi",
+    "shareBB": 0.5565,
+    "shareCircle": 0.5331
+  },
+  {
+    "gem_id": "MD101510",
+    "country_id": "MD",
+    "name": "Corbu",
+    "shareBB": 0.4831,
+    "shareCircle": 0.4282
+  },
+  {
+    "gem_id": "MD101680",
+    "country_id": "MD",
+    "name": "Crişcăuţi",
+    "shareBB": 0.5242,
+    "shareCircle": 0.5418
+  },
+  {
+    "gem_id": "MD101890",
+    "country_id": "MD",
+    "name": "Donduşeni",
+    "shareBB": 0.5461,
+    "shareCircle": 0.3684
+  },
+  {
+    "gem_id": "MD102105",
+    "country_id": "MD",
+    "name": "Frasin",
+    "shareBB": 0.6447,
+    "shareCircle": 0.5296
+  },
+  {
+    "gem_id": "MD102545",
+    "country_id": "MD",
+    "name": "Horodişte",
+    "shareBB": 0.6271,
+    "shareCircle": 0.6129
+  },
+  {
+    "gem_id": "MD103105",
+    "country_id": "MD",
+    "name": "Moşana",
+    "shareBB": 0.5854,
+    "shareCircle": 0.5077
+  },
+  {
+    "gem_id": "MD103620",
+    "country_id": "MD",
+    "name": "Pivniceni",
+    "shareBB": 0.6707,
+    "shareCircle": 0.4351
+  },
+  {
+    "gem_id": "MD103630",
+    "country_id": "MD",
+    "name": "Plop",
+    "shareBB": 0.4147,
+    "shareCircle": 0.344
+  },
+  {
+    "gem_id": "MD103665",
+    "country_id": "MD",
+    "name": "Pocrovca",
+    "shareBB": 0.4116,
+    "shareCircle": 0.3465
+  },
+  {
+    "gem_id": "MD103885",
+    "country_id": "MD",
+    "name": "Rediul Mare",
+    "shareBB": 0.5601,
+    "shareCircle": 0.4837
+  },
+  {
+    "gem_id": "MD104110",
+    "country_id": "MD",
+    "name": "Scăieni",
+    "shareBB": 0.688,
+    "shareCircle": 0.5913
+  },
+  {
+    "gem_id": "MD104350",
+    "country_id": "MD",
+    "name": "Sudarca",
+    "shareBB": 0.4336,
+    "shareCircle": 0.4262
+  },
+  {
+    "gem_id": "MD104480",
+    "country_id": "MD",
+    "name": "Teleşeuca",
+    "shareBB": 0.4347,
+    "shareCircle": 0.3062
+  },
+  {
+    "gem_id": "MD104535",
+    "country_id": "MD",
+    "name": "Tîrnova",
+    "shareBB": 0.4933,
+    "shareCircle": 0.4121
+  },
+  {
+    "gem_id": "MD104545",
+    "country_id": "MD",
+    "name": "Donduşeni",
+    "shareBB": 0.4342,
+    "shareCircle": 0.3308
+  },
+  {
+    "gem_id": "MD104555",
+    "country_id": "MD",
+    "name": "Elizavetovca",
+    "shareBB": 0.5271,
+    "shareCircle": 0.4091
+  },
+  {
+    "gem_id": "MD110020",
+    "country_id": "MD",
+    "name": "Ţarigrad",
+    "shareBB": 0.4495,
+    "shareCircle": 0.5566
+  },
+  {
+    "gem_id": "MD110070",
+    "country_id": "MD",
+    "name": "Şalvirii Vechi",
+    "shareBB": 0.4897,
+    "shareCircle": 0.4893
+  },
+  {
+    "gem_id": "MD110160",
+    "country_id": "MD",
+    "name": "Şuri",
+    "shareBB": 0.5027,
+    "shareCircle": 0.4205
+  },
+  {
+    "gem_id": "MD110290",
+    "country_id": "MD",
+    "name": "Antoneuca",
+    "shareBB": 0.383,
+    "shareCircle": 0.4333
+  },
+  {
+    "gem_id": "MD110440",
+    "country_id": "MD",
+    "name": "Baroncea",
+    "shareBB": 0.2523,
+    "shareCircle": 0.1835
+  },
+  {
+    "gem_id": "MD111065",
+    "country_id": "MD",
+    "name": "Chetrosu",
+    "shareBB": 0.4199,
+    "shareCircle": 0.3761
+  },
+  {
+    "gem_id": "MD111615",
+    "country_id": "MD",
+    "name": "Cotova",
+    "shareBB": 0.5281,
+    "shareCircle": 0.4576
+  },
+  {
+    "gem_id": "MD111880",
+    "country_id": "MD",
+    "name": "Dominteni",
+    "shareBB": 0.3693,
+    "shareCircle": 0.344
+  },
+  {
+    "gem_id": "MD111935",
+    "country_id": "MD",
+    "name": "Drochia",
+    "shareBB": 0.5384,
+    "shareCircle": 0.398
+  },
+  {
+    "gem_id": "MD112075",
+    "country_id": "MD",
+    "name": "Fîntîniţa",
+    "shareBB": 0.5822,
+    "shareCircle": 0.4945
+  },
+  {
+    "gem_id": "MD112300",
+    "country_id": "MD",
+    "name": "Gribova",
+    "shareBB": 0.5477,
+    "shareCircle": 0.4521
+  },
+  {
+    "gem_id": "MD112370",
+    "country_id": "MD",
+    "name": "Hăsnăşenii Mari",
+    "shareBB": 0.4182,
+    "shareCircle": 0.4421
+  },
+  {
+    "gem_id": "MD112375",
+    "country_id": "MD",
+    "name": "Hăsnăşenii Noi",
+    "shareBB": 0.3504,
+    "shareCircle": 0.2337
+  },
+  {
+    "gem_id": "MD112950",
+    "country_id": "MD",
+    "name": "Maramonovca",
+    "shareBB": 0.4925,
+    "shareCircle": 0.4595
+  },
+  {
+    "gem_id": "MD113015",
+    "country_id": "MD",
+    "name": "Miciurin",
+    "shareBB": 0.4947,
+    "shareCircle": 0.4856
+  },
+  {
+    "gem_id": "MD113080",
+    "country_id": "MD",
+    "name": "Mîndîc",
+    "shareBB": 0.6535,
+    "shareCircle": 0.3777
+  },
+  {
+    "gem_id": "MD113110",
+    "country_id": "MD",
+    "name": "Moara de Piatră",
+    "shareBB": 0.3063,
+    "shareCircle": 0.2297
+  },
+  {
+    "gem_id": "MD113270",
+    "country_id": "MD",
+    "name": "Nicoreni",
+    "shareBB": 0.5379,
+    "shareCircle": 0.5622
+  },
+  {
+    "gem_id": "MD113315",
+    "country_id": "MD",
+    "name": "Ochiul Alb",
+    "shareBB": 0.5723,
+    "shareCircle": 0.5661
+  },
+  {
+    "gem_id": "MD113450",
+    "country_id": "MD",
+    "name": "Palanca",
+    "shareBB": 0.4447,
+    "shareCircle": 0.5189
+  },
+  {
+    "gem_id": "MD113490",
+    "country_id": "MD",
+    "name": "Pelinia",
+    "shareBB": 0.4973,
+    "shareCircle": 0.4706
+  },
+  {
+    "gem_id": "MD113530",
+    "country_id": "MD",
+    "name": "Pervomaiscoe",
+    "shareBB": 0.5417,
+    "shareCircle": 0.6065
+  },
+  {
+    "gem_id": "MD113545",
+    "country_id": "MD",
+    "name": "Petreni",
+    "shareBB": 0.2919,
+    "shareCircle": 0.2075
+  },
+  {
+    "gem_id": "MD113710",
+    "country_id": "MD",
+    "name": "Popeştii de Jos",
+    "shareBB": 0.4642,
+    "shareCircle": 0.476
+  },
+  {
+    "gem_id": "MD113715",
+    "country_id": "MD",
+    "name": "Popeştii de Sus",
+    "shareBB": 0.3746,
+    "shareCircle": 0.3359
+  },
+  {
+    "gem_id": "MD114260",
+    "country_id": "MD",
+    "name": "Sofia",
+    "shareBB": 0.4099,
+    "shareCircle": 0.3756
+  },
+  {
+    "gem_id": "MD114980",
+    "country_id": "MD",
+    "name": "Zguriţa",
+    "shareBB": 0.3643,
+    "shareCircle": 0.3158
+  },
+  {
+    "gem_id": "MD114990",
+    "country_id": "MD",
+    "name": "Drochia",
+    "shareBB": 0.5117,
+    "shareCircle": 0.486
+  },
+  {
+    "gem_id": "MD121360",
+    "country_id": "MD",
+    "name": "Coşniţa",
+    "shareBB": 0.1549,
+    "shareCircle": 0.0985
+  },
+  {
+    "gem_id": "MD121395",
+    "country_id": "MD",
+    "name": "Cocieri",
+    "shareBB": 0.1285,
+    "shareCircle": 0.1008
+  },
+  {
+    "gem_id": "MD121905",
+    "country_id": "MD",
+    "name": "Doroţcaia",
+    "shareBB": 0.2856,
+    "shareCircle": 0.1951
+  },
+  {
+    "gem_id": "MD122520",
+    "country_id": "MD",
+    "name": "Holercani",
+    "shareBB": 0.5839,
+    "shareCircle": 0.4271
+  },
+  {
+    "gem_id": "MD122905",
+    "country_id": "MD",
+    "name": "Mărcăuţi",
+    "shareBB": 0.5933,
+    "shareCircle": 0.5144
+  },
+  {
+    "gem_id": "MD123135",
+    "country_id": "MD",
+    "name": "Molovata",
+    "shareBB": 0.4939,
+    "shareCircle": 0.2478
+  },
+  {
+    "gem_id": "MD123140",
+    "country_id": "MD",
+    "name": "Molovata Nouă",
+    "shareBB": 0.2814,
+    "shareCircle": 0.1883
+  },
+  {
+    "gem_id": "MD123415",
+    "country_id": "MD",
+    "name": "Oxentea",
+    "shareBB": 0.3538,
+    "shareCircle": 0.2262
+  },
+  {
+    "gem_id": "MD123575",
+    "country_id": "MD",
+    "name": "Pîrîta",
+    "shareBB": 0.2064,
+    "shareCircle": 0.1079
+  },
+  {
+    "gem_id": "MD124690",
+    "country_id": "MD",
+    "name": "Ustia",
+    "shareBB": 0.4579,
+    "shareCircle": 0.3974
+  },
+  {
+    "gem_id": "MD124700",
+    "country_id": "MD",
+    "name": "Corjova",
+    "shareBB": 0.3046,
+    "shareCircle": 0.2519
+  },
+  {
+    "gem_id": "MD130130",
+    "country_id": "MD",
+    "name": "Şofrîncani",
+    "shareBB": 0.5288,
+    "shareCircle": 0.4576
+  },
+  {
+    "gem_id": "MD130240",
+    "country_id": "MD",
+    "name": "Alexeevca",
+    "shareBB": 0.5416,
+    "shareCircle": 0.4991
+  },
+  {
+    "gem_id": "MD130315",
+    "country_id": "MD",
+    "name": "Bădragii Noi",
+    "shareBB": 0.4962,
+    "shareCircle": 0.482
+  },
+  {
+    "gem_id": "MD130320",
+    "country_id": "MD",
+    "name": "Bădragii Vechi",
+    "shareBB": 0.5131,
+    "shareCircle": 0.3777
+  },
+  {
+    "gem_id": "MD130540",
+    "country_id": "MD",
+    "name": "Bleşteni",
+    "shareBB": 0.5521,
+    "shareCircle": 0.6284
+  },
+  {
+    "gem_id": "MD130625",
+    "country_id": "MD",
+    "name": "Brătuşeni",
+    "shareBB": 0.7078,
+    "shareCircle": 0.3983
+  },
+  {
+    "gem_id": "MD130670",
+    "country_id": "MD",
+    "name": "Brînzeni",
+    "shareBB": 0.4712,
+    "shareCircle": 0.4872
+  },
+  {
+    "gem_id": "MD130785",
+    "country_id": "MD",
+    "name": "Burlăneşti",
+    "shareBB": 0.6602,
+    "shareCircle": 0.7356
+  },
+  {
+    "gem_id": "MD131030",
+    "country_id": "MD",
+    "name": "Cepeleuţi",
+    "shareBB": 0.6751,
+    "shareCircle": 0.6472
+  },
+  {
+    "gem_id": "MD131055",
+    "country_id": "MD",
+    "name": "Chetroşica Nouă",
+    "shareBB": 0.7749,
+    "shareCircle": 0.3185
+  },
+  {
+    "gem_id": "MD131485",
+    "country_id": "MD",
+    "name": "Constantinovca",
+    "shareBB": 0.69,
+    "shareCircle": 0.5378
+  },
+  {
+    "gem_id": "MD131560",
+    "country_id": "MD",
+    "name": "Corpaci",
+    "shareBB": 0.7825,
+    "shareCircle": 0.6938
+  },
+  {
+    "gem_id": "MD131745",
+    "country_id": "MD",
+    "name": "Cuconeştii Noi",
+    "shareBB": 0.5426,
+    "shareCircle": 0.4978
+  },
+  {
+    "gem_id": "MD131780",
+    "country_id": "MD",
+    "name": "Cupcini",
+    "shareBB": 0.4282,
+    "shareCircle": 0.3196
+  },
+  {
+    "gem_id": "MD131995",
+    "country_id": "MD",
+    "name": "Edineţ",
+    "shareBB": 0.5712,
+    "shareCircle": 0.6216
+  },
+  {
+    "gem_id": "MD132060",
+    "country_id": "MD",
+    "name": "Feteşti",
+    "shareBB": 0.5696,
+    "shareCircle": 0.5909
+  },
+  {
+    "gem_id": "MD132175",
+    "country_id": "MD",
+    "name": "Gaşpar",
+    "shareBB": 0.5821,
+    "shareCircle": 0.4484
+  },
+  {
+    "gem_id": "MD132260",
+    "country_id": "MD",
+    "name": "Goleni",
+    "shareBB": 0.6137,
+    "shareCircle": 0.344
+  },
+  {
+    "gem_id": "MD132265",
+    "country_id": "MD",
+    "name": "Gordineşti",
+    "shareBB": 0.6251,
+    "shareCircle": 0.5119
+  },
+  {
+    "gem_id": "MD132390",
+    "country_id": "MD",
+    "name": "Hancăuţi",
+    "shareBB": 0.5083,
+    "shareCircle": 0.4184
+  },
+  {
+    "gem_id": "MD132435",
+    "country_id": "MD",
+    "name": "Hincăuţi",
+    "shareBB": 0.5732,
+    "shareCircle": 0.4814
+  },
+  {
+    "gem_id": "MD132500",
+    "country_id": "MD",
+    "name": "Hlinaia",
+    "shareBB": 0.56,
+    "shareCircle": 0.5867
+  },
+  {
+    "gem_id": "MD132845",
+    "country_id": "MD",
+    "name": "Lopatnic",
+    "shareBB": 0.5758,
+    "shareCircle": 0.4962
+  },
+  {
+    "gem_id": "MD133475",
+    "country_id": "MD",
+    "name": "Parcova",
+    "shareBB": 0.634,
+    "shareCircle": 0.4476
+  },
+  {
+    "gem_id": "MD133960",
+    "country_id": "MD",
+    "name": "Rotunda",
+    "shareBB": 0.5311,
+    "shareCircle": 0.3834
+  },
+  {
+    "gem_id": "MD133980",
+    "country_id": "MD",
+    "name": "Ruseni",
+    "shareBB": 0.5861,
+    "shareCircle": 0.4569
+  },
+  {
+    "gem_id": "MD134315",
+    "country_id": "MD",
+    "name": "Stolniceni",
+    "shareBB": 0.4982,
+    "shareCircle": 0.5212
+  },
+  {
+    "gem_id": "MD134505",
+    "country_id": "MD",
+    "name": "Terebna",
+    "shareBB": 0.6142,
+    "shareCircle": 0.6318
+  },
+  {
+    "gem_id": "MD134540",
+    "country_id": "MD",
+    "name": "Tîrnova",
+    "shareBB": 0.7611,
+    "shareCircle": 0.5869
+  },
+  {
+    "gem_id": "MD134615",
+    "country_id": "MD",
+    "name": "Trinca",
+    "shareBB": 0.5237,
+    "shareCircle": 0.4564
+  },
+  {
+    "gem_id": "MD134865",
+    "country_id": "MD",
+    "name": "Viişoara",
+    "shareBB": 0.4672,
+    "shareCircle": 0.4487
+  },
+  {
+    "gem_id": "MD134930",
+    "country_id": "MD",
+    "name": "Zăbriceni",
+    "shareBB": 0.3846,
+    "shareCircle": 0.3604
+  },
+  {
+    "gem_id": "MD140190",
+    "country_id": "MD",
+    "name": "Albineţul Vechi",
+    "shareBB": 0.4536,
+    "shareCircle": 0.3032
+  },
+  {
+    "gem_id": "MD140560",
+    "country_id": "MD",
+    "name": "Bocani",
+    "shareBB": 0.4539,
+    "shareCircle": 0.445
+  },
+  {
+    "gem_id": "MD140845",
+    "country_id": "MD",
+    "name": "Călineşti",
+    "shareBB": 0.5547,
+    "shareCircle": 0.5247
+  },
+  {
+    "gem_id": "MD140855",
+    "country_id": "MD",
+    "name": "Călugăr",
+    "shareBB": 0.5005,
+    "shareCircle": 0.5243
+  },
+  {
+    "gem_id": "MD140995",
+    "country_id": "MD",
+    "name": "Catranîc",
+    "shareBB": 0.5564,
+    "shareCircle": 0.5959
+  },
+  {
+    "gem_id": "MD141235",
+    "country_id": "MD",
+    "name": "Ciolacu Nou",
+    "shareBB": 0.5722,
+    "shareCircle": 0.5829
+  },
+  {
+    "gem_id": "MD142010",
+    "country_id": "MD",
+    "name": "Egorovca",
+    "shareBB": 0.5497,
+    "shareCircle": 0.6562
+  },
+  {
+    "gem_id": "MD142040",
+    "country_id": "MD",
+    "name": "Făleşti",
+    "shareBB": 0.293,
+    "shareCircle": 0.2761
+  },
+  {
+    "gem_id": "MD142045",
+    "country_id": "MD",
+    "name": "Făleştii Noi",
+    "shareBB": 0.5164,
+    "shareCircle": 0.4455
+  },
+  {
+    "gem_id": "MD142245",
+    "country_id": "MD",
+    "name": "Glinjeni",
+    "shareBB": 0.4739,
+    "shareCircle": 0.4969
+  },
+  {
+    "gem_id": "MD142430",
+    "country_id": "MD",
+    "name": "Hiliuţi",
+    "shareBB": 0.6442,
+    "shareCircle": 0.5324
+  },
+  {
+    "gem_id": "MD142530",
+    "country_id": "MD",
+    "name": "Horeşti",
+    "shareBB": 0.6296,
+    "shareCircle": 0.6463
+  },
+  {
+    "gem_id": "MD142590",
+    "country_id": "MD",
+    "name": "Işcălău",
+    "shareBB": 0.5245,
+    "shareCircle": 0.5272
+  },
+  {
+    "gem_id": "MD142635",
+    "country_id": "MD",
+    "name": "Ilenuţa",
+    "shareBB": 0.5242,
+    "shareCircle": 0.5858
+  },
+  {
+    "gem_id": "MD142705",
+    "country_id": "MD",
+    "name": "Izvoare",
+    "shareBB": 0.7071,
+    "shareCircle": 0.5247
+  },
+  {
+    "gem_id": "MD142835",
+    "country_id": "MD",
+    "name": "Logofteni",
+    "shareBB": 0.5039,
+    "shareCircle": 0.4423
+  },
+  {
+    "gem_id": "MD142900",
+    "country_id": "MD",
+    "name": "Mărăndeni",
+    "shareBB": 0.6395,
+    "shareCircle": 0.5067
+  },
+  {
+    "gem_id": "MD143190",
+    "country_id": "MD",
+    "name": "Musteaţa",
+    "shareBB": 0.3116,
+    "shareCircle": 0.2549
+  },
+  {
+    "gem_id": "MD143200",
+    "country_id": "MD",
+    "name": "Năvîrneţ",
+    "shareBB": 0.538,
+    "shareCircle": 0.406
+  },
+  {
+    "gem_id": "MD143215",
+    "country_id": "MD",
+    "name": "Natalievca",
+    "shareBB": 0.5674,
+    "shareCircle": 0.5303
+  },
+  {
+    "gem_id": "MD143310",
+    "country_id": "MD",
+    "name": "Obreja Veche",
+    "shareBB": 0.5509,
+    "shareCircle": 0.483
+  },
+  {
+    "gem_id": "MD143565",
+    "country_id": "MD",
+    "name": "Pietrosu",
+    "shareBB": 0.685,
+    "shareCircle": 0.5328
+  },
+  {
+    "gem_id": "MD143570",
+    "country_id": "MD",
+    "name": "Pînzăreni",
+    "shareBB": 0.574,
+    "shareCircle": 0.5766
+  },
+  {
+    "gem_id": "MD143600",
+    "country_id": "MD",
+    "name": "Pîrliţa",
+    "shareBB": 0.6691,
+    "shareCircle": 0.5372
+  },
+  {
+    "gem_id": "MD143705",
+    "country_id": "MD",
+    "name": "Pompa",
+    "shareBB": 0.3751,
+    "shareCircle": 0.2726
+  },
+  {
+    "gem_id": "MD143765",
+    "country_id": "MD",
+    "name": "Pruteni",
+    "shareBB": 0.4853,
+    "shareCircle": 0.492
+  },
+  {
+    "gem_id": "MD143845",
+    "country_id": "MD",
+    "name": "Răuţel",
+    "shareBB": 0.3728,
+    "shareCircle": 0.3348
+  },
+  {
+    "gem_id": "MD143915",
+    "country_id": "MD",
+    "name": "Risipeni",
+    "shareBB": 0.5093,
+    "shareCircle": 0.4866
+  },
+  {
+    "gem_id": "MD144035",
+    "country_id": "MD",
+    "name": "Sărata Veche",
+    "shareBB": 0.4973,
+    "shareCircle": 0.5292
+  },
+  {
+    "gem_id": "MD144135",
+    "country_id": "MD",
+    "name": "Scumpia",
+    "shareBB": 0.5213,
+    "shareCircle": 0.4017
+  },
+  {
+    "gem_id": "MD144450",
+    "country_id": "MD",
+    "name": "Taxobeni",
+    "shareBB": 0.493,
+    "shareCircle": 0.4187
+  },
+  {
+    "gem_id": "MD144460",
+    "country_id": "MD",
+    "name": "Chetriş",
+    "shareBB": 0.2505,
+    "shareCircle": 0.1794
+  },
+  {
+    "gem_id": "MD144470",
+    "country_id": "MD",
+    "name": "Hînceşti",
+    "shareBB": 0.4505,
+    "shareCircle": 0.3818
+  },
+  {
+    "gem_id": "MD150145",
+    "country_id": "MD",
+    "name": "Ştefăneşti",
+    "shareBB": 0.4339,
+    "shareCircle": 0.3778
+  },
+  {
+    "gem_id": "MD150245",
+    "country_id": "MD",
+    "name": "Alexeevca",
+    "shareBB": 0.4968,
+    "shareCircle": 0.5697
+  },
+  {
+    "gem_id": "MD150325",
+    "country_id": "MD",
+    "name": "Băhrineşti",
+    "shareBB": 0.4158,
+    "shareCircle": 0.3797
+  },
+  {
+    "gem_id": "MD150890",
+    "country_id": "MD",
+    "name": "Caşunca",
+    "shareBB": 0.545,
+    "shareCircle": 0.5121
+  },
+  {
+    "gem_id": "MD151040",
+    "country_id": "MD",
+    "name": "Cerniţa",
+    "shareBB": 0.5707,
+    "shareCircle": 0.5512
+  },
+  {
+    "gem_id": "MD151255",
+    "country_id": "MD",
+    "name": "Ciripcău",
+    "shareBB": 0.6547,
+    "shareCircle": 0.6535
+  },
+  {
+    "gem_id": "MD151305",
+    "country_id": "MD",
+    "name": "Ciutuleşti",
+    "shareBB": 0.4237,
+    "shareCircle": 0.3665
+  },
+  {
+    "gem_id": "MD151345",
+    "country_id": "MD",
+    "name": "Coşerniţa",
+    "shareBB": 0.5633,
+    "shareCircle": 0.6182
+  },
+  {
+    "gem_id": "MD151760",
+    "country_id": "MD",
+    "name": "Cuhureştii de Jos",
+    "shareBB": 0.6399,
+    "shareCircle": 0.3555
+  },
+  {
+    "gem_id": "MD151765",
+    "country_id": "MD",
+    "name": "Cuhureştii de Sus",
+    "shareBB": 0.3952,
+    "shareCircle": 0.2411
+  },
+  {
+    "gem_id": "MD151775",
+    "country_id": "MD",
+    "name": "Cunicea",
+    "shareBB": 0.472,
+    "shareCircle": 0.309
+  },
+  {
+    "gem_id": "MD151885",
+    "country_id": "MD",
+    "name": "Domulgeni",
+    "shareBB": 0.5094,
+    "shareCircle": 0.5601
+  },
+  {
+    "gem_id": "MD152090",
+    "country_id": "MD",
+    "name": "Floreşti",
+    "shareBB": 0.4846,
+    "shareCircle": 0.4879
+  },
+  {
+    "gem_id": "MD152115",
+    "country_id": "MD",
+    "name": "Frumuşica",
+    "shareBB": 0.3041,
+    "shareCircle": 0.2204
+  },
+  {
+    "gem_id": "MD152225",
+    "country_id": "MD",
+    "name": "Ghindeşti",
+    "shareBB": 0.4902,
+    "shareCircle": 0.3755
+  },
+  {
+    "gem_id": "MD152226",
+    "country_id": "MD",
+    "name": "Ghindeşti",
+    "shareBB": 0.5613,
+    "shareCircle": 0.4981
+  },
+  {
+    "gem_id": "MD152345",
+    "country_id": "MD",
+    "name": "Gura Căinarului",
+    "shareBB": 0.4838,
+    "shareCircle": 0.5162
+  },
+  {
+    "gem_id": "MD152350",
+    "country_id": "MD",
+    "name": "Gura Camencii",
+    "shareBB": 0.5919,
+    "shareCircle": 0.5678
+  },
+  {
+    "gem_id": "MD152640",
+    "country_id": "MD",
+    "name": "Iliciovca",
+    "shareBB": 0.4188,
+    "shareCircle": 0.3195
+  },
+  {
+    "gem_id": "MD152700",
+    "country_id": "MD",
+    "name": "Izvoare",
+    "shareBB": 0.3954,
+    "shareCircle": 0.2388
+  },
+  {
+    "gem_id": "MD152710",
+    "country_id": "MD",
+    "name": "Japca",
+    "shareBB": 0.5121,
+    "shareCircle": 0.5353
+  },
+  {
+    "gem_id": "MD152865",
+    "country_id": "MD",
+    "name": "Lunga",
+    "shareBB": 0.4914,
+    "shareCircle": 0.4293
+  },
+  {
+    "gem_id": "MD152920",
+    "country_id": "MD",
+    "name": "Mărculeşti",
+    "shareBB": 0.4841,
+    "shareCircle": 0.4653
+  },
+  {
+    "gem_id": "MD153205",
+    "country_id": "MD",
+    "name": "Năpadova",
+    "shareBB": 0.6753,
+    "shareCircle": 0.3845
+  },
+  {
+    "gem_id": "MD153265",
+    "country_id": "MD",
+    "name": "Nicolaevca",
+    "shareBB": 0.606,
+    "shareCircle": 0.4834
+  },
+  {
+    "gem_id": "MD153740",
+    "country_id": "MD",
+    "name": "Prajila",
+    "shareBB": 0.5886,
+    "shareCircle": 0.5697
+  },
+  {
+    "gem_id": "MD153755",
+    "country_id": "MD",
+    "name": "Prodăneşti",
+    "shareBB": 0.4881,
+    "shareCircle": 0.4804
+  },
+  {
+    "gem_id": "MD153790",
+    "country_id": "MD",
+    "name": "Putineşti",
+    "shareBB": 0.5433,
+    "shareCircle": 0.5304
+  },
+  {
+    "gem_id": "MD153825",
+    "country_id": "MD",
+    "name": "Rădulenii Vechi",
+    "shareBB": 0.5113,
+    "shareCircle": 0.4125
+  },
+  {
+    "gem_id": "MD153930",
+    "country_id": "MD",
+    "name": "Roşietici",
+    "shareBB": 0.5552,
+    "shareCircle": 0.5434
+  },
+  {
+    "gem_id": "MD154005",
+    "country_id": "MD",
+    "name": "Sănătăuca",
+    "shareBB": 0.641,
+    "shareCircle": 0.5829
+  },
+  {
+    "gem_id": "MD154170",
+    "country_id": "MD",
+    "name": "Sevirova",
+    "shareBB": 0.504,
+    "shareCircle": 0.425
+  },
+  {
+    "gem_id": "MD154495",
+    "country_id": "MD",
+    "name": "Temeleuţi",
+    "shareBB": 0.4472,
+    "shareCircle": 0.3924
+  },
+  {
+    "gem_id": "MD154525",
+    "country_id": "MD",
+    "name": "Tîrgul-Vertiujeni",
+    "shareBB": 0.4276,
+    "shareCircle": 0.2718
+  },
+  {
+    "gem_id": "MD154600",
+    "country_id": "MD",
+    "name": "Trifăneşti",
+    "shareBB": 0.3551,
+    "shareCircle": 0.2071
+  },
+  {
+    "gem_id": "MD154735",
+    "country_id": "MD",
+    "name": "Vărvăreuca",
+    "shareBB": 0.5686,
+    "shareCircle": 0.5544
+  },
+  {
+    "gem_id": "MD154755",
+    "country_id": "MD",
+    "name": "Văscăuţi",
+    "shareBB": 0.5845,
+    "shareCircle": 0.526
+  },
+  {
+    "gem_id": "MD154845",
+    "country_id": "MD",
+    "name": "Vertiujeni",
+    "shareBB": 0.3851,
+    "shareCircle": 0.3423
+  },
+  {
+    "gem_id": "MD154945",
+    "country_id": "MD",
+    "name": "Zăluceni",
+    "shareBB": 0.5097,
+    "shareCircle": 0.3586
+  },
+  {
+    "gem_id": "MD154955",
+    "country_id": "MD",
+    "name": "Mărculeşti",
+    "shareBB": 0.5162,
+    "shareCircle": 0.5218
+  },
+  {
+    "gem_id": "MD160425",
+    "country_id": "MD",
+    "name": "Balatina",
+    "shareBB": 0.4384,
+    "shareCircle": 0.5132
+  },
+  {
+    "gem_id": "MD160905",
+    "country_id": "MD",
+    "name": "Cajba",
+    "shareBB": 0.3993,
+    "shareCircle": 0.2396
+  },
+  {
+    "gem_id": "MD160920",
+    "country_id": "MD",
+    "name": "Camenca",
+    "shareBB": 0.6477,
+    "shareCircle": 0.5747
+  },
+  {
+    "gem_id": "MD161280",
+    "country_id": "MD",
+    "name": "Ciuciulea",
+    "shareBB": 0.5987,
+    "shareCircle": 0.551
+  },
+  {
+    "gem_id": "MD161370",
+    "country_id": "MD",
+    "name": "Cobani",
+    "shareBB": 0.61,
+    "shareCircle": 0.5367
+  },
+  {
+    "gem_id": "MD161755",
+    "country_id": "MD",
+    "name": "Cuhneşti",
+    "shareBB": 0.459,
+    "shareCircle": 0.4384
+  },
+  {
+    "gem_id": "MD161815",
+    "country_id": "MD",
+    "name": "Danu",
+    "shareBB": 0.6582,
+    "shareCircle": 0.5903
+  },
+  {
+    "gem_id": "MD161940",
+    "country_id": "MD",
+    "name": "Duşmani",
+    "shareBB": 0.6403,
+    "shareCircle": 0.5741
+  },
+  {
+    "gem_id": "MD162140",
+    "country_id": "MD",
+    "name": "Fundurii Noi",
+    "shareBB": 0.4529,
+    "shareCircle": 0.4437
+  },
+  {
+    "gem_id": "MD162145",
+    "country_id": "MD",
+    "name": "Fundurii Vechi",
+    "shareBB": 0.4863,
+    "shareCircle": 0.4727
+  },
+  {
+    "gem_id": "MD162250",
+    "country_id": "MD",
+    "name": "Glodeni",
+    "shareBB": 0.5529,
+    "shareCircle": 0.3553
+  },
+  {
+    "gem_id": "MD162420",
+    "country_id": "MD",
+    "name": "Hîjdieni",
+    "shareBB": 0.5625,
+    "shareCircle": 0.443
+  },
+  {
+    "gem_id": "MD162600",
+    "country_id": "MD",
+    "name": "Iabloana",
+    "shareBB": 0.6298,
+    "shareCircle": 0.6662
+  },
+  {
+    "gem_id": "MD162795",
+    "country_id": "MD",
+    "name": "Limbenii Noi",
+    "shareBB": 0.4747,
+    "shareCircle": 0.419
+  },
+  {
+    "gem_id": "MD162800",
+    "country_id": "MD",
+    "name": "Limbenii Vechi",
+    "shareBB": 0.4827,
+    "shareCircle": 0.4501
+  },
+  {
+    "gem_id": "MD163555",
+    "country_id": "MD",
+    "name": "Petrunea",
+    "shareBB": 0.5447,
+    "shareCircle": 0.5016
+  },
+  {
+    "gem_id": "MD164340",
+    "country_id": "MD",
+    "name": "Sturzovca",
+    "shareBB": 0.5414,
+    "shareCircle": 0.6008
+  },
+  {
+    "gem_id": "MD164685",
+    "country_id": "MD",
+    "name": "Ustia",
+    "shareBB": 0.5874,
+    "shareCircle": 0.542
+  },
+  {
+    "gem_id": "MD164860",
+    "country_id": "MD",
+    "name": "Viişoara",
+    "shareBB": 0.4211,
+    "shareCircle": 0.4457
+  },
+  {
+    "gem_id": "MD170120",
+    "country_id": "MD",
+    "name": "Şipoteni",
+    "shareBB": 0.5394,
+    "shareCircle": 0.5469
+  },
+  {
+    "gem_id": "MD170365",
+    "country_id": "MD",
+    "name": "Bălceana",
+    "shareBB": 0.4574,
+    "shareCircle": 0.3518
+  },
+  {
+    "gem_id": "MD170555",
+    "country_id": "MD",
+    "name": "Bobeica",
+    "shareBB": 0.4348,
+    "shareCircle": 0.354
+  },
+  {
+    "gem_id": "MD170575",
+    "country_id": "MD",
+    "name": "Boghiceni",
+    "shareBB": 0.5243,
+    "shareCircle": 0.5227
+  },
+  {
+    "gem_id": "MD170620",
+    "country_id": "MD",
+    "name": "Bozieni",
+    "shareBB": 0.5542,
+    "shareCircle": 0.6103
+  },
+  {
+    "gem_id": "MD170685",
+    "country_id": "MD",
+    "name": "Buţeni",
+    "shareBB": 0.5924,
+    "shareCircle": 0.5831
+  },
+  {
+    "gem_id": "MD170750",
+    "country_id": "MD",
+    "name": "Bujor",
+    "shareBB": 0.5993,
+    "shareCircle": 0.4423
+  },
+  {
+    "gem_id": "MD170815",
+    "country_id": "MD",
+    "name": "Căţeleni",
+    "shareBB": 0.5677,
+    "shareCircle": 0.4726
+  },
+  {
+    "gem_id": "MD170850",
+    "country_id": "MD",
+    "name": "Călmăţui",
+    "shareBB": 0.4658,
+    "shareCircle": 0.4106
+  },
+  {
+    "gem_id": "MD170875",
+    "country_id": "MD",
+    "name": "Cărpineni",
+    "shareBB": 0.5992,
+    "shareCircle": 0.485
+  },
+  {
+    "gem_id": "MD170960",
+    "country_id": "MD",
+    "name": "Caracui",
+    "shareBB": 0.5146,
+    "shareCircle": 0.5048
+  },
+  {
+    "gem_id": "MD170970",
+    "country_id": "MD",
+    "name": "Dancu",
+    "shareBB": 0.3023,
+    "shareCircle": 0.198
+  },
+  {
+    "gem_id": "MD171200",
+    "country_id": "MD",
+    "name": "Cioara",
+    "shareBB": 0.5032,
+    "shareCircle": 0.4111
+  },
+  {
+    "gem_id": "MD171285",
+    "country_id": "MD",
+    "name": "Ciuciuleni",
+    "shareBB": 0.3486,
+    "shareCircle": 0.2934
+  },
+  {
+    "gem_id": "MD171625",
+    "country_id": "MD",
+    "name": "Cotul Morii",
+    "shareBB": 0.4893,
+    "shareCircle": 0.5136
+  },
+  {
+    "gem_id": "MD171655",
+    "country_id": "MD",
+    "name": "Crasnoarmeiscoe",
+    "shareBB": 0.5264,
+    "shareCircle": 0.4315
+  },
+  {
+    "gem_id": "MD171915",
+    "country_id": "MD",
+    "name": "Drăguşenii Noi",
+    "shareBB": 0.3578,
+    "shareCircle": 0.2857
+  },
+  {
+    "gem_id": "MD172085",
+    "country_id": "MD",
+    "name": "Fîrlădeni",
+    "shareBB": 0.5343,
+    "shareCircle": 0.6366
+  },
+  {
+    "gem_id": "MD172135",
+    "country_id": "MD",
+    "name": "Fundul Galbenei",
+    "shareBB": 0.5043,
+    "shareCircle": 0.4097
+  },
+  {
+    "gem_id": "MD172440",
+    "country_id": "MD",
+    "name": "Hînceşti",
+    "shareBB": 0.4326,
+    "shareCircle": 0.376
+  },
+  {
+    "gem_id": "MD172680",
+    "country_id": "MD",
+    "name": "Ivanovca",
+    "shareBB": 0.4074,
+    "shareCircle": 0.2853
+  },
+  {
+    "gem_id": "MD172740",
+    "country_id": "MD",
+    "name": "Lăpuşna",
+    "shareBB": 0.6178,
+    "shareCircle": 0.5625
+  },
+  {
+    "gem_id": "MD172790",
+    "country_id": "MD",
+    "name": "Leuşeni",
+    "shareBB": 0.4917,
+    "shareCircle": 0.4581
+  },
+  {
+    "gem_id": "MD172830",
+    "country_id": "MD",
+    "name": "Logăneşti",
+    "shareBB": 0.544,
+    "shareCircle": 0.4772
+  },
+  {
+    "gem_id": "MD172990",
+    "country_id": "MD",
+    "name": "Mereşeni",
+    "shareBB": 0.5351,
+    "shareCircle": 0.5487
+  },
+  {
+    "gem_id": "MD173090",
+    "country_id": "MD",
+    "name": "Mingir",
+    "shareBB": 0.4776,
+    "shareCircle": 0.4659
+  },
+  {
+    "gem_id": "MD173095",
+    "country_id": "MD",
+    "name": "Mireşti",
+    "shareBB": 0.6321,
+    "shareCircle": 0.5205
+  },
+  {
+    "gem_id": "MD173230",
+    "country_id": "MD",
+    "name": "Negrea",
+    "shareBB": 0.4427,
+    "shareCircle": 0.2542
+  },
+  {
+    "gem_id": "MD173245",
+    "country_id": "MD",
+    "name": "Nemţeni",
+    "shareBB": 0.1703,
+    "shareCircle": 0.1487
+  },
+  {
+    "gem_id": "MD173305",
+    "country_id": "MD",
+    "name": "Obileni",
+    "shareBB": 0.4762,
+    "shareCircle": 0.4275
+  },
+  {
+    "gem_id": "MD173370",
+    "country_id": "MD",
+    "name": "Oneşti",
+    "shareBB": 0.6375,
+    "shareCircle": 0.5634
+  },
+  {
+    "gem_id": "MD173440",
+    "country_id": "MD",
+    "name": "Paşcani",
+    "shareBB": 0.5418,
+    "shareCircle": 0.4449
+  },
+  {
+    "gem_id": "MD173525",
+    "country_id": "MD",
+    "name": "Pervomaiscoe",
+    "shareBB": 0.7589,
+    "shareCircle": 0.5812
+  },
+  {
+    "gem_id": "MD173680",
+    "country_id": "MD",
+    "name": "Pogăneşti",
+    "shareBB": 0.5709,
+    "shareCircle": 0.6699
+  },
+  {
+    "gem_id": "MD174040",
+    "country_id": "MD",
+    "name": "Sărata-Galbenă",
+    "shareBB": 0.5326,
+    "shareCircle": 0.492
+  },
+  {
+    "gem_id": "MD174140",
+    "country_id": "MD",
+    "name": "Secăreni",
+    "shareBB": 0.3979,
+    "shareCircle": 0.2333
+  },
+  {
+    "gem_id": "MD174255",
+    "country_id": "MD",
+    "name": "Sofia",
+    "shareBB": 0.6082,
+    "shareCircle": 0.5106
+  },
+  {
+    "gem_id": "MD174320",
+    "country_id": "MD",
+    "name": "Stolniceni",
+    "shareBB": 0.5089,
+    "shareCircle": 0.4775
+  },
+  {
+    "gem_id": "MD174895",
+    "country_id": "MD",
+    "name": "Voinescu",
+    "shareBB": 0.6225,
+    "shareCircle": 0.5506
+  },
+  {
+    "gem_id": "MD180065",
+    "country_id": "MD",
+    "name": "Ţipala",
+    "shareBB": 0.549,
+    "shareCircle": 0.4122
+  },
+  {
+    "gem_id": "MD180435",
+    "country_id": "MD",
+    "name": "Bardar",
+    "shareBB": 0.3974,
+    "shareCircle": 0.3159
+  },
+  {
+    "gem_id": "MD180870",
+    "country_id": "MD",
+    "name": "Cărbuna",
+    "shareBB": 0.5158,
+    "shareCircle": 0.4897
+  },
+  {
+    "gem_id": "MD181175",
+    "country_id": "MD",
+    "name": "Cigîrleni",
+    "shareBB": 0.4127,
+    "shareCircle": 0.3244
+  },
+  {
+    "gem_id": "MD181575",
+    "country_id": "MD",
+    "name": "Costeşti",
+    "shareBB": 0.5449,
+    "shareCircle": 0.4712
+  },
+  {
+    "gem_id": "MD181795",
+    "country_id": "MD",
+    "name": "Dănceni",
+    "shareBB": 0.5098,
+    "shareCircle": 0.5539
+  },
+  {
+    "gem_id": "MD182185",
+    "country_id": "MD",
+    "name": "Gangura",
+    "shareBB": 0.6136,
+    "shareCircle": 0.6781
+  },
+  {
+    "gem_id": "MD182395",
+    "country_id": "MD",
+    "name": "Hansca",
+    "shareBB": 0.3412,
+    "shareCircle": 0.3487
+  },
+  {
+    "gem_id": "MD182535",
+    "country_id": "MD",
+    "name": "Horeşti",
+    "shareBB": 0.4433,
+    "shareCircle": 0.3972
+  },
+  {
+    "gem_id": "MD182540",
+    "country_id": "MD",
+    "name": "Horodca",
+    "shareBB": 0.4726,
+    "shareCircle": 0.4003
+  },
+  {
+    "gem_id": "MD182605",
+    "country_id": "MD",
+    "name": "Ialoveni",
+    "shareBB": 0.6707,
+    "shareCircle": 0.6565
+  },
+  {
+    "gem_id": "MD182935",
+    "country_id": "MD",
+    "name": "Malcoci",
+    "shareBB": 0.5727,
+    "shareCircle": 0.5759
+  },
+  {
+    "gem_id": "MD183070",
+    "country_id": "MD",
+    "name": "Mileştii Mici",
+    "shareBB": 0.4658,
+    "shareCircle": 0.4224
+  },
+  {
+    "gem_id": "MD183120",
+    "country_id": "MD",
+    "name": "Moleşti",
+    "shareBB": 0.3552,
+    "shareCircle": 0.3255
+  },
+  {
+    "gem_id": "MD183285",
+    "country_id": "MD",
+    "name": "Nimoreni",
+    "shareBB": 0.475,
+    "shareCircle": 0.4321
+  },
+  {
+    "gem_id": "MD183700",
+    "country_id": "MD",
+    "name": "Pojăreni",
+    "shareBB": 0.5173,
+    "shareCircle": 0.3871
+  },
+  {
+    "gem_id": "MD183780",
+    "country_id": "MD",
+    "name": "Puhoi",
+    "shareBB": 0.5763,
+    "shareCircle": 0.4384
+  },
+  {
+    "gem_id": "MD183850",
+    "country_id": "MD",
+    "name": "Răzeni",
+    "shareBB": 0.469,
+    "shareCircle": 0.3836
+  },
+  {
+    "gem_id": "MD183975",
+    "country_id": "MD",
+    "name": "Ruseştii Noi",
+    "shareBB": 0.5958,
+    "shareCircle": 0.5232
+  },
+  {
+    "gem_id": "MD184250",
+    "country_id": "MD",
+    "name": "Sociteni",
+    "shareBB": 0.5514,
+    "shareCircle": 0.4051
+  },
+  {
+    "gem_id": "MD184365",
+    "country_id": "MD",
+    "name": "Suruceni",
+    "shareBB": 0.5056,
+    "shareCircle": 0.4414
+  },
+  {
+    "gem_id": "MD184650",
+    "country_id": "MD",
+    "name": "Ulmu",
+    "shareBB": 0.3341,
+    "shareCircle": 0.2783
+  },
+  {
+    "gem_id": "MD184730",
+    "country_id": "MD",
+    "name": "Văratic",
+    "shareBB": 0.4385,
+    "shareCircle": 0.3309
+  },
+  {
+    "gem_id": "MD184765",
+    "country_id": "MD",
+    "name": "Văsieni",
+    "shareBB": 0.5511,
+    "shareCircle": 0.474
+  },
+  {
+    "gem_id": "MD184985",
+    "country_id": "MD",
+    "name": "Zîmbreni",
+    "shareBB": 0.4786,
+    "shareCircle": 0.3401
+  },
+  {
+    "gem_id": "MD190330",
+    "country_id": "MD",
+    "name": "Băiuş",
+    "shareBB": 0.5979,
+    "shareCircle": 0.5431
+  },
+  {
+    "gem_id": "MD190475",
+    "country_id": "MD",
+    "name": "Beştemac",
+    "shareBB": 0.5715,
+    "shareCircle": 0.5344
+  },
+  {
+    "gem_id": "MD190605",
+    "country_id": "MD",
+    "name": "Borogani",
+    "shareBB": 0.6551,
+    "shareCircle": 0.4867
+  },
+  {
+    "gem_id": "MD191005",
+    "country_id": "MD",
+    "name": "Cazangic",
+    "shareBB": 0.5163,
+    "shareCircle": 0.4211
+  },
+  {
+    "gem_id": "MD191010",
+    "country_id": "MD",
+    "name": "Ceadîr",
+    "shareBB": 0.5452,
+    "shareCircle": 0.6289
+  },
+  {
+    "gem_id": "MD191330",
+    "country_id": "MD",
+    "name": "Cneazevca",
+    "shareBB": 0.6215,
+    "shareCircle": 0.5437
+  },
+  {
+    "gem_id": "MD191440",
+    "country_id": "MD",
+    "name": "Colibabovca",
+    "shareBB": 0.5286,
+    "shareCircle": 0.5514
+  },
+  {
+    "gem_id": "MD191630",
+    "country_id": "MD",
+    "name": "Covurlui",
+    "shareBB": 0.559,
+    "shareCircle": 0.5736
+  },
+  {
+    "gem_id": "MD191785",
+    "country_id": "MD",
+    "name": "Cupcui",
+    "shareBB": 0.489,
+    "shareCircle": 0.5453
+  },
+  {
+    "gem_id": "MD192065",
+    "country_id": "MD",
+    "name": "Filipeni",
+    "shareBB": 0.4743,
+    "shareCircle": 0.3912
+  },
+  {
+    "gem_id": "MD192365",
+    "country_id": "MD",
+    "name": "Hănăşenii Noi",
+    "shareBB": 0.5109,
+    "shareCircle": 0.434
+  },
+  {
+    "gem_id": "MD192615",
+    "country_id": "MD",
+    "name": "Iargara",
+    "shareBB": 0.5377,
+    "shareCircle": 0.5528
+  },
+  {
+    "gem_id": "MD192780",
+    "country_id": "MD",
+    "name": "Leova",
+    "shareBB": 0.4787,
+    "shareCircle": 0.462
+  },
+  {
+    "gem_id": "MD193390",
+    "country_id": "MD",
+    "name": "Orac",
+    "shareBB": 0.4574,
+    "shareCircle": 0.3941
+  },
+  {
+    "gem_id": "MD193950",
+    "country_id": "MD",
+    "name": "Romanovca",
+    "shareBB": 0.51,
+    "shareCircle": 0.4604
+  },
+  {
+    "gem_id": "MD194010",
+    "country_id": "MD",
+    "name": "Sărăţica Nouă",
+    "shareBB": 0.5278,
+    "shareCircle": 0.5353
+  },
+  {
+    "gem_id": "MD194015",
+    "country_id": "MD",
+    "name": "Sărăteni",
+    "shareBB": 0.4506,
+    "shareCircle": 0.3416
+  },
+  {
+    "gem_id": "MD194025",
+    "country_id": "MD",
+    "name": "Sărata Nouă",
+    "shareBB": 0.4441,
+    "shareCircle": 0.3589
+  },
+  {
+    "gem_id": "MD194045",
+    "country_id": "MD",
+    "name": "Sărata-Răzeşi",
+    "shareBB": 0.6537,
+    "shareCircle": 0.5189
+  },
+  {
+    "gem_id": "MD194215",
+    "country_id": "MD",
+    "name": "Sîrma",
+    "shareBB": 0.5406,
+    "shareCircle": 0.442
+  },
+  {
+    "gem_id": "MD194510",
+    "country_id": "MD",
+    "name": "Tigheci",
+    "shareBB": 0.6202,
+    "shareCircle": 0.5158
+  },
+  {
+    "gem_id": "MD194550",
+    "country_id": "MD",
+    "name": "Tochile-Răducani",
+    "shareBB": 0.6182,
+    "shareCircle": 0.5649
+  },
+  {
+    "gem_id": "MD194575",
+    "country_id": "MD",
+    "name": "Tomai",
+    "shareBB": 0.5193,
+    "shareCircle": 0.5283
+  },
+  {
+    "gem_id": "MD194580",
+    "country_id": "MD",
+    "name": "Tomaiul Nou",
+    "shareBB": 0.5388,
+    "shareCircle": 0.3551
+  },
+  {
+    "gem_id": "MD194920",
+    "country_id": "MD",
+    "name": "Vozneseni",
+    "shareBB": 0.5982,
+    "shareCircle": 0.535
+  },
+  {
+    "gem_id": "MD200105",
+    "country_id": "MD",
+    "name": "Şişcani",
+    "shareBB": 0.4284,
+    "shareCircle": 0.2401
+  },
+  {
+    "gem_id": "MD200350",
+    "country_id": "MD",
+    "name": "Bălăneşti",
+    "shareBB": 0.501,
+    "shareCircle": 0.3991
+  },
+  {
+    "gem_id": "MD200355",
+    "country_id": "MD",
+    "name": "Bălăureşti",
+    "shareBB": 0.4316,
+    "shareCircle": 0.3833
+  },
+  {
+    "gem_id": "MD200375",
+    "country_id": "MD",
+    "name": "Bărboieni",
+    "shareBB": 0.5322,
+    "shareCircle": 0.4754
+  },
+  {
+    "gem_id": "MD200585",
+    "country_id": "MD",
+    "name": "Bolţun",
+    "shareBB": 0.6129,
+    "shareCircle": 0.5646
+  },
+  {
+    "gem_id": "MD200590",
+    "country_id": "MD",
+    "name": "Boldureşti",
+    "shareBB": 0.5705,
+    "shareCircle": 0.5577
+  },
+  {
+    "gem_id": "MD200630",
+    "country_id": "MD",
+    "name": "Brătuleni",
+    "shareBB": 0.5873,
+    "shareCircle": 0.4023
+  },
+  {
+    "gem_id": "MD200795",
+    "country_id": "MD",
+    "name": "Bursuc",
+    "shareBB": 0.4708,
+    "shareCircle": 0.4243
+  },
+  {
+    "gem_id": "MD200840",
+    "country_id": "MD",
+    "name": "Călimăneşti",
+    "shareBB": 0.3376,
+    "shareCircle": 0.3011
+  },
+  {
+    "gem_id": "MD201240",
+    "country_id": "MD",
+    "name": "Cioreşti",
+    "shareBB": 0.4776,
+    "shareCircle": 0.3656
+  },
+  {
+    "gem_id": "MD201300",
+    "country_id": "MD",
+    "name": "Ciuteşti",
+    "shareBB": 0.2339,
+    "shareCircle": 0.1689
+  },
+  {
+    "gem_id": "MD201700",
+    "country_id": "MD",
+    "name": "Cristeşti",
+    "shareBB": 0.5691,
+    "shareCircle": 0.3866
+  },
+  {
+    "gem_id": "MD202335",
+    "country_id": "MD",
+    "name": "Grozeşti",
+    "shareBB": 0.5793,
+    "shareCircle": 0.6197
+  },
+  {
+    "gem_id": "MD202670",
+    "country_id": "MD",
+    "name": "Iurceni",
+    "shareBB": 0.4638,
+    "shareCircle": 0.2649
+  },
+  {
+    "gem_id": "MD202960",
+    "country_id": "MD",
+    "name": "Marinici",
+    "shareBB": 0.5989,
+    "shareCircle": 0.5995
+  },
+  {
+    "gem_id": "MD203065",
+    "country_id": "MD",
+    "name": "Mileşti",
+    "shareBB": 0.5726,
+    "shareCircle": 0.5591
+  },
+  {
+    "gem_id": "MD203290",
+    "country_id": "MD",
+    "name": "Nisporeni",
+    "shareBB": 0.5396,
+    "shareCircle": 0.5545
+  },
+  {
+    "gem_id": "MD204150",
+    "country_id": "MD",
+    "name": "Selişte",
+    "shareBB": 0.5458,
+    "shareCircle": 0.4527
+  },
+  {
+    "gem_id": "MD204270",
+    "country_id": "MD",
+    "name": "Soltăneşti",
+    "shareBB": 0.6376,
+    "shareCircle": 0.5684
+  },
+  {
+    "gem_id": "MD204740",
+    "country_id": "MD",
+    "name": "Vărzăreşti",
+    "shareBB": 0.3927,
+    "shareCircle": 0.3526
+  },
+  {
+    "gem_id": "MD204810",
+    "country_id": "MD",
+    "name": "Valea-Trestieni",
+    "shareBB": 0.5328,
+    "shareCircle": 0.4739
+  },
+  {
+    "gem_id": "MD204870",
+    "country_id": "MD",
+    "name": "Vînători",
+    "shareBB": 0.3094,
+    "shareCircle": 0.2147
+  },
+  {
+    "gem_id": "MD204970",
+    "country_id": "MD",
+    "name": "Zberoaia",
+    "shareBB": 0.6088,
+    "shareCircle": 0.5902
+  },
+  {
+    "gem_id": "MD210525",
+    "country_id": "MD",
+    "name": "Bîrlădeni",
+    "shareBB": 0.6843,
+    "shareCircle": 0.4317
+  },
+  {
+    "gem_id": "MD210530",
+    "country_id": "MD",
+    "name": "Bîrnova",
+    "shareBB": 0.6304,
+    "shareCircle": 0.4457
+  },
+  {
+    "gem_id": "MD210910",
+    "country_id": "MD",
+    "name": "Calaraşovca",
+    "shareBB": 0.4988,
+    "shareCircle": 0.482
+  },
+  {
+    "gem_id": "MD211325",
+    "country_id": "MD",
+    "name": "Clocuşna",
+    "shareBB": 0.5833,
+    "shareCircle": 0.6151
+  },
+  {
+    "gem_id": "MD211515",
+    "country_id": "MD",
+    "name": "Corestăuţi",
+    "shareBB": 0.5893,
+    "shareCircle": 0.6197
+  },
+  {
+    "gem_id": "MD211840",
+    "country_id": "MD",
+    "name": "Dîngeni",
+    "shareBB": 0.5306,
+    "shareCircle": 0.4943
+  },
+  {
+    "gem_id": "MD212130",
+    "country_id": "MD",
+    "name": "Frunză",
+    "shareBB": 0.3474,
+    "shareCircle": 0.2642
+  },
+  {
+    "gem_id": "MD212230",
+    "country_id": "MD",
+    "name": "Gîrbova",
+    "shareBB": 0.5367,
+    "shareCircle": 0.482
+  },
+  {
+    "gem_id": "MD212330",
+    "country_id": "MD",
+    "name": "Grinăuţi-Moldova",
+    "shareBB": 0.4707,
+    "shareCircle": 0.2878
+  },
+  {
+    "gem_id": "MD212360",
+    "country_id": "MD",
+    "name": "Hădărăuţi",
+    "shareBB": 0.6661,
+    "shareCircle": 0.4677
+  },
+  {
+    "gem_id": "MD212770",
+    "country_id": "MD",
+    "name": "Lencăuţi",
+    "shareBB": 0.4043,
+    "shareCircle": 0.3237
+  },
+  {
+    "gem_id": "MD212820",
+    "country_id": "MD",
+    "name": "Lipnic",
+    "shareBB": 0.5495,
+    "shareCircle": 0.3946
+  },
+  {
+    "gem_id": "MD212995",
+    "country_id": "MD",
+    "name": "Mereşeuca",
+    "shareBB": 0.5609,
+    "shareCircle": 0.2982
+  },
+  {
+    "gem_id": "MD213040",
+    "country_id": "MD",
+    "name": "Mihălăşeni",
+    "shareBB": 0.5421,
+    "shareCircle": 0.3402
+  },
+  {
+    "gem_id": "MD213210",
+    "country_id": "MD",
+    "name": "Naslavcea",
+    "shareBB": 0.4236,
+    "shareCircle": 0.3266
+  },
+  {
+    "gem_id": "MD213335",
+    "country_id": "MD",
+    "name": "Ocniţa",
+    "shareBB": 0.6197,
+    "shareCircle": 0.4798
+  },
+  {
+    "gem_id": "MD213410",
+    "country_id": "MD",
+    "name": "Otaci",
+    "shareBB": 0.3607,
+    "shareCircle": 0.3025
+  },
+  {
+    "gem_id": "MD214105",
+    "country_id": "MD",
+    "name": "Sauca",
+    "shareBB": 0.4188,
+    "shareCircle": 0.3454
+  },
+  {
+    "gem_id": "MD214670",
+    "country_id": "MD",
+    "name": "Unguri",
+    "shareBB": 0.2426,
+    "shareCircle": 0.1813
+  },
+  {
+    "gem_id": "MD214680",
+    "country_id": "MD",
+    "name": "Ocniţa",
+    "shareBB": 0.6713,
+    "shareCircle": 0.5249
+  },
+  {
+    "gem_id": "MD214700",
+    "country_id": "MD",
+    "name": "Vălcineţ",
+    "shareBB": 0.6557,
+    "shareCircle": 0.6956
+  },
+  {
+    "gem_id": "MD220490",
+    "country_id": "MD",
+    "name": "Berezlogi",
+    "shareBB": 0.4847,
+    "shareCircle": 0.4216
+  },
+  {
+    "gem_id": "MD220510",
+    "country_id": "MD",
+    "name": "Bieşti",
+    "shareBB": 0.5646,
+    "shareCircle": 0.4407
+  },
+  {
+    "gem_id": "MD220595",
+    "country_id": "MD",
+    "name": "Bolohan",
+    "shareBB": 0.6474,
+    "shareCircle": 0.4892
+  },
+  {
+    "gem_id": "MD220635",
+    "country_id": "MD",
+    "name": "Brăviceni",
+    "shareBB": 0.5064,
+    "shareCircle": 0.5316
+  },
+  {
+    "gem_id": "MD220755",
+    "country_id": "MD",
+    "name": "Bulăieşti",
+    "shareBB": 0.483,
+    "shareCircle": 0.4967
+  },
+  {
+    "gem_id": "MD221115",
+    "country_id": "MD",
+    "name": "Chiperceni",
+    "shareBB": 0.4684,
+    "shareCircle": 0.3771
+  },
+  {
+    "gem_id": "MD221230",
+    "country_id": "MD",
+    "name": "Ciocîlteni",
+    "shareBB": 0.5078,
+    "shareCircle": 0.498
+  },
+  {
+    "gem_id": "MD221310",
+    "country_id": "MD",
+    "name": "Clişova",
+    "shareBB": 0.5046,
+    "shareCircle": 0.464
+  },
+  {
+    "gem_id": "MD221690",
+    "country_id": "MD",
+    "name": "Crihana",
+    "shareBB": 0.5888,
+    "shareCircle": 0.3715
+  },
+  {
+    "gem_id": "MD221750",
+    "country_id": "MD",
+    "name": "Cucuruzeni",
+    "shareBB": 0.4357,
+    "shareCircle": 0.4213
+  },
+  {
+    "gem_id": "MD221900",
+    "country_id": "MD",
+    "name": "Donici",
+    "shareBB": 0.48,
+    "shareCircle": 0.398
+  },
+  {
+    "gem_id": "MD222200",
+    "country_id": "MD",
+    "name": "Ghetlova",
+    "shareBB": 0.4893,
+    "shareCircle": 0.3794
+  },
+  {
+    "gem_id": "MD222655",
+    "country_id": "MD",
+    "name": "Isacova",
+    "shareBB": 0.412,
+    "shareCircle": 0.3628
+  },
+  {
+    "gem_id": "MD222675",
+    "country_id": "MD",
+    "name": "Ivancea",
+    "shareBB": 0.4696,
+    "shareCircle": 0.4237
+  },
+  {
+    "gem_id": "MD222730",
+    "country_id": "MD",
+    "name": "Jora de Mijloc",
+    "shareBB": 0.474,
+    "shareCircle": 0.4251
+  },
+  {
+    "gem_id": "MD222890",
+    "country_id": "MD",
+    "name": "Mălăieşti",
+    "shareBB": 0.3754,
+    "shareCircle": 0.2949
+  },
+  {
+    "gem_id": "MD223100",
+    "country_id": "MD",
+    "name": "Mitoc",
+    "shareBB": 0.4096,
+    "shareCircle": 0.3133
+  },
+  {
+    "gem_id": "MD223150",
+    "country_id": "MD",
+    "name": "Morozeni",
+    "shareBB": 0.4231,
+    "shareCircle": 0.3202
+  },
+  {
+    "gem_id": "MD223220",
+    "country_id": "MD",
+    "name": "Neculăieuca",
+    "shareBB": 0.3739,
+    "shareCircle": 0.2952
+  },
+  {
+    "gem_id": "MD223400",
+    "country_id": "MD",
+    "name": "Orhei",
+    "shareBB": 0.477,
+    "shareCircle": 0.4057
+  },
+  {
+    "gem_id": "MD223495",
+    "country_id": "MD",
+    "name": "Pelivan",
+    "shareBB": 0.4404,
+    "shareCircle": 0.3294
+  },
+  {
+    "gem_id": "MD223510",
+    "country_id": "MD",
+    "name": "Peresecina",
+    "shareBB": 0.317,
+    "shareCircle": 0.2369
+  },
+  {
+    "gem_id": "MD223560",
+    "country_id": "MD",
+    "name": "Piatra",
+    "shareBB": 0.4425,
+    "shareCircle": 0.4103
+  },
+  {
+    "gem_id": "MD223670",
+    "country_id": "MD",
+    "name": "Podgoreni",
+    "shareBB": 0.6322,
+    "shareCircle": 0.5079
+  },
+  {
+    "gem_id": "MD223690",
+    "country_id": "MD",
+    "name": "Pohrebeni",
+    "shareBB": 0.4983,
+    "shareCircle": 0.4524
+  },
+  {
+    "gem_id": "MD223770",
+    "country_id": "MD",
+    "name": "Puţintei",
+    "shareBB": 0.5079,
+    "shareCircle": 0.3918
+  },
+  {
+    "gem_id": "MD224000",
+    "country_id": "MD",
+    "name": "Sămănanca",
+    "shareBB": 0.7007,
+    "shareCircle": 0.4795
+  },
+  {
+    "gem_id": "MD224155",
+    "country_id": "MD",
+    "name": "Selişte",
+    "shareBB": 0.3668,
+    "shareCircle": 0.2888
+  },
+  {
+    "gem_id": "MD224300",
+    "country_id": "MD",
+    "name": "Step-Soci",
+    "shareBB": 0.5971,
+    "shareCircle": 0.5988
+  },
+  {
+    "gem_id": "MD224370",
+    "country_id": "MD",
+    "name": "Susleni",
+    "shareBB": 0.5776,
+    "shareCircle": 0.6703
+  },
+  {
+    "gem_id": "MD224475",
+    "country_id": "MD",
+    "name": "Teleşeu",
+    "shareBB": 0.5162,
+    "shareCircle": 0.3011
+  },
+  {
+    "gem_id": "MD224595",
+    "country_id": "MD",
+    "name": "Trebujeni",
+    "shareBB": 0.634,
+    "shareCircle": 0.6086
+  },
+  {
+    "gem_id": "MD224830",
+    "country_id": "MD",
+    "name": "Vatici",
+    "shareBB": 0.4495,
+    "shareCircle": 0.3029
+  },
+  {
+    "gem_id": "MD224850",
+    "country_id": "MD",
+    "name": "Vîşcăuţi",
+    "shareBB": 0.4452,
+    "shareCircle": 0.3735
+  },
+  {
+    "gem_id": "MD224955",
+    "country_id": "MD",
+    "name": "Zahoreni",
+    "shareBB": 0.6449,
+    "shareCircle": 0.4787
+  },
+  {
+    "gem_id": "MD225000",
+    "country_id": "MD",
+    "name": "Zorile",
+    "shareBB": 0.4297,
+    "shareCircle": 0.3903
+  },
+  {
+    "gem_id": "MD225010",
+    "country_id": "MD",
+    "name": "Mîrzeşti",
+    "shareBB": 0.5622,
+    "shareCircle": 0.4463
+  },
+  {
+    "gem_id": "MD225020",
+    "country_id": "MD",
+    "name": "Pohorniceni",
+    "shareBB": 0.5489,
+    "shareCircle": 0.4691
+  },
+  {
+    "gem_id": "MD230015",
+    "country_id": "MD",
+    "name": "Ţareuca",
+    "shareBB": 0.4957,
+    "shareCircle": 0.3988
+  },
+  {
+    "gem_id": "MD230690",
+    "country_id": "MD",
+    "name": "Buşăuca",
+    "shareBB": 0.5141,
+    "shareCircle": 0.3882
+  },
+  {
+    "gem_id": "MD231195",
+    "country_id": "MD",
+    "name": "Cinişeuţi",
+    "shareBB": 0.5426,
+    "shareCircle": 0.5116
+  },
+  {
+    "gem_id": "MD231425",
+    "country_id": "MD",
+    "name": "Cogîlniceni",
+    "shareBB": 0.6633,
+    "shareCircle": 0.5239
+  },
+  {
+    "gem_id": "MD231770",
+    "country_id": "MD",
+    "name": "Cuizăuca",
+    "shareBB": 0.5525,
+    "shareCircle": 0.3091
+  },
+  {
+    "gem_id": "MD231990",
+    "country_id": "MD",
+    "name": "Echimăuţi",
+    "shareBB": 0.5221,
+    "shareCircle": 0.3338
+  },
+  {
+    "gem_id": "MD232215",
+    "country_id": "MD",
+    "name": "Ghiduleni",
+    "shareBB": 0.608,
+    "shareCircle": 0.4922
+  },
+  {
+    "gem_id": "MD232270",
+    "country_id": "MD",
+    "name": "Gordineşti",
+    "shareBB": 0.4822,
+    "shareCircle": 0.351
+  },
+  {
+    "gem_id": "MD232560",
+    "country_id": "MD",
+    "name": "Horodişte",
+    "shareBB": 0.619,
+    "shareCircle": 0.5284
+  },
+  {
+    "gem_id": "MD232630",
+    "country_id": "MD",
+    "name": "Ignăţei",
+    "shareBB": 0.57,
+    "shareCircle": 0.4048
+  },
+  {
+    "gem_id": "MD232750",
+    "country_id": "MD",
+    "name": "Lalova",
+    "shareBB": 0.6296,
+    "shareCircle": 0.4855
+  },
+  {
+    "gem_id": "MD232815",
+    "country_id": "MD",
+    "name": "Lipceni",
+    "shareBB": 0.4883,
+    "shareCircle": 0.3243
+  },
+  {
+    "gem_id": "MD232965",
+    "country_id": "MD",
+    "name": "Mateuţi",
+    "shareBB": 0.656,
+    "shareCircle": 0.6543
+  },
+  {
+    "gem_id": "MD232975",
+    "country_id": "MD",
+    "name": "Meşeni",
+    "shareBB": 0.5451,
+    "shareCircle": 0.3552
+  },
+  {
+    "gem_id": "MD233075",
+    "country_id": "MD",
+    "name": "Mincenii de Jos",
+    "shareBB": 0.5968,
+    "shareCircle": 0.6175
+  },
+  {
+    "gem_id": "MD233405",
+    "country_id": "MD",
+    "name": "Otac",
+    "shareBB": 0.4435,
+    "shareCircle": 0.4094
+  },
+  {
+    "gem_id": "MD233425",
+    "country_id": "MD",
+    "name": "Păpăuţi",
+    "shareBB": 0.509,
+    "shareCircle": 0.3964
+  },
+  {
+    "gem_id": "MD233480",
+    "country_id": "MD",
+    "name": "Pecişte",
+    "shareBB": 0.6383,
+    "shareCircle": 0.637
+  },
+  {
+    "gem_id": "MD233750",
+    "country_id": "MD",
+    "name": "Pripiceni-Răzeşi",
+    "shareBB": 0.6098,
+    "shareCircle": 0.6645
+  },
+  {
+    "gem_id": "MD233895",
+    "country_id": "MD",
+    "name": "Rezina",
+    "shareBB": 0.5768,
+    "shareCircle": 0.4814
+  },
+  {
+    "gem_id": "MD234085",
+    "country_id": "MD",
+    "name": "Saharna Nouă",
+    "shareBB": 0.459,
+    "shareCircle": 0.3037
+  },
+  {
+    "gem_id": "MD234205",
+    "country_id": "MD",
+    "name": "Sîrcova",
+    "shareBB": 0.5308,
+    "shareCircle": 0.4174
+  },
+  {
+    "gem_id": "MD234265",
+    "country_id": "MD",
+    "name": "Solonceni",
+    "shareBB": 0.4757,
+    "shareCircle": 0.3578
+  },
+  {
+    "gem_id": "MD234610",
+    "country_id": "MD",
+    "name": "Trifeşti",
+    "shareBB": 0.4701,
+    "shareCircle": 0.4673
+  },
+  {
+    "gem_id": "MD234620",
+    "country_id": "MD",
+    "name": "Pereni",
+    "shareBB": 0.6629,
+    "shareCircle": 0.5483
+  },
+  {
+    "gem_id": "MD240080",
+    "country_id": "MD",
+    "name": "Şaptebani",
+    "shareBB": 0.5578,
+    "shareCircle": 0.4083
+  },
+  {
+    "gem_id": "MD240210",
+    "country_id": "MD",
+    "name": "Alexăndreşti",
+    "shareBB": 0.5236,
+    "shareCircle": 0.4453
+  },
+  {
+    "gem_id": "MD240255",
+    "country_id": "MD",
+    "name": "Aluniş",
+    "shareBB": 0.5377,
+    "shareCircle": 0.5751
+  },
+  {
+    "gem_id": "MD240610",
+    "country_id": "MD",
+    "name": "Borosenii Noi",
+    "shareBB": 0.449,
+    "shareCircle": 0.5242
+  },
+  {
+    "gem_id": "MD240640",
+    "country_id": "MD",
+    "name": "Branişte",
+    "shareBB": 0.5393,
+    "shareCircle": 0.646
+  },
+  {
+    "gem_id": "MD241530",
+    "country_id": "MD",
+    "name": "Corlăteni",
+    "shareBB": 0.4441,
+    "shareCircle": 0.3602
+  },
+  {
+    "gem_id": "MD241580",
+    "country_id": "MD",
+    "name": "Costeşti",
+    "shareBB": 0.3105,
+    "shareCircle": 0.2595
+  },
+  {
+    "gem_id": "MD242155",
+    "country_id": "MD",
+    "name": "Gălăşeni",
+    "shareBB": 0.5186,
+    "shareCircle": 0.3431
+  },
+  {
+    "gem_id": "MD242325",
+    "country_id": "MD",
+    "name": "Grinăuţi",
+    "shareBB": 0.5402,
+    "shareCircle": 0.5967
+  },
+  {
+    "gem_id": "MD242425",
+    "country_id": "MD",
+    "name": "Hiliuţi",
+    "shareBB": 0.4703,
+    "shareCircle": 0.463
+  },
+  {
+    "gem_id": "MD242550",
+    "country_id": "MD",
+    "name": "Horodişte",
+    "shareBB": 0.3723,
+    "shareCircle": 0.3197
+  },
+  {
+    "gem_id": "MD242940",
+    "country_id": "MD",
+    "name": "Malinovscoe",
+    "shareBB": 0.5743,
+    "shareCircle": 0.5106
+  },
+  {
+    "gem_id": "MD243030",
+    "country_id": "MD",
+    "name": "Mihăileni",
+    "shareBB": 0.4871,
+    "shareCircle": 0.4942
+  },
+  {
+    "gem_id": "MD243275",
+    "country_id": "MD",
+    "name": "Nihoreni",
+    "shareBB": 0.4746,
+    "shareCircle": 0.4853
+  },
+  {
+    "gem_id": "MD243550",
+    "country_id": "MD",
+    "name": "Petruşeni",
+    "shareBB": 0.6386,
+    "shareCircle": 0.4691
+  },
+  {
+    "gem_id": "MD243590",
+    "country_id": "MD",
+    "name": "Pîrjota",
+    "shareBB": 0.4881,
+    "shareCircle": 0.4622
+  },
+  {
+    "gem_id": "MD243655",
+    "country_id": "MD",
+    "name": "Pociumbăuţi",
+    "shareBB": 0.6134,
+    "shareCircle": 0.5916
+  },
+  {
+    "gem_id": "MD243660",
+    "country_id": "MD",
+    "name": "Pociumbeni",
+    "shareBB": 0.4111,
+    "shareCircle": 0.311
+  },
+  {
+    "gem_id": "MD243795",
+    "country_id": "MD",
+    "name": "Răcăria",
+    "shareBB": 0.4956,
+    "shareCircle": 0.384
+  },
+  {
+    "gem_id": "MD243870",
+    "country_id": "MD",
+    "name": "Recea",
+    "shareBB": 0.5583,
+    "shareCircle": 0.5668
+  },
+  {
+    "gem_id": "MD243900",
+    "country_id": "MD",
+    "name": "Rîşcani",
+    "shareBB": 0.4368,
+    "shareCircle": 0.382
+  },
+  {
+    "gem_id": "MD244195",
+    "country_id": "MD",
+    "name": "Singureni",
+    "shareBB": 0.5007,
+    "shareCircle": 0.4875
+  },
+  {
+    "gem_id": "MD244335",
+    "country_id": "MD",
+    "name": "Sturzeni",
+    "shareBB": 0.4721,
+    "shareCircle": 0.5331
+  },
+  {
+    "gem_id": "MD244725",
+    "country_id": "MD",
+    "name": "Văratic",
+    "shareBB": 0.5618,
+    "shareCircle": 0.579
+  },
+  {
+    "gem_id": "MD244825",
+    "country_id": "MD",
+    "name": "Vasileuţi",
+    "shareBB": 0.3701,
+    "shareCircle": 0.3585
+  },
+  {
+    "gem_id": "MD244940",
+    "country_id": "MD",
+    "name": "Zăicani",
+    "shareBB": 0.5087,
+    "shareCircle": 0.4413
+  },
+  {
+    "gem_id": "MD244950",
+    "country_id": "MD",
+    "name": "Şumna",
+    "shareBB": 0.5563,
+    "shareCircle": 0.3183
+  },
+  {
+    "gem_id": "MD244960",
+    "country_id": "MD",
+    "name": "Duruitoarea Nouă",
+    "shareBB": 0.3197,
+    "shareCircle": 0.2855
+  },
+  {
+    "gem_id": "MD250010",
+    "country_id": "MD",
+    "name": "Ţambula",
+    "shareBB": 0.5016,
+    "shareCircle": 0.345
+  },
+  {
+    "gem_id": "MD250215",
+    "country_id": "MD",
+    "name": "Alexăndreni",
+    "shareBB": 0.5852,
+    "shareCircle": 0.4449
+  },
+  {
+    "gem_id": "MD250340",
+    "country_id": "MD",
+    "name": "Bălăşeşti",
+    "shareBB": 0.6296,
+    "shareCircle": 0.5208
+  },
+  {
+    "gem_id": "MD250515",
+    "country_id": "MD",
+    "name": "Bilicenii Noi",
+    "shareBB": 0.457,
+    "shareCircle": 0.3922
+  },
+  {
+    "gem_id": "MD250520",
+    "country_id": "MD",
+    "name": "Bilicenii Vechi",
+    "shareBB": 0.554,
+    "shareCircle": 0.4686
+  },
+  {
+    "gem_id": "MD250535",
+    "country_id": "MD",
+    "name": "Biruinţa",
+    "shareBB": 0.4585,
+    "shareCircle": 0.4572
+  },
+  {
+    "gem_id": "MD250800",
+    "country_id": "MD",
+    "name": "Bursuceni",
+    "shareBB": 0.4651,
+    "shareCircle": 0.4137
+  },
+  {
+    "gem_id": "MD251080",
+    "country_id": "MD",
+    "name": "Chişcăreni",
+    "shareBB": 0.6227,
+    "shareCircle": 0.6254
+  },
+  {
+    "gem_id": "MD251275",
+    "country_id": "MD",
+    "name": "Ciuciuieni",
+    "shareBB": 0.6593,
+    "shareCircle": 0.3352
+  },
+  {
+    "gem_id": "MD251340",
+    "country_id": "MD",
+    "name": "Coşcodeni",
+    "shareBB": 0.4857,
+    "shareCircle": 0.4136
+  },
+  {
+    "gem_id": "MD251490",
+    "country_id": "MD",
+    "name": "Copăceni",
+    "shareBB": 0.5685,
+    "shareCircle": 0.395
+  },
+  {
+    "gem_id": "MD251610",
+    "country_id": "MD",
+    "name": "Cotiujenii Mici",
+    "shareBB": 0.4547,
+    "shareCircle": 0.331
+  },
+  {
+    "gem_id": "MD251735",
+    "country_id": "MD",
+    "name": "Cubolta",
+    "shareBB": 0.5111,
+    "shareCircle": 0.4398
+  },
+  {
+    "gem_id": "MD251850",
+    "country_id": "MD",
+    "name": "Dobrogea Veche",
+    "shareBB": 0.6419,
+    "shareCircle": 0.559
+  },
+  {
+    "gem_id": "MD251910",
+    "country_id": "MD",
+    "name": "Drăgăneşti",
+    "shareBB": 0.5822,
+    "shareCircle": 0.4601
+  },
+  {
+    "gem_id": "MD251965",
+    "country_id": "MD",
+    "name": "Dumbrăviţa",
+    "shareBB": 0.6494,
+    "shareCircle": 0.5232
+  },
+  {
+    "gem_id": "MD252305",
+    "country_id": "MD",
+    "name": "Grigorăuca",
+    "shareBB": 0.5825,
+    "shareCircle": 0.3355
+  },
+  {
+    "gem_id": "MD252415",
+    "country_id": "MD",
+    "name": "Heciul Nou",
+    "shareBB": 0.5085,
+    "shareCircle": 0.3569
+  },
+  {
+    "gem_id": "MD252625",
+    "country_id": "MD",
+    "name": "Iezărenii Vechi",
+    "shareBB": 0.5722,
+    "shareCircle": 0.3131
+  },
+  {
+    "gem_id": "MD252695",
+    "country_id": "MD",
+    "name": "Izvoare",
+    "shareBB": 0.4388,
+    "shareCircle": 0.3622
+  },
+  {
+    "gem_id": "MD253500",
+    "country_id": "MD",
+    "name": "Pepeni",
+    "shareBB": 0.6322,
+    "shareCircle": 0.3921
+  },
+  {
+    "gem_id": "MD253745",
+    "country_id": "MD",
+    "name": "Prepeliţa",
+    "shareBB": 0.6013,
+    "shareCircle": 0.4551
+  },
+  {
+    "gem_id": "MD253820",
+    "country_id": "MD",
+    "name": "Rădoaia",
+    "shareBB": 0.5696,
+    "shareCircle": 0.4815
+  },
+  {
+    "gem_id": "MD254185",
+    "country_id": "MD",
+    "name": "Sîngerei",
+    "shareBB": 0.6226,
+    "shareCircle": 0.6151
+  },
+  {
+    "gem_id": "MD254190",
+    "country_id": "MD",
+    "name": "Sîngereii Noi",
+    "shareBB": 0.4133,
+    "shareCircle": 0.2783
+  },
+  {
+    "gem_id": "MD254405",
+    "country_id": "MD",
+    "name": "Tăura Veche",
+    "shareBB": 0.5758,
+    "shareCircle": 0.4619
+  },
+  {
+    "gem_id": "MD260085",
+    "country_id": "MD",
+    "name": "Şeptelici",
+    "shareBB": 0.6175,
+    "shareCircle": 0.5427
+  },
+  {
+    "gem_id": "MD260135",
+    "country_id": "MD",
+    "name": "Şolcani",
+    "shareBB": 0.5402,
+    "shareCircle": 0.4419
+  },
+  {
+    "gem_id": "MD260310",
+    "country_id": "MD",
+    "name": "Bădiceni",
+    "shareBB": 0.6293,
+    "shareCircle": 0.6385
+  },
+  {
+    "gem_id": "MD260380",
+    "country_id": "MD",
+    "name": "Băxani",
+    "shareBB": 0.6056,
+    "shareCircle": 0.3831
+  },
+  {
+    "gem_id": "MD260770",
+    "country_id": "MD",
+    "name": "Bulboci",
+    "shareBB": 0.4854,
+    "shareCircle": 0.4619
+  },
+  {
+    "gem_id": "MD260830",
+    "country_id": "MD",
+    "name": "Căinarii Vechi",
+    "shareBB": 0.4172,
+    "shareCircle": 0.2774
+  },
+  {
+    "gem_id": "MD261570",
+    "country_id": "MD",
+    "name": "Cosăuţi",
+    "shareBB": 0.4225,
+    "shareCircle": 0.3377
+  },
+  {
+    "gem_id": "MD261670",
+    "country_id": "MD",
+    "name": "Cremenciug",
+    "shareBB": 0.4745,
+    "shareCircle": 0.4003
+  },
+  {
+    "gem_id": "MD261800",
+    "country_id": "MD",
+    "name": "Dărcăuţi",
+    "shareBB": 0.6178,
+    "shareCircle": 0.5518
+  },
+  {
+    "gem_id": "MD261960",
+    "country_id": "MD",
+    "name": "Dubna",
+    "shareBB": 0.5736,
+    "shareCircle": 0.546
+  },
+  {
+    "gem_id": "MD262005",
+    "country_id": "MD",
+    "name": "Egoreni",
+    "shareBB": 0.6394,
+    "shareCircle": 0.3351
+  },
+  {
+    "gem_id": "MD262525",
+    "country_id": "MD",
+    "name": "Holoşniţa",
+    "shareBB": 0.4469,
+    "shareCircle": 0.3905
+  },
+  {
+    "gem_id": "MD262565",
+    "country_id": "MD",
+    "name": "Hristici",
+    "shareBB": 0.5767,
+    "shareCircle": 0.5061
+  },
+  {
+    "gem_id": "MD262620",
+    "country_id": "MD",
+    "name": "Iarova",
+    "shareBB": 0.4564,
+    "shareCircle": 0.3871
+  },
+  {
+    "gem_id": "MD263280",
+    "country_id": "MD",
+    "name": "Nimereuca",
+    "shareBB": 0.6629,
+    "shareCircle": 0.4466
+  },
+  {
+    "gem_id": "MD263325",
+    "country_id": "MD",
+    "name": "Oclanda",
+    "shareBB": 0.4001,
+    "shareCircle": 0.3247
+  },
+  {
+    "gem_id": "MD263345",
+    "country_id": "MD",
+    "name": "Ocolina",
+    "shareBB": 0.5358,
+    "shareCircle": 0.5455
+  },
+  {
+    "gem_id": "MD263460",
+    "country_id": "MD",
+    "name": "Parcani",
+    "shareBB": 0.5934,
+    "shareCircle": 0.5165
+  },
+  {
+    "gem_id": "MD263605",
+    "country_id": "MD",
+    "name": "Pîrliţa",
+    "shareBB": 0.5345,
+    "shareCircle": 0.4571
+  },
+  {
+    "gem_id": "MD263860",
+    "country_id": "MD",
+    "name": "Racovăţ",
+    "shareBB": 0.5046,
+    "shareCircle": 0.5421
+  },
+  {
+    "gem_id": "MD263880",
+    "country_id": "MD",
+    "name": "Redi-Cereşnovăţ",
+    "shareBB": 0.4788,
+    "shareCircle": 0.4728
+  },
+  {
+    "gem_id": "MD263890",
+    "country_id": "MD",
+    "name": "Regina Maria",
+    "shareBB": 0.5232,
+    "shareCircle": 0.4672
+  },
+  {
+    "gem_id": "MD263965",
+    "country_id": "MD",
+    "name": "Rubleniţa",
+    "shareBB": 0.49,
+    "shareCircle": 0.3652
+  },
+  {
+    "gem_id": "MD263970",
+    "country_id": "MD",
+    "name": "Rudi",
+    "shareBB": 0.4789,
+    "shareCircle": 0.3752
+  },
+  {
+    "gem_id": "MD264115",
+    "country_id": "MD",
+    "name": "Schineni",
+    "shareBB": 0.5957,
+    "shareCircle": 0.5483
+  },
+  {
+    "gem_id": "MD264275",
+    "country_id": "MD",
+    "name": "Soroca",
+    "shareBB": 0.5515,
+    "shareCircle": 0.5624
+  },
+  {
+    "gem_id": "MD264310",
+    "country_id": "MD",
+    "name": "Stoicani",
+    "shareBB": 0.4102,
+    "shareCircle": 0.327
+  },
+  {
+    "gem_id": "MD264390",
+    "country_id": "MD",
+    "name": "Tătărăuca Veche",
+    "shareBB": 0.4669,
+    "shareCircle": 0.4741
+  },
+  {
+    "gem_id": "MD264605",
+    "country_id": "MD",
+    "name": "Trifăuţi",
+    "shareBB": 0.6267,
+    "shareCircle": 0.3647
+  },
+  {
+    "gem_id": "MD264695",
+    "country_id": "MD",
+    "name": "Vădeni",
+    "shareBB": 0.5628,
+    "shareCircle": 0.5765
+  },
+  {
+    "gem_id": "MD264720",
+    "country_id": "MD",
+    "name": "Vărăncău",
+    "shareBB": 0.5282,
+    "shareCircle": 0.434
+  },
+  {
+    "gem_id": "MD264820",
+    "country_id": "MD",
+    "name": "Vasilcău",
+    "shareBB": 0.3363,
+    "shareCircle": 0.3796
+  },
+  {
+    "gem_id": "MD264885",
+    "country_id": "MD",
+    "name": "Visoca",
+    "shareBB": 0.5602,
+    "shareCircle": 0.5299
+  },
+  {
+    "gem_id": "MD264910",
+    "country_id": "MD",
+    "name": "Voloviţa",
+    "shareBB": 0.6457,
+    "shareCircle": 0.6392
+  },
+  {
+    "gem_id": "MD264965",
+    "country_id": "MD",
+    "name": "Zastînca",
+    "shareBB": 0.5288,
+    "shareCircle": 0.4012
+  },
+  {
+    "gem_id": "MD270040",
+    "country_id": "MD",
+    "name": "Ţigăneşti",
+    "shareBB": 0.293,
+    "shareCircle": 0.1947
+  },
+  {
+    "gem_id": "MD270710",
+    "country_id": "MD",
+    "name": "Bucovăţ",
+    "shareBB": 0.3585,
+    "shareCircle": 0.2345
+  },
+  {
+    "gem_id": "MD270865",
+    "country_id": "MD",
+    "name": "Căpriana",
+    "shareBB": 0.4536,
+    "shareCircle": 0.4093
+  },
+  {
+    "gem_id": "MD271135",
+    "country_id": "MD",
+    "name": "Chirianca",
+    "shareBB": 0.6686,
+    "shareCircle": 0.5486
+  },
+  {
+    "gem_id": "MD271405",
+    "country_id": "MD",
+    "name": "Codreanca",
+    "shareBB": 0.3634,
+    "shareCircle": 0.2762
+  },
+  {
+    "gem_id": "MD271430",
+    "country_id": "MD",
+    "name": "Cojuşna",
+    "shareBB": 0.411,
+    "shareCircle": 0.4051
+  },
+  {
+    "gem_id": "MD271875",
+    "country_id": "MD",
+    "name": "Dolna",
+    "shareBB": 0.5343,
+    "shareCircle": 0.5648
+  },
+  {
+    "gem_id": "MD272160",
+    "country_id": "MD",
+    "name": "Găleşti",
+    "shareBB": 0.4645,
+    "shareCircle": 0.3034
+  },
+  {
+    "gem_id": "MD272195",
+    "country_id": "MD",
+    "name": "Ghelăuza",
+    "shareBB": 0.6926,
+    "shareCircle": 0.5877
+  },
+  {
+    "gem_id": "MD272295",
+    "country_id": "MD",
+    "name": "Grebleşti",
+    "shareBB": 0.3906,
+    "shareCircle": 0.4338
+  },
+  {
+    "gem_id": "MD272850",
+    "country_id": "MD",
+    "name": "Lozova",
+    "shareBB": 0.4697,
+    "shareCircle": 0.3025
+  },
+  {
+    "gem_id": "MD273010",
+    "country_id": "MD",
+    "name": "Micăuţi",
+    "shareBB": 0.6195,
+    "shareCircle": 0.5987
+  },
+  {
+    "gem_id": "MD273025",
+    "country_id": "MD",
+    "name": "Micleuşeni",
+    "shareBB": 0.5552,
+    "shareCircle": 0.5219
+  },
+  {
+    "gem_id": "MD273225",
+    "country_id": "MD",
+    "name": "Negreşti",
+    "shareBB": 0.4775,
+    "shareCircle": 0.2928
+  },
+  {
+    "gem_id": "MD273365",
+    "country_id": "MD",
+    "name": "Oneşti",
+    "shareBB": 0.2801,
+    "shareCircle": 0.1578
+  },
+  {
+    "gem_id": "MD273420",
+    "country_id": "MD",
+    "name": "Pănăşeşti",
+    "shareBB": 0.5748,
+    "shareCircle": 0.5342
+  },
+  {
+    "gem_id": "MD273805",
+    "country_id": "MD",
+    "name": "Rădeni",
+    "shareBB": 0.4922,
+    "shareCircle": 0.4975
+  },
+  {
+    "gem_id": "MD273875",
+    "country_id": "MD",
+    "name": "Recea",
+    "shareBB": 0.3821,
+    "shareCircle": 0.3044
+  },
+  {
+    "gem_id": "MD273920",
+    "country_id": "MD",
+    "name": "Roşcani",
+    "shareBB": 0.517,
+    "shareCircle": 0.3488
+  },
+  {
+    "gem_id": "MD273945",
+    "country_id": "MD",
+    "name": "Romăneşti",
+    "shareBB": 0.5794,
+    "shareCircle": 0.4619
+  },
+  {
+    "gem_id": "MD274125",
+    "country_id": "MD",
+    "name": "Scoreni",
+    "shareBB": 0.4644,
+    "shareCircle": 0.4705
+  },
+  {
+    "gem_id": "MD274210",
+    "country_id": "MD",
+    "name": "Sireţi",
+    "shareBB": 0.5667,
+    "shareCircle": 0.4607
+  },
+  {
+    "gem_id": "MD274325",
+    "country_id": "MD",
+    "name": "Străşeni",
+    "shareBB": 0.6632,
+    "shareCircle": 0.7066
+  },
+  {
+    "gem_id": "MD274400",
+    "country_id": "MD",
+    "name": "Tătăreşti",
+    "shareBB": 0.4371,
+    "shareCircle": 0.4072
+  },
+  {
+    "gem_id": "MD274900",
+    "country_id": "MD",
+    "name": "Voinova",
+    "shareBB": 0.6819,
+    "shareCircle": 0.396
+  },
+  {
+    "gem_id": "MD274915",
+    "country_id": "MD",
+    "name": "Vorniceni",
+    "shareBB": 0.5448,
+    "shareCircle": 0.4829
+  },
+  {
+    "gem_id": "MD275005",
+    "country_id": "MD",
+    "name": "Zubreşti",
+    "shareBB": 0.4274,
+    "shareCircle": 0.3025
+  },
+  {
+    "gem_id": "MD280100",
+    "country_id": "MD",
+    "name": "Şestaci",
+    "shareBB": 0.77,
+    "shareCircle": 0.4855
+  },
+  {
+    "gem_id": "MD280115",
+    "country_id": "MD",
+    "name": "Şipca",
+    "shareBB": 0.6793,
+    "shareCircle": 0.4636
+  },
+  {
+    "gem_id": "MD280140",
+    "country_id": "MD",
+    "name": "Şoldăneşti",
+    "shareBB": 0.6267,
+    "shareCircle": 0.4873
+  },
+  {
+    "gem_id": "MD280205",
+    "country_id": "MD",
+    "name": "Alcedar",
+    "shareBB": 0.5197,
+    "shareCircle": 0.318
+  },
+  {
+    "gem_id": "MD281110",
+    "country_id": "MD",
+    "name": "Chipeşca",
+    "shareBB": 0.1491,
+    "shareCircle": 0.122
+  },
+  {
+    "gem_id": "MD281320",
+    "country_id": "MD",
+    "name": "Climăuţii de Jos",
+    "shareBB": 0.5063,
+    "shareCircle": 0.4895
+  },
+  {
+    "gem_id": "MD281380",
+    "country_id": "MD",
+    "name": "Cobîlea",
+    "shareBB": 0.6739,
+    "shareCircle": 0.6396
+  },
+  {
+    "gem_id": "MD281605",
+    "country_id": "MD",
+    "name": "Cotiujenii Mari",
+    "shareBB": 0.4574,
+    "shareCircle": 0.493
+  },
+  {
+    "gem_id": "MD281730",
+    "country_id": "MD",
+    "name": "Cuşmirca",
+    "shareBB": 0.595,
+    "shareCircle": 0.4978
+  },
+  {
+    "gem_id": "MD281855",
+    "country_id": "MD",
+    "name": "Dobruşa",
+    "shareBB": 0.4368,
+    "shareCircle": 0.3742
+  },
+  {
+    "gem_id": "MD282150",
+    "country_id": "MD",
+    "name": "Fuzăuca",
+    "shareBB": 0.5672,
+    "shareCircle": 0.5276
+  },
+  {
+    "gem_id": "MD282165",
+    "country_id": "MD",
+    "name": "Găuzeni",
+    "shareBB": 0.5567,
+    "shareCircle": 0.4668
+  },
+  {
+    "gem_id": "MD282490",
+    "country_id": "MD",
+    "name": "Hligeni",
+    "shareBB": 0.6915,
+    "shareCircle": 0.4923
+  },
+  {
+    "gem_id": "MD283060",
+    "country_id": "MD",
+    "name": "Mihuleni",
+    "shareBB": 0.4776,
+    "shareCircle": 0.3931
+  },
+  {
+    "gem_id": "MD283360",
+    "country_id": "MD",
+    "name": "Olişcani",
+    "shareBB": 0.6736,
+    "shareCircle": 0.4532
+  },
+  {
+    "gem_id": "MD283465",
+    "country_id": "MD",
+    "name": "Parcani",
+    "shareBB": 0.3981,
+    "shareCircle": 0.2876
+  },
+  {
+    "gem_id": "MD283685",
+    "country_id": "MD",
+    "name": "Pohoarna",
+    "shareBB": 0.5119,
+    "shareCircle": 0.4182
+  },
+  {
+    "gem_id": "MD283695",
+    "country_id": "MD",
+    "name": "Poiana",
+    "shareBB": 0.5342,
+    "shareCircle": 0.4281
+  },
+  {
+    "gem_id": "MD283840",
+    "country_id": "MD",
+    "name": "Răspopeni",
+    "shareBB": 0.4778,
+    "shareCircle": 0.3652
+  },
+  {
+    "gem_id": "MD283940",
+    "country_id": "MD",
+    "name": "Rogojeni",
+    "shareBB": 0.5476,
+    "shareCircle": 0.3798
+  },
+  {
+    "gem_id": "MD283995",
+    "country_id": "MD",
+    "name": "Sămăşcani",
+    "shareBB": 0.6312,
+    "shareCircle": 0.4486
+  },
+  {
+    "gem_id": "MD284090",
+    "country_id": "MD",
+    "name": "Salcia",
+    "shareBB": 0.5062,
+    "shareCircle": 0.5287
+  },
+  {
+    "gem_id": "MD284785",
+    "country_id": "MD",
+    "name": "Vadul-Raşcov",
+    "shareBB": 0.5386,
+    "shareCircle": 0.5528
+  },
+  {
+    "gem_id": "MD290150",
+    "country_id": "MD",
+    "name": "Ştefăneşti",
+    "shareBB": 0.5114,
+    "shareCircle": 0.5118
+  },
+  {
+    "gem_id": "MD290155",
+    "country_id": "MD",
+    "name": "Ştefan Vodă",
+    "shareBB": 0.481,
+    "shareCircle": 0.4536
+  },
+  {
+    "gem_id": "MD290175",
+    "country_id": "MD",
+    "name": "Alava",
+    "shareBB": 0.4571,
+    "shareCircle": 0.4802
+  },
+  {
+    "gem_id": "MD290285",
+    "country_id": "MD",
+    "name": "Antoneşti",
+    "shareBB": 0.3802,
+    "shareCircle": 0.323
+  },
+  {
+    "gem_id": "MD290650",
+    "country_id": "MD",
+    "name": "Brezoaia",
+    "shareBB": 0.5751,
+    "shareCircle": 0.5395
+  },
+  {
+    "gem_id": "MD290860",
+    "country_id": "MD",
+    "name": "Căplani",
+    "shareBB": 0.5428,
+    "shareCircle": 0.5476
+  },
+  {
+    "gem_id": "MD290970",
+    "country_id": "MD",
+    "name": "Carahasani",
+    "shareBB": 0.4593,
+    "shareCircle": 0.5044
+  },
+  {
+    "gem_id": "MD291220",
+    "country_id": "MD",
+    "name": "Cioburciu",
+    "shareBB": 0.4659,
+    "shareCircle": 0.2954
+  },
+  {
+    "gem_id": "MD291505",
+    "country_id": "MD",
+    "name": "Copceac",
+    "shareBB": 0.3159,
+    "shareCircle": 0.2677
+  },
+  {
+    "gem_id": "MD291715",
+    "country_id": "MD",
+    "name": "Crocmaz",
+    "shareBB": 0.4805,
+    "shareCircle": 0.4481
+  },
+  {
+    "gem_id": "MD292025",
+    "country_id": "MD",
+    "name": "Ermoclia",
+    "shareBB": 0.5272,
+    "shareCircle": 0.4146
+  },
+  {
+    "gem_id": "MD292050",
+    "country_id": "MD",
+    "name": "Feşteliţa",
+    "shareBB": 0.4819,
+    "shareCircle": 0.5703
+  },
+  {
+    "gem_id": "MD292955",
+    "country_id": "MD",
+    "name": "Marianca de Jos",
+    "shareBB": 0.5441,
+    "shareCircle": 0.5707
+  },
+  {
+    "gem_id": "MD293355",
+    "country_id": "MD",
+    "name": "Olăneşti",
+    "shareBB": 0.4504,
+    "shareCircle": 0.4201
+  },
+  {
+    "gem_id": "MD293455",
+    "country_id": "MD",
+    "name": "Palanca",
+    "shareBB": 0.363,
+    "shareCircle": 0.2267
+  },
+  {
+    "gem_id": "MD293720",
+    "country_id": "MD",
+    "name": "Popeasca",
+    "shareBB": 0.6938,
+    "shareCircle": 0.6637
+  },
+  {
+    "gem_id": "MD293785",
+    "country_id": "MD",
+    "name": "Purcari",
+    "shareBB": 0.5091,
+    "shareCircle": 0.4491
+  },
+  {
+    "gem_id": "MD293835",
+    "country_id": "MD",
+    "name": "Răscăieţi",
+    "shareBB": 0.4706,
+    "shareCircle": 0.5082
+  },
+  {
+    "gem_id": "MD294160",
+    "country_id": "MD",
+    "name": "Semionovca",
+    "shareBB": 0.6384,
+    "shareCircle": 0.4422
+  },
+  {
+    "gem_id": "MD294225",
+    "country_id": "MD",
+    "name": "Slobozia",
+    "shareBB": 0.5451,
+    "shareCircle": 0.6131
+  },
+  {
+    "gem_id": "MD294420",
+    "country_id": "MD",
+    "name": "Talmaza",
+    "shareBB": 0.5108,
+    "shareCircle": 0.4017
+  },
+  {
+    "gem_id": "MD294630",
+    "country_id": "MD",
+    "name": "Tudora",
+    "shareBB": 0.382,
+    "shareCircle": 0.308
+  },
+  {
+    "gem_id": "MD294905",
+    "country_id": "MD",
+    "name": "Volintiri",
+    "shareBB": 0.5085,
+    "shareCircle": 0.4039
+  },
+  {
+    "gem_id": "MD300195",
+    "country_id": "MD",
+    "name": "Albota de Jos",
+    "shareBB": 0.5367,
+    "shareCircle": 0.533
+  },
+  {
+    "gem_id": "MD300200",
+    "country_id": "MD",
+    "name": "Albota de Sus",
+    "shareBB": 0.5279,
+    "shareCircle": 0.3373
+  },
+  {
+    "gem_id": "MD300250",
+    "country_id": "MD",
+    "name": "Aluatu",
+    "shareBB": 0.5084,
+    "shareCircle": 0.4984
+  },
+  {
+    "gem_id": "MD300415",
+    "country_id": "MD",
+    "name": "Balabanu",
+    "shareBB": 0.5067,
+    "shareCircle": 0.4297
+  },
+  {
+    "gem_id": "MD300720",
+    "country_id": "MD",
+    "name": "Budăi",
+    "shareBB": 0.4066,
+    "shareCircle": 0.4148
+  },
+  {
+    "gem_id": "MD300900",
+    "country_id": "MD",
+    "name": "Cairaclia",
+    "shareBB": 0.5306,
+    "shareCircle": 0.4475
+  },
+  {
+    "gem_id": "MD301020",
+    "country_id": "MD",
+    "name": "Cealîc",
+    "shareBB": 0.5699,
+    "shareCircle": 0.5593
+  },
+  {
+    "gem_id": "MD301565",
+    "country_id": "MD",
+    "name": "Corten",
+    "shareBB": 0.5182,
+    "shareCircle": 0.5209
+  },
+  {
+    "gem_id": "MD303185",
+    "country_id": "MD",
+    "name": "Musaitu",
+    "shareBB": 0.5193,
+    "shareCircle": 0.5656
+  },
+  {
+    "gem_id": "MD303295",
+    "country_id": "MD",
+    "name": "Novosiolovca",
+    "shareBB": 0.4897,
+    "shareCircle": 0.4507
+  },
+  {
+    "gem_id": "MD304095",
+    "country_id": "MD",
+    "name": "Salcia",
+    "shareBB": 0.4941,
+    "shareCircle": 0.3112
+  },
+  {
+    "gem_id": "MD304425",
+    "country_id": "MD",
+    "name": "Taraclia",
+    "shareBB": 0.269,
+    "shareCircle": 0.1689
+  },
+  {
+    "gem_id": "MD304640",
+    "country_id": "MD",
+    "name": "Tvardiţa",
+    "shareBB": 0.5048,
+    "shareCircle": 0.4011
+  },
+  {
+    "gem_id": "MD304805",
+    "country_id": "MD",
+    "name": "Valea Perjei",
+    "shareBB": 0.5921,
+    "shareCircle": 0.6575
+  },
+  {
+    "gem_id": "MD304880",
+    "country_id": "MD",
+    "name": "Vinogradovca",
+    "shareBB": 0.465,
+    "shareCircle": 0.3579
+  },
+  {
+    "gem_id": "MD310050",
+    "country_id": "MD",
+    "name": "Ţînţăreni",
+    "shareBB": 0.3635,
+    "shareCircle": 0.2793
+  },
+  {
+    "gem_id": "MD310370",
+    "country_id": "MD",
+    "name": "Băneşti",
+    "shareBB": 0.7531,
+    "shareCircle": 0.5461
+  },
+  {
+    "gem_id": "MD310580",
+    "country_id": "MD",
+    "name": "Bogzeşti",
+    "shareBB": 0.5136,
+    "shareCircle": 0.4121
+  },
+  {
+    "gem_id": "MD310675",
+    "country_id": "MD",
+    "name": "Brînzenii Noi",
+    "shareBB": 0.429,
+    "shareCircle": 0.3267
+  },
+  {
+    "gem_id": "MD310725",
+    "country_id": "MD",
+    "name": "Budăi",
+    "shareBB": 0.4892,
+    "shareCircle": 0.3935
+  },
+  {
+    "gem_id": "MD310885",
+    "country_id": "MD",
+    "name": "Căzăneşti",
+    "shareBB": 0.4231,
+    "shareCircle": 0.3893
+  },
+  {
+    "gem_id": "MD311075",
+    "country_id": "MD",
+    "name": "Chiţcanii Vechi",
+    "shareBB": 0.4248,
+    "shareCircle": 0.3499
+  },
+  {
+    "gem_id": "MD311085",
+    "country_id": "MD",
+    "name": "Chiştelniţa",
+    "shareBB": 0.4748,
+    "shareCircle": 0.4356
+  },
+  {
+    "gem_id": "MD311155",
+    "country_id": "MD",
+    "name": "Cîşla",
+    "shareBB": 0.2893,
+    "shareCircle": 0.1915
+  },
+  {
+    "gem_id": "MD311420",
+    "country_id": "MD",
+    "name": "Codrul Nou",
+    "shareBB": 0.2033,
+    "shareCircle": 0.181
+  },
+  {
+    "gem_id": "MD311550",
+    "country_id": "MD",
+    "name": "Coropceni",
+    "shareBB": 0.5387,
+    "shareCircle": 0.5329
+  },
+  {
+    "gem_id": "MD311635",
+    "country_id": "MD",
+    "name": "Crăsnăşeni",
+    "shareBB": 0.5914,
+    "shareCircle": 0.5637
+  },
+  {
+    "gem_id": "MD312220",
+    "country_id": "MD",
+    "name": "Ghiliceni",
+    "shareBB": 0.5392,
+    "shareCircle": 0.3652
+  },
+  {
+    "gem_id": "MD312455",
+    "country_id": "MD",
+    "name": "Hirişeni",
+    "shareBB": 0.4013,
+    "shareCircle": 0.3756
+  },
+  {
+    "gem_id": "MD312645",
+    "country_id": "MD",
+    "name": "Ineşti",
+    "shareBB": 0.4588,
+    "shareCircle": 0.3878
+  },
+  {
+    "gem_id": "MD312785",
+    "country_id": "MD",
+    "name": "Leuşeni",
+    "shareBB": 0.6403,
+    "shareCircle": 0.5017
+  },
+  {
+    "gem_id": "MD313085",
+    "country_id": "MD",
+    "name": "Mîndreşti",
+    "shareBB": 0.5144,
+    "shareCircle": 0.333
+  },
+  {
+    "gem_id": "MD313235",
+    "country_id": "MD",
+    "name": "Negureni",
+    "shareBB": 0.4299,
+    "shareCircle": 0.3185
+  },
+  {
+    "gem_id": "MD313300",
+    "country_id": "MD",
+    "name": "Nucăreni",
+    "shareBB": 0.5126,
+    "shareCircle": 0.4316
+  },
+  {
+    "gem_id": "MD313395",
+    "country_id": "MD",
+    "name": "Ordăşei",
+    "shareBB": 0.481,
+    "shareCircle": 0.4253
+  },
+  {
+    "gem_id": "MD313610",
+    "country_id": "MD",
+    "name": "Pistruieni",
+    "shareBB": 0.5203,
+    "shareCircle": 0.4093
+  },
+  {
+    "gem_id": "MD313865",
+    "country_id": "MD",
+    "name": "Ratuş",
+    "shareBB": 0.5464,
+    "shareCircle": 0.3441
+  },
+  {
+    "gem_id": "MD314020",
+    "country_id": "MD",
+    "name": "Sărătenii Vechi",
+    "shareBB": 0.4683,
+    "shareCircle": 0.3832
+  },
+  {
+    "gem_id": "MD314120",
+    "country_id": "MD",
+    "name": "Scorţeni",
+    "shareBB": 0.6137,
+    "shareCircle": 0.4977
+  },
+  {
+    "gem_id": "MD314355",
+    "country_id": "MD",
+    "name": "Suhuluceni",
+    "shareBB": 0.5062,
+    "shareCircle": 0.4701
+  },
+  {
+    "gem_id": "MD314485",
+    "country_id": "MD",
+    "name": "Teleneşti",
+    "shareBB": 0.5586,
+    "shareCircle": 0.4115
+  },
+  {
+    "gem_id": "MD314515",
+    "country_id": "MD",
+    "name": "Tîrşiţei",
+    "shareBB": 0.6675,
+    "shareCircle": 0.5767
+  },
+  {
+    "gem_id": "MD314760",
+    "country_id": "MD",
+    "name": "Văsieni",
+    "shareBB": 0.5819,
+    "shareCircle": 0.4585
+  },
+  {
+    "gem_id": "MD314840",
+    "country_id": "MD",
+    "name": "Verejeni",
+    "shareBB": 0.4443,
+    "shareCircle": 0.3356
+  },
+  {
+    "gem_id": "MD314975",
+    "country_id": "MD",
+    "name": "Zgărdeşti",
+    "shareBB": 0.5948,
+    "shareCircle": 0.4509
+  },
+  {
+    "gem_id": "MD314985",
+    "country_id": "MD",
+    "name": "Ciulucani",
+    "shareBB": 0.2874,
+    "shareCircle": 0.155
+  },
+  {
+    "gem_id": "MD320170",
+    "country_id": "MD",
+    "name": "Agronomovca",
+    "shareBB": 0.3841,
+    "shareCircle": 0.3212
+  },
+  {
+    "gem_id": "MD320235",
+    "country_id": "MD",
+    "name": "Alexeevca",
+    "shareBB": 0.4599,
+    "shareCircle": 0.3095
+  },
+  {
+    "gem_id": "MD320570",
+    "country_id": "MD",
+    "name": "Boghenii Noi",
+    "shareBB": 0.313,
+    "shareCircle": 0.2361
+  },
+  {
+    "gem_id": "MD320695",
+    "country_id": "MD",
+    "name": "Buşila",
+    "shareBB": 0.5216,
+    "shareCircle": 0.4388
+  },
+  {
+    "gem_id": "MD320705",
+    "country_id": "MD",
+    "name": "Buciumeni",
+    "shareBB": 0.4292,
+    "shareCircle": 0.3498
+  },
+  {
+    "gem_id": "MD320775",
+    "country_id": "MD",
+    "name": "Bumbăta",
+    "shareBB": 0.509,
+    "shareCircle": 0.4374
+  },
+  {
+    "gem_id": "MD321050",
+    "country_id": "MD",
+    "name": "Cetireni",
+    "shareBB": 0.3487,
+    "shareCircle": 0.3511
+  },
+  {
+    "gem_id": "MD321145",
+    "country_id": "MD",
+    "name": "Chirileni",
+    "shareBB": 0.5856,
+    "shareCircle": 0.3354
+  },
+  {
+    "gem_id": "MD321250",
+    "country_id": "MD",
+    "name": "Cioropcani",
+    "shareBB": 0.4657,
+    "shareCircle": 0.4175
+  },
+  {
+    "gem_id": "MD321465",
+    "country_id": "MD",
+    "name": "Condrăteşti",
+    "shareBB": 0.2941,
+    "shareCircle": 0.1947
+  },
+  {
+    "gem_id": "MD321535",
+    "country_id": "MD",
+    "name": "Corneşti",
+    "shareBB": 0.4097,
+    "shareCircle": 0.2352
+  },
+  {
+    "gem_id": "MD321540",
+    "country_id": "MD",
+    "name": "Corneşti",
+    "shareBB": 0.3608,
+    "shareCircle": 0.2012
+  },
+  {
+    "gem_id": "MD321545",
+    "country_id": "MD",
+    "name": "Cornova",
+    "shareBB": 0.4068,
+    "shareCircle": 0.2182
+  },
+  {
+    "gem_id": "MD321585",
+    "country_id": "MD",
+    "name": "Costuleni",
+    "shareBB": 0.5044,
+    "shareCircle": 0.5084
+  },
+  {
+    "gem_id": "MD322100",
+    "country_id": "MD",
+    "name": "Floriţoaia Veche",
+    "shareBB": 0.4524,
+    "shareCircle": 0.3616
+  },
+  {
+    "gem_id": "MD322450",
+    "country_id": "MD",
+    "name": "Hîrceşti",
+    "shareBB": 0.3138,
+    "shareCircle": 0.2126
+  },
+  {
+    "gem_id": "MD322870",
+    "country_id": "MD",
+    "name": "Măcăreşti",
+    "shareBB": 0.4206,
+    "shareCircle": 0.3098
+  },
+  {
+    "gem_id": "MD322880",
+    "country_id": "MD",
+    "name": "Măgurele",
+    "shareBB": 0.5867,
+    "shareCircle": 0.5688
+  },
+  {
+    "gem_id": "MD322895",
+    "country_id": "MD",
+    "name": "Mănoileşti",
+    "shareBB": 0.5855,
+    "shareCircle": 0.4506
+  },
+  {
+    "gem_id": "MD323145",
+    "country_id": "MD",
+    "name": "Morenii Noi",
+    "shareBB": 0.3153,
+    "shareCircle": 0.2746
+  },
+  {
+    "gem_id": "MD323195",
+    "country_id": "MD",
+    "name": "Năpădeni",
+    "shareBB": 0.3851,
+    "shareCircle": 0.269
+  },
+  {
+    "gem_id": "MD323240",
+    "country_id": "MD",
+    "name": "Negurenii Vechi",
+    "shareBB": 0.4722,
+    "shareCircle": 0.4277
+  },
+  {
+    "gem_id": "MD323540",
+    "country_id": "MD",
+    "name": "Petreşti",
+    "shareBB": 0.6179,
+    "shareCircle": 0.6043
+  },
+  {
+    "gem_id": "MD323595",
+    "country_id": "MD",
+    "name": "Pîrliţa",
+    "shareBB": 0.3616,
+    "shareCircle": 0.3096
+  },
+  {
+    "gem_id": "MD323815",
+    "country_id": "MD",
+    "name": "Rădenii Vechi",
+    "shareBB": 0.4724,
+    "shareCircle": 0.3918
+  },
+  {
+    "gem_id": "MD324130",
+    "country_id": "MD",
+    "name": "Sculeni",
+    "shareBB": 0.521,
+    "shareCircle": 0.541
+  },
+  {
+    "gem_id": "MD324175",
+    "country_id": "MD",
+    "name": "Sineşti",
+    "shareBB": 0.2064,
+    "shareCircle": 0.1345
+  },
+  {
+    "gem_id": "MD324465",
+    "country_id": "MD",
+    "name": "Teşcureni",
+    "shareBB": 0.5825,
+    "shareCircle": 0.5788
+  },
+  {
+    "gem_id": "MD324560",
+    "country_id": "MD",
+    "name": "Todireşti",
+    "shareBB": 0.6028,
+    "shareCircle": 0.3336
+  },
+  {
+    "gem_id": "MD324660",
+    "country_id": "MD",
+    "name": "Unţeşti",
+    "shareBB": 0.5512,
+    "shareCircle": 0.4635
+  },
+  {
+    "gem_id": "MD324665",
+    "country_id": "MD",
+    "name": "Ungheni",
+    "shareBB": 0.2918,
+    "shareCircle": 0.2682
+  },
+  {
+    "gem_id": "MD324795",
+    "country_id": "MD",
+    "name": "Valea Mare",
+    "shareBB": 0.4146,
+    "shareCircle": 0.3681
+  },
+  {
+    "gem_id": "MD324950",
+    "country_id": "MD",
+    "name": "Zagarancea",
+    "shareBB": 0.4797,
+    "shareCircle": 0.4839
+  },
+  {
+    "gem_id": "MD330300",
+    "country_id": "MD",
+    "name": "Avdarma",
+    "shareBB": 0.594,
+    "shareCircle": 0.6413
+  },
+  {
+    "gem_id": "MD330455",
+    "country_id": "MD",
+    "name": "Baurci",
+    "shareBB": 0.4862,
+    "shareCircle": 0.5591
+  },
+  {
+    "gem_id": "MD330465",
+    "country_id": "MD",
+    "name": "Beşalma",
+    "shareBB": 0.5341,
+    "shareCircle": 0.5225
+  },
+  {
+    "gem_id": "MD330470",
+    "country_id": "MD",
+    "name": "Beşghioz",
+    "shareBB": 0.5419,
+    "shareCircle": 0.5479
+  },
+  {
+    "gem_id": "MD330745",
+    "country_id": "MD",
+    "name": "Bugeac",
+    "shareBB": 0.42,
+    "shareCircle": 0.3652
+  },
+  {
+    "gem_id": "MD330980",
+    "country_id": "MD",
+    "name": "Carbalia",
+    "shareBB": 0.4341,
+    "shareCircle": 0.3653
+  },
+  {
+    "gem_id": "MD331000",
+    "country_id": "MD",
+    "name": "Cazaclia",
+    "shareBB": 0.4862,
+    "shareCircle": 0.4525
+  },
+  {
+    "gem_id": "MD331015",
+    "country_id": "MD",
+    "name": "Ceadîr-Lunga",
+    "shareBB": 0.4817,
+    "shareCircle": 0.507
+  },
+  {
+    "gem_id": "MD331100",
+    "country_id": "MD",
+    "name": "Chioselia Rusă",
+    "shareBB": 0.5253,
+    "shareCircle": 0.4682
+  },
+  {
+    "gem_id": "MD331140",
+    "country_id": "MD",
+    "name": "Chiriet-Lunga",
+    "shareBB": 0.5263,
+    "shareCircle": 0.4251
+  },
+  {
+    "gem_id": "MD331150",
+    "country_id": "MD",
+    "name": "Chirsova",
+    "shareBB": 0.5822,
+    "shareCircle": 0.4934
+  },
+  {
+    "gem_id": "MD331170",
+    "country_id": "MD",
+    "name": "Cişmichioi",
+    "shareBB": 0.6426,
+    "shareCircle": 0.573
+  },
+  {
+    "gem_id": "MD331225",
+    "country_id": "MD",
+    "name": "Cioc-Maidan",
+    "shareBB": 0.602,
+    "shareCircle": 0.6486
+  },
+  {
+    "gem_id": "MD331475",
+    "country_id": "MD",
+    "name": "Congaz",
+    "shareBB": 0.4614,
+    "shareCircle": 0.3903
+  },
+  {
+    "gem_id": "MD331480",
+    "country_id": "MD",
+    "name": "Congazcicul de Sus",
+    "shareBB": 0.619,
+    "shareCircle": 0.5052
+  },
+  {
+    "gem_id": "MD331500",
+    "country_id": "MD",
+    "name": "Copceac",
+    "shareBB": 0.4369,
+    "shareCircle": 0.3464
+  },
+  {
+    "gem_id": "MD331620",
+    "country_id": "MD",
+    "name": "Cotovscoe",
+    "shareBB": 0.5112,
+    "shareCircle": 0.5649
+  },
+  {
+    "gem_id": "MD331835",
+    "country_id": "MD",
+    "name": "Dezghingea",
+    "shareBB": 0.5767,
+    "shareCircle": 0.527
+  },
+  {
+    "gem_id": "MD332030",
+    "country_id": "MD",
+    "name": "Etulia",
+    "shareBB": 0.5556,
+    "shareCircle": 0.3318
+  },
+  {
+    "gem_id": "MD332055",
+    "country_id": "MD",
+    "name": "Ferapontievca",
+    "shareBB": 0.5491,
+    "shareCircle": 0.6006
+  },
+  {
+    "gem_id": "MD332180",
+    "country_id": "MD",
+    "name": "Gaidar",
+    "shareBB": 0.5545,
+    "shareCircle": 0.5093
+  },
+  {
+    "gem_id": "MD332725",
+    "country_id": "MD",
+    "name": "Joltai",
+    "shareBB": 0.5284,
+    "shareCircle": 0.5585
+  },
+  {
+    "gem_id": "MD333170",
+    "country_id": "MD",
+    "name": "Comrat",
+    "shareBB": 0.4879,
+    "shareCircle": 0.4379
+  },
+  {
+    "gem_id": "MD334375",
+    "country_id": "MD",
+    "name": "Svetlîi",
+    "shareBB": 0.4168,
+    "shareCircle": 0.3916
+  },
+  {
+    "gem_id": "MD334570",
+    "country_id": "MD",
+    "name": "Tomai",
+    "shareBB": 0.5764,
+    "shareCircle": 0.6473
+  },
+  {
+    "gem_id": "MD334925",
+    "country_id": "MD",
+    "name": "Vulcăneşti",
+    "shareBB": 0.5805,
+    "shareCircle": 0.481
+  },
+  {
+    "gem_id": "MD340035",
+    "country_id": "MD",
+    "name": "Ţîbuleuca",
+    "shareBB": 0.4511,
+    "shareCircle": 0.4022
+  },
+  {
+    "gem_id": "MD340110",
+    "country_id": "MD",
+    "name": "Şipca",
+    "shareBB": 0.5919,
+    "shareCircle": 0.6136
+  },
+  {
+    "gem_id": "MD340260",
+    "country_id": "MD",
+    "name": "Andreevca",
+    "shareBB": 0.4626,
+    "shareCircle": 0.2653
+  },
+  {
+    "gem_id": "MD340485",
+    "country_id": "MD",
+    "name": "Beloci",
+    "shareBB": 0.6272,
+    "shareCircle": 0.5683
+  },
+  {
+    "gem_id": "MD340505",
+    "country_id": "MD",
+    "name": "Bîcioc",
+    "shareBB": 0.5001,
+    "shareCircle": 0.414
+  },
+  {
+    "gem_id": "MD340545",
+    "country_id": "MD",
+    "name": "Blijnii Hutor",
+    "shareBB": 0.468,
+    "shareCircle": 0.432
+  },
+  {
+    "gem_id": "MD340680",
+    "country_id": "MD",
+    "name": "Broşteni",
+    "shareBB": 0.4445,
+    "shareCircle": 0.3633
+  },
+  {
+    "gem_id": "MD340805",
+    "country_id": "MD",
+    "name": "Butor",
+    "shareBB": 0.4754,
+    "shareCircle": 0.4056
+  },
+  {
+    "gem_id": "MD340810",
+    "country_id": "MD",
+    "name": "Butuceni",
+    "shareBB": 0.4122,
+    "shareCircle": 0.3624
+  },
+  {
+    "gem_id": "MD340925",
+    "country_id": "MD",
+    "name": "Camenca",
+    "shareBB": 0.1886,
+    "shareCircle": 0.1568
+  },
+  {
+    "gem_id": "MD340965",
+    "country_id": "MD",
+    "name": "Caragaş",
+    "shareBB": 0.3508,
+    "shareCircle": 0.2964
+  },
+  {
+    "gem_id": "MD340985",
+    "country_id": "MD",
+    "name": "Carmanova",
+    "shareBB": 0.5535,
+    "shareCircle": 0.4495
+  },
+  {
+    "gem_id": "MD340990",
+    "country_id": "MD",
+    "name": "Caterinovca",
+    "shareBB": 0.6387,
+    "shareCircle": 0.5303
+  },
+  {
+    "gem_id": "MD341215",
+    "country_id": "MD",
+    "name": "Cioburciu",
+    "shareBB": 0.2666,
+    "shareCircle": 0.1768
+  },
+  {
+    "gem_id": "MD341375",
+    "country_id": "MD",
+    "name": "Cobasna",
+    "shareBB": 0.5189,
+    "shareCircle": 0.4279
+  },
+  {
+    "gem_id": "MD341455",
+    "country_id": "MD",
+    "name": "Colosova",
+    "shareBB": 0.5554,
+    "shareCircle": 0.523
+  },
+  {
+    "gem_id": "MD341460",
+    "country_id": "MD",
+    "name": "Comisarovca Nouă",
+    "shareBB": 0.5854,
+    "shareCircle": 0.477
+  },
+  {
+    "gem_id": "MD341555",
+    "country_id": "MD",
+    "name": "Corotna",
+    "shareBB": 0.5905,
+    "shareCircle": 0.2866
+  },
+  {
+    "gem_id": "MD341640",
+    "country_id": "MD",
+    "name": "Crasnencoe",
+    "shareBB": 0.6327,
+    "shareCircle": 0.5564
+  },
+  {
+    "gem_id": "MD341645",
+    "country_id": "MD",
+    "name": "Crasnîi Octeabri",
+    "shareBB": 0.2918,
+    "shareCircle": 0.2441
+  },
+  {
+    "gem_id": "MD341650",
+    "country_id": "MD",
+    "name": "Crasnîi Vinogradari",
+    "shareBB": 0.4899,
+    "shareCircle": 0.4598
+  },
+  {
+    "gem_id": "MD341660",
+    "country_id": "MD",
+    "name": "Crasnoe",
+    "shareBB": 0.4057,
+    "shareCircle": 0.3255
+  },
+  {
+    "gem_id": "MD341665",
+    "country_id": "MD",
+    "name": "Crasnogorca",
+    "shareBB": 0.4461,
+    "shareCircle": 0.4079
+  },
+  {
+    "gem_id": "MD341790",
+    "country_id": "MD",
+    "name": "Cuzmin",
+    "shareBB": 0.4112,
+    "shareCircle": 0.288
+  },
+  {
+    "gem_id": "MD341820",
+    "country_id": "MD",
+    "name": "Delacău",
+    "shareBB": 0.4333,
+    "shareCircle": 0.3748
+  },
+  {
+    "gem_id": "MD341845",
+    "country_id": "MD",
+    "name": "Dnestrovsc",
+    "shareBB": 0.8618,
+    "shareCircle": 0.3244
+  },
+  {
+    "gem_id": "MD341860",
+    "country_id": "MD",
+    "name": "Doibani 1",
+    "shareBB": 0.4649,
+    "shareCircle": 0.463
+  },
+  {
+    "gem_id": "MD341945",
+    "country_id": "MD",
+    "name": "Dubăsari",
+    "shareBB": 0.4558,
+    "shareCircle": 0.2766
+  },
+  {
+    "gem_id": "MD341955",
+    "country_id": "MD",
+    "name": "Dubău",
+    "shareBB": 0.4158,
+    "shareCircle": 0.4309
+  },
+  {
+    "gem_id": "MD341980",
+    "country_id": "MD",
+    "name": "Dzerjinscoe",
+    "shareBB": 0.5133,
+    "shareCircle": 0.4509
+  },
+  {
+    "gem_id": "MD342125",
+    "country_id": "MD",
+    "name": "Frunză",
+    "shareBB": 0.3891,
+    "shareCircle": 0.3133
+  },
+  {
+    "gem_id": "MD342210",
+    "country_id": "MD",
+    "name": "Ghidirim",
+    "shareBB": 0.5389,
+    "shareCircle": 0.3679
+  },
+  {
+    "gem_id": "MD342255",
+    "country_id": "MD",
+    "name": "Goian",
+    "shareBB": 0.4107,
+    "shareCircle": 0.3186
+  },
+  {
+    "gem_id": "MD342315",
+    "country_id": "MD",
+    "name": "Grigoriopol",
+    "shareBB": 0.4242,
+    "shareCircle": 0.3095
+  },
+  {
+    "gem_id": "MD342400",
+    "country_id": "MD",
+    "name": "Haraba",
+    "shareBB": 0.618,
+    "shareCircle": 0.6344
+  },
+  {
+    "gem_id": "MD342410",
+    "country_id": "MD",
+    "name": "Harmaţca",
+    "shareBB": 0.3514,
+    "shareCircle": 0.1989
+  },
+  {
+    "gem_id": "MD342460",
+    "country_id": "MD",
+    "name": "Hîrjău",
+    "shareBB": 0.5816,
+    "shareCircle": 0.4574
+  },
+  {
+    "gem_id": "MD342475",
+    "country_id": "MD",
+    "name": "Hîrtop",
+    "shareBB": 0.3713,
+    "shareCircle": 0.2517
+  },
+  {
+    "gem_id": "MD342505",
+    "country_id": "MD",
+    "name": "Hlinaia",
+    "shareBB": 0.3706,
+    "shareCircle": 0.2467
+  },
+  {
+    "gem_id": "MD342510",
+    "country_id": "MD",
+    "name": "Hlinaia",
+    "shareBB": 0.4694,
+    "shareCircle": 0.3853
+  },
+  {
+    "gem_id": "MD342570",
+    "country_id": "MD",
+    "name": "Hristovaia",
+    "shareBB": 0.6657,
+    "shareCircle": 0.6164
+  },
+  {
+    "gem_id": "MD342575",
+    "country_id": "MD",
+    "name": "Hruşca",
+    "shareBB": 0.6583,
+    "shareCircle": 0.5392
+  },
+  {
+    "gem_id": "MD342735",
+    "country_id": "MD",
+    "name": "Jura",
+    "shareBB": 0.4924,
+    "shareCircle": 0.5131
+  },
+  {
+    "gem_id": "MD342775",
+    "country_id": "MD",
+    "name": "Lenin",
+    "shareBB": 0.3954,
+    "shareCircle": 0.2046
+  },
+  {
+    "gem_id": "MD342860",
+    "country_id": "MD",
+    "name": "Lunga",
+    "shareBB": 0.6168,
+    "shareCircle": 0.5009
+  },
+  {
+    "gem_id": "MD342885",
+    "country_id": "MD",
+    "name": "Mălăieşti",
+    "shareBB": 0.5434,
+    "shareCircle": 0.3797
+  },
+  {
+    "gem_id": "MD342930",
+    "country_id": "MD",
+    "name": "Maiac",
+    "shareBB": 0.583,
+    "shareCircle": 0.4599
+  },
+  {
+    "gem_id": "MD343050",
+    "country_id": "MD",
+    "name": "Mihailovca",
+    "shareBB": 0.4573,
+    "shareCircle": 0.4148
+  },
+  {
+    "gem_id": "MD343115",
+    "country_id": "MD",
+    "name": "Mocra",
+    "shareBB": 0.6358,
+    "shareCircle": 0.587
+  },
+  {
+    "gem_id": "MD343130",
+    "country_id": "MD",
+    "name": "Molochişul Mare",
+    "shareBB": 0.5427,
+    "shareCircle": 0.5178
+  },
+  {
+    "gem_id": "MD343180",
+    "country_id": "MD",
+    "name": "Tiraspol",
+    "shareBB": 0.5817,
+    "shareCircle": 0.5679
+  },
+  {
+    "gem_id": "MD343255",
+    "country_id": "MD",
+    "name": "Nezavertailovca",
+    "shareBB": 0.5668,
+    "shareCircle": 0.2968
+  },
+  {
+    "gem_id": "MD343340",
+    "country_id": "MD",
+    "name": "Ocniţa",
+    "shareBB": 0.7583,
+    "shareCircle": 0.6035
+  },
+  {
+    "gem_id": "MD343350",
+    "country_id": "MD",
+    "name": "Ofatinţi",
+    "shareBB": 0.3759,
+    "shareCircle": 0.3734
+  },
+  {
+    "gem_id": "MD343470",
+    "country_id": "MD",
+    "name": "Parcani",
+    "shareBB": 0.289,
+    "shareCircle": 0.2267
+  },
+  {
+    "gem_id": "MD343515",
+    "country_id": "MD",
+    "name": "Pervomaisc",
+    "shareBB": 0.2718,
+    "shareCircle": 0.1755
+  },
+  {
+    "gem_id": "MD343645",
+    "country_id": "MD",
+    "name": "Plopi",
+    "shareBB": 0.4305,
+    "shareCircle": 0.2992
+  },
+  {
+    "gem_id": "MD343675",
+    "country_id": "MD",
+    "name": "Podoima",
+    "shareBB": 0.5483,
+    "shareCircle": 0.5633
+  },
+  {
+    "gem_id": "MD343725",
+    "country_id": "MD",
+    "name": "Popencu",
+    "shareBB": 0.5381,
+    "shareCircle": 0.5803
+  },
+  {
+    "gem_id": "MD343855",
+    "country_id": "MD",
+    "name": "Raşcov",
+    "shareBB": 0.3764,
+    "shareCircle": 0.293
+  },
+  {
+    "gem_id": "MD343910",
+    "country_id": "MD",
+    "name": "Rîbniţa",
+    "shareBB": 0.2739,
+    "shareCircle": 0.2383
+  },
+  {
+    "gem_id": "MD343955",
+    "country_id": "MD",
+    "name": "Rotari",
+    "shareBB": 0.6777,
+    "shareCircle": 0.4181
+  },
+  {
+    "gem_id": "MD344165",
+    "country_id": "MD",
+    "name": "Severinovca",
+    "shareBB": 0.4548,
+    "shareCircle": 0.3374
+  },
+  {
+    "gem_id": "MD344220",
+    "country_id": "MD",
+    "name": "Slobozia",
+    "shareBB": 0.4229,
+    "shareCircle": 0.3859
+  },
+  {
+    "gem_id": "MD344245",
+    "country_id": "MD",
+    "name": "Slobozia-Raşcov",
+    "shareBB": 0.5448,
+    "shareCircle": 0.4703
+  },
+  {
+    "gem_id": "MD344280",
+    "country_id": "MD",
+    "name": "Sovetscoe",
+    "shareBB": 0.6068,
+    "shareCircle": 0.5329
+  },
+  {
+    "gem_id": "MD344285",
+    "country_id": "MD",
+    "name": "Speia",
+    "shareBB": 0.3019,
+    "shareCircle": 0.2332
+  },
+  {
+    "gem_id": "MD344330",
+    "country_id": "MD",
+    "name": "Stroieşti",
+    "shareBB": 0.5866,
+    "shareCircle": 0.3468
+  },
+  {
+    "gem_id": "MD344345",
+    "country_id": "MD",
+    "name": "Sucleia",
+    "shareBB": 0.4696,
+    "shareCircle": 0.3756
+  },
+  {
+    "gem_id": "MD344410",
+    "country_id": "MD",
+    "name": "Taşlîc",
+    "shareBB": 0.5083,
+    "shareCircle": 0.5174
+  },
+  {
+    "gem_id": "MD344470",
+    "country_id": "MD",
+    "name": "Teiu",
+    "shareBB": 0.3285,
+    "shareCircle": 0.2438
+  },
+  {
+    "gem_id": "MD344520",
+    "country_id": "MD",
+    "name": "Tiraspolul Nou",
+    "shareBB": 0.4672,
+    "shareCircle": 0.4576
+  },
+  {
+    "gem_id": "MD344530",
+    "country_id": "MD",
+    "name": "Tîrnauca",
+    "shareBB": 0.3345,
+    "shareCircle": 0.2304
+  },
+  {
+    "gem_id": "MD344655",
+    "country_id": "MD",
+    "name": "Ulmu",
+    "shareBB": 0.502,
+    "shareCircle": 0.314
+  },
+  {
+    "gem_id": "MD344715",
+    "country_id": "MD",
+    "name": "Vărăncău",
+    "shareBB": 0.4017,
+    "shareCircle": 0.3854
+  },
+  {
+    "gem_id": "MD344780",
+    "country_id": "MD",
+    "name": "Vadul Turcului",
+    "shareBB": 0.5048,
+    "shareCircle": 0.4243
+  },
+  {
+    "gem_id": "MD344790",
+    "country_id": "MD",
+    "name": "Valea Adîncă",
+    "shareBB": 0.5745,
+    "shareCircle": 0.4288
+  },
+  {
+    "gem_id": "MD344875",
+    "country_id": "MD",
+    "name": "Vinogradnoe",
+    "shareBB": 0.5671,
+    "shareCircle": 0.635
+  },
+  {
+    "gem_id": "MD344890",
+    "country_id": "MD",
+    "name": "Vladimirovca",
+    "shareBB": 0.5353,
+    "shareCircle": 0.4533
+  },
+  {
+    "gem_id": "MD350305",
+    "country_id": "MD",
+    "name": "Băcioi",
+    "shareBB": 0.6244,
+    "shareCircle": 0.5441
+  },
+  {
+    "gem_id": "MD350700",
+    "country_id": "MD",
+    "name": "Bubuieci",
+    "shareBB": 0.612,
+    "shareCircle": 0.5878
+  },
+  {
+    "gem_id": "MD350735",
+    "country_id": "MD",
+    "name": "Budeşti",
+    "shareBB": 0.5849,
+    "shareCircle": 0.5142
+  },
+  {
+    "gem_id": "MD351245",
+    "country_id": "MD",
+    "name": "Ciorescu",
+    "shareBB": 0.4946,
+    "shareCircle": 0.4947
+  },
+  {
+    "gem_id": "MD351415",
+    "country_id": "MD",
+    "name": "Codru",
+    "shareBB": 0.5386,
+    "shareCircle": 0.4864
+  },
+  {
+    "gem_id": "MD351450",
+    "country_id": "MD",
+    "name": "Coloniţa",
+    "shareBB": 0.5977,
+    "shareCircle": 0.5085
+  },
+  {
+    "gem_id": "MD351470",
+    "country_id": "MD",
+    "name": "Condriţa",
+    "shareBB": 0.3681,
+    "shareCircle": 0.1831
+  },
+  {
+    "gem_id": "MD351685",
+    "country_id": "MD",
+    "name": "Cricova",
+    "shareBB": 0.56,
+    "shareCircle": 0.4222
+  },
+  {
+    "gem_id": "MD351725",
+    "country_id": "MD",
+    "name": "Cruzeşti",
+    "shareBB": 0.6281,
+    "shareCircle": 0.6305
+  },
+  {
+    "gem_id": "MD351975",
+    "country_id": "MD",
+    "name": "Durleşti",
+    "shareBB": 0.5738,
+    "shareCircle": 0.3813
+  },
+  {
+    "gem_id": "MD352205",
+    "country_id": "MD",
+    "name": "Ghidighici",
+    "shareBB": 0.5417,
+    "shareCircle": 0.5218
+  },
+  {
+    "gem_id": "MD352285",
+    "country_id": "MD",
+    "name": "Grătieşti",
+    "shareBB": 0.4131,
+    "shareCircle": 0.3826
+  },
+  {
+    "gem_id": "MD353165",
+    "country_id": "MD",
+    "name": "Chişinău",
+    "shareBB": 0.3676,
+    "shareCircle": 0.3014
+  },
+  {
+    "gem_id": "MD354180",
+    "country_id": "MD",
+    "name": "Sîngera",
+    "shareBB": 0.6564,
+    "shareCircle": 0.6486
+  },
+  {
+    "gem_id": "MD354295",
+    "country_id": "MD",
+    "name": "Stăuceni",
+    "shareBB": 0.5463,
+    "shareCircle": 0.4249
+  },
+  {
+    "gem_id": "MD354565",
+    "country_id": "MD",
+    "name": "Tohatin",
+    "shareBB": 0.5162,
+    "shareCircle": 0.5034
+  },
+  {
+    "gem_id": "MD354625",
+    "country_id": "MD",
+    "name": "Truşeni",
+    "shareBB": 0.5194,
+    "shareCircle": 0.5174
+  },
+  {
+    "gem_id": "MD354775",
+    "country_id": "MD",
+    "name": "Vadul lui Vodă",
+    "shareBB": 0.3135,
+    "shareCircle": 0.285
+  },
+  {
+    "gem_id": "MD354835",
+    "country_id": "MD",
+    "name": "Vatra",
+    "shareBB": 0.2552,
+    "shareCircle": 0.1711
+  },
+  {
+    "gem_id": "MD362015",
+    "country_id": "MD",
+    "name": "Elizaveta",
+    "shareBB": 0.3988,
+    "shareCircle": 0.437
+  },
+  {
+    "gem_id": "MD363160",
+    "country_id": "MD",
+    "name": "Bălţi",
+    "shareBB": 0.4853,
+    "shareCircle": 0.3737
+  },
+  {
+    "gem_id": "MD364070",
+    "country_id": "MD",
+    "name": "Sadovoe",
+    "shareBB": 0.5262,
+    "shareCircle": 0.4142
+  },
+  {
+    "gem_id": "MD373175",
+    "country_id": "MD",
+    "name": "Bender",
+    "shareBB": 0.4168,
+    "shareCircle": 0.3312
+  },
+  {
+    "gem_id": "MD373760",
+    "country_id": "MD",
+    "name": "Proteagailovca",
+    "shareBB": 0.5656,
+    "shareCircle": 0.5928
+  }
+]

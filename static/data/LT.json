@@ -1,0 +1,3915 @@
+[
+  {
+    "gem_id": "LT011100",
+    "country_id": "LT",
+    "name": "Alytus",
+    "shareBB": 0.5159,
+    "shareCircle": 0.5134
+  },
+  {
+    "gem_id": "LT011500",
+    "country_id": "LT",
+    "name": "Druskininkai",
+    "shareBB": 0.5635,
+    "shareCircle": 0.6525
+  },
+  {
+    "gem_id": "LT011545",
+    "country_id": "LT",
+    "name": "Leipalingis",
+    "shareBB": 0.546,
+    "shareCircle": 0.4198
+  },
+  {
+    "gem_id": "LT011570",
+    "country_id": "LT",
+    "name": "Viečiūnai",
+    "shareBB": 0.5728,
+    "shareCircle": 0.5401
+  },
+  {
+    "gem_id": "LT013301",
+    "country_id": "LT",
+    "name": "Alytus",
+    "shareBB": 0.421,
+    "shareCircle": 0.2508
+  },
+  {
+    "gem_id": "LT013302",
+    "country_id": "LT",
+    "name": "Alovė",
+    "shareBB": 0.4666,
+    "shareCircle": 0.3709
+  },
+  {
+    "gem_id": "LT013310",
+    "country_id": "LT",
+    "name": "Butrimonys",
+    "shareBB": 0.4657,
+    "shareCircle": 0.3786
+  },
+  {
+    "gem_id": "LT013317",
+    "country_id": "LT",
+    "name": "Daugai",
+    "shareBB": 0.5062,
+    "shareCircle": 0.4428
+  },
+  {
+    "gem_id": "LT013330",
+    "country_id": "LT",
+    "name": "Krokialaukis",
+    "shareBB": 0.5743,
+    "shareCircle": 0.5936
+  },
+  {
+    "gem_id": "LT013338",
+    "country_id": "LT",
+    "name": "Miroslavas",
+    "shareBB": 0.5282,
+    "shareCircle": 0.4121
+  },
+  {
+    "gem_id": "LT013342",
+    "country_id": "LT",
+    "name": "Nemunaitis",
+    "shareBB": 0.5567,
+    "shareCircle": 0.5177
+  },
+  {
+    "gem_id": "LT013348",
+    "country_id": "LT",
+    "name": "Pivašiūnai",
+    "shareBB": 0.5369,
+    "shareCircle": 0.4151
+  },
+  {
+    "gem_id": "LT013353",
+    "country_id": "LT",
+    "name": "Punia",
+    "shareBB": 0.5776,
+    "shareCircle": 0.5786
+  },
+  {
+    "gem_id": "LT013359",
+    "country_id": "LT",
+    "name": "Raitininkai",
+    "shareBB": 0.5832,
+    "shareCircle": 0.4105
+  },
+  {
+    "gem_id": "LT013380",
+    "country_id": "LT",
+    "name": "Simnas",
+    "shareBB": 0.5813,
+    "shareCircle": 0.5509
+  },
+  {
+    "gem_id": "LT013805",
+    "country_id": "LT",
+    "name": "Valkininkai",
+    "shareBB": 0.5025,
+    "shareCircle": 0.4004
+  },
+  {
+    "gem_id": "LT013808",
+    "country_id": "LT",
+    "name": "Varėna",
+    "shareBB": 0.4827,
+    "shareCircle": 0.4452
+  },
+  {
+    "gem_id": "LT013813",
+    "country_id": "LT",
+    "name": "Vydeniai",
+    "shareBB": 0.5436,
+    "shareCircle": 0.5428
+  },
+  {
+    "gem_id": "LT013826",
+    "country_id": "LT",
+    "name": "Kaniava",
+    "shareBB": 0.5839,
+    "shareCircle": 0.6232
+  },
+  {
+    "gem_id": "LT013838",
+    "country_id": "LT",
+    "name": "Marcinkonys",
+    "shareBB": 0.6371,
+    "shareCircle": 0.5076
+  },
+  {
+    "gem_id": "LT013842",
+    "country_id": "LT",
+    "name": "Matuizos",
+    "shareBB": 0.552,
+    "shareCircle": 0.48
+  },
+  {
+    "gem_id": "LT013847",
+    "country_id": "LT",
+    "name": "Merkinė",
+    "shareBB": 0.5784,
+    "shareCircle": 0.5623
+  },
+  {
+    "gem_id": "LT013879",
+    "country_id": "LT",
+    "name": "Jakėnai",
+    "shareBB": 0.5967,
+    "shareCircle": 0.4973
+  },
+  {
+    "gem_id": "LT015901",
+    "country_id": "LT",
+    "name": "Lazdijai",
+    "shareBB": 0.3437,
+    "shareCircle": 0.2455
+  },
+  {
+    "gem_id": "LT015908",
+    "country_id": "LT",
+    "name": "Būdvietis",
+    "shareBB": 0.578,
+    "shareCircle": 0.4471
+  },
+  {
+    "gem_id": "LT015925",
+    "country_id": "LT",
+    "name": "Kapčiamiestis",
+    "shareBB": 0.5511,
+    "shareCircle": 0.5079
+  },
+  {
+    "gem_id": "LT015930",
+    "country_id": "LT",
+    "name": "Krosna",
+    "shareBB": 0.5597,
+    "shareCircle": 0.4741
+  },
+  {
+    "gem_id": "LT015937",
+    "country_id": "LT",
+    "name": "Kučiūnai",
+    "shareBB": 0.4658,
+    "shareCircle": 0.3373
+  },
+  {
+    "gem_id": "LT015940",
+    "country_id": "LT",
+    "name": "Lazdijai",
+    "shareBB": 0.583,
+    "shareCircle": 0.5634
+  },
+  {
+    "gem_id": "LT015950",
+    "country_id": "LT",
+    "name": "Noragėliai",
+    "shareBB": 0.4898,
+    "shareCircle": 0.3764
+  },
+  {
+    "gem_id": "LT015969",
+    "country_id": "LT",
+    "name": "Seirijai",
+    "shareBB": 0.4093,
+    "shareCircle": 0.37
+  },
+  {
+    "gem_id": "LT015979",
+    "country_id": "LT",
+    "name": "Šventežeris",
+    "shareBB": 0.5507,
+    "shareCircle": 0.4593
+  },
+  {
+    "gem_id": "LT015984",
+    "country_id": "LT",
+    "name": "Šlavantos",
+    "shareBB": 0.522,
+    "shareCircle": 0.4261
+  },
+  {
+    "gem_id": "LT015990",
+    "country_id": "LT",
+    "name": "Šeštokai",
+    "shareBB": 0.5866,
+    "shareCircle": 0.4482
+  },
+  {
+    "gem_id": "LT015998",
+    "country_id": "LT",
+    "name": "Veisiejai",
+    "shareBB": 0.4913,
+    "shareCircle": 0.3946
+  },
+  {
+    "gem_id": "LT021200",
+    "country_id": "LT",
+    "name": "Birštonas",
+    "shareBB": 0.6164,
+    "shareCircle": 0.5172
+  },
+  {
+    "gem_id": "LT021201",
+    "country_id": "LT",
+    "name": "Birštonas",
+    "shareBB": 0.3486,
+    "shareCircle": 0.3621
+  },
+  {
+    "gem_id": "LT021901",
+    "country_id": "LT",
+    "name": "Centras",
+    "shareBB": 0.5275,
+    "shareCircle": 0.3194
+  },
+  {
+    "gem_id": "LT021902",
+    "country_id": "LT",
+    "name": "Žaliakalnis",
+    "shareBB": 0.4871,
+    "shareCircle": 0.4794
+  },
+  {
+    "gem_id": "LT021903",
+    "country_id": "LT",
+    "name": "Šančiai",
+    "shareBB": 0.6428,
+    "shareCircle": 0.4752
+  },
+  {
+    "gem_id": "LT021904",
+    "country_id": "LT",
+    "name": "Dainava",
+    "shareBB": 0.4823,
+    "shareCircle": 0.2995
+  },
+  {
+    "gem_id": "LT021905",
+    "country_id": "LT",
+    "name": "Gričiupis",
+    "shareBB": 0.6414,
+    "shareCircle": 0.5679
+  },
+  {
+    "gem_id": "LT021906",
+    "country_id": "LT",
+    "name": "Petrašiūnai",
+    "shareBB": 0.4669,
+    "shareCircle": 0.4618
+  },
+  {
+    "gem_id": "LT021907",
+    "country_id": "LT",
+    "name": "Panemunė",
+    "shareBB": 0.3955,
+    "shareCircle": 0.3646
+  },
+  {
+    "gem_id": "LT021908",
+    "country_id": "LT",
+    "name": "Aleksotas",
+    "shareBB": 0.4626,
+    "shareCircle": 0.3135
+  },
+  {
+    "gem_id": "LT021909",
+    "country_id": "LT",
+    "name": "Eiguliai",
+    "shareBB": 0.6751,
+    "shareCircle": 0.713
+  },
+  {
+    "gem_id": "LT021910",
+    "country_id": "LT",
+    "name": "Vilijampolė",
+    "shareBB": 0.3137,
+    "shareCircle": 0.1723
+  },
+  {
+    "gem_id": "LT021911",
+    "country_id": "LT",
+    "name": "Šilainiai",
+    "shareBB": 0.5205,
+    "shareCircle": 0.3525
+  },
+  {
+    "gem_id": "LT024601",
+    "country_id": "LT",
+    "name": "Jonava",
+    "shareBB": 0.5627,
+    "shareCircle": 0.5658
+  },
+  {
+    "gem_id": "LT024607",
+    "country_id": "LT",
+    "name": "Bukonys",
+    "shareBB": 0.4689,
+    "shareCircle": 0.2948
+  },
+  {
+    "gem_id": "LT024613",
+    "country_id": "LT",
+    "name": "Šveicarija",
+    "shareBB": 0.4618,
+    "shareCircle": 0.3789
+  },
+  {
+    "gem_id": "LT024620",
+    "country_id": "LT",
+    "name": "Rukla",
+    "shareBB": 0.506,
+    "shareCircle": 0.4458
+  },
+  {
+    "gem_id": "LT024624",
+    "country_id": "LT",
+    "name": "Žeimiai",
+    "shareBB": 0.46,
+    "shareCircle": 0.3039
+  },
+  {
+    "gem_id": "LT024635",
+    "country_id": "LT",
+    "name": "Kulva",
+    "shareBB": 0.4911,
+    "shareCircle": 0.4455
+  },
+  {
+    "gem_id": "LT024657",
+    "country_id": "LT",
+    "name": "Upninkai",
+    "shareBB": 0.4845,
+    "shareCircle": 0.5512
+  },
+  {
+    "gem_id": "LT024668",
+    "country_id": "LT",
+    "name": "Užusaliai",
+    "shareBB": 0.5876,
+    "shareCircle": 0.5165
+  },
+  {
+    "gem_id": "LT024677",
+    "country_id": "LT",
+    "name": "Šilai",
+    "shareBB": 0.5091,
+    "shareCircle": 0.4151
+  },
+  {
+    "gem_id": "LT024909",
+    "country_id": "LT",
+    "name": "Žasliai",
+    "shareBB": 0.5234,
+    "shareCircle": 0.4876
+  },
+  {
+    "gem_id": "LT024913",
+    "country_id": "LT",
+    "name": "Žiežmariai",
+    "shareBB": 0.6073,
+    "shareCircle": 0.6136
+  },
+  {
+    "gem_id": "LT024915",
+    "country_id": "LT",
+    "name": "Žiežmariai",
+    "shareBB": 0.5732,
+    "shareCircle": 0.4952
+  },
+  {
+    "gem_id": "LT024917",
+    "country_id": "LT",
+    "name": "Kaišiadorys",
+    "shareBB": 0.4165,
+    "shareCircle": 0.2982
+  },
+  {
+    "gem_id": "LT024921",
+    "country_id": "LT",
+    "name": "Kaišiadorys",
+    "shareBB": 0.6407,
+    "shareCircle": 0.5674
+  },
+  {
+    "gem_id": "LT024937",
+    "country_id": "LT",
+    "name": "Kruonis",
+    "shareBB": 0.599,
+    "shareCircle": 0.5228
+  },
+  {
+    "gem_id": "LT024940",
+    "country_id": "LT",
+    "name": "Nemaitonys",
+    "shareBB": 0.5145,
+    "shareCircle": 0.4051
+  },
+  {
+    "gem_id": "LT024942",
+    "country_id": "LT",
+    "name": "Palomenė",
+    "shareBB": 0.4696,
+    "shareCircle": 0.4072
+  },
+  {
+    "gem_id": "LT024946",
+    "country_id": "LT",
+    "name": "Paparčiai",
+    "shareBB": 0.6535,
+    "shareCircle": 0.5071
+  },
+  {
+    "gem_id": "LT024952",
+    "country_id": "LT",
+    "name": "Rumšiškės",
+    "shareBB": 0.5194,
+    "shareCircle": 0.3549
+  },
+  {
+    "gem_id": "LT024953",
+    "country_id": "LT",
+    "name": "Pravieniškės",
+    "shareBB": 0.4885,
+    "shareCircle": 0.4132
+  },
+  {
+    "gem_id": "LT025203",
+    "country_id": "LT",
+    "name": "Alšėnai",
+    "shareBB": 0.562,
+    "shareCircle": 0.3524
+  },
+  {
+    "gem_id": "LT025207",
+    "country_id": "LT",
+    "name": "Babtai",
+    "shareBB": 0.5499,
+    "shareCircle": 0.5414
+  },
+  {
+    "gem_id": "LT025209",
+    "country_id": "LT",
+    "name": "Ežerėlis",
+    "shareBB": 0.4619,
+    "shareCircle": 0.3371
+  },
+  {
+    "gem_id": "LT025210",
+    "country_id": "LT",
+    "name": "Batniava",
+    "shareBB": 0.5821,
+    "shareCircle": 0.5486
+  },
+  {
+    "gem_id": "LT025215",
+    "country_id": "LT",
+    "name": "Vandžiogala",
+    "shareBB": 0.5268,
+    "shareCircle": 0.4821
+  },
+  {
+    "gem_id": "LT025218",
+    "country_id": "LT",
+    "name": "Vilkija",
+    "shareBB": 0.5413,
+    "shareCircle": 0.3988
+  },
+  {
+    "gem_id": "LT025219",
+    "country_id": "LT",
+    "name": "Vilkija",
+    "shareBB": 0.5007,
+    "shareCircle": 0.4248
+  },
+  {
+    "gem_id": "LT025221",
+    "country_id": "LT",
+    "name": "Garliava",
+    "shareBB": 0.4446,
+    "shareCircle": 0.4237
+  },
+  {
+    "gem_id": "LT025223",
+    "country_id": "LT",
+    "name": "Garliava",
+    "shareBB": 0.5548,
+    "shareCircle": 0.4187
+  },
+  {
+    "gem_id": "LT025226",
+    "country_id": "LT",
+    "name": "Domeikava",
+    "shareBB": 0.4947,
+    "shareCircle": 0.5248
+  },
+  {
+    "gem_id": "LT025229",
+    "country_id": "LT",
+    "name": "Zapyškis",
+    "shareBB": 0.4548,
+    "shareCircle": 0.4473
+  },
+  {
+    "gem_id": "LT025233",
+    "country_id": "LT",
+    "name": "Karmėlava",
+    "shareBB": 0.575,
+    "shareCircle": 0.4385
+  },
+  {
+    "gem_id": "LT025236",
+    "country_id": "LT",
+    "name": "Kačerginė",
+    "shareBB": 0.3984,
+    "shareCircle": 0.2414
+  },
+  {
+    "gem_id": "LT025241",
+    "country_id": "LT",
+    "name": "Kulautuva",
+    "shareBB": 0.6368,
+    "shareCircle": 0.4755
+  },
+  {
+    "gem_id": "LT025243",
+    "country_id": "LT",
+    "name": "Linksmakalnis",
+    "shareBB": 0.7712,
+    "shareCircle": 0.6615
+  },
+  {
+    "gem_id": "LT025245",
+    "country_id": "LT",
+    "name": "Ringaudai",
+    "shareBB": 0.5499,
+    "shareCircle": 0.4253
+  },
+  {
+    "gem_id": "LT025247",
+    "country_id": "LT",
+    "name": "Neveronys",
+    "shareBB": 0.537,
+    "shareCircle": 0.5811
+  },
+  {
+    "gem_id": "LT025257",
+    "country_id": "LT",
+    "name": "Lapės",
+    "shareBB": 0.5072,
+    "shareCircle": 0.5108
+  },
+  {
+    "gem_id": "LT025259",
+    "country_id": "LT",
+    "name": "Raudondvaris",
+    "shareBB": 0.684,
+    "shareCircle": 0.4585
+  },
+  {
+    "gem_id": "LT025262",
+    "country_id": "LT",
+    "name": "Rokai",
+    "shareBB": 0.5744,
+    "shareCircle": 0.5156
+  },
+  {
+    "gem_id": "LT025267",
+    "country_id": "LT",
+    "name": "Samylai",
+    "shareBB": 0.4584,
+    "shareCircle": 0.46
+  },
+  {
+    "gem_id": "LT025272",
+    "country_id": "LT",
+    "name": "Taurakiemis",
+    "shareBB": 0.3786,
+    "shareCircle": 0.3348
+  },
+  {
+    "gem_id": "LT025277",
+    "country_id": "LT",
+    "name": "Užliedžiai",
+    "shareBB": 0.4504,
+    "shareCircle": 0.2828
+  },
+  {
+    "gem_id": "LT025282",
+    "country_id": "LT",
+    "name": "Čekiškė",
+    "shareBB": 0.4189,
+    "shareCircle": 0.3937
+  },
+  {
+    "gem_id": "LT025290",
+    "country_id": "LT",
+    "name": "Akademija",
+    "shareBB": 0.5755,
+    "shareCircle": 0.4954
+  },
+  {
+    "gem_id": "LT025301",
+    "country_id": "LT",
+    "name": "Kėdainiai",
+    "shareBB": 0.4974,
+    "shareCircle": 0.5304
+  },
+  {
+    "gem_id": "LT025302",
+    "country_id": "LT",
+    "name": "Vilainiai",
+    "shareBB": 0.5814,
+    "shareCircle": 0.5054
+  },
+  {
+    "gem_id": "LT025305",
+    "country_id": "LT",
+    "name": "Gudžiūnai",
+    "shareBB": 0.4461,
+    "shareCircle": 0.3722
+  },
+  {
+    "gem_id": "LT025313",
+    "country_id": "LT",
+    "name": "Dotnuva",
+    "shareBB": 0.52,
+    "shareCircle": 0.4776
+  },
+  {
+    "gem_id": "LT025317",
+    "country_id": "LT",
+    "name": "Josvainiai",
+    "shareBB": 0.5534,
+    "shareCircle": 0.5385
+  },
+  {
+    "gem_id": "LT025325",
+    "country_id": "LT",
+    "name": "Krakės",
+    "shareBB": 0.5662,
+    "shareCircle": 0.5519
+  },
+  {
+    "gem_id": "LT025349",
+    "country_id": "LT",
+    "name": "Pelėdnagiai",
+    "shareBB": 0.4666,
+    "shareCircle": 0.4154
+  },
+  {
+    "gem_id": "LT025352",
+    "country_id": "LT",
+    "name": "Pernarava",
+    "shareBB": 0.5555,
+    "shareCircle": 0.3978
+  },
+  {
+    "gem_id": "LT025355",
+    "country_id": "LT",
+    "name": "Surviliškis",
+    "shareBB": 0.5035,
+    "shareCircle": 0.3344
+  },
+  {
+    "gem_id": "LT025370",
+    "country_id": "LT",
+    "name": "Truskava",
+    "shareBB": 0.5478,
+    "shareCircle": 0.4955
+  },
+  {
+    "gem_id": "LT025377",
+    "country_id": "LT",
+    "name": "Šėta",
+    "shareBB": 0.4464,
+    "shareCircle": 0.3414
+  },
+  {
+    "gem_id": "LT026901",
+    "country_id": "LT",
+    "name": "Prienai",
+    "shareBB": 0.4369,
+    "shareCircle": 0.3912
+  },
+  {
+    "gem_id": "LT026904",
+    "country_id": "LT",
+    "name": "Ašminta",
+    "shareBB": 0.5732,
+    "shareCircle": 0.4858
+  },
+  {
+    "gem_id": "LT026908",
+    "country_id": "LT",
+    "name": "Balbieriškis",
+    "shareBB": 0.5201,
+    "shareCircle": 0.4123
+  },
+  {
+    "gem_id": "LT026925",
+    "country_id": "LT",
+    "name": "Veiveriai",
+    "shareBB": 0.5012,
+    "shareCircle": 0.5539
+  },
+  {
+    "gem_id": "LT026930",
+    "country_id": "LT",
+    "name": "Jieznas",
+    "shareBB": 0.5711,
+    "shareCircle": 0.5429
+  },
+  {
+    "gem_id": "LT026935",
+    "country_id": "LT",
+    "name": "Išlaužas",
+    "shareBB": 0.4734,
+    "shareCircle": 0.5168
+  },
+  {
+    "gem_id": "LT026950",
+    "country_id": "LT",
+    "name": "Naujoji Ūta",
+    "shareBB": 0.4875,
+    "shareCircle": 0.48
+  },
+  {
+    "gem_id": "LT026961",
+    "country_id": "LT",
+    "name": "Pakuonis",
+    "shareBB": 0.5288,
+    "shareCircle": 0.4412
+  },
+  {
+    "gem_id": "LT026973",
+    "country_id": "LT",
+    "name": "Stakliškės",
+    "shareBB": 0.6179,
+    "shareCircle": 0.6834
+  },
+  {
+    "gem_id": "LT026984",
+    "country_id": "LT",
+    "name": "Šilavotas",
+    "shareBB": 0.413,
+    "shareCircle": 0.3288
+  },
+  {
+    "gem_id": "LT027201",
+    "country_id": "LT",
+    "name": "Raseiniai",
+    "shareBB": 0.5698,
+    "shareCircle": 0.4245
+  },
+  {
+    "gem_id": "LT027205",
+    "country_id": "LT",
+    "name": "Ariogala",
+    "shareBB": 0.4042,
+    "shareCircle": 0.3075
+  },
+  {
+    "gem_id": "LT027209",
+    "country_id": "LT",
+    "name": "Ariogala",
+    "shareBB": 0.5428,
+    "shareCircle": 0.4938
+  },
+  {
+    "gem_id": "LT027213",
+    "country_id": "LT",
+    "name": "Betygala",
+    "shareBB": 0.4324,
+    "shareCircle": 0.4298
+  },
+  {
+    "gem_id": "LT027219",
+    "country_id": "LT",
+    "name": "Viduklė",
+    "shareBB": 0.4451,
+    "shareCircle": 0.2998
+  },
+  {
+    "gem_id": "LT027226",
+    "country_id": "LT",
+    "name": "Girkalnis",
+    "shareBB": 0.6144,
+    "shareCircle": 0.6153
+  },
+  {
+    "gem_id": "LT027245",
+    "country_id": "LT",
+    "name": "Kalnujai",
+    "shareBB": 0.6288,
+    "shareCircle": 0.5879
+  },
+  {
+    "gem_id": "LT027251",
+    "country_id": "LT",
+    "name": "Nemakščiai",
+    "shareBB": 0.5889,
+    "shareCircle": 0.6894
+  },
+  {
+    "gem_id": "LT027262",
+    "country_id": "LT",
+    "name": "Pagojukai",
+    "shareBB": 0.3643,
+    "shareCircle": 0.3157
+  },
+  {
+    "gem_id": "LT027273",
+    "country_id": "LT",
+    "name": "Paliepiai",
+    "shareBB": 0.5524,
+    "shareCircle": 0.4909
+  },
+  {
+    "gem_id": "LT027284",
+    "country_id": "LT",
+    "name": "Raseiniai",
+    "shareBB": 0.5427,
+    "shareCircle": 0.4794
+  },
+  {
+    "gem_id": "LT027295",
+    "country_id": "LT",
+    "name": "Šiluva",
+    "shareBB": 0.5054,
+    "shareCircle": 0.4368
+  },
+  {
+    "gem_id": "LT029900",
+    "country_id": "LT",
+    "name": "N_A",
+    "shareBB": 0.2085,
+    "shareCircle": 0.1525
+  },
+  {
+    "gem_id": "LT032100",
+    "country_id": "LT",
+    "name": "Klaipėda",
+    "shareBB": 0.3638,
+    "shareCircle": 0.2634
+  },
+  {
+    "gem_id": "LT032300",
+    "country_id": "LT",
+    "name": "Neringa",
+    "shareBB": 0.2819,
+    "shareCircle": 0.0562
+  },
+  {
+    "gem_id": "LT032500",
+    "country_id": "LT",
+    "name": "Palanga",
+    "shareBB": 0.5152,
+    "shareCircle": 0.1608
+  },
+  {
+    "gem_id": "LT035501",
+    "country_id": "LT",
+    "name": "Gargždai",
+    "shareBB": 0.5532,
+    "shareCircle": 0.533
+  },
+  {
+    "gem_id": "LT035504",
+    "country_id": "LT",
+    "name": "Agluonėnai",
+    "shareBB": 0.5351,
+    "shareCircle": 0.5633
+  },
+  {
+    "gem_id": "LT035510",
+    "country_id": "LT",
+    "name": "Judrėnai",
+    "shareBB": 0.5514,
+    "shareCircle": 0.4457
+  },
+  {
+    "gem_id": "LT035513",
+    "country_id": "LT",
+    "name": "Vėžaičiai",
+    "shareBB": 0.5498,
+    "shareCircle": 0.4458
+  },
+  {
+    "gem_id": "LT035518",
+    "country_id": "LT",
+    "name": "Veiviržėnai",
+    "shareBB": 0.4699,
+    "shareCircle": 0.4783
+  },
+  {
+    "gem_id": "LT035525",
+    "country_id": "LT",
+    "name": "Dauparai - Kvietiniai",
+    "shareBB": 0.6185,
+    "shareCircle": 0.4384
+  },
+  {
+    "gem_id": "LT035536",
+    "country_id": "LT",
+    "name": "Dovilai",
+    "shareBB": 0.6279,
+    "shareCircle": 0.3917
+  },
+  {
+    "gem_id": "LT035547",
+    "country_id": "LT",
+    "name": "Kretingalė",
+    "shareBB": 0.5109,
+    "shareCircle": 0.4288
+  },
+  {
+    "gem_id": "LT035566",
+    "country_id": "LT",
+    "name": "Priekulė",
+    "shareBB": 0.4699,
+    "shareCircle": 0.4464
+  },
+  {
+    "gem_id": "LT035570",
+    "country_id": "LT",
+    "name": "Sendvaris",
+    "shareBB": 0.5638,
+    "shareCircle": 0.4486
+  },
+  {
+    "gem_id": "LT035581",
+    "country_id": "LT",
+    "name": "Endriejavas",
+    "shareBB": 0.5142,
+    "shareCircle": 0.3775
+  },
+  {
+    "gem_id": "LT035601",
+    "country_id": "LT",
+    "name": "Kretinga",
+    "shareBB": 0.5728,
+    "shareCircle": 0.603
+  },
+  {
+    "gem_id": "LT035610",
+    "country_id": "LT",
+    "name": "Salantai",
+    "shareBB": 0.6147,
+    "shareCircle": 0.5809
+  },
+  {
+    "gem_id": "LT035618",
+    "country_id": "LT",
+    "name": "Darbėnai",
+    "shareBB": 0.681,
+    "shareCircle": 0.5618
+  },
+  {
+    "gem_id": "LT035623",
+    "country_id": "LT",
+    "name": "Žalgiris",
+    "shareBB": 0.5886,
+    "shareCircle": 0.5167
+  },
+  {
+    "gem_id": "LT035634",
+    "country_id": "LT",
+    "name": "Imbarė",
+    "shareBB": 0.6098,
+    "shareCircle": 0.5724
+  },
+  {
+    "gem_id": "LT035645",
+    "country_id": "LT",
+    "name": "Kartena",
+    "shareBB": 0.4673,
+    "shareCircle": 0.5486
+  },
+  {
+    "gem_id": "LT035651",
+    "country_id": "LT",
+    "name": "Kretinga",
+    "shareBB": 0.5333,
+    "shareCircle": 0.4329
+  },
+  {
+    "gem_id": "LT035656",
+    "country_id": "LT",
+    "name": "Kūlupėnai",
+    "shareBB": 0.609,
+    "shareCircle": 0.5435
+  },
+  {
+    "gem_id": "LT037501",
+    "country_id": "LT",
+    "name": "Skuodas",
+    "shareBB": 0.5586,
+    "shareCircle": 0.4502
+  },
+  {
+    "gem_id": "LT037508",
+    "country_id": "LT",
+    "name": "Aleksandrija",
+    "shareBB": 0.4823,
+    "shareCircle": 0.3351
+  },
+  {
+    "gem_id": "LT037512",
+    "country_id": "LT",
+    "name": "Barstyčiai",
+    "shareBB": 0.7869,
+    "shareCircle": 0.626
+  },
+  {
+    "gem_id": "LT037524",
+    "country_id": "LT",
+    "name": "Ylakiai",
+    "shareBB": 0.5938,
+    "shareCircle": 0.4783
+  },
+  {
+    "gem_id": "LT037535",
+    "country_id": "LT",
+    "name": "Lenkimai",
+    "shareBB": 0.5857,
+    "shareCircle": 0.4643
+  },
+  {
+    "gem_id": "LT037546",
+    "country_id": "LT",
+    "name": "Mosėdis",
+    "shareBB": 0.5797,
+    "shareCircle": 0.4787
+  },
+  {
+    "gem_id": "LT037557",
+    "country_id": "LT",
+    "name": "Notėnai",
+    "shareBB": 0.6245,
+    "shareCircle": 0.5821
+  },
+  {
+    "gem_id": "LT037579",
+    "country_id": "LT",
+    "name": "Skuodas",
+    "shareBB": 0.4085,
+    "shareCircle": 0.3099
+  },
+  {
+    "gem_id": "LT037580",
+    "country_id": "LT",
+    "name": "Šatės",
+    "shareBB": 0.6433,
+    "shareCircle": 0.5059
+  },
+  {
+    "gem_id": "LT038801",
+    "country_id": "LT",
+    "name": "Šilutė",
+    "shareBB": 0.5288,
+    "shareCircle": 0.5732
+  },
+  {
+    "gem_id": "LT038806",
+    "country_id": "LT",
+    "name": "Vainutas",
+    "shareBB": 0.5556,
+    "shareCircle": 0.5706
+  },
+  {
+    "gem_id": "LT038813",
+    "country_id": "LT",
+    "name": "Gardamas",
+    "shareBB": 0.479,
+    "shareCircle": 0.3801
+  },
+  {
+    "gem_id": "LT038820",
+    "country_id": "LT",
+    "name": "Žemaičių Naumiestis",
+    "shareBB": 0.5005,
+    "shareCircle": 0.4784
+  },
+  {
+    "gem_id": "LT038840",
+    "country_id": "LT",
+    "name": "Katyčiai",
+    "shareBB": 0.6221,
+    "shareCircle": 0.4157
+  },
+  {
+    "gem_id": "LT038850",
+    "country_id": "LT",
+    "name": "Kintai",
+    "shareBB": 0.5738,
+    "shareCircle": 0.4952
+  },
+  {
+    "gem_id": "LT038866",
+    "country_id": "LT",
+    "name": "Rusnė",
+    "shareBB": 0.5161,
+    "shareCircle": 0.4699
+  },
+  {
+    "gem_id": "LT038872",
+    "country_id": "LT",
+    "name": "Saugos",
+    "shareBB": 0.5331,
+    "shareCircle": 0.4787
+  },
+  {
+    "gem_id": "LT038884",
+    "country_id": "LT",
+    "name": "Usėnai",
+    "shareBB": 0.4765,
+    "shareCircle": 0.382
+  },
+  {
+    "gem_id": "LT038888",
+    "country_id": "LT",
+    "name": "Švėkšna",
+    "shareBB": 0.4676,
+    "shareCircle": 0.459
+  },
+  {
+    "gem_id": "LT038897",
+    "country_id": "LT",
+    "name": "Juknaičiai",
+    "shareBB": 0.4838,
+    "shareCircle": 0.4599
+  },
+  {
+    "gem_id": "LT041801",
+    "country_id": "LT",
+    "name": "Degučiai",
+    "shareBB": 0.5322,
+    "shareCircle": 0.4101
+  },
+  {
+    "gem_id": "LT041802",
+    "country_id": "LT",
+    "name": "Mokolai",
+    "shareBB": 0.5782,
+    "shareCircle": 0.535
+  },
+  {
+    "gem_id": "LT041803",
+    "country_id": "LT",
+    "name": "Nartas",
+    "shareBB": 0.3491,
+    "shareCircle": 0.1776
+  },
+  {
+    "gem_id": "LT041820",
+    "country_id": "LT",
+    "name": "Gudeliai",
+    "shareBB": 0.6209,
+    "shareCircle": 0.638
+  },
+  {
+    "gem_id": "LT041830",
+    "country_id": "LT",
+    "name": "Igliauka",
+    "shareBB": 0.4456,
+    "shareCircle": 0.3088
+  },
+  {
+    "gem_id": "LT041842",
+    "country_id": "LT",
+    "name": "Liudvinavas",
+    "shareBB": 0.5694,
+    "shareCircle": 0.5519
+  },
+  {
+    "gem_id": "LT041847",
+    "country_id": "LT",
+    "name": "Marijampolė",
+    "shareBB": 0.4106,
+    "shareCircle": 0.2832
+  },
+  {
+    "gem_id": "LT041867",
+    "country_id": "LT",
+    "name": "Sasnava",
+    "shareBB": 0.4686,
+    "shareCircle": 0.3636
+  },
+  {
+    "gem_id": "LT041876",
+    "country_id": "LT",
+    "name": "Šunskai",
+    "shareBB": 0.6484,
+    "shareCircle": 0.4246
+  },
+  {
+    "gem_id": "LT043910",
+    "country_id": "LT",
+    "name": "Vilkaviškis",
+    "shareBB": 0.6066,
+    "shareCircle": 0.5388
+  },
+  {
+    "gem_id": "LT043914",
+    "country_id": "LT",
+    "name": "Bartninkai",
+    "shareBB": 0.6871,
+    "shareCircle": 0.6183
+  },
+  {
+    "gem_id": "LT043920",
+    "country_id": "LT",
+    "name": "Vištytis",
+    "shareBB": 0.3979,
+    "shareCircle": 0.2688
+  },
+  {
+    "gem_id": "LT043926",
+    "country_id": "LT",
+    "name": "Gižai",
+    "shareBB": 0.6313,
+    "shareCircle": 0.5063
+  },
+  {
+    "gem_id": "LT043930",
+    "country_id": "LT",
+    "name": "Gražiškiai",
+    "shareBB": 0.5562,
+    "shareCircle": 0.5024
+  },
+  {
+    "gem_id": "LT043935",
+    "country_id": "LT",
+    "name": "Klausučiai",
+    "shareBB": 0.5464,
+    "shareCircle": 0.6233
+  },
+  {
+    "gem_id": "LT043938",
+    "country_id": "LT",
+    "name": "Keturvalakiai",
+    "shareBB": 0.5001,
+    "shareCircle": 0.3311
+  },
+  {
+    "gem_id": "LT043942",
+    "country_id": "LT",
+    "name": "Kybartai",
+    "shareBB": 0.4384,
+    "shareCircle": 0.2979
+  },
+  {
+    "gem_id": "LT043956",
+    "country_id": "LT",
+    "name": "Pajevonys",
+    "shareBB": 0.626,
+    "shareCircle": 0.5345
+  },
+  {
+    "gem_id": "LT043960",
+    "country_id": "LT",
+    "name": "Pilviškiai",
+    "shareBB": 0.4805,
+    "shareCircle": 0.5028
+  },
+  {
+    "gem_id": "LT043977",
+    "country_id": "LT",
+    "name": "Šeimena",
+    "shareBB": 0.5921,
+    "shareCircle": 0.5085
+  },
+  {
+    "gem_id": "LT043979",
+    "country_id": "LT",
+    "name": "Virbalis",
+    "shareBB": 0.6504,
+    "shareCircle": 0.5722
+  },
+  {
+    "gem_id": "LT044814",
+    "country_id": "LT",
+    "name": "Akmenynai",
+    "shareBB": 0.5365,
+    "shareCircle": 0.4257
+  },
+  {
+    "gem_id": "LT044834",
+    "country_id": "LT",
+    "name": "Kalvarija",
+    "shareBB": 0.6116,
+    "shareCircle": 0.555
+  },
+  {
+    "gem_id": "LT044839",
+    "country_id": "LT",
+    "name": "Liubavas",
+    "shareBB": 0.5414,
+    "shareCircle": 0.528
+  },
+  {
+    "gem_id": "LT044862",
+    "country_id": "LT",
+    "name": "Sangrūda",
+    "shareBB": 0.5994,
+    "shareCircle": 0.4887
+  },
+  {
+    "gem_id": "LT045800",
+    "country_id": "LT",
+    "name": "Kazlų  Rūda",
+    "shareBB": 0.4135,
+    "shareCircle": 0.4233
+  },
+  {
+    "gem_id": "LT045832",
+    "country_id": "LT",
+    "name": "Kazlų Rūda",
+    "shareBB": 0.4792,
+    "shareCircle": 0.4895
+  },
+  {
+    "gem_id": "LT045833",
+    "country_id": "LT",
+    "name": "Plutiškės",
+    "shareBB": 0.5951,
+    "shareCircle": 0.6164
+  },
+  {
+    "gem_id": "LT045867",
+    "country_id": "LT",
+    "name": "Antanava",
+    "shareBB": 0.5857,
+    "shareCircle": 0.4131
+  },
+  {
+    "gem_id": "LT045894",
+    "country_id": "LT",
+    "name": "Jankai",
+    "shareBB": 0.5973,
+    "shareCircle": 0.4203
+  },
+  {
+    "gem_id": "LT048405",
+    "country_id": "LT",
+    "name": "Barzdai",
+    "shareBB": 0.543,
+    "shareCircle": 0.6406
+  },
+  {
+    "gem_id": "LT048409",
+    "country_id": "LT",
+    "name": "Kudirkos Naumiestis",
+    "shareBB": 0.3296,
+    "shareCircle": 0.2791
+  },
+  {
+    "gem_id": "LT048413",
+    "country_id": "LT",
+    "name": "Gelgaudiškis",
+    "shareBB": 0.6284,
+    "shareCircle": 0.584
+  },
+  {
+    "gem_id": "LT048417",
+    "country_id": "LT",
+    "name": "Griškabūdis",
+    "shareBB": 0.4749,
+    "shareCircle": 0.3782
+  },
+  {
+    "gem_id": "LT048430",
+    "country_id": "LT",
+    "name": "Kiduliai",
+    "shareBB": 0.5861,
+    "shareCircle": 0.5451
+  },
+  {
+    "gem_id": "LT048435",
+    "country_id": "LT",
+    "name": "Kriūkai",
+    "shareBB": 0.5979,
+    "shareCircle": 0.5192
+  },
+  {
+    "gem_id": "LT048443",
+    "country_id": "LT",
+    "name": "Lukšiai",
+    "shareBB": 0.5088,
+    "shareCircle": 0.5178
+  },
+  {
+    "gem_id": "LT048449",
+    "country_id": "LT",
+    "name": "Lekėčiai",
+    "shareBB": 0.4897,
+    "shareCircle": 0.3743
+  },
+  {
+    "gem_id": "LT048455",
+    "country_id": "LT",
+    "name": "Plokščiai",
+    "shareBB": 0.6583,
+    "shareCircle": 0.4197
+  },
+  {
+    "gem_id": "LT048471",
+    "country_id": "LT",
+    "name": "Sintautai",
+    "shareBB": 0.4882,
+    "shareCircle": 0.3934
+  },
+  {
+    "gem_id": "LT048475",
+    "country_id": "LT",
+    "name": "Slavikai",
+    "shareBB": 0.455,
+    "shareCircle": 0.4017
+  },
+  {
+    "gem_id": "LT048479",
+    "country_id": "LT",
+    "name": "Sudargas",
+    "shareBB": 0.4929,
+    "shareCircle": 0.4222
+  },
+  {
+    "gem_id": "LT048483",
+    "country_id": "LT",
+    "name": "Šakiai",
+    "shareBB": 0.5426,
+    "shareCircle": 0.3859
+  },
+  {
+    "gem_id": "LT048497",
+    "country_id": "LT",
+    "name": "Žvirgždaičiai",
+    "shareBB": 0.5111,
+    "shareCircle": 0.3809
+  },
+  {
+    "gem_id": "LT052700",
+    "country_id": "LT",
+    "name": "Panevėžys",
+    "shareBB": 0.462,
+    "shareCircle": 0.4172
+  },
+  {
+    "gem_id": "LT053601",
+    "country_id": "LT",
+    "name": "Biržai",
+    "shareBB": 0.5922,
+    "shareCircle": 0.5889
+  },
+  {
+    "gem_id": "LT053604",
+    "country_id": "LT",
+    "name": "Širvėna",
+    "shareBB": 0.4239,
+    "shareCircle": 0.388
+  },
+  {
+    "gem_id": "LT053609",
+    "country_id": "LT",
+    "name": "Vabalninkas",
+    "shareBB": 0.5963,
+    "shareCircle": 0.5569
+  },
+  {
+    "gem_id": "LT053640",
+    "country_id": "LT",
+    "name": "Nemunėlio Radviliškis",
+    "shareBB": 0.3717,
+    "shareCircle": 0.382
+  },
+  {
+    "gem_id": "LT053648",
+    "country_id": "LT",
+    "name": "Pabiržė",
+    "shareBB": 0.5088,
+    "shareCircle": 0.4951
+  },
+  {
+    "gem_id": "LT053649",
+    "country_id": "LT",
+    "name": "Pačeriaukštė",
+    "shareBB": 0.5207,
+    "shareCircle": 0.3574
+  },
+  {
+    "gem_id": "LT053651",
+    "country_id": "LT",
+    "name": "Papilys",
+    "shareBB": 0.5059,
+    "shareCircle": 0.4608
+  },
+  {
+    "gem_id": "LT053654",
+    "country_id": "LT",
+    "name": "Parovėja",
+    "shareBB": 0.4214,
+    "shareCircle": 0.3678
+  },
+  {
+    "gem_id": "LT055700",
+    "country_id": "LT",
+    "name": "Kupiškis",
+    "shareBB": 0.5957,
+    "shareCircle": 0.4455
+  },
+  {
+    "gem_id": "LT055711",
+    "country_id": "LT",
+    "name": "Alizava",
+    "shareBB": 0.5706,
+    "shareCircle": 0.5095
+  },
+  {
+    "gem_id": "LT055719",
+    "country_id": "LT",
+    "name": "Kupiškis",
+    "shareBB": 0.3546,
+    "shareCircle": 0.3184
+  },
+  {
+    "gem_id": "LT055744",
+    "country_id": "LT",
+    "name": "Noriūnai",
+    "shareBB": 0.531,
+    "shareCircle": 0.5196
+  },
+  {
+    "gem_id": "LT055777",
+    "country_id": "LT",
+    "name": "Skapiškis",
+    "shareBB": 0.6579,
+    "shareCircle": 0.4868
+  },
+  {
+    "gem_id": "LT055785",
+    "country_id": "LT",
+    "name": "Subačius",
+    "shareBB": 0.5144,
+    "shareCircle": 0.4273
+  },
+  {
+    "gem_id": "LT055795",
+    "country_id": "LT",
+    "name": "Šimonys",
+    "shareBB": 0.5083,
+    "shareCircle": 0.4131
+  },
+  {
+    "gem_id": "LT056608",
+    "country_id": "LT",
+    "name": "Vadokliai",
+    "shareBB": 0.617,
+    "shareCircle": 0.5096
+  },
+  {
+    "gem_id": "LT056616",
+    "country_id": "LT",
+    "name": "Velžys",
+    "shareBB": 0.4715,
+    "shareCircle": 0.3688
+  },
+  {
+    "gem_id": "LT056625",
+    "country_id": "LT",
+    "name": "Karsakiškis",
+    "shareBB": 0.5784,
+    "shareCircle": 0.5596
+  },
+  {
+    "gem_id": "LT056630",
+    "country_id": "LT",
+    "name": "Krekenava",
+    "shareBB": 0.5665,
+    "shareCircle": 0.5499
+  },
+  {
+    "gem_id": "LT056637",
+    "country_id": "LT",
+    "name": "Miežiškiai",
+    "shareBB": 0.4777,
+    "shareCircle": 0.4141
+  },
+  {
+    "gem_id": "LT056642",
+    "country_id": "LT",
+    "name": "Naujamiestis",
+    "shareBB": 0.592,
+    "shareCircle": 0.5684
+  },
+  {
+    "gem_id": "LT056647",
+    "country_id": "LT",
+    "name": "Panevėžys",
+    "shareBB": 0.3149,
+    "shareCircle": 0.2922
+  },
+  {
+    "gem_id": "LT056661",
+    "country_id": "LT",
+    "name": "Raguva",
+    "shareBB": 0.618,
+    "shareCircle": 0.3644
+  },
+  {
+    "gem_id": "LT056664",
+    "country_id": "LT",
+    "name": "Ramygala",
+    "shareBB": 0.3663,
+    "shareCircle": 0.3305
+  },
+  {
+    "gem_id": "LT056679",
+    "country_id": "LT",
+    "name": "Smilgiai",
+    "shareBB": 0.5554,
+    "shareCircle": 0.583
+  },
+  {
+    "gem_id": "LT056690",
+    "country_id": "LT",
+    "name": "Upytė",
+    "shareBB": 0.5591,
+    "shareCircle": 0.4749
+  },
+  {
+    "gem_id": "LT056695",
+    "country_id": "LT",
+    "name": "Paįstrys",
+    "shareBB": 0.4975,
+    "shareCircle": 0.453
+  },
+  {
+    "gem_id": "LT056701",
+    "country_id": "LT",
+    "name": "Pasvalys",
+    "shareBB": 0.475,
+    "shareCircle": 0.3474
+  },
+  {
+    "gem_id": "LT056704",
+    "country_id": "LT",
+    "name": "Joniškėlis",
+    "shareBB": 0.6386,
+    "shareCircle": 0.4185
+  },
+  {
+    "gem_id": "LT056706",
+    "country_id": "LT",
+    "name": "Vaškai",
+    "shareBB": 0.4427,
+    "shareCircle": 0.4036
+  },
+  {
+    "gem_id": "LT056715",
+    "country_id": "LT",
+    "name": "Daujėnai",
+    "shareBB": 0.5397,
+    "shareCircle": 0.5077
+  },
+  {
+    "gem_id": "LT056724",
+    "country_id": "LT",
+    "name": "Joniškėlis",
+    "shareBB": 0.5425,
+    "shareCircle": 0.5339
+  },
+  {
+    "gem_id": "LT056738",
+    "country_id": "LT",
+    "name": "Krinčinas",
+    "shareBB": 0.5015,
+    "shareCircle": 0.4454
+  },
+  {
+    "gem_id": "LT056749",
+    "country_id": "LT",
+    "name": "Pasvalys",
+    "shareBB": 0.5685,
+    "shareCircle": 0.6165
+  },
+  {
+    "gem_id": "LT056752",
+    "country_id": "LT",
+    "name": "Pumpėnai",
+    "shareBB": 0.5105,
+    "shareCircle": 0.4087
+  },
+  {
+    "gem_id": "LT056754",
+    "country_id": "LT",
+    "name": "Pušalotas",
+    "shareBB": 0.5977,
+    "shareCircle": 0.4167
+  },
+  {
+    "gem_id": "LT056773",
+    "country_id": "LT",
+    "name": "Saločiai",
+    "shareBB": 0.4557,
+    "shareCircle": 0.319
+  },
+  {
+    "gem_id": "LT056780",
+    "country_id": "LT",
+    "name": "Namišiai",
+    "shareBB": 0.534,
+    "shareCircle": 0.4013
+  },
+  {
+    "gem_id": "LT057301",
+    "country_id": "LT",
+    "name": "Rokiškis",
+    "shareBB": 0.4137,
+    "shareCircle": 0.3698
+  },
+  {
+    "gem_id": "LT057312",
+    "country_id": "LT",
+    "name": "Kazliškis",
+    "shareBB": 0.5522,
+    "shareCircle": 0.4644
+  },
+  {
+    "gem_id": "LT057315",
+    "country_id": "LT",
+    "name": "Kamajai",
+    "shareBB": 0.6179,
+    "shareCircle": 0.5658
+  },
+  {
+    "gem_id": "LT057319",
+    "country_id": "LT",
+    "name": "Kriaunos",
+    "shareBB": 0.6775,
+    "shareCircle": 0.4922
+  },
+  {
+    "gem_id": "LT057326",
+    "country_id": "LT",
+    "name": "Obeliai",
+    "shareBB": 0.5233,
+    "shareCircle": 0.5501
+  },
+  {
+    "gem_id": "LT057329",
+    "country_id": "LT",
+    "name": "Pandėlys",
+    "shareBB": 0.6742,
+    "shareCircle": 0.4835
+  },
+  {
+    "gem_id": "LT057331",
+    "country_id": "LT",
+    "name": "Panemunėlis",
+    "shareBB": 0.5791,
+    "shareCircle": 0.4716
+  },
+  {
+    "gem_id": "LT057345",
+    "country_id": "LT",
+    "name": "Rokiškis",
+    "shareBB": 0.3415,
+    "shareCircle": 0.3084
+  },
+  {
+    "gem_id": "LT057375",
+    "country_id": "LT",
+    "name": "Jūžintai",
+    "shareBB": 0.4268,
+    "shareCircle": 0.3493
+  },
+  {
+    "gem_id": "LT057386",
+    "country_id": "LT",
+    "name": "Juodupė",
+    "shareBB": 0.5152,
+    "shareCircle": 0.4034
+  },
+  {
+    "gem_id": "LT062900",
+    "country_id": "LT",
+    "name": "Šiauliai",
+    "shareBB": 0.3828,
+    "shareCircle": 0.4422
+  },
+  {
+    "gem_id": "LT062901",
+    "country_id": "LT",
+    "name": "Rėkyva",
+    "shareBB": 0.2948,
+    "shareCircle": 0.2182
+  },
+  {
+    "gem_id": "LT062902",
+    "country_id": "LT",
+    "name": "Medelynas",
+    "shareBB": 0.4452,
+    "shareCircle": 0.3462
+  },
+  {
+    "gem_id": "LT063204",
+    "country_id": "LT",
+    "name": "Akmenė",
+    "shareBB": 0.5801,
+    "shareCircle": 0.4819
+  },
+  {
+    "gem_id": "LT063242",
+    "country_id": "LT",
+    "name": "Kruopiai",
+    "shareBB": 0.5673,
+    "shareCircle": 0.536
+  },
+  {
+    "gem_id": "LT063245",
+    "country_id": "LT",
+    "name": "Naujoji Akmenė",
+    "shareBB": 0.4452,
+    "shareCircle": 0.4581
+  },
+  {
+    "gem_id": "LT063249",
+    "country_id": "LT",
+    "name": "Papilė",
+    "shareBB": 0.5049,
+    "shareCircle": 0.3867
+  },
+  {
+    "gem_id": "LT063252",
+    "country_id": "LT",
+    "name": "Venta",
+    "shareBB": 0.3999,
+    "shareCircle": 0.2768
+  },
+  {
+    "gem_id": "LT063260",
+    "country_id": "LT",
+    "name": "Naujoji Akmenė",
+    "shareBB": 0.6286,
+    "shareCircle": 0.5768
+  },
+  {
+    "gem_id": "LT064713",
+    "country_id": "LT",
+    "name": "Gataučiai",
+    "shareBB": 0.5692,
+    "shareCircle": 0.6162
+  },
+  {
+    "gem_id": "LT064720",
+    "country_id": "LT",
+    "name": "Gaižaičiai",
+    "shareBB": 0.4443,
+    "shareCircle": 0.4142
+  },
+  {
+    "gem_id": "LT064726",
+    "country_id": "LT",
+    "name": "Žagarė",
+    "shareBB": 0.5394,
+    "shareCircle": 0.5363
+  },
+  {
+    "gem_id": "LT064731",
+    "country_id": "LT",
+    "name": "Kriukai",
+    "shareBB": 0.5935,
+    "shareCircle": 0.3842
+  },
+  {
+    "gem_id": "LT064735",
+    "country_id": "LT",
+    "name": "Kepaliai",
+    "shareBB": 0.546,
+    "shareCircle": 0.5404
+  },
+  {
+    "gem_id": "LT064744",
+    "country_id": "LT",
+    "name": "Rudiškiai",
+    "shareBB": 0.5182,
+    "shareCircle": 0.4254
+  },
+  {
+    "gem_id": "LT064747",
+    "country_id": "LT",
+    "name": "Satkūnai",
+    "shareBB": 0.4876,
+    "shareCircle": 0.3895
+  },
+  {
+    "gem_id": "LT064751",
+    "country_id": "LT",
+    "name": "Saugėlaukis",
+    "shareBB": 0.5015,
+    "shareCircle": 0.4402
+  },
+  {
+    "gem_id": "LT064756",
+    "country_id": "LT",
+    "name": "Skaistgirys",
+    "shareBB": 0.5093,
+    "shareCircle": 0.539
+  },
+  {
+    "gem_id": "LT064760",
+    "country_id": "LT",
+    "name": "Joniškis",
+    "shareBB": 0.5049,
+    "shareCircle": 0.4824
+  },
+  {
+    "gem_id": "LT065401",
+    "country_id": "LT",
+    "name": "Kelmė",
+    "shareBB": 0.6357,
+    "shareCircle": 0.591
+  },
+  {
+    "gem_id": "LT065405",
+    "country_id": "LT",
+    "name": "Vaiguva",
+    "shareBB": 0.5718,
+    "shareCircle": 0.4516
+  },
+  {
+    "gem_id": "LT065409",
+    "country_id": "LT",
+    "name": "Kukečiai",
+    "shareBB": 0.5879,
+    "shareCircle": 0.3676
+  },
+  {
+    "gem_id": "LT065419",
+    "country_id": "LT",
+    "name": "Kelmė",
+    "shareBB": 0.625,
+    "shareCircle": 0.3868
+  },
+  {
+    "gem_id": "LT065425",
+    "country_id": "LT",
+    "name": "Kražiai",
+    "shareBB": 0.5308,
+    "shareCircle": 0.5425
+  },
+  {
+    "gem_id": "LT065437",
+    "country_id": "LT",
+    "name": "Lioliai",
+    "shareBB": 0.6554,
+    "shareCircle": 0.6139
+  },
+  {
+    "gem_id": "LT065456",
+    "country_id": "LT",
+    "name": "Pakražantis",
+    "shareBB": 0.4683,
+    "shareCircle": 0.3611
+  },
+  {
+    "gem_id": "LT065473",
+    "country_id": "LT",
+    "name": "Tytuvėnai",
+    "shareBB": 0.5965,
+    "shareCircle": 0.4868
+  },
+  {
+    "gem_id": "LT065475",
+    "country_id": "LT",
+    "name": "Tytuvėnai",
+    "shareBB": 0.5507,
+    "shareCircle": 0.4711
+  },
+  {
+    "gem_id": "LT065477",
+    "country_id": "LT",
+    "name": "Užventis",
+    "shareBB": 0.5176,
+    "shareCircle": 0.4523
+  },
+  {
+    "gem_id": "LT065480",
+    "country_id": "LT",
+    "name": "Šaukėnai",
+    "shareBB": 0.5237,
+    "shareCircle": 0.3861
+  },
+  {
+    "gem_id": "LT066504",
+    "country_id": "LT",
+    "name": "Guostagalis",
+    "shareBB": 0.5893,
+    "shareCircle": 0.4395
+  },
+  {
+    "gem_id": "LT066512",
+    "country_id": "LT",
+    "name": "Žeimelis",
+    "shareBB": 0.5862,
+    "shareCircle": 0.564
+  },
+  {
+    "gem_id": "LT066518",
+    "country_id": "LT",
+    "name": "Klovainiai",
+    "shareBB": 0.4987,
+    "shareCircle": 0.3826
+  },
+  {
+    "gem_id": "LT066529",
+    "country_id": "LT",
+    "name": "Lygumai",
+    "shareBB": 0.6375,
+    "shareCircle": 0.5485
+  },
+  {
+    "gem_id": "LT066536",
+    "country_id": "LT",
+    "name": "Linkuva",
+    "shareBB": 0.676,
+    "shareCircle": 0.5978
+  },
+  {
+    "gem_id": "LT066546",
+    "country_id": "LT",
+    "name": "Pakruojis",
+    "shareBB": 0.5145,
+    "shareCircle": 0.4429
+  },
+  {
+    "gem_id": "LT066558",
+    "country_id": "LT",
+    "name": "Pašvitinys",
+    "shareBB": 0.5621,
+    "shareCircle": 0.427
+  },
+  {
+    "gem_id": "LT066568",
+    "country_id": "LT",
+    "name": "Rozalimas",
+    "shareBB": 0.4891,
+    "shareCircle": 0.3504
+  },
+  {
+    "gem_id": "LT067108",
+    "country_id": "LT",
+    "name": "Aukštelkai",
+    "shareBB": 0.5377,
+    "shareCircle": 0.4791
+  },
+  {
+    "gem_id": "LT067113",
+    "country_id": "LT",
+    "name": "Baisogala",
+    "shareBB": 0.5511,
+    "shareCircle": 0.5348
+  },
+  {
+    "gem_id": "LT067115",
+    "country_id": "LT",
+    "name": "Grinkiškis",
+    "shareBB": 0.5431,
+    "shareCircle": 0.5137
+  },
+  {
+    "gem_id": "LT067127",
+    "country_id": "LT",
+    "name": "Pakalniškiai",
+    "shareBB": 0.569,
+    "shareCircle": 0.4629
+  },
+  {
+    "gem_id": "LT067135",
+    "country_id": "LT",
+    "name": "Radviliškis",
+    "shareBB": 0.4407,
+    "shareCircle": 0.3613
+  },
+  {
+    "gem_id": "LT067149",
+    "country_id": "LT",
+    "name": "Sidabravas",
+    "shareBB": 0.5699,
+    "shareCircle": 0.4458
+  },
+  {
+    "gem_id": "LT067154",
+    "country_id": "LT",
+    "name": "Skėmiai",
+    "shareBB": 0.4865,
+    "shareCircle": 0.3738
+  },
+  {
+    "gem_id": "LT067160",
+    "country_id": "LT",
+    "name": "Radviliškis",
+    "shareBB": 0.5726,
+    "shareCircle": 0.5017
+  },
+  {
+    "gem_id": "LT067161",
+    "country_id": "LT",
+    "name": "Šeduva",
+    "shareBB": 0.3706,
+    "shareCircle": 0.3652
+  },
+  {
+    "gem_id": "LT067172",
+    "country_id": "LT",
+    "name": "Šaukotas",
+    "shareBB": 0.5865,
+    "shareCircle": 0.485
+  },
+  {
+    "gem_id": "LT067184",
+    "country_id": "LT",
+    "name": "Šiaulėnai",
+    "shareBB": 0.559,
+    "shareCircle": 0.385
+  },
+  {
+    "gem_id": "LT067187",
+    "country_id": "LT",
+    "name": "Tyruliai",
+    "shareBB": 0.319,
+    "shareCircle": 0.2742
+  },
+  {
+    "gem_id": "LT069101",
+    "country_id": "LT",
+    "name": "Kuršėnų miesto",
+    "shareBB": 0.627,
+    "shareCircle": 0.5396
+  },
+  {
+    "gem_id": "LT069107",
+    "country_id": "LT",
+    "name": "Bubiai",
+    "shareBB": 0.5463,
+    "shareCircle": 0.4112
+  },
+  {
+    "gem_id": "LT069108",
+    "country_id": "LT",
+    "name": "Ginkūnai",
+    "shareBB": 0.5071,
+    "shareCircle": 0.4709
+  },
+  {
+    "gem_id": "LT069109",
+    "country_id": "LT",
+    "name": "Gruzdžiai",
+    "shareBB": 0.4979,
+    "shareCircle": 0.5478
+  },
+  {
+    "gem_id": "LT069113",
+    "country_id": "LT",
+    "name": "Kairiai",
+    "shareBB": 0.4969,
+    "shareCircle": 0.4089
+  },
+  {
+    "gem_id": "LT069120",
+    "country_id": "LT",
+    "name": "Kužiai",
+    "shareBB": 0.4494,
+    "shareCircle": 0.4661
+  },
+  {
+    "gem_id": "LT069132",
+    "country_id": "LT",
+    "name": "Kuršėnai",
+    "shareBB": 0.5706,
+    "shareCircle": 0.4142
+  },
+  {
+    "gem_id": "LT069148",
+    "country_id": "LT",
+    "name": "Meškuičiai",
+    "shareBB": 0.5572,
+    "shareCircle": 0.4724
+  },
+  {
+    "gem_id": "LT069164",
+    "country_id": "LT",
+    "name": "Raudėnai",
+    "shareBB": 0.5628,
+    "shareCircle": 0.4937
+  },
+  {
+    "gem_id": "LT069182",
+    "country_id": "LT",
+    "name": "Šakyna",
+    "shareBB": 0.5463,
+    "shareCircle": 0.5249
+  },
+  {
+    "gem_id": "LT069193",
+    "country_id": "LT",
+    "name": "Šiauliai",
+    "shareBB": 0.4034,
+    "shareCircle": 0.2398
+  },
+  {
+    "gem_id": "LT076308",
+    "country_id": "LT",
+    "name": "Lumpėnai",
+    "shareBB": 0.4069,
+    "shareCircle": 0.3822
+  },
+  {
+    "gem_id": "LT076309",
+    "country_id": "LT",
+    "name": "Vilkyškiai",
+    "shareBB": 0.5631,
+    "shareCircle": 0.5135
+  },
+  {
+    "gem_id": "LT076360",
+    "country_id": "LT",
+    "name": "Pagėgiai",
+    "shareBB": 0.5858,
+    "shareCircle": 0.5076
+  },
+  {
+    "gem_id": "LT076361",
+    "country_id": "LT",
+    "name": "Natkiškiai",
+    "shareBB": 0.4591,
+    "shareCircle": 0.4011
+  },
+  {
+    "gem_id": "LT076378",
+    "country_id": "LT",
+    "name": "Stoniškiai",
+    "shareBB": 0.6022,
+    "shareCircle": 0.5921
+  },
+  {
+    "gem_id": "LT077701",
+    "country_id": "LT",
+    "name": "Tauragė",
+    "shareBB": 0.5764,
+    "shareCircle": 0.4653
+  },
+  {
+    "gem_id": "LT077712",
+    "country_id": "LT",
+    "name": "Batakiai",
+    "shareBB": 0.4788,
+    "shareCircle": 0.4715
+  },
+  {
+    "gem_id": "LT077724",
+    "country_id": "LT",
+    "name": "Gaurė",
+    "shareBB": 0.661,
+    "shareCircle": 0.6763
+  },
+  {
+    "gem_id": "LT077737",
+    "country_id": "LT",
+    "name": "Žygaičiai",
+    "shareBB": 0.6065,
+    "shareCircle": 0.5961
+  },
+  {
+    "gem_id": "LT077748",
+    "country_id": "LT",
+    "name": "Lauksargiai",
+    "shareBB": 0.5944,
+    "shareCircle": 0.5097
+  },
+  {
+    "gem_id": "LT077757",
+    "country_id": "LT",
+    "name": "Mažonai",
+    "shareBB": 0.4553,
+    "shareCircle": 0.5356
+  },
+  {
+    "gem_id": "LT077778",
+    "country_id": "LT",
+    "name": "Skaudvilė",
+    "shareBB": 0.4691,
+    "shareCircle": 0.4141
+  },
+  {
+    "gem_id": "LT077794",
+    "country_id": "LT",
+    "name": "Tauragė",
+    "shareBB": 0.3614,
+    "shareCircle": 0.2849
+  },
+  {
+    "gem_id": "LT078701",
+    "country_id": "LT",
+    "name": "Šilalė",
+    "shareBB": 0.6972,
+    "shareCircle": 0.6194
+  },
+  {
+    "gem_id": "LT078703",
+    "country_id": "LT",
+    "name": "Bijotai",
+    "shareBB": 0.5863,
+    "shareCircle": 0.5934
+  },
+  {
+    "gem_id": "LT078705",
+    "country_id": "LT",
+    "name": "Bilionys",
+    "shareBB": 0.6081,
+    "shareCircle": 0.5456
+  },
+  {
+    "gem_id": "LT078707",
+    "country_id": "LT",
+    "name": "Didkiemis",
+    "shareBB": 0.4456,
+    "shareCircle": 0.4427
+  },
+  {
+    "gem_id": "LT078711",
+    "country_id": "LT",
+    "name": "Kaltinėnai",
+    "shareBB": 0.5874,
+    "shareCircle": 0.6503
+  },
+  {
+    "gem_id": "LT078715",
+    "country_id": "LT",
+    "name": "Kvėdarna",
+    "shareBB": 0.5943,
+    "shareCircle": 0.6328
+  },
+  {
+    "gem_id": "LT078719",
+    "country_id": "LT",
+    "name": "Laukuva",
+    "shareBB": 0.4625,
+    "shareCircle": 0.4053
+  },
+  {
+    "gem_id": "LT078736",
+    "country_id": "LT",
+    "name": "Pajūris",
+    "shareBB": 0.5185,
+    "shareCircle": 0.3969
+  },
+  {
+    "gem_id": "LT078741",
+    "country_id": "LT",
+    "name": "Palentinis",
+    "shareBB": 0.5632,
+    "shareCircle": 0.5216
+  },
+  {
+    "gem_id": "LT078749",
+    "country_id": "LT",
+    "name": "Teneniai",
+    "shareBB": 0.5491,
+    "shareCircle": 0.4523
+  },
+  {
+    "gem_id": "LT078769",
+    "country_id": "LT",
+    "name": "Upyna",
+    "shareBB": 0.609,
+    "shareCircle": 0.4636
+  },
+  {
+    "gem_id": "LT078770",
+    "country_id": "LT",
+    "name": "Šilalė",
+    "shareBB": 0.4801,
+    "shareCircle": 0.4452
+  },
+  {
+    "gem_id": "LT078771",
+    "country_id": "LT",
+    "name": "Traksėdis",
+    "shareBB": 0.5069,
+    "shareCircle": 0.5042
+  },
+  {
+    "gem_id": "LT078777",
+    "country_id": "LT",
+    "name": "Žadeikiai",
+    "shareBB": 0.6115,
+    "shareCircle": 0.6374
+  },
+  {
+    "gem_id": "LT079418",
+    "country_id": "LT",
+    "name": "Veliuona",
+    "shareBB": 0.4507,
+    "shareCircle": 0.3548
+  },
+  {
+    "gem_id": "LT079422",
+    "country_id": "LT",
+    "name": "Viešvilė",
+    "shareBB": 0.8083,
+    "shareCircle": 0.5701
+  },
+  {
+    "gem_id": "LT079435",
+    "country_id": "LT",
+    "name": "Girdžiai",
+    "shareBB": 0.649,
+    "shareCircle": 0.496
+  },
+  {
+    "gem_id": "LT079450",
+    "country_id": "LT",
+    "name": "Raudonė",
+    "shareBB": 0.6384,
+    "shareCircle": 0.4854
+  },
+  {
+    "gem_id": "LT079460",
+    "country_id": "LT",
+    "name": "Skirsnemunė",
+    "shareBB": 0.5264,
+    "shareCircle": 0.5072
+  },
+  {
+    "gem_id": "LT079469",
+    "country_id": "LT",
+    "name": "Seredžius",
+    "shareBB": 0.6284,
+    "shareCircle": 0.587
+  },
+  {
+    "gem_id": "LT079475",
+    "country_id": "LT",
+    "name": "Smalininkai",
+    "shareBB": 0.4194,
+    "shareCircle": 0.2929
+  },
+  {
+    "gem_id": "LT079480",
+    "country_id": "LT",
+    "name": "Šimkaičiai",
+    "shareBB": 0.4823,
+    "shareCircle": 0.5074
+  },
+  {
+    "gem_id": "LT079485",
+    "country_id": "LT",
+    "name": "Eržvilkas",
+    "shareBB": 0.5645,
+    "shareCircle": 0.5574
+  },
+  {
+    "gem_id": "LT079490",
+    "country_id": "LT",
+    "name": "Juodaičiai",
+    "shareBB": 0.5974,
+    "shareCircle": 0.5517
+  },
+  {
+    "gem_id": "LT079494",
+    "country_id": "LT",
+    "name": "Jurbarkas",
+    "shareBB": 0.5558,
+    "shareCircle": 0.5468
+  },
+  {
+    "gem_id": "LT079497",
+    "country_id": "LT",
+    "name": "Jurbarkai",
+    "shareBB": 0.5071,
+    "shareCircle": 0.4972
+  },
+  {
+    "gem_id": "LT086107",
+    "country_id": "LT",
+    "name": "Židikai",
+    "shareBB": 0.6146,
+    "shareCircle": 0.5112
+  },
+  {
+    "gem_id": "LT086111",
+    "country_id": "LT",
+    "name": "Mažeikiai",
+    "shareBB": 0.4616,
+    "shareCircle": 0.4391
+  },
+  {
+    "gem_id": "LT086112",
+    "country_id": "LT",
+    "name": "Laižuva",
+    "shareBB": 0.6859,
+    "shareCircle": 0.4336
+  },
+  {
+    "gem_id": "LT086119",
+    "country_id": "LT",
+    "name": "Mažeikiai",
+    "shareBB": 0.4229,
+    "shareCircle": 0.219
+  },
+  {
+    "gem_id": "LT086120",
+    "country_id": "LT",
+    "name": "Viekšniai",
+    "shareBB": 0.632,
+    "shareCircle": 0.4467
+  },
+  {
+    "gem_id": "LT086124",
+    "country_id": "LT",
+    "name": "Reivyčiai",
+    "shareBB": 0.6563,
+    "shareCircle": 0.4539
+  },
+  {
+    "gem_id": "LT086135",
+    "country_id": "LT",
+    "name": "Seda",
+    "shareBB": 0.4968,
+    "shareCircle": 0.4735
+  },
+  {
+    "gem_id": "LT086146",
+    "country_id": "LT",
+    "name": "Tirkšliai",
+    "shareBB": 0.507,
+    "shareCircle": 0.4565
+  },
+  {
+    "gem_id": "LT086168",
+    "country_id": "LT",
+    "name": "Šerkšnėnai",
+    "shareBB": 0.4972,
+    "shareCircle": 0.3463
+  },
+  {
+    "gem_id": "LT086801",
+    "country_id": "LT",
+    "name": "Plungė",
+    "shareBB": 0.5887,
+    "shareCircle": 0.5008
+  },
+  {
+    "gem_id": "LT086807",
+    "country_id": "LT",
+    "name": "Alsėdžiai",
+    "shareBB": 0.6595,
+    "shareCircle": 0.686
+  },
+  {
+    "gem_id": "LT086809",
+    "country_id": "LT",
+    "name": "Babrungas",
+    "shareBB": 0.4198,
+    "shareCircle": 0.3213
+  },
+  {
+    "gem_id": "LT086819",
+    "country_id": "LT",
+    "name": "Žemaičių Kalvarija",
+    "shareBB": 0.5388,
+    "shareCircle": 0.5791
+  },
+  {
+    "gem_id": "LT086826",
+    "country_id": "LT",
+    "name": "Žlibinai",
+    "shareBB": 0.5903,
+    "shareCircle": 0.7297
+  },
+  {
+    "gem_id": "LT086837",
+    "country_id": "LT",
+    "name": "Kuliai",
+    "shareBB": 0.4834,
+    "shareCircle": 0.4521
+  },
+  {
+    "gem_id": "LT086855",
+    "country_id": "LT",
+    "name": "Nausodis",
+    "shareBB": 0.5424,
+    "shareCircle": 0.6098
+  },
+  {
+    "gem_id": "LT086860",
+    "country_id": "LT",
+    "name": "Paukštakiai",
+    "shareBB": 0.4837,
+    "shareCircle": 0.5103
+  },
+  {
+    "gem_id": "LT086866",
+    "country_id": "LT",
+    "name": "Plateliai",
+    "shareBB": 0.5131,
+    "shareCircle": 0.5148
+  },
+  {
+    "gem_id": "LT086883",
+    "country_id": "LT",
+    "name": "Stalgėnai",
+    "shareBB": 0.5006,
+    "shareCircle": 0.3955
+  },
+  {
+    "gem_id": "LT086895",
+    "country_id": "LT",
+    "name": "Šateikiai",
+    "shareBB": 0.6525,
+    "shareCircle": 0.5498
+  },
+  {
+    "gem_id": "LT087401",
+    "country_id": "LT",
+    "name": "Rietavas",
+    "shareBB": 0.6227,
+    "shareCircle": 0.478
+  },
+  {
+    "gem_id": "LT087440",
+    "country_id": "LT",
+    "name": "Medingėnai",
+    "shareBB": 0.514,
+    "shareCircle": 0.4782
+  },
+  {
+    "gem_id": "LT087475",
+    "country_id": "LT",
+    "name": "Rietavas",
+    "shareBB": 0.6433,
+    "shareCircle": 0.6624
+  },
+  {
+    "gem_id": "LT087483",
+    "country_id": "LT",
+    "name": "Daugėdai",
+    "shareBB": 0.6137,
+    "shareCircle": 0.5733
+  },
+  {
+    "gem_id": "LT087489",
+    "country_id": "LT",
+    "name": "Tverai",
+    "shareBB": 0.612,
+    "shareCircle": 0.5429
+  },
+  {
+    "gem_id": "LT087810",
+    "country_id": "LT",
+    "name": "Telšiai",
+    "shareBB": 0.5258,
+    "shareCircle": 0.5305
+  },
+  {
+    "gem_id": "LT087811",
+    "country_id": "LT",
+    "name": "Varniai",
+    "shareBB": 0.6557,
+    "shareCircle": 0.6839
+  },
+  {
+    "gem_id": "LT087815",
+    "country_id": "LT",
+    "name": "Viešvėnai",
+    "shareBB": 0.6139,
+    "shareCircle": 0.6367
+  },
+  {
+    "gem_id": "LT087819",
+    "country_id": "LT",
+    "name": "Gadūnavas",
+    "shareBB": 0.5824,
+    "shareCircle": 0.4591
+  },
+  {
+    "gem_id": "LT087824",
+    "country_id": "LT",
+    "name": "Degaičiai",
+    "shareBB": 0.699,
+    "shareCircle": 0.6094
+  },
+  {
+    "gem_id": "LT087829",
+    "country_id": "LT",
+    "name": "Žarėnai",
+    "shareBB": 0.5869,
+    "shareCircle": 0.5452
+  },
+  {
+    "gem_id": "LT087836",
+    "country_id": "LT",
+    "name": "Luokė",
+    "shareBB": 0.5521,
+    "shareCircle": 0.5425
+  },
+  {
+    "gem_id": "LT087847",
+    "country_id": "LT",
+    "name": "Nevarėnai",
+    "shareBB": 0.719,
+    "shareCircle": 0.532
+  },
+  {
+    "gem_id": "LT087869",
+    "country_id": "LT",
+    "name": "Ryškėnai",
+    "shareBB": 0.5205,
+    "shareCircle": 0.3885
+  },
+  {
+    "gem_id": "LT087874",
+    "country_id": "LT",
+    "name": "Tryškiai",
+    "shareBB": 0.4337,
+    "shareCircle": 0.3571
+  },
+  {
+    "gem_id": "LT087881",
+    "country_id": "LT",
+    "name": "Upyna",
+    "shareBB": 0.4863,
+    "shareCircle": 0.4726
+  },
+  {
+    "gem_id": "LT093000",
+    "country_id": "LT",
+    "name": "Visaginas",
+    "shareBB": 0.4108,
+    "shareCircle": 0.3256
+  },
+  {
+    "gem_id": "LT093408",
+    "country_id": "LT",
+    "name": "Anykščiai",
+    "shareBB": 0.3868,
+    "shareCircle": 0.4225
+  },
+  {
+    "gem_id": "LT093410",
+    "country_id": "LT",
+    "name": "Andrioniškis",
+    "shareBB": 0.3716,
+    "shareCircle": 0.2525
+  },
+  {
+    "gem_id": "LT093413",
+    "country_id": "LT",
+    "name": "Viešintos",
+    "shareBB": 0.596,
+    "shareCircle": 0.5193
+  },
+  {
+    "gem_id": "LT093418",
+    "country_id": "LT",
+    "name": "Debeikiai",
+    "shareBB": 0.645,
+    "shareCircle": 0.5229
+  },
+  {
+    "gem_id": "LT093422",
+    "country_id": "LT",
+    "name": "Kavarskas",
+    "shareBB": 0.5375,
+    "shareCircle": 0.5831
+  },
+  {
+    "gem_id": "LT093426",
+    "country_id": "LT",
+    "name": "Kurkliai",
+    "shareBB": 0.5305,
+    "shareCircle": 0.4617
+  },
+  {
+    "gem_id": "LT093442",
+    "country_id": "LT",
+    "name": "Svėdasai",
+    "shareBB": 0.6103,
+    "shareCircle": 0.5568
+  },
+  {
+    "gem_id": "LT093449",
+    "country_id": "LT",
+    "name": "Skiemonys",
+    "shareBB": 0.4758,
+    "shareCircle": 0.4549
+  },
+  {
+    "gem_id": "LT093462",
+    "country_id": "LT",
+    "name": "Traupis",
+    "shareBB": 0.6025,
+    "shareCircle": 0.5597
+  },
+  {
+    "gem_id": "LT093469",
+    "country_id": "LT",
+    "name": "Troškūnai",
+    "shareBB": 0.5399,
+    "shareCircle": 0.5136
+  },
+  {
+    "gem_id": "LT094307",
+    "country_id": "LT",
+    "name": "Antazavė",
+    "shareBB": 0.5048,
+    "shareCircle": 0.4411
+  },
+  {
+    "gem_id": "LT094310",
+    "country_id": "LT",
+    "name": "Antalieptė",
+    "shareBB": 0.4685,
+    "shareCircle": 0.506
+  },
+  {
+    "gem_id": "LT094326",
+    "country_id": "LT",
+    "name": "Degučiai",
+    "shareBB": 0.4237,
+    "shareCircle": 0.3986
+  },
+  {
+    "gem_id": "LT094328",
+    "country_id": "LT",
+    "name": "Dusetos",
+    "shareBB": 0.5988,
+    "shareCircle": 0.4579
+  },
+  {
+    "gem_id": "LT094330",
+    "country_id": "LT",
+    "name": "Zarasai",
+    "shareBB": 0.5175,
+    "shareCircle": 0.5236
+  },
+  {
+    "gem_id": "LT094332",
+    "country_id": "LT",
+    "name": "Imbradas",
+    "shareBB": 0.365,
+    "shareCircle": 0.3502
+  },
+  {
+    "gem_id": "LT094348",
+    "country_id": "LT",
+    "name": "Salakas",
+    "shareBB": 0.6409,
+    "shareCircle": 0.6074
+  },
+  {
+    "gem_id": "LT094350",
+    "country_id": "LT",
+    "name": "Zarasai",
+    "shareBB": 0.6361,
+    "shareCircle": 0.68
+  },
+  {
+    "gem_id": "LT094362",
+    "country_id": "LT",
+    "name": "Suviekas",
+    "shareBB": 0.4355,
+    "shareCircle": 0.4344
+  },
+  {
+    "gem_id": "LT094371",
+    "country_id": "LT",
+    "name": "Turmantas",
+    "shareBB": 0.6149,
+    "shareCircle": 0.3927
+  },
+  {
+    "gem_id": "LT094501",
+    "country_id": "LT",
+    "name": "Ignalina",
+    "shareBB": 0.6823,
+    "shareCircle": 0.7223
+  },
+  {
+    "gem_id": "LT094504",
+    "country_id": "LT",
+    "name": "Vidiškiai",
+    "shareBB": 0.5449,
+    "shareCircle": 0.3867
+  },
+  {
+    "gem_id": "LT094520",
+    "country_id": "LT",
+    "name": "Didžiasalis",
+    "shareBB": 0.713,
+    "shareCircle": 0.5431
+  },
+  {
+    "gem_id": "LT094522",
+    "country_id": "LT",
+    "name": "Dūkštas",
+    "shareBB": 0.568,
+    "shareCircle": 0.5155
+  },
+  {
+    "gem_id": "LT094525",
+    "country_id": "LT",
+    "name": "Ignalina",
+    "shareBB": 0.4379,
+    "shareCircle": 0.4342
+  },
+  {
+    "gem_id": "LT094528",
+    "country_id": "LT",
+    "name": "Kazitiškis",
+    "shareBB": 0.4585,
+    "shareCircle": 0.384
+  },
+  {
+    "gem_id": "LT094534",
+    "country_id": "LT",
+    "name": "Linkmenys",
+    "shareBB": 0.559,
+    "shareCircle": 0.5436
+  },
+  {
+    "gem_id": "LT094537",
+    "country_id": "LT",
+    "name": "Mielagėnai",
+    "shareBB": 0.5651,
+    "shareCircle": 0.4755
+  },
+  {
+    "gem_id": "LT094542",
+    "country_id": "LT",
+    "name": "Naujasis Daugėliškis",
+    "shareBB": 0.5592,
+    "shareCircle": 0.5536
+  },
+  {
+    "gem_id": "LT094549",
+    "country_id": "LT",
+    "name": "Rimšė",
+    "shareBB": 0.3793,
+    "shareCircle": 0.2716
+  },
+  {
+    "gem_id": "LT094559",
+    "country_id": "LT",
+    "name": "Tverečius",
+    "shareBB": 0.5061,
+    "shareCircle": 0.4174
+  },
+  {
+    "gem_id": "LT094562",
+    "country_id": "LT",
+    "name": "Ceikiniai",
+    "shareBB": 0.6635,
+    "shareCircle": 0.5653
+  },
+  {
+    "gem_id": "LT096200",
+    "country_id": "LT",
+    "name": "Molėtai",
+    "shareBB": 0.4683,
+    "shareCircle": 0.3741
+  },
+  {
+    "gem_id": "LT096204",
+    "country_id": "LT",
+    "name": "Alanta",
+    "shareBB": 0.6633,
+    "shareCircle": 0.512
+  },
+  {
+    "gem_id": "LT096213",
+    "country_id": "LT",
+    "name": "Balninkai",
+    "shareBB": 0.4677,
+    "shareCircle": 0.3976
+  },
+  {
+    "gem_id": "LT096219",
+    "country_id": "LT",
+    "name": "Videniškiai",
+    "shareBB": 0.5457,
+    "shareCircle": 0.4942
+  },
+  {
+    "gem_id": "LT096230",
+    "country_id": "LT",
+    "name": "Giedraičiai",
+    "shareBB": 0.6818,
+    "shareCircle": 0.6014
+  },
+  {
+    "gem_id": "LT096237",
+    "country_id": "LT",
+    "name": "Dubingiai",
+    "shareBB": 0.5793,
+    "shareCircle": 0.6404
+  },
+  {
+    "gem_id": "LT096246",
+    "country_id": "LT",
+    "name": "Inturkė",
+    "shareBB": 0.6598,
+    "shareCircle": 0.6974
+  },
+  {
+    "gem_id": "LT096250",
+    "country_id": "LT",
+    "name": "Joniškis",
+    "shareBB": 0.4438,
+    "shareCircle": 0.3546
+  },
+  {
+    "gem_id": "LT096258",
+    "country_id": "LT",
+    "name": "Luokesa",
+    "shareBB": 0.4632,
+    "shareCircle": 0.3539
+  },
+  {
+    "gem_id": "LT096262",
+    "country_id": "LT",
+    "name": "Mindūnai",
+    "shareBB": 0.3985,
+    "shareCircle": 0.3166
+  },
+  {
+    "gem_id": "LT096285",
+    "country_id": "LT",
+    "name": "Suginčiai",
+    "shareBB": 0.5781,
+    "shareCircle": 0.3493
+  },
+  {
+    "gem_id": "LT096296",
+    "country_id": "LT",
+    "name": "Čiulėnai",
+    "shareBB": 0.3755,
+    "shareCircle": 0.2916
+  },
+  {
+    "gem_id": "LT098201",
+    "country_id": "LT",
+    "name": "Utena",
+    "shareBB": 0.6772,
+    "shareCircle": 0.6345
+  },
+  {
+    "gem_id": "LT098206",
+    "country_id": "LT",
+    "name": "Vyžuonos",
+    "shareBB": 0.496,
+    "shareCircle": 0.4987
+  },
+  {
+    "gem_id": "LT098212",
+    "country_id": "LT",
+    "name": "Daugailiai",
+    "shareBB": 0.6111,
+    "shareCircle": 0.4422
+  },
+  {
+    "gem_id": "LT098223",
+    "country_id": "LT",
+    "name": "Kuktiškės",
+    "shareBB": 0.6047,
+    "shareCircle": 0.4735
+  },
+  {
+    "gem_id": "LT098226",
+    "country_id": "LT",
+    "name": "Leliūnai",
+    "shareBB": 0.6126,
+    "shareCircle": 0.5128
+  },
+  {
+    "gem_id": "LT098248",
+    "country_id": "LT",
+    "name": "Saldutiškis",
+    "shareBB": 0.5012,
+    "shareCircle": 0.4608
+  },
+  {
+    "gem_id": "LT098260",
+    "country_id": "LT",
+    "name": "Sudeikiai",
+    "shareBB": 0.4513,
+    "shareCircle": 0.3078
+  },
+  {
+    "gem_id": "LT098271",
+    "country_id": "LT",
+    "name": "Tauragnai",
+    "shareBB": 0.5623,
+    "shareCircle": 0.5257
+  },
+  {
+    "gem_id": "LT098274",
+    "country_id": "LT",
+    "name": "Utena",
+    "shareBB": 0.4544,
+    "shareCircle": 0.3209
+  },
+  {
+    "gem_id": "LT098276",
+    "country_id": "LT",
+    "name": "Užpaliai",
+    "shareBB": 0.5423,
+    "shareCircle": 0.5753
+  },
+  {
+    "gem_id": "LT099900",
+    "country_id": "LT",
+    "name": "N_A",
+    "shareBB": 0.4771,
+    "shareCircle": 0.363
+  },
+  {
+    "gem_id": "LT101301",
+    "country_id": "LT",
+    "name": "Antakalnis",
+    "shareBB": 0.4862,
+    "shareCircle": 0.3742
+  },
+  {
+    "gem_id": "LT101302",
+    "country_id": "LT",
+    "name": "Fabijoniškės",
+    "shareBB": 0.3503,
+    "shareCircle": 0.281
+  },
+  {
+    "gem_id": "LT101303",
+    "country_id": "LT",
+    "name": "Justiniškės",
+    "shareBB": 0.5574,
+    "shareCircle": 0.4582
+  },
+  {
+    "gem_id": "LT101304",
+    "country_id": "LT",
+    "name": "Karoliniškės",
+    "shareBB": 0.5525,
+    "shareCircle": 0.3884
+  },
+  {
+    "gem_id": "LT101305",
+    "country_id": "LT",
+    "name": "Lazdynai",
+    "shareBB": 0.7372,
+    "shareCircle": 0.6684
+  },
+  {
+    "gem_id": "LT101306",
+    "country_id": "LT",
+    "name": "Naujamiestis",
+    "shareBB": 0.4672,
+    "shareCircle": 0.458
+  },
+  {
+    "gem_id": "LT101307",
+    "country_id": "LT",
+    "name": "Naujininkai",
+    "shareBB": 0.5085,
+    "shareCircle": 0.539
+  },
+  {
+    "gem_id": "LT101308",
+    "country_id": "LT",
+    "name": "Naujoji Vilnia",
+    "shareBB": 0.4781,
+    "shareCircle": 0.4149
+  },
+  {
+    "gem_id": "LT101309",
+    "country_id": "LT",
+    "name": "Paneriai",
+    "shareBB": 0.4276,
+    "shareCircle": 0.4352
+  },
+  {
+    "gem_id": "LT101310",
+    "country_id": "LT",
+    "name": "Pašilaičiai",
+    "shareBB": 0.4137,
+    "shareCircle": 0.308
+  },
+  {
+    "gem_id": "LT101311",
+    "country_id": "LT",
+    "name": "Pilaitė",
+    "shareBB": 0.4502,
+    "shareCircle": 0.3742
+  },
+  {
+    "gem_id": "LT101312",
+    "country_id": "LT",
+    "name": "Rasos",
+    "shareBB": 0.3901,
+    "shareCircle": 0.1918
+  },
+  {
+    "gem_id": "LT101313",
+    "country_id": "LT",
+    "name": "Verkiai",
+    "shareBB": 0.4824,
+    "shareCircle": 0.3892
+  },
+  {
+    "gem_id": "LT101314",
+    "country_id": "LT",
+    "name": "Senamiestis",
+    "shareBB": 0.5901,
+    "shareCircle": 0.6021
+  },
+  {
+    "gem_id": "LT101315",
+    "country_id": "LT",
+    "name": "Šeškinė",
+    "shareBB": 0.6538,
+    "shareCircle": 0.5515
+  },
+  {
+    "gem_id": "LT101316",
+    "country_id": "LT",
+    "name": "Šnipiškės",
+    "shareBB": 0.6104,
+    "shareCircle": 0.4695
+  },
+  {
+    "gem_id": "LT101317",
+    "country_id": "LT",
+    "name": "Vilkpėdė",
+    "shareBB": 0.3521,
+    "shareCircle": 0.3091
+  },
+  {
+    "gem_id": "LT101318",
+    "country_id": "LT",
+    "name": "Viršuliškės",
+    "shareBB": 0.6779,
+    "shareCircle": 0.5581
+  },
+  {
+    "gem_id": "LT101319",
+    "country_id": "LT",
+    "name": "Žirmūnai",
+    "shareBB": 0.6711,
+    "shareCircle": 0.3311
+  },
+  {
+    "gem_id": "LT101320",
+    "country_id": "LT",
+    "name": "Žvėrynas",
+    "shareBB": 0.6668,
+    "shareCircle": 0.6605
+  },
+  {
+    "gem_id": "LT101321",
+    "country_id": "LT",
+    "name": "Grigiškės",
+    "shareBB": 0.476,
+    "shareCircle": 0.3571
+  },
+  {
+    "gem_id": "LT104101",
+    "country_id": "LT",
+    "name": "Nemenčinė",
+    "shareBB": 0.4658,
+    "shareCircle": 0.3898
+  },
+  {
+    "gem_id": "LT104102",
+    "country_id": "LT",
+    "name": "Avižieniai",
+    "shareBB": 0.5418,
+    "shareCircle": 0.5226
+  },
+  {
+    "gem_id": "LT104107",
+    "country_id": "LT",
+    "name": "Buivydžiai",
+    "shareBB": 0.5041,
+    "shareCircle": 0.5441
+  },
+  {
+    "gem_id": "LT104110",
+    "country_id": "LT",
+    "name": "Bezdonys",
+    "shareBB": 0.4908,
+    "shareCircle": 0.4977
+  },
+  {
+    "gem_id": "LT104112",
+    "country_id": "LT",
+    "name": "Zujūnai",
+    "shareBB": 0.549,
+    "shareCircle": 0.4896
+  },
+  {
+    "gem_id": "LT104115",
+    "country_id": "LT",
+    "name": "Pagiriai",
+    "shareBB": 0.3987,
+    "shareCircle": 0.4339
+  },
+  {
+    "gem_id": "LT104122",
+    "country_id": "LT",
+    "name": "Šatrininkai",
+    "shareBB": 0.5295,
+    "shareCircle": 0.4005
+  },
+  {
+    "gem_id": "LT104128",
+    "country_id": "LT",
+    "name": "Dūkštai",
+    "shareBB": 0.5021,
+    "shareCircle": 0.3748
+  },
+  {
+    "gem_id": "LT104139",
+    "country_id": "LT",
+    "name": "Kalveliai",
+    "shareBB": 0.4524,
+    "shareCircle": 0.4653
+  },
+  {
+    "gem_id": "LT104142",
+    "country_id": "LT",
+    "name": "Lavoriškės",
+    "shareBB": 0.6059,
+    "shareCircle": 0.4979
+  },
+  {
+    "gem_id": "LT104145",
+    "country_id": "LT",
+    "name": "Maišiagala",
+    "shareBB": 0.5511,
+    "shareCircle": 0.3911
+  },
+  {
+    "gem_id": "LT104146",
+    "country_id": "LT",
+    "name": "Marijampolis",
+    "shareBB": 0.4458,
+    "shareCircle": 0.4215
+  },
+  {
+    "gem_id": "LT104148",
+    "country_id": "LT",
+    "name": "Mickūnai",
+    "shareBB": 0.5785,
+    "shareCircle": 0.5536
+  },
+  {
+    "gem_id": "LT104151",
+    "country_id": "LT",
+    "name": "Medininkai",
+    "shareBB": 0.4507,
+    "shareCircle": 0.3676
+  },
+  {
+    "gem_id": "LT104154",
+    "country_id": "LT",
+    "name": "Nemenčinė",
+    "shareBB": 0.4781,
+    "shareCircle": 0.3755
+  },
+  {
+    "gem_id": "LT104157",
+    "country_id": "LT",
+    "name": "Nemėžis",
+    "shareBB": 0.5647,
+    "shareCircle": 0.4406
+  },
+  {
+    "gem_id": "LT104160",
+    "country_id": "LT",
+    "name": "Paberžė",
+    "shareBB": 0.561,
+    "shareCircle": 0.5112
+  },
+  {
+    "gem_id": "LT104168",
+    "country_id": "LT",
+    "name": "Riešė",
+    "shareBB": 0.485,
+    "shareCircle": 0.4782
+  },
+  {
+    "gem_id": "LT104171",
+    "country_id": "LT",
+    "name": "Rudamina",
+    "shareBB": 0.4791,
+    "shareCircle": 0.3959
+  },
+  {
+    "gem_id": "LT104174",
+    "country_id": "LT",
+    "name": "Rukainiai",
+    "shareBB": 0.5581,
+    "shareCircle": 0.4743
+  },
+  {
+    "gem_id": "LT104178",
+    "country_id": "LT",
+    "name": "Sudervė",
+    "shareBB": 0.4136,
+    "shareCircle": 0.4068
+  },
+  {
+    "gem_id": "LT104181",
+    "country_id": "LT",
+    "name": "Sužionys",
+    "shareBB": 0.4946,
+    "shareCircle": 0.5088
+  },
+  {
+    "gem_id": "LT104194",
+    "country_id": "LT",
+    "name": "Juodšiliai",
+    "shareBB": 0.5316,
+    "shareCircle": 0.4996
+  },
+  {
+    "gem_id": "LT104209",
+    "country_id": "LT",
+    "name": "Gilučiai",
+    "shareBB": 0.4812,
+    "shareCircle": 0.224
+  },
+  {
+    "gem_id": "LT104215",
+    "country_id": "LT",
+    "name": "Elektrėnai",
+    "shareBB": 0.5216,
+    "shareCircle": 0.4669
+  },
+  {
+    "gem_id": "LT104216",
+    "country_id": "LT",
+    "name": "Pastrėvys",
+    "shareBB": 0.5228,
+    "shareCircle": 0.3464
+  },
+  {
+    "gem_id": "LT104218",
+    "country_id": "LT",
+    "name": "Vievis",
+    "shareBB": 0.5423,
+    "shareCircle": 0.4934
+  },
+  {
+    "gem_id": "LT104219",
+    "country_id": "LT",
+    "name": "Kazokiškės",
+    "shareBB": 0.5402,
+    "shareCircle": 0.4321
+  },
+  {
+    "gem_id": "LT104230",
+    "country_id": "LT",
+    "name": "Kietaviškės",
+    "shareBB": 0.5073,
+    "shareCircle": 0.3958
+  },
+  {
+    "gem_id": "LT104287",
+    "country_id": "LT",
+    "name": "Semeliškės",
+    "shareBB": 0.6066,
+    "shareCircle": 0.3482
+  },
+  {
+    "gem_id": "LT104288",
+    "country_id": "LT",
+    "name": "Beižionys",
+    "shareBB": 0.5834,
+    "shareCircle": 0.5874
+  },
+  {
+    "gem_id": "LT107904",
+    "country_id": "LT",
+    "name": "Aukštadvaris",
+    "shareBB": 0.6,
+    "shareCircle": 0.5324
+  },
+  {
+    "gem_id": "LT107910",
+    "country_id": "LT",
+    "name": "Lentvaris",
+    "shareBB": 0.3909,
+    "shareCircle": 0.3457
+  },
+  {
+    "gem_id": "LT107927",
+    "country_id": "LT",
+    "name": "Grendavė",
+    "shareBB": 0.7245,
+    "shareCircle": 0.5633
+  },
+  {
+    "gem_id": "LT107969",
+    "country_id": "LT",
+    "name": "Onuškis",
+    "shareBB": 0.6158,
+    "shareCircle": 0.4909
+  },
+  {
+    "gem_id": "LT107973",
+    "country_id": "LT",
+    "name": "Paluknys",
+    "shareBB": 0.5295,
+    "shareCircle": 0.4303
+  },
+  {
+    "gem_id": "LT107981",
+    "country_id": "LT",
+    "name": "Rūdiškės",
+    "shareBB": 0.5895,
+    "shareCircle": 0.5482
+  },
+  {
+    "gem_id": "LT107990",
+    "country_id": "LT",
+    "name": "Senieji Trakai",
+    "shareBB": 0.4847,
+    "shareCircle": 0.514
+  },
+  {
+    "gem_id": "LT107994",
+    "country_id": "LT",
+    "name": "Trakai",
+    "shareBB": 0.5428,
+    "shareCircle": 0.4868
+  },
+  {
+    "gem_id": "LT108101",
+    "country_id": "LT",
+    "name": "Ukmergė",
+    "shareBB": 0.6044,
+    "shareCircle": 0.5387
+  },
+  {
+    "gem_id": "LT108112",
+    "country_id": "LT",
+    "name": "Vidiškiai",
+    "shareBB": 0.6327,
+    "shareCircle": 0.4467
+  },
+  {
+    "gem_id": "LT108118",
+    "country_id": "LT",
+    "name": "Vepriai",
+    "shareBB": 0.5488,
+    "shareCircle": 0.5582
+  },
+  {
+    "gem_id": "LT108124",
+    "country_id": "LT",
+    "name": "Deltuva",
+    "shareBB": 0.651,
+    "shareCircle": 0.6179
+  },
+  {
+    "gem_id": "LT108129",
+    "country_id": "LT",
+    "name": "Želva",
+    "shareBB": 0.477,
+    "shareCircle": 0.5192
+  },
+  {
+    "gem_id": "LT108133",
+    "country_id": "LT",
+    "name": "Žemaitkiemis",
+    "shareBB": 0.4865,
+    "shareCircle": 0.3829
+  },
+  {
+    "gem_id": "LT108150",
+    "country_id": "LT",
+    "name": "Lyduokiai",
+    "shareBB": 0.6058,
+    "shareCircle": 0.4351
+  },
+  {
+    "gem_id": "LT108161",
+    "country_id": "LT",
+    "name": "Pabaiskas",
+    "shareBB": 0.5466,
+    "shareCircle": 0.483
+  },
+  {
+    "gem_id": "LT108172",
+    "country_id": "LT",
+    "name": "Siesikai",
+    "shareBB": 0.5772,
+    "shareCircle": 0.5392
+  },
+  {
+    "gem_id": "LT108177",
+    "country_id": "LT",
+    "name": "Taujėnai",
+    "shareBB": 0.5361,
+    "shareCircle": 0.5102
+  },
+  {
+    "gem_id": "LT108185",
+    "country_id": "LT",
+    "name": "Pivonija",
+    "shareBB": 0.2617,
+    "shareCircle": 0.1908
+  },
+  {
+    "gem_id": "LT108190",
+    "country_id": "LT",
+    "name": "Šešuoliai",
+    "shareBB": 0.4666,
+    "shareCircle": 0.4485
+  },
+  {
+    "gem_id": "LT108503",
+    "country_id": "LT",
+    "name": "Baltoji Vokė",
+    "shareBB": 0.3905,
+    "shareCircle": 0.3016
+  },
+  {
+    "gem_id": "LT108505",
+    "country_id": "LT",
+    "name": "Akmenynė",
+    "shareBB": 0.6106,
+    "shareCircle": 0.6253
+  },
+  {
+    "gem_id": "LT108509",
+    "country_id": "LT",
+    "name": "Butrimonys",
+    "shareBB": 0.5984,
+    "shareCircle": 0.501
+  },
+  {
+    "gem_id": "LT108514",
+    "country_id": "LT",
+    "name": "Gerviškės",
+    "shareBB": 0.5719,
+    "shareCircle": 0.4965
+  },
+  {
+    "gem_id": "LT108519",
+    "country_id": "LT",
+    "name": "Dainava",
+    "shareBB": 0.6034,
+    "shareCircle": 0.5432
+  },
+  {
+    "gem_id": "LT108527",
+    "country_id": "LT",
+    "name": "Dieveniškės",
+    "shareBB": 0.5367,
+    "shareCircle": 0.5459
+  },
+  {
+    "gem_id": "LT108534",
+    "country_id": "LT",
+    "name": "Kalesninkai",
+    "shareBB": 0.5314,
+    "shareCircle": 0.5371
+  },
+  {
+    "gem_id": "LT108550",
+    "country_id": "LT",
+    "name": "Pabarė",
+    "shareBB": 0.5774,
+    "shareCircle": 0.4848
+  },
+  {
+    "gem_id": "LT108554",
+    "country_id": "LT",
+    "name": "Poškonys",
+    "shareBB": 0.5347,
+    "shareCircle": 0.586
+  },
+  {
+    "gem_id": "LT108563",
+    "country_id": "LT",
+    "name": "Turgeliai",
+    "shareBB": 0.6187,
+    "shareCircle": 0.5593
+  },
+  {
+    "gem_id": "LT108575",
+    "country_id": "LT",
+    "name": "Šalčininkai",
+    "shareBB": 0.4464,
+    "shareCircle": 0.507
+  },
+  {
+    "gem_id": "LT108580",
+    "country_id": "LT",
+    "name": "Eišiškės",
+    "shareBB": 0.688,
+    "shareCircle": 0.6233
+  },
+  {
+    "gem_id": "LT108593",
+    "country_id": "LT",
+    "name": "Jašiūnai",
+    "shareBB": 0.4527,
+    "shareCircle": 0.3779
+  },
+  {
+    "gem_id": "LT108601",
+    "country_id": "LT",
+    "name": "Švenčionys",
+    "shareBB": 0.6078,
+    "shareCircle": 0.6294
+  },
+  {
+    "gem_id": "LT108602",
+    "country_id": "LT",
+    "name": "Švenčionėliai",
+    "shareBB": 0.3785,
+    "shareCircle": 0.3129
+  },
+  {
+    "gem_id": "LT108603",
+    "country_id": "LT",
+    "name": "Pabradė",
+    "shareBB": 0.4836,
+    "shareCircle": 0.426
+  },
+  {
+    "gem_id": "LT108604",
+    "country_id": "LT",
+    "name": "Adutiškis",
+    "shareBB": 0.5349,
+    "shareCircle": 0.4262
+  },
+  {
+    "gem_id": "LT108613",
+    "country_id": "LT",
+    "name": "Kaltanėnai",
+    "shareBB": 0.4717,
+    "shareCircle": 0.4303
+  },
+  {
+    "gem_id": "LT108615",
+    "country_id": "LT",
+    "name": "Labanoras",
+    "shareBB": 0.5798,
+    "shareCircle": 0.586
+  },
+  {
+    "gem_id": "LT108629",
+    "country_id": "LT",
+    "name": "Magūnai",
+    "shareBB": 0.479,
+    "shareCircle": 0.4459
+  },
+  {
+    "gem_id": "LT108657",
+    "country_id": "LT",
+    "name": "Sariai",
+    "shareBB": 0.3518,
+    "shareCircle": 0.3148
+  },
+  {
+    "gem_id": "LT108659",
+    "country_id": "LT",
+    "name": "Svirkai",
+    "shareBB": 0.6324,
+    "shareCircle": 0.5468
+  },
+  {
+    "gem_id": "LT108662",
+    "country_id": "LT",
+    "name": "Strūnaitis",
+    "shareBB": 0.55,
+    "shareCircle": 0.6023
+  },
+  {
+    "gem_id": "LT108669",
+    "country_id": "LT",
+    "name": "Cirkliškis",
+    "shareBB": 0.5428,
+    "shareCircle": 0.371
+  },
+  {
+    "gem_id": "LT108900",
+    "country_id": "LT",
+    "name": "Širvintos",
+    "shareBB": 0.3608,
+    "shareCircle": 0.329
+  },
+  {
+    "gem_id": "LT108904",
+    "country_id": "LT",
+    "name": "Alionys",
+    "shareBB": 0.5463,
+    "shareCircle": 0.4854
+  },
+  {
+    "gem_id": "LT108910",
+    "country_id": "LT",
+    "name": "Kernavė",
+    "shareBB": 0.4308,
+    "shareCircle": 0.4193
+  },
+  {
+    "gem_id": "LT108923",
+    "country_id": "LT",
+    "name": "Gelvonai",
+    "shareBB": 0.5012,
+    "shareCircle": 0.5177
+  },
+  {
+    "gem_id": "LT108934",
+    "country_id": "LT",
+    "name": "Zibalai",
+    "shareBB": 0.5483,
+    "shareCircle": 0.461
+  },
+  {
+    "gem_id": "LT108967",
+    "country_id": "LT",
+    "name": "Musninkai",
+    "shareBB": 0.5155,
+    "shareCircle": 0.4052
+  },
+  {
+    "gem_id": "LT108978",
+    "country_id": "LT",
+    "name": "Čiobiškis",
+    "shareBB": 0.4905,
+    "shareCircle": 0.3972
+  },
+  {
+    "gem_id": "LT108982",
+    "country_id": "LT",
+    "name": "Širvintos",
+    "shareBB": 0.5347,
+    "shareCircle": 0.4395
+  },
+  {
+    "gem_id": "LT108989",
+    "country_id": "LT",
+    "name": "Jauniūnai",
+    "shareBB": 0.4574,
+    "shareCircle": 0.4544
+  }
+]

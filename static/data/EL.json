@@ -1,0 +1,2284 @@
+[
+  {
+    "gem_id": "GR01010101",
+    "country_id": "EL",
+    "name": "Κομοτηνής",
+    "shareBB": 0.3859,
+    "shareCircle": 0.2673
+  },
+  {
+    "gem_id": "GR01010102",
+    "country_id": "EL",
+    "name": "Αρριανών",
+    "shareBB": 0.5291,
+    "shareCircle": 0.5779
+  },
+  {
+    "gem_id": "GR01010103",
+    "country_id": "EL",
+    "name": "Ιάσμου",
+    "shareBB": 0.536,
+    "shareCircle": 0.5594
+  },
+  {
+    "gem_id": "GR01010104",
+    "country_id": "EL",
+    "name": "Μαρωνείας - Σαπών",
+    "shareBB": 0.3684,
+    "shareCircle": 0.2578
+  },
+  {
+    "gem_id": "GR01010201",
+    "country_id": "EL",
+    "name": "Δράμας",
+    "shareBB": 0.5541,
+    "shareCircle": 0.3108
+  },
+  {
+    "gem_id": "GR01010202",
+    "country_id": "EL",
+    "name": "Δοξάτου",
+    "shareBB": 0.4591,
+    "shareCircle": 0.3599
+  },
+  {
+    "gem_id": "GR01010203",
+    "country_id": "EL",
+    "name": "Κάτω Νευροκοπίου",
+    "shareBB": 0.4312,
+    "shareCircle": 0.4164
+  },
+  {
+    "gem_id": "GR01010204",
+    "country_id": "EL",
+    "name": "Παρανεστίου",
+    "shareBB": 0.4531,
+    "shareCircle": 0.3897
+  },
+  {
+    "gem_id": "GR01010205",
+    "country_id": "EL",
+    "name": "Προσοτσάνης",
+    "shareBB": 0.4239,
+    "shareCircle": 0.3741
+  },
+  {
+    "gem_id": "GR01010301",
+    "country_id": "EL",
+    "name": "Αλεξανδρούπολης",
+    "shareBB": 0.5007,
+    "shareCircle": 0.3993
+  },
+  {
+    "gem_id": "GR01010302",
+    "country_id": "EL",
+    "name": "Διδυμοτείχου",
+    "shareBB": 0.6121,
+    "shareCircle": 0.4018
+  },
+  {
+    "gem_id": "GR01010303",
+    "country_id": "EL",
+    "name": "Ορεστιάδας",
+    "shareBB": 0.6404,
+    "shareCircle": 0.4214
+  },
+  {
+    "gem_id": "GR01010304",
+    "country_id": "EL",
+    "name": "Σαμοθράκης",
+    "shareBB": 0.4107,
+    "shareCircle": 0.2061
+  },
+  {
+    "gem_id": "GR01010305",
+    "country_id": "EL",
+    "name": "Σουφλίου",
+    "shareBB": 0.6355,
+    "shareCircle": 0.6031
+  },
+  {
+    "gem_id": "GR01010401",
+    "country_id": "EL",
+    "name": "Θάσου",
+    "shareBB": 0.5309,
+    "shareCircle": 0.5023
+  },
+  {
+    "gem_id": "GR01010501",
+    "country_id": "EL",
+    "name": "Καβάλας",
+    "shareBB": 0.4403,
+    "shareCircle": 0.4721
+  },
+  {
+    "gem_id": "GR01010502",
+    "country_id": "EL",
+    "name": "Νέστου",
+    "shareBB": 0.5247,
+    "shareCircle": 0.3976
+  },
+  {
+    "gem_id": "GR01010503",
+    "country_id": "EL",
+    "name": "Παγγαίου",
+    "shareBB": 0.5379,
+    "shareCircle": 0.4234
+  },
+  {
+    "gem_id": "GR01010601",
+    "country_id": "EL",
+    "name": "Ξάνθης",
+    "shareBB": 0.3155,
+    "shareCircle": 0.2245
+  },
+  {
+    "gem_id": "GR01010602",
+    "country_id": "EL",
+    "name": "Αβδήρων",
+    "shareBB": 0.5244,
+    "shareCircle": 0.5948
+  },
+  {
+    "gem_id": "GR01010603",
+    "country_id": "EL",
+    "name": "Μύκης",
+    "shareBB": 0.5761,
+    "shareCircle": 0.4686
+  },
+  {
+    "gem_id": "GR01010604",
+    "country_id": "EL",
+    "name": "Τοπείρου",
+    "shareBB": 0.3628,
+    "shareCircle": 0.306
+  },
+  {
+    "gem_id": "GR01020701",
+    "country_id": "EL",
+    "name": "Θεσσαλονίκης",
+    "shareBB": 0.409,
+    "shareCircle": 0.3334
+  },
+  {
+    "gem_id": "GR01020702",
+    "country_id": "EL",
+    "name": "Αμπελοκήπων - Μενεμένης",
+    "shareBB": 0.3888,
+    "shareCircle": 0.285
+  },
+  {
+    "gem_id": "GR01020703",
+    "country_id": "EL",
+    "name": "Βόλβης",
+    "shareBB": 0.537,
+    "shareCircle": 0.4009
+  },
+  {
+    "gem_id": "GR01020704",
+    "country_id": "EL",
+    "name": "Δέλτα",
+    "shareBB": 0.526,
+    "shareCircle": 0.5283
+  },
+  {
+    "gem_id": "GR01020705",
+    "country_id": "EL",
+    "name": "Θερμαϊκού",
+    "shareBB": 0.3751,
+    "shareCircle": 0.2766
+  },
+  {
+    "gem_id": "GR01020706",
+    "country_id": "EL",
+    "name": "Θέρμης",
+    "shareBB": 0.5895,
+    "shareCircle": 0.5696
+  },
+  {
+    "gem_id": "GR01020707",
+    "country_id": "EL",
+    "name": "Καλαμαριάς",
+    "shareBB": 0.6423,
+    "shareCircle": 0.5442
+  },
+  {
+    "gem_id": "GR01020708",
+    "country_id": "EL",
+    "name": "Κορδελιού - Ευόσμου",
+    "shareBB": 0.5869,
+    "shareCircle": 0.5493
+  },
+  {
+    "gem_id": "GR01020709",
+    "country_id": "EL",
+    "name": "Λαγκαδά",
+    "shareBB": 0.5102,
+    "shareCircle": 0.4651
+  },
+  {
+    "gem_id": "GR01020710",
+    "country_id": "EL",
+    "name": "Νεάπολης - Συκεών",
+    "shareBB": 0.444,
+    "shareCircle": 0.391
+  },
+  {
+    "gem_id": "GR01020711",
+    "country_id": "EL",
+    "name": "Παύλου Μελά",
+    "shareBB": 0.7139,
+    "shareCircle": 0.5905
+  },
+  {
+    "gem_id": "GR01020712",
+    "country_id": "EL",
+    "name": "Πυλαίας - Χορτιάτη",
+    "shareBB": 0.4668,
+    "shareCircle": 0.357
+  },
+  {
+    "gem_id": "GR01020713",
+    "country_id": "EL",
+    "name": "Χαλκηδόνος",
+    "shareBB": 0.5099,
+    "shareCircle": 0.535
+  },
+  {
+    "gem_id": "GR01020714",
+    "country_id": "EL",
+    "name": "Ωραιοκάστρου",
+    "shareBB": 0.6222,
+    "shareCircle": 0.5293
+  },
+  {
+    "gem_id": "GR01020801",
+    "country_id": "EL",
+    "name": "Βέροιας",
+    "shareBB": 0.4953,
+    "shareCircle": 0.6132
+  },
+  {
+    "gem_id": "GR01020802",
+    "country_id": "EL",
+    "name": "Αλεξάνδρειας",
+    "shareBB": 0.4645,
+    "shareCircle": 0.5055
+  },
+  {
+    "gem_id": "GR01020803",
+    "country_id": "EL",
+    "name": "Ηρωικής Πόλης Νάουσας",
+    "shareBB": 0.4356,
+    "shareCircle": 0.3949
+  },
+  {
+    "gem_id": "GR01020901",
+    "country_id": "EL",
+    "name": "Κιλκίς",
+    "shareBB": 0.5003,
+    "shareCircle": 0.4891
+  },
+  {
+    "gem_id": "GR01020902",
+    "country_id": "EL",
+    "name": "Παιονίας",
+    "shareBB": 0.5771,
+    "shareCircle": 0.5678
+  },
+  {
+    "gem_id": "GR01021001",
+    "country_id": "EL",
+    "name": "Έδεσσας",
+    "shareBB": 0.6279,
+    "shareCircle": 0.5522
+  },
+  {
+    "gem_id": "GR01021002",
+    "country_id": "EL",
+    "name": "Αλμωπίας",
+    "shareBB": 0.6198,
+    "shareCircle": 0.4775
+  },
+  {
+    "gem_id": "GR01021003",
+    "country_id": "EL",
+    "name": "Πέλλας",
+    "shareBB": 0.5022,
+    "shareCircle": 0.5045
+  },
+  {
+    "gem_id": "GR01021004",
+    "country_id": "EL",
+    "name": "Σκύδρας",
+    "shareBB": 0.5971,
+    "shareCircle": 0.4817
+  },
+  {
+    "gem_id": "GR01021101",
+    "country_id": "EL",
+    "name": "Κατερίνης",
+    "shareBB": 0.4322,
+    "shareCircle": 0.3688
+  },
+  {
+    "gem_id": "GR01021102",
+    "country_id": "EL",
+    "name": "Δίου - Ολύμπου",
+    "shareBB": 0.4833,
+    "shareCircle": 0.3828
+  },
+  {
+    "gem_id": "GR01021103",
+    "country_id": "EL",
+    "name": "Πύδνας - Κολινδρού",
+    "shareBB": 0.5246,
+    "shareCircle": 0.4133
+  },
+  {
+    "gem_id": "GR01021201",
+    "country_id": "EL",
+    "name": "Σερρών",
+    "shareBB": 0.422,
+    "shareCircle": 0.387
+  },
+  {
+    "gem_id": "GR01021202",
+    "country_id": "EL",
+    "name": "Αμφίπολης",
+    "shareBB": 0.3599,
+    "shareCircle": 0.272
+  },
+  {
+    "gem_id": "GR01021203",
+    "country_id": "EL",
+    "name": "Βισαλτίας",
+    "shareBB": 0.61,
+    "shareCircle": 0.3675
+  },
+  {
+    "gem_id": "GR01021204",
+    "country_id": "EL",
+    "name": "Εμμανουήλ Παππά",
+    "shareBB": 0.5523,
+    "shareCircle": 0.4666
+  },
+  {
+    "gem_id": "GR01021205",
+    "country_id": "EL",
+    "name": "Ηράκλειας",
+    "shareBB": 0.4344,
+    "shareCircle": 0.3747
+  },
+  {
+    "gem_id": "GR01021206",
+    "country_id": "EL",
+    "name": "Νέας Ζίχνης",
+    "shareBB": 0.5812,
+    "shareCircle": 0.566
+  },
+  {
+    "gem_id": "GR01021207",
+    "country_id": "EL",
+    "name": "Σιντικής",
+    "shareBB": 0.4671,
+    "shareCircle": 0.3172
+  },
+  {
+    "gem_id": "GR01021301",
+    "country_id": "EL",
+    "name": "Πολύγυρου",
+    "shareBB": 0.5307,
+    "shareCircle": 0.5267
+  },
+  {
+    "gem_id": "GR01021302",
+    "country_id": "EL",
+    "name": "Αριστοτέλη",
+    "shareBB": 0.4775,
+    "shareCircle": 0.3755
+  },
+  {
+    "gem_id": "GR01021303",
+    "country_id": "EL",
+    "name": "Κασσάνδρας",
+    "shareBB": 0.3966,
+    "shareCircle": 0.2357
+  },
+  {
+    "gem_id": "GR01021304",
+    "country_id": "EL",
+    "name": "Νέας Προποντίδας",
+    "shareBB": 0.3625,
+    "shareCircle": 0.2892
+  },
+  {
+    "gem_id": "GR01021305",
+    "country_id": "EL",
+    "name": "Σιθωνίας",
+    "shareBB": 0.3134,
+    "shareCircle": 0.2307
+  },
+  {
+    "gem_id": "GR02031401",
+    "country_id": "EL",
+    "name": "Κοζάνης",
+    "shareBB": 0.4923,
+    "shareCircle": 0.5371
+  },
+  {
+    "gem_id": "GR02031402",
+    "country_id": "EL",
+    "name": "Βοΐου",
+    "shareBB": 0.4891,
+    "shareCircle": 0.4298
+  },
+  {
+    "gem_id": "GR02031403",
+    "country_id": "EL",
+    "name": "Εορδαίας",
+    "shareBB": 0.4535,
+    "shareCircle": 0.4437
+  },
+  {
+    "gem_id": "GR02031404",
+    "country_id": "EL",
+    "name": "Σερβίων - Βελβεντού",
+    "shareBB": 0.5161,
+    "shareCircle": 0.3614
+  },
+  {
+    "gem_id": "GR02031501",
+    "country_id": "EL",
+    "name": "Γρεβενών",
+    "shareBB": 0.5766,
+    "shareCircle": 0.4937
+  },
+  {
+    "gem_id": "GR02031502",
+    "country_id": "EL",
+    "name": "Δεσκάτης",
+    "shareBB": 0.4379,
+    "shareCircle": 0.4162
+  },
+  {
+    "gem_id": "GR02031601",
+    "country_id": "EL",
+    "name": "Καστοριάς",
+    "shareBB": 0.4568,
+    "shareCircle": 0.5103
+  },
+  {
+    "gem_id": "GR02031602",
+    "country_id": "EL",
+    "name": "Νεστορίου",
+    "shareBB": 0.4604,
+    "shareCircle": 0.3578
+  },
+  {
+    "gem_id": "GR02031603",
+    "country_id": "EL",
+    "name": "Ορέστιδος",
+    "shareBB": 0.3767,
+    "shareCircle": 0.232
+  },
+  {
+    "gem_id": "GR02031701",
+    "country_id": "EL",
+    "name": "Φλώρινας",
+    "shareBB": 0.4607,
+    "shareCircle": 0.392
+  },
+  {
+    "gem_id": "GR02031702",
+    "country_id": "EL",
+    "name": "Αμυνταίου",
+    "shareBB": 0.4217,
+    "shareCircle": 0.4503
+  },
+  {
+    "gem_id": "GR02031703",
+    "country_id": "EL",
+    "name": "Πρεσπών",
+    "shareBB": 0.5942,
+    "shareCircle": 0.5714
+  },
+  {
+    "gem_id": "GR02041801",
+    "country_id": "EL",
+    "name": "Ιωαννιτών",
+    "shareBB": 0.4481,
+    "shareCircle": 0.4383
+  },
+  {
+    "gem_id": "GR02041802",
+    "country_id": "EL",
+    "name": "Βορείων Τζουμέρκων",
+    "shareBB": 0.4333,
+    "shareCircle": 0.3923
+  },
+  {
+    "gem_id": "GR02041803",
+    "country_id": "EL",
+    "name": "Δωδώνης",
+    "shareBB": 0.4811,
+    "shareCircle": 0.5276
+  },
+  {
+    "gem_id": "GR02041804",
+    "country_id": "EL",
+    "name": "Ζαγορίου",
+    "shareBB": 0.6307,
+    "shareCircle": 0.624
+  },
+  {
+    "gem_id": "GR02041805",
+    "country_id": "EL",
+    "name": "Ζίτσας",
+    "shareBB": 0.5348,
+    "shareCircle": 0.5788
+  },
+  {
+    "gem_id": "GR02041806",
+    "country_id": "EL",
+    "name": "Κόνιτσας",
+    "shareBB": 0.43,
+    "shareCircle": 0.4561
+  },
+  {
+    "gem_id": "GR02041807",
+    "country_id": "EL",
+    "name": "Μετσόβου",
+    "shareBB": 0.5316,
+    "shareCircle": 0.388
+  },
+  {
+    "gem_id": "GR02041808",
+    "country_id": "EL",
+    "name": "Πωγωνίου",
+    "shareBB": 0.5447,
+    "shareCircle": 0.6377
+  },
+  {
+    "gem_id": "GR02041901",
+    "country_id": "EL",
+    "name": "Αρταίων",
+    "shareBB": 0.3644,
+    "shareCircle": 0.2462
+  },
+  {
+    "gem_id": "GR02041902",
+    "country_id": "EL",
+    "name": "Γεωργίου Καραϊσκάκη",
+    "shareBB": 0.6306,
+    "shareCircle": 0.479
+  },
+  {
+    "gem_id": "GR02041903",
+    "country_id": "EL",
+    "name": "Κεντρικών Τζουμέρκων",
+    "shareBB": 0.4282,
+    "shareCircle": 0.3955
+  },
+  {
+    "gem_id": "GR02041904",
+    "country_id": "EL",
+    "name": "Νικολάου Σκουφά",
+    "shareBB": 0.5367,
+    "shareCircle": 0.2888
+  },
+  {
+    "gem_id": "GR02042001",
+    "country_id": "EL",
+    "name": "Ηγουμενίτσας",
+    "shareBB": 0.3571,
+    "shareCircle": 0.2904
+  },
+  {
+    "gem_id": "GR02042002",
+    "country_id": "EL",
+    "name": "Σουλίου",
+    "shareBB": 0.4419,
+    "shareCircle": 0.3438
+  },
+  {
+    "gem_id": "GR02042003",
+    "country_id": "EL",
+    "name": "Φιλιατών",
+    "shareBB": 0.3886,
+    "shareCircle": 0.3697
+  },
+  {
+    "gem_id": "GR02042101",
+    "country_id": "EL",
+    "name": "Πρέβεζας",
+    "shareBB": 0.2537,
+    "shareCircle": 0.2331
+  },
+  {
+    "gem_id": "GR02042102",
+    "country_id": "EL",
+    "name": "Ζηρού",
+    "shareBB": 0.508,
+    "shareCircle": 0.423
+  },
+  {
+    "gem_id": "GR02042103",
+    "country_id": "EL",
+    "name": "Πάργας",
+    "shareBB": 0.416,
+    "shareCircle": 0.248
+  },
+  {
+    "gem_id": "GR03052201",
+    "country_id": "EL",
+    "name": "Λαρισαίων",
+    "shareBB": 0.4254,
+    "shareCircle": 0.2922
+  },
+  {
+    "gem_id": "GR03052202",
+    "country_id": "EL",
+    "name": "Αγιάς",
+    "shareBB": 0.4911,
+    "shareCircle": 0.3888
+  },
+  {
+    "gem_id": "GR03052203",
+    "country_id": "EL",
+    "name": "Ελασσόνας",
+    "shareBB": 0.4863,
+    "shareCircle": 0.5156
+  },
+  {
+    "gem_id": "GR03052204",
+    "country_id": "EL",
+    "name": "Κιλελέρ",
+    "shareBB": 0.5772,
+    "shareCircle": 0.4798
+  },
+  {
+    "gem_id": "GR03052205",
+    "country_id": "EL",
+    "name": "Τεμπών",
+    "shareBB": 0.5435,
+    "shareCircle": 0.5102
+  },
+  {
+    "gem_id": "GR03052206",
+    "country_id": "EL",
+    "name": "Τυρνάβου",
+    "shareBB": 0.477,
+    "shareCircle": 0.3859
+  },
+  {
+    "gem_id": "GR03052207",
+    "country_id": "EL",
+    "name": "Φαρσάλων",
+    "shareBB": 0.6054,
+    "shareCircle": 0.5773
+  },
+  {
+    "gem_id": "GR03052301",
+    "country_id": "EL",
+    "name": "Καρδίτσας",
+    "shareBB": 0.5294,
+    "shareCircle": 0.4007
+  },
+  {
+    "gem_id": "GR03052302",
+    "country_id": "EL",
+    "name": "Αργιθέας",
+    "shareBB": 0.565,
+    "shareCircle": 0.5248
+  },
+  {
+    "gem_id": "GR03052303",
+    "country_id": "EL",
+    "name": "Λίμνης Πλαστήρα",
+    "shareBB": 0.665,
+    "shareCircle": 0.5777
+  },
+  {
+    "gem_id": "GR03052304",
+    "country_id": "EL",
+    "name": "Μουζακίου",
+    "shareBB": 0.406,
+    "shareCircle": 0.356
+  },
+  {
+    "gem_id": "GR03052305",
+    "country_id": "EL",
+    "name": "Παλαμά",
+    "shareBB": 0.5316,
+    "shareCircle": 0.3589
+  },
+  {
+    "gem_id": "GR03052306",
+    "country_id": "EL",
+    "name": "Σοφάδων",
+    "shareBB": 0.5403,
+    "shareCircle": 0.3786
+  },
+  {
+    "gem_id": "GR03052401",
+    "country_id": "EL",
+    "name": "Βόλου",
+    "shareBB": 0.3836,
+    "shareCircle": 0.3092
+  },
+  {
+    "gem_id": "GR03052402",
+    "country_id": "EL",
+    "name": "Αλμυρού",
+    "shareBB": 0.5829,
+    "shareCircle": 0.3908
+  },
+  {
+    "gem_id": "GR03052403",
+    "country_id": "EL",
+    "name": "Ζαγοράς - Μουρεσίου",
+    "shareBB": 0.424,
+    "shareCircle": 0.3537
+  },
+  {
+    "gem_id": "GR03052404",
+    "country_id": "EL",
+    "name": "Νοτίου Πηλίου",
+    "shareBB": 0.4203,
+    "shareCircle": 0.4001
+  },
+  {
+    "gem_id": "GR03052405",
+    "country_id": "EL",
+    "name": "Ρήγα Φεραίου",
+    "shareBB": 0.3839,
+    "shareCircle": 0.3487
+  },
+  {
+    "gem_id": "GR03052501",
+    "country_id": "EL",
+    "name": "Σκιάθου",
+    "shareBB": 0.4342,
+    "shareCircle": 0.428
+  },
+  {
+    "gem_id": "GR03052502",
+    "country_id": "EL",
+    "name": "Αλοννήσου",
+    "shareBB": 0.0595,
+    "shareCircle": 0.0558
+  },
+  {
+    "gem_id": "GR03052503",
+    "country_id": "EL",
+    "name": "Σκοπέλου",
+    "shareBB": 0.3672,
+    "shareCircle": 0.2998
+  },
+  {
+    "gem_id": "GR03052601",
+    "country_id": "EL",
+    "name": "Τρικκαίων",
+    "shareBB": 0.4422,
+    "shareCircle": 0.4146
+  },
+  {
+    "gem_id": "GR03052602",
+    "country_id": "EL",
+    "name": "Καλαμπάκας",
+    "shareBB": 0.5116,
+    "shareCircle": 0.3309
+  },
+  {
+    "gem_id": "GR03052603",
+    "country_id": "EL",
+    "name": "Πύλης",
+    "shareBB": 0.579,
+    "shareCircle": 0.39
+  },
+  {
+    "gem_id": "GR03052604",
+    "country_id": "EL",
+    "name": "Φαρκαδόνας",
+    "shareBB": 0.441,
+    "shareCircle": 0.4611
+  },
+  {
+    "gem_id": "GR03082701",
+    "country_id": "EL",
+    "name": "Λαμιέων",
+    "shareBB": 0.5843,
+    "shareCircle": 0.5279
+  },
+  {
+    "gem_id": "GR03082702",
+    "country_id": "EL",
+    "name": "Αμφίκλειας - Ελάτειας",
+    "shareBB": 0.4952,
+    "shareCircle": 0.3487
+  },
+  {
+    "gem_id": "GR03082703",
+    "country_id": "EL",
+    "name": "Δομοκού",
+    "shareBB": 0.5366,
+    "shareCircle": 0.4465
+  },
+  {
+    "gem_id": "GR03082704",
+    "country_id": "EL",
+    "name": "Λοκρών",
+    "shareBB": 0.537,
+    "shareCircle": 0.3459
+  },
+  {
+    "gem_id": "GR03082705",
+    "country_id": "EL",
+    "name": "Μακρακώμης",
+    "shareBB": 0.5756,
+    "shareCircle": 0.6292
+  },
+  {
+    "gem_id": "GR03082706",
+    "country_id": "EL",
+    "name": "Μώλου - Αγίου Κωνσταντίνου",
+    "shareBB": 0.5631,
+    "shareCircle": 0.3707
+  },
+  {
+    "gem_id": "GR03082707",
+    "country_id": "EL",
+    "name": "Στυλίδας",
+    "shareBB": 0.5106,
+    "shareCircle": 0.2876
+  },
+  {
+    "gem_id": "GR03082801",
+    "country_id": "EL",
+    "name": "Λεβαδέων",
+    "shareBB": 0.4914,
+    "shareCircle": 0.5125
+  },
+  {
+    "gem_id": "GR03082802",
+    "country_id": "EL",
+    "name": "Αλιάρτου",
+    "shareBB": 0.5277,
+    "shareCircle": 0.5
+  },
+  {
+    "gem_id": "GR03082803",
+    "country_id": "EL",
+    "name": "Διστόμου - Αράχοβας - Αντίκυρας",
+    "shareBB": 0.4747,
+    "shareCircle": 0.3875
+  },
+  {
+    "gem_id": "GR03082804",
+    "country_id": "EL",
+    "name": "Θηβαίων",
+    "shareBB": 0.4103,
+    "shareCircle": 0.2923
+  },
+  {
+    "gem_id": "GR03082805",
+    "country_id": "EL",
+    "name": "Ορχομενού",
+    "shareBB": 0.4649,
+    "shareCircle": 0.2643
+  },
+  {
+    "gem_id": "GR03082806",
+    "country_id": "EL",
+    "name": "Τανάγρας",
+    "shareBB": 0.6279,
+    "shareCircle": 0.5995
+  },
+  {
+    "gem_id": "GR03082901",
+    "country_id": "EL",
+    "name": "Χαλκιδέων",
+    "shareBB": 0.4222,
+    "shareCircle": 0.2537
+  },
+  {
+    "gem_id": "GR03082902",
+    "country_id": "EL",
+    "name": "Διρφύων - Μεσσαπίων",
+    "shareBB": 0.5955,
+    "shareCircle": 0.4668
+  },
+  {
+    "gem_id": "GR03082903",
+    "country_id": "EL",
+    "name": "Ερέτριας",
+    "shareBB": 0.3537,
+    "shareCircle": 0.2486
+  },
+  {
+    "gem_id": "GR03082904",
+    "country_id": "EL",
+    "name": "Ιστιαίας - Αιδηψού",
+    "shareBB": 0.3117,
+    "shareCircle": 0.2254
+  },
+  {
+    "gem_id": "GR03082905",
+    "country_id": "EL",
+    "name": "Καρύστου",
+    "shareBB": 0.4146,
+    "shareCircle": 0.346
+  },
+  {
+    "gem_id": "GR03082906",
+    "country_id": "EL",
+    "name": "Κύμης - Αλιβερίου",
+    "shareBB": 0.4992,
+    "shareCircle": 0.409
+  },
+  {
+    "gem_id": "GR03082907",
+    "country_id": "EL",
+    "name": "Μαντουδίου - Λίμνης - Αγίας Άννας",
+    "shareBB": 0.4103,
+    "shareCircle": 0.3385
+  },
+  {
+    "gem_id": "GR03082908",
+    "country_id": "EL",
+    "name": "Σκύρου",
+    "shareBB": 0.2653,
+    "shareCircle": 0.2401
+  },
+  {
+    "gem_id": "GR03083001",
+    "country_id": "EL",
+    "name": "Καρπενησίου",
+    "shareBB": 0.511,
+    "shareCircle": 0.4183
+  },
+  {
+    "gem_id": "GR03083002",
+    "country_id": "EL",
+    "name": "Αγράφων",
+    "shareBB": 0.6418,
+    "shareCircle": 0.6352
+  },
+  {
+    "gem_id": "GR03083101",
+    "country_id": "EL",
+    "name": "Δελφών",
+    "shareBB": 0.3985,
+    "shareCircle": 0.3302
+  },
+  {
+    "gem_id": "GR03083102",
+    "country_id": "EL",
+    "name": "Δωρίδος",
+    "shareBB": 0.5529,
+    "shareCircle": 0.4249
+  },
+  {
+    "gem_id": "GR04063201",
+    "country_id": "EL",
+    "name": "Κέρκυρας",
+    "shareBB": 0.1647,
+    "shareCircle": 0.1109
+  },
+  {
+    "gem_id": "GR04063202",
+    "country_id": "EL",
+    "name": "Παξών",
+    "shareBB": 0.2107,
+    "shareCircle": 0.1403
+  },
+  {
+    "gem_id": "GR04063301",
+    "country_id": "EL",
+    "name": "Ζακύνθου",
+    "shareBB": 0.1298,
+    "shareCircle": 0.0798
+  },
+  {
+    "gem_id": "GR04063401",
+    "country_id": "EL",
+    "name": "Ιθάκης",
+    "shareBB": 0.0876,
+    "shareCircle": 0.0655
+  },
+  {
+    "gem_id": "GR04063501",
+    "country_id": "EL",
+    "name": "Κεφαλονιάς",
+    "shareBB": 0.2718,
+    "shareCircle": 0.1887
+  },
+  {
+    "gem_id": "GR04063601",
+    "country_id": "EL",
+    "name": "Λευκάδας",
+    "shareBB": 0.2837,
+    "shareCircle": 0.2564
+  },
+  {
+    "gem_id": "GR04063602",
+    "country_id": "EL",
+    "name": "Μεγανησίου",
+    "shareBB": 0.1887,
+    "shareCircle": 0.1086
+  },
+  {
+    "gem_id": "GR04073701",
+    "country_id": "EL",
+    "name": "Πατρέων",
+    "shareBB": 0.4587,
+    "shareCircle": 0.3571
+  },
+  {
+    "gem_id": "GR04073702",
+    "country_id": "EL",
+    "name": "Αιγιαλείας",
+    "shareBB": 0.419,
+    "shareCircle": 0.3238
+  },
+  {
+    "gem_id": "GR04073703",
+    "country_id": "EL",
+    "name": "Δυτικής Αχαΐας",
+    "shareBB": 0.577,
+    "shareCircle": 0.5166
+  },
+  {
+    "gem_id": "GR04073704",
+    "country_id": "EL",
+    "name": "Ερυμάνθου",
+    "shareBB": 0.4235,
+    "shareCircle": 0.3351
+  },
+  {
+    "gem_id": "GR04073705",
+    "country_id": "EL",
+    "name": "Καλαβρύτων",
+    "shareBB": 0.6236,
+    "shareCircle": 0.6956
+  },
+  {
+    "gem_id": "GR04073801",
+    "country_id": "EL",
+    "name": "Ιεράς Πόλης Μεσολογγίου",
+    "shareBB": 0.495,
+    "shareCircle": 0.4058
+  },
+  {
+    "gem_id": "GR04073802",
+    "country_id": "EL",
+    "name": "Ακτίου - Βόνιτσας",
+    "shareBB": 0.57,
+    "shareCircle": 0.442
+  },
+  {
+    "gem_id": "GR04073803",
+    "country_id": "EL",
+    "name": "Αγρινίου",
+    "shareBB": 0.526,
+    "shareCircle": 0.5111
+  },
+  {
+    "gem_id": "GR04073804",
+    "country_id": "EL",
+    "name": "Αμφιλοχίας",
+    "shareBB": 0.5784,
+    "shareCircle": 0.5714
+  },
+  {
+    "gem_id": "GR04073805",
+    "country_id": "EL",
+    "name": "Θέρμου",
+    "shareBB": 0.5666,
+    "shareCircle": 0.4278
+  },
+  {
+    "gem_id": "GR04073806",
+    "country_id": "EL",
+    "name": "Ναυπακτίας",
+    "shareBB": 0.3855,
+    "shareCircle": 0.2491
+  },
+  {
+    "gem_id": "GR04073807",
+    "country_id": "EL",
+    "name": "Ξηρομέρου",
+    "shareBB": 0.4739,
+    "shareCircle": 0.4683
+  },
+  {
+    "gem_id": "GR04073901",
+    "country_id": "EL",
+    "name": "Πύργου",
+    "shareBB": 0.4408,
+    "shareCircle": 0.4047
+  },
+  {
+    "gem_id": "GR04073902",
+    "country_id": "EL",
+    "name": "Ήλιδας",
+    "shareBB": 0.4721,
+    "shareCircle": 0.397
+  },
+  {
+    "gem_id": "GR04073903",
+    "country_id": "EL",
+    "name": "Ανδραβίδας - Κυλλήνης",
+    "shareBB": 0.3134,
+    "shareCircle": 0.2813
+  },
+  {
+    "gem_id": "GR04073904",
+    "country_id": "EL",
+    "name": "Ανδρίτσαινας - Κρεστένων",
+    "shareBB": 0.4001,
+    "shareCircle": 0.302
+  },
+  {
+    "gem_id": "GR04073905",
+    "country_id": "EL",
+    "name": "Αρχαίας Ολυμπίας",
+    "shareBB": 0.4711,
+    "shareCircle": 0.3736
+  },
+  {
+    "gem_id": "GR04073906",
+    "country_id": "EL",
+    "name": "Ζαχάρως",
+    "shareBB": 0.5149,
+    "shareCircle": 0.4297
+  },
+  {
+    "gem_id": "GR04073907",
+    "country_id": "EL",
+    "name": "Πηνειού",
+    "shareBB": 0.3552,
+    "shareCircle": 0.2407
+  },
+  {
+    "gem_id": "GR04104001",
+    "country_id": "EL",
+    "name": "Τρίπολης",
+    "shareBB": 0.5136,
+    "shareCircle": 0.3782
+  },
+  {
+    "gem_id": "GR04104002",
+    "country_id": "EL",
+    "name": "Βόρειας Κυνουρίας",
+    "shareBB": 0.4656,
+    "shareCircle": 0.5476
+  },
+  {
+    "gem_id": "GR04104003",
+    "country_id": "EL",
+    "name": "Γορτυνίας",
+    "shareBB": 0.6366,
+    "shareCircle": 0.5512
+  },
+  {
+    "gem_id": "GR04104004",
+    "country_id": "EL",
+    "name": "Μεγαλόπολης",
+    "shareBB": 0.4846,
+    "shareCircle": 0.3501
+  },
+  {
+    "gem_id": "GR04104005",
+    "country_id": "EL",
+    "name": "Νότιας Κυνουρίας",
+    "shareBB": 0.5016,
+    "shareCircle": 0.553
+  },
+  {
+    "gem_id": "GR04104101",
+    "country_id": "EL",
+    "name": "Ναυπλιέων",
+    "shareBB": 0.3593,
+    "shareCircle": 0.3893
+  },
+  {
+    "gem_id": "GR04104102",
+    "country_id": "EL",
+    "name": "Άργους - Μυκηνών",
+    "shareBB": 0.4628,
+    "shareCircle": 0.4446
+  },
+  {
+    "gem_id": "GR04104103",
+    "country_id": "EL",
+    "name": "Επιδαύρου",
+    "shareBB": 0.5228,
+    "shareCircle": 0.5144
+  },
+  {
+    "gem_id": "GR04104104",
+    "country_id": "EL",
+    "name": "Ερμιονίδας",
+    "shareBB": 0.4418,
+    "shareCircle": 0.3923
+  },
+  {
+    "gem_id": "GR04104201",
+    "country_id": "EL",
+    "name": "Κορινθίων",
+    "shareBB": 0.5981,
+    "shareCircle": 0.4946
+  },
+  {
+    "gem_id": "GR04104202",
+    "country_id": "EL",
+    "name": "Βέλου - Βόχας",
+    "shareBB": 0.6149,
+    "shareCircle": 0.5913
+  },
+  {
+    "gem_id": "GR04104203",
+    "country_id": "EL",
+    "name": "Λουτρακίου - Αγίων Θεοδώρων",
+    "shareBB": 0.3985,
+    "shareCircle": 0.4161
+  },
+  {
+    "gem_id": "GR04104204",
+    "country_id": "EL",
+    "name": "Νεμέας",
+    "shareBB": 0.6669,
+    "shareCircle": 0.4754
+  },
+  {
+    "gem_id": "GR04104205",
+    "country_id": "EL",
+    "name": "Ξυλοκάστρου - Ευρωστίνης",
+    "shareBB": 0.5238,
+    "shareCircle": 0.4733
+  },
+  {
+    "gem_id": "GR04104206",
+    "country_id": "EL",
+    "name": "Σικυωνίων",
+    "shareBB": 0.4063,
+    "shareCircle": 0.3017
+  },
+  {
+    "gem_id": "GR04104301",
+    "country_id": "EL",
+    "name": "Σπάρτης",
+    "shareBB": 0.5517,
+    "shareCircle": 0.5226
+  },
+  {
+    "gem_id": "GR04104302",
+    "country_id": "EL",
+    "name": "Ανατολικής Μάνης",
+    "shareBB": 0.5397,
+    "shareCircle": 0.2598
+  },
+  {
+    "gem_id": "GR04104303",
+    "country_id": "EL",
+    "name": "Ελαφονήσου",
+    "shareBB": 0.3447,
+    "shareCircle": 0.2455
+  },
+  {
+    "gem_id": "GR04104304",
+    "country_id": "EL",
+    "name": "Ευρώτα",
+    "shareBB": 0.5035,
+    "shareCircle": 0.5406
+  },
+  {
+    "gem_id": "GR04104305",
+    "country_id": "EL",
+    "name": "Μονεμβασιάς",
+    "shareBB": 0.3427,
+    "shareCircle": 0.2483
+  },
+  {
+    "gem_id": "GR04104401",
+    "country_id": "EL",
+    "name": "Καλαμάτας",
+    "shareBB": 0.5548,
+    "shareCircle": 0.6161
+  },
+  {
+    "gem_id": "GR04104402",
+    "country_id": "EL",
+    "name": "Δυτικής Μάνης",
+    "shareBB": 0.4674,
+    "shareCircle": 0.4148
+  },
+  {
+    "gem_id": "GR04104403",
+    "country_id": "EL",
+    "name": "Μεσσήνης",
+    "shareBB": 0.4884,
+    "shareCircle": 0.3798
+  },
+  {
+    "gem_id": "GR04104404",
+    "country_id": "EL",
+    "name": "Οιχαλίας",
+    "shareBB": 0.453,
+    "shareCircle": 0.4156
+  },
+  {
+    "gem_id": "GR04104405",
+    "country_id": "EL",
+    "name": "Πύλου - Νέστορος",
+    "shareBB": 0.3698,
+    "shareCircle": 0.2644
+  },
+  {
+    "gem_id": "GR04104406",
+    "country_id": "EL",
+    "name": "Τριφυλλίας",
+    "shareBB": 0.5303,
+    "shareCircle": 0.3388
+  },
+  {
+    "gem_id": "GR05094501",
+    "country_id": "EL",
+    "name": "Αθηναίων",
+    "shareBB": 0.4725,
+    "shareCircle": 0.5567
+  },
+  {
+    "gem_id": "GR05094502",
+    "country_id": "EL",
+    "name": "Βύρωνος",
+    "shareBB": 0.5222,
+    "shareCircle": 0.3064
+  },
+  {
+    "gem_id": "GR05094503",
+    "country_id": "EL",
+    "name": "Γαλατσίου",
+    "shareBB": 0.6547,
+    "shareCircle": 0.4328
+  },
+  {
+    "gem_id": "GR05094504",
+    "country_id": "EL",
+    "name": "Δάφνης - Υμηττού",
+    "shareBB": 0.4922,
+    "shareCircle": 0.3883
+  },
+  {
+    "gem_id": "GR05094505",
+    "country_id": "EL",
+    "name": "Ζωγράφου",
+    "shareBB": 0.6289,
+    "shareCircle": 0.326
+  },
+  {
+    "gem_id": "GR05094506",
+    "country_id": "EL",
+    "name": "Ηλιουπόλεως",
+    "shareBB": 0.5857,
+    "shareCircle": 0.4155
+  },
+  {
+    "gem_id": "GR05094507",
+    "country_id": "EL",
+    "name": "Καισαριανής",
+    "shareBB": 0.4973,
+    "shareCircle": 0.2624
+  },
+  {
+    "gem_id": "GR05094508",
+    "country_id": "EL",
+    "name": "Φιλαδελφείας - Χαλκηδόνος",
+    "shareBB": 0.3566,
+    "shareCircle": 0.1751
+  },
+  {
+    "gem_id": "GR05094601",
+    "country_id": "EL",
+    "name": "Αμαρουσίου",
+    "shareBB": 0.5798,
+    "shareCircle": 0.5611
+  },
+  {
+    "gem_id": "GR05094602",
+    "country_id": "EL",
+    "name": "Αγίας Παρασκευής",
+    "shareBB": 0.5616,
+    "shareCircle": 0.5162
+  },
+  {
+    "gem_id": "GR05094603",
+    "country_id": "EL",
+    "name": "Βριλησσίων",
+    "shareBB": 0.4745,
+    "shareCircle": 0.4141
+  },
+  {
+    "gem_id": "GR05094604",
+    "country_id": "EL",
+    "name": "Ηρακλείου",
+    "shareBB": 0.5394,
+    "shareCircle": 0.5596
+  },
+  {
+    "gem_id": "GR05094605",
+    "country_id": "EL",
+    "name": "Κηφισιάς",
+    "shareBB": 0.4942,
+    "shareCircle": 0.4244
+  },
+  {
+    "gem_id": "GR05094606",
+    "country_id": "EL",
+    "name": "Λυκοβρύσης - Πεύκης",
+    "shareBB": 0.5475,
+    "shareCircle": 0.567
+  },
+  {
+    "gem_id": "GR05094607",
+    "country_id": "EL",
+    "name": "Μεταμορφώσεως",
+    "shareBB": 0.4821,
+    "shareCircle": 0.3683
+  },
+  {
+    "gem_id": "GR05094608",
+    "country_id": "EL",
+    "name": "Νέας Ιωνίας",
+    "shareBB": 0.5154,
+    "shareCircle": 0.4173
+  },
+  {
+    "gem_id": "GR05094609",
+    "country_id": "EL",
+    "name": "Παπάγου - Χολαργού",
+    "shareBB": 0.5401,
+    "shareCircle": 0.4869
+  },
+  {
+    "gem_id": "GR05094610",
+    "country_id": "EL",
+    "name": "Πεντέλης",
+    "shareBB": 0.5251,
+    "shareCircle": 0.2667
+  },
+  {
+    "gem_id": "GR05094611",
+    "country_id": "EL",
+    "name": "Φιλοθέης - Ψυχικού",
+    "shareBB": 0.5788,
+    "shareCircle": 0.4647
+  },
+  {
+    "gem_id": "GR05094612",
+    "country_id": "EL",
+    "name": "Χαλανδρίου",
+    "shareBB": 0.3099,
+    "shareCircle": 0.2346
+  },
+  {
+    "gem_id": "GR05094701",
+    "country_id": "EL",
+    "name": "Περιστερίου",
+    "shareBB": 0.5514,
+    "shareCircle": 0.5223
+  },
+  {
+    "gem_id": "GR05094702",
+    "country_id": "EL",
+    "name": "Αγίας Βαρβάρας",
+    "shareBB": 0.5362,
+    "shareCircle": 0.419
+  },
+  {
+    "gem_id": "GR05094703",
+    "country_id": "EL",
+    "name": "Αγίων Αναργύρων - Καματερού",
+    "shareBB": 0.3359,
+    "shareCircle": 0.2869
+  },
+  {
+    "gem_id": "GR05094704",
+    "country_id": "EL",
+    "name": "Αιγάλεω",
+    "shareBB": 0.6489,
+    "shareCircle": 0.5506
+  },
+  {
+    "gem_id": "GR05094705",
+    "country_id": "EL",
+    "name": "Ιλίου (Νέων Λιοσίων)",
+    "shareBB": 0.3725,
+    "shareCircle": 0.3081
+  },
+  {
+    "gem_id": "GR05094706",
+    "country_id": "EL",
+    "name": "Πετρουπόλεως",
+    "shareBB": 0.6273,
+    "shareCircle": 0.6305
+  },
+  {
+    "gem_id": "GR05094707",
+    "country_id": "EL",
+    "name": "Χαϊδαρίου",
+    "shareBB": 0.3901,
+    "shareCircle": 0.2596
+  },
+  {
+    "gem_id": "GR05094801",
+    "country_id": "EL",
+    "name": "Καλλιθέας",
+    "shareBB": 0.4933,
+    "shareCircle": 0.3786
+  },
+  {
+    "gem_id": "GR05094802",
+    "country_id": "EL",
+    "name": "Αγίου Δημητρίου",
+    "shareBB": 0.4836,
+    "shareCircle": 0.4132
+  },
+  {
+    "gem_id": "GR05094803",
+    "country_id": "EL",
+    "name": "Αλίμου",
+    "shareBB": 0.4678,
+    "shareCircle": 0.4407
+  },
+  {
+    "gem_id": "GR05094804",
+    "country_id": "EL",
+    "name": "Γλυφάδας",
+    "shareBB": 0.5316,
+    "shareCircle": 0.4591
+  },
+  {
+    "gem_id": "GR05094805",
+    "country_id": "EL",
+    "name": "Ελληνικού - Αργυρούπολης",
+    "shareBB": 0.3548,
+    "shareCircle": 0.2827
+  },
+  {
+    "gem_id": "GR05094806",
+    "country_id": "EL",
+    "name": "Μοσχάτου - Ταύρου",
+    "shareBB": 0.4657,
+    "shareCircle": 0.2988
+  },
+  {
+    "gem_id": "GR05094807",
+    "country_id": "EL",
+    "name": "Νέας Σμύρνης",
+    "shareBB": 0.537,
+    "shareCircle": 0.6406
+  },
+  {
+    "gem_id": "GR05094808",
+    "country_id": "EL",
+    "name": "Παλαιού Φαλήρου",
+    "shareBB": 0.5102,
+    "shareCircle": 0.5454
+  },
+  {
+    "gem_id": "GR05094901",
+    "country_id": "EL",
+    "name": "Αχαρνών",
+    "shareBB": 0.4277,
+    "shareCircle": 0.3519
+  },
+  {
+    "gem_id": "GR05094902",
+    "country_id": "EL",
+    "name": "Βάρης - Βούλας - Βουλιαγμένης",
+    "shareBB": 0.271,
+    "shareCircle": 0.2356
+  },
+  {
+    "gem_id": "GR05094903",
+    "country_id": "EL",
+    "name": "Διονύσου",
+    "shareBB": 0.4091,
+    "shareCircle": 0.3015
+  },
+  {
+    "gem_id": "GR05094904",
+    "country_id": "EL",
+    "name": "Κρωπίας",
+    "shareBB": 0.6328,
+    "shareCircle": 0.5219
+  },
+  {
+    "gem_id": "GR05094905",
+    "country_id": "EL",
+    "name": "Λαυρεωτικής",
+    "shareBB": 0.4838,
+    "shareCircle": 0.3276
+  },
+  {
+    "gem_id": "GR05094906",
+    "country_id": "EL",
+    "name": "Μαραθώνος",
+    "shareBB": 0.4663,
+    "shareCircle": 0.366
+  },
+  {
+    "gem_id": "GR05094907",
+    "country_id": "EL",
+    "name": "Μαρκοπούλου Μεσογαίας",
+    "shareBB": 0.596,
+    "shareCircle": 0.478
+  },
+  {
+    "gem_id": "GR05094908",
+    "country_id": "EL",
+    "name": "Παιανίας",
+    "shareBB": 0.4862,
+    "shareCircle": 0.3612
+  },
+  {
+    "gem_id": "GR05094909",
+    "country_id": "EL",
+    "name": "Παλλήνης",
+    "shareBB": 0.5251,
+    "shareCircle": 0.5364
+  },
+  {
+    "gem_id": "GR05094910",
+    "country_id": "EL",
+    "name": "Ραφήνας - Πικερμίου",
+    "shareBB": 0.5566,
+    "shareCircle": 0.3181
+  },
+  {
+    "gem_id": "GR05094911",
+    "country_id": "EL",
+    "name": "Σαρωνικού",
+    "shareBB": 0.4285,
+    "shareCircle": 0.3103
+  },
+  {
+    "gem_id": "GR05094912",
+    "country_id": "EL",
+    "name": "Σπάτων - Αρτέμιδος",
+    "shareBB": 0.6498,
+    "shareCircle": 0.5387
+  },
+  {
+    "gem_id": "GR05094913",
+    "country_id": "EL",
+    "name": "Ωρωπού",
+    "shareBB": 0.7063,
+    "shareCircle": 0.5535
+  },
+  {
+    "gem_id": "GR05095001",
+    "country_id": "EL",
+    "name": "Ελευσίνας",
+    "shareBB": 0.4079,
+    "shareCircle": 0.3101
+  },
+  {
+    "gem_id": "GR05095002",
+    "country_id": "EL",
+    "name": "Ασπροπύργου",
+    "shareBB": 0.3934,
+    "shareCircle": 0.2875
+  },
+  {
+    "gem_id": "GR05095003",
+    "country_id": "EL",
+    "name": "Μάνδρας - Ειδυλλίας",
+    "shareBB": 0.4886,
+    "shareCircle": 0.3911
+  },
+  {
+    "gem_id": "GR05095004",
+    "country_id": "EL",
+    "name": "Μεγαρέων",
+    "shareBB": 0.5174,
+    "shareCircle": 0.3747
+  },
+  {
+    "gem_id": "GR05095005",
+    "country_id": "EL",
+    "name": "Φυλής",
+    "shareBB": 0.5806,
+    "shareCircle": 0.3866
+  },
+  {
+    "gem_id": "GR05095101",
+    "country_id": "EL",
+    "name": "Πειραιώς",
+    "shareBB": 0.3338,
+    "shareCircle": 0.2046
+  },
+  {
+    "gem_id": "GR05095102",
+    "country_id": "EL",
+    "name": "Κερατσινίου - Δραπετσώνας",
+    "shareBB": 0.5172,
+    "shareCircle": 0.3285
+  },
+  {
+    "gem_id": "GR05095103",
+    "country_id": "EL",
+    "name": "Κορυδαλλού",
+    "shareBB": 0.4081,
+    "shareCircle": 0.4005
+  },
+  {
+    "gem_id": "GR05095104",
+    "country_id": "EL",
+    "name": "Νίκαιας - Αγίου Ιωάννη Ρέντη",
+    "shareBB": 0.4055,
+    "shareCircle": 0.2413
+  },
+  {
+    "gem_id": "GR05095105",
+    "country_id": "EL",
+    "name": "Περάματος",
+    "shareBB": 0.6423,
+    "shareCircle": 0.6394
+  },
+  {
+    "gem_id": "GR05095201",
+    "country_id": "EL",
+    "name": "Σαλαμίνας",
+    "shareBB": 0.4472,
+    "shareCircle": 0.4295
+  },
+  {
+    "gem_id": "GR05095202",
+    "country_id": "EL",
+    "name": "Ύδρας",
+    "shareBB": 0.0352,
+    "shareCircle": 0.0214
+  },
+  {
+    "gem_id": "GR05095203",
+    "country_id": "EL",
+    "name": "Αγκιστρίου",
+    "shareBB": 0.1862,
+    "shareCircle": 0.1169
+  },
+  {
+    "gem_id": "GR05095204",
+    "country_id": "EL",
+    "name": "Αίγινας",
+    "shareBB": 0.1934,
+    "shareCircle": 0.1289
+  },
+  {
+    "gem_id": "GR05095205",
+    "country_id": "EL",
+    "name": "Κυθήρων",
+    "shareBB": 0.115,
+    "shareCircle": 0.0773
+  },
+  {
+    "gem_id": "GR05095206",
+    "country_id": "EL",
+    "name": "Πόρου",
+    "shareBB": 0.2452,
+    "shareCircle": 0.2146
+  },
+  {
+    "gem_id": "GR05095207",
+    "country_id": "EL",
+    "name": "Σπετσών",
+    "shareBB": 0.0087,
+    "shareCircle": 0.0043
+  },
+  {
+    "gem_id": "GR05095208",
+    "country_id": "EL",
+    "name": "Τροιζηνίας",
+    "shareBB": 0.3461,
+    "shareCircle": 0.3036
+  },
+  {
+    "gem_id": "GR06115301",
+    "country_id": "EL",
+    "name": "Λέσβου",
+    "shareBB": 0.5185,
+    "shareCircle": 0.4174
+  },
+  {
+    "gem_id": "GR06115401",
+    "country_id": "EL",
+    "name": "Ικαρίας",
+    "shareBB": 0.3158,
+    "shareCircle": 0.2042
+  },
+  {
+    "gem_id": "GR06115402",
+    "country_id": "EL",
+    "name": "Φούρνων - Κορσεών",
+    "shareBB": 0.1861,
+    "shareCircle": 0.1869
+  },
+  {
+    "gem_id": "GR06115501",
+    "country_id": "EL",
+    "name": "Λήμνου",
+    "shareBB": 0.4618,
+    "shareCircle": 0.3691
+  },
+  {
+    "gem_id": "GR06115502",
+    "country_id": "EL",
+    "name": "Αγίου Ευστρατίου",
+    "shareBB": 0.5389,
+    "shareCircle": 0.4213
+  },
+  {
+    "gem_id": "GR06115601",
+    "country_id": "EL",
+    "name": "Σάμου",
+    "shareBB": 0.5008,
+    "shareCircle": 0.3145
+  },
+  {
+    "gem_id": "GR06115701",
+    "country_id": "EL",
+    "name": "Χίου",
+    "shareBB": 0.1929,
+    "shareCircle": 0.1357
+  },
+  {
+    "gem_id": "GR06115702",
+    "country_id": "EL",
+    "name": "Οινουσσών",
+    "shareBB": 0.3649,
+    "shareCircle": 0.1826
+  },
+  {
+    "gem_id": "GR06115703",
+    "country_id": "EL",
+    "name": "Ψαρών",
+    "shareBB": 0.4123,
+    "shareCircle": 0.3537
+  },
+  {
+    "gem_id": "GR06125801",
+    "country_id": "EL",
+    "name": "Σύρου - Ερμούπολης",
+    "shareBB": 0.1128,
+    "shareCircle": 0.0902
+  },
+  {
+    "gem_id": "GR06125901",
+    "country_id": "EL",
+    "name": "Άνδρου",
+    "shareBB": 0.4002,
+    "shareCircle": 0.324
+  },
+  {
+    "gem_id": "GR06126001",
+    "country_id": "EL",
+    "name": "Θήρας",
+    "shareBB": 0.128,
+    "shareCircle": 0.1061
+  },
+  {
+    "gem_id": "GR06126002",
+    "country_id": "EL",
+    "name": "Ανάφης",
+    "shareBB": 0.1797,
+    "shareCircle": 0.1521
+  },
+  {
+    "gem_id": "GR06126003",
+    "country_id": "EL",
+    "name": "Ιητών",
+    "shareBB": 0.1793,
+    "shareCircle": 0.0798
+  },
+  {
+    "gem_id": "GR06126004",
+    "country_id": "EL",
+    "name": "Σικίνου",
+    "shareBB": 0.2334,
+    "shareCircle": 0.1536
+  },
+  {
+    "gem_id": "GR06126005",
+    "country_id": "EL",
+    "name": "Φολέγανδρου",
+    "shareBB": 0.3348,
+    "shareCircle": 0.1902
+  },
+  {
+    "gem_id": "GR06126101",
+    "country_id": "EL",
+    "name": "Καλυμνίων",
+    "shareBB": 0.1982,
+    "shareCircle": 0.1686
+  },
+  {
+    "gem_id": "GR06126102",
+    "country_id": "EL",
+    "name": "Αγαθονησίου",
+    "shareBB": 0.2846,
+    "shareCircle": 0.3022
+  },
+  {
+    "gem_id": "GR06126103",
+    "country_id": "EL",
+    "name": "Αστυπάλαιας",
+    "shareBB": 0.0287,
+    "shareCircle": 0.0329
+  },
+  {
+    "gem_id": "GR06126104",
+    "country_id": "EL",
+    "name": "Λειψών",
+    "shareBB": 0.2077,
+    "shareCircle": 0.1724
+  },
+  {
+    "gem_id": "GR06126105",
+    "country_id": "EL",
+    "name": "Λέρου",
+    "shareBB": 0.0162,
+    "shareCircle": 0.0104
+  },
+  {
+    "gem_id": "GR06126106",
+    "country_id": "EL",
+    "name": "Πάτμου",
+    "shareBB": 0.0946,
+    "shareCircle": 0.084
+  },
+  {
+    "gem_id": "GR06126201",
+    "country_id": "EL",
+    "name": "Καρπάθου",
+    "shareBB": 0.3031,
+    "shareCircle": 0.1282
+  },
+  {
+    "gem_id": "GR06126202",
+    "country_id": "EL",
+    "name": "Κάσου",
+    "shareBB": 0.0156,
+    "shareCircle": 0.0128
+  },
+  {
+    "gem_id": "GR06126301",
+    "country_id": "EL",
+    "name": "Κέας",
+    "shareBB": 0.236,
+    "shareCircle": 0.2228
+  },
+  {
+    "gem_id": "GR06126302",
+    "country_id": "EL",
+    "name": "Κύθνου",
+    "shareBB": 0.285,
+    "shareCircle": 0.2461
+  },
+  {
+    "gem_id": "GR06126401",
+    "country_id": "EL",
+    "name": "Κω",
+    "shareBB": 0.2486,
+    "shareCircle": 0.198
+  },
+  {
+    "gem_id": "GR06126402",
+    "country_id": "EL",
+    "name": "Νισύρου",
+    "shareBB": 0.0985,
+    "shareCircle": 0.0752
+  },
+  {
+    "gem_id": "GR06126501",
+    "country_id": "EL",
+    "name": "Μήλου",
+    "shareBB": 0.1687,
+    "shareCircle": 0.1139
+  },
+  {
+    "gem_id": "GR06126502",
+    "country_id": "EL",
+    "name": "Κιμώλου",
+    "shareBB": 0.4162,
+    "shareCircle": 0.3234
+  },
+  {
+    "gem_id": "GR06126503",
+    "country_id": "EL",
+    "name": "Σερίφου",
+    "shareBB": 0.2687,
+    "shareCircle": 0.1792
+  },
+  {
+    "gem_id": "GR06126504",
+    "country_id": "EL",
+    "name": "Σίφνου",
+    "shareBB": 0.4279,
+    "shareCircle": 0.3346
+  },
+  {
+    "gem_id": "GR06126601",
+    "country_id": "EL",
+    "name": "Μυκόνου",
+    "shareBB": 0.1895,
+    "shareCircle": 0.1199
+  },
+  {
+    "gem_id": "GR06126701",
+    "country_id": "EL",
+    "name": "Αμοργού",
+    "shareBB": 0.1539,
+    "shareCircle": 0.1059
+  },
+  {
+    "gem_id": "GR06126702",
+    "country_id": "EL",
+    "name": "Νάξου και Μικρών Κυκλάδων",
+    "shareBB": 0.2665,
+    "shareCircle": 0.2378
+  },
+  {
+    "gem_id": "GR06126801",
+    "country_id": "EL",
+    "name": "Πάρου",
+    "shareBB": 0.5477,
+    "shareCircle": 0.3591
+  },
+  {
+    "gem_id": "GR06126802",
+    "country_id": "EL",
+    "name": "Αντιπάρου",
+    "shareBB": 0.2761,
+    "shareCircle": 0.1856
+  },
+  {
+    "gem_id": "GR06126901",
+    "country_id": "EL",
+    "name": "Ρόδου",
+    "shareBB": 0.4415,
+    "shareCircle": 0.2976
+  },
+  {
+    "gem_id": "GR06126902",
+    "country_id": "EL",
+    "name": "Μεγίστης",
+    "shareBB": 0.1432,
+    "shareCircle": 0.0673
+  },
+  {
+    "gem_id": "GR06126903",
+    "country_id": "EL",
+    "name": "Σύμης",
+    "shareBB": 0.3198,
+    "shareCircle": 0.2615
+  },
+  {
+    "gem_id": "GR06126904",
+    "country_id": "EL",
+    "name": "Τήλου",
+    "shareBB": 0.2964,
+    "shareCircle": 0.1926
+  },
+  {
+    "gem_id": "GR06126905",
+    "country_id": "EL",
+    "name": "Χάλκης",
+    "shareBB": 0.165,
+    "shareCircle": 0.1093
+  },
+  {
+    "gem_id": "GR06127001",
+    "country_id": "EL",
+    "name": "Τήνου",
+    "shareBB": 0.5283,
+    "shareCircle": 0.3302
+  },
+  {
+    "gem_id": "GR07137101",
+    "country_id": "EL",
+    "name": "Ηρακλείου",
+    "shareBB": 0.4966,
+    "shareCircle": 0.3752
+  },
+  {
+    "gem_id": "GR07137102",
+    "country_id": "EL",
+    "name": "Αρχάνων - Αστερουσίων",
+    "shareBB": 0.4114,
+    "shareCircle": 0.2894
+  },
+  {
+    "gem_id": "GR07137103",
+    "country_id": "EL",
+    "name": "Βιάννου",
+    "shareBB": 0.5711,
+    "shareCircle": 0.5038
+  },
+  {
+    "gem_id": "GR07137104",
+    "country_id": "EL",
+    "name": "Γόρτυνας",
+    "shareBB": 0.6153,
+    "shareCircle": 0.4833
+  },
+  {
+    "gem_id": "GR07137105",
+    "country_id": "EL",
+    "name": "Μαλεβιζίου",
+    "shareBB": 0.5472,
+    "shareCircle": 0.5195
+  },
+  {
+    "gem_id": "GR07137106",
+    "country_id": "EL",
+    "name": "Μίνωα Πεδιάδος",
+    "shareBB": 0.5638,
+    "shareCircle": 0.5156
+  },
+  {
+    "gem_id": "GR07137107",
+    "country_id": "EL",
+    "name": "Φαιστού",
+    "shareBB": 0.5885,
+    "shareCircle": 0.4432
+  },
+  {
+    "gem_id": "GR07137108",
+    "country_id": "EL",
+    "name": "Χερσονήσου",
+    "shareBB": 0.325,
+    "shareCircle": 0.2413
+  },
+  {
+    "gem_id": "GR07137201",
+    "country_id": "EL",
+    "name": "Αγίου Νικολάου",
+    "shareBB": 0.5693,
+    "shareCircle": 0.5474
+  },
+  {
+    "gem_id": "GR07137202",
+    "country_id": "EL",
+    "name": "Ιεράπετρας",
+    "shareBB": 0.2862,
+    "shareCircle": 0.2696
+  },
+  {
+    "gem_id": "GR07137203",
+    "country_id": "EL",
+    "name": "Οροπεδίου Λασιθίου",
+    "shareBB": 0.5284,
+    "shareCircle": 0.5985
+  },
+  {
+    "gem_id": "GR07137204",
+    "country_id": "EL",
+    "name": "Σητείας",
+    "shareBB": 0.3239,
+    "shareCircle": 0.3429
+  },
+  {
+    "gem_id": "GR07137301",
+    "country_id": "EL",
+    "name": "Ρεθύμνης",
+    "shareBB": 0.4037,
+    "shareCircle": 0.3038
+  },
+  {
+    "gem_id": "GR07137302",
+    "country_id": "EL",
+    "name": "Αγίου Βασιλείου",
+    "shareBB": 0.2927,
+    "shareCircle": 0.2665
+  },
+  {
+    "gem_id": "GR07137303",
+    "country_id": "EL",
+    "name": "Αμαρίου",
+    "shareBB": 0.623,
+    "shareCircle": 0.4633
+  },
+  {
+    "gem_id": "GR07137304",
+    "country_id": "EL",
+    "name": "Ανωγείων",
+    "shareBB": 0.7032,
+    "shareCircle": 0.5166
+  },
+  {
+    "gem_id": "GR07137305",
+    "country_id": "EL",
+    "name": "Μυλοποτάμου",
+    "shareBB": 0.5827,
+    "shareCircle": 0.5394
+  },
+  {
+    "gem_id": "GR07137401",
+    "country_id": "EL",
+    "name": "Χανίων",
+    "shareBB": 0.4347,
+    "shareCircle": 0.3994
+  },
+  {
+    "gem_id": "GR07137402",
+    "country_id": "EL",
+    "name": "Αποκορώνου",
+    "shareBB": 0.4946,
+    "shareCircle": 0.5169
+  },
+  {
+    "gem_id": "GR07137403",
+    "country_id": "EL",
+    "name": "Γαύδου",
+    "shareBB": 0.1772,
+    "shareCircle": 0.1155
+  },
+  {
+    "gem_id": "GR07137404",
+    "country_id": "EL",
+    "name": "Καντάνου - Σελίνου",
+    "shareBB": 0.5649,
+    "shareCircle": 0.4089
+  },
+  {
+    "gem_id": "GR07137405",
+    "country_id": "EL",
+    "name": "Κισσάμου",
+    "shareBB": 0.3102,
+    "shareCircle": 0.2427
+  },
+  {
+    "gem_id": "GR07137406",
+    "country_id": "EL",
+    "name": "Πλατανιά",
+    "shareBB": 0.4049,
+    "shareCircle": 0.2947
+  },
+  {
+    "gem_id": "GR07137407",
+    "country_id": "EL",
+    "name": "Σφακίων",
+    "shareBB": 0.6804,
+    "shareCircle": 0.3679
+  },
+  {
+    "gem_id": "GR09000000",
+    "country_id": "EL",
+    "name": "Άγιον Όρος",
+    "shareBB": 0.2659,
+    "shareCircle": 0.1895
+  }
+]

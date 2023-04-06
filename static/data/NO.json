@@ -1,0 +1,2984 @@
+[
+  {
+    "gem_id": "NO0101",
+    "country_id": "NO",
+    "name": "Halden",
+    "shareBB": 0.5089,
+    "shareCircle": 0.4272
+  },
+  {
+    "gem_id": "NO0104",
+    "country_id": "NO",
+    "name": "Moss",
+    "shareBB": 0.4487,
+    "shareCircle": 0.4409
+  },
+  {
+    "gem_id": "NO0105",
+    "country_id": "NO",
+    "name": "Sarpsborg",
+    "shareBB": 0.5332,
+    "shareCircle": 0.4495
+  },
+  {
+    "gem_id": "NO0106",
+    "country_id": "NO",
+    "name": "Fredrikstad",
+    "shareBB": 0.4344,
+    "shareCircle": 0.4584
+  },
+  {
+    "gem_id": "NO0111",
+    "country_id": "NO",
+    "name": "Hvaler",
+    "shareBB": 0.2456,
+    "shareCircle": 0.192
+  },
+  {
+    "gem_id": "NO0118",
+    "country_id": "NO",
+    "name": "Aremark",
+    "shareBB": 0.6001,
+    "shareCircle": 0.351
+  },
+  {
+    "gem_id": "NO0119",
+    "country_id": "NO",
+    "name": "Marker",
+    "shareBB": 0.5069,
+    "shareCircle": 0.277
+  },
+  {
+    "gem_id": "NO0121",
+    "country_id": "NO",
+    "name": "Rømskog",
+    "shareBB": 0.5896,
+    "shareCircle": 0.4853
+  },
+  {
+    "gem_id": "NO0122",
+    "country_id": "NO",
+    "name": "Trøgstad",
+    "shareBB": 0.5177,
+    "shareCircle": 0.4856
+  },
+  {
+    "gem_id": "NO0123",
+    "country_id": "NO",
+    "name": "Spydeberg",
+    "shareBB": 0.436,
+    "shareCircle": 0.3014
+  },
+  {
+    "gem_id": "NO0124",
+    "country_id": "NO",
+    "name": "Askim",
+    "shareBB": 0.5537,
+    "shareCircle": 0.5122
+  },
+  {
+    "gem_id": "NO0125",
+    "country_id": "NO",
+    "name": "Eidsberg",
+    "shareBB": 0.663,
+    "shareCircle": 0.586
+  },
+  {
+    "gem_id": "NO0127",
+    "country_id": "NO",
+    "name": "Skiptvet",
+    "shareBB": 0.5644,
+    "shareCircle": 0.432
+  },
+  {
+    "gem_id": "NO0128",
+    "country_id": "NO",
+    "name": "Rakkestad",
+    "shareBB": 0.6812,
+    "shareCircle": 0.6046
+  },
+  {
+    "gem_id": "NO0135",
+    "country_id": "NO",
+    "name": "Råde",
+    "shareBB": 0.4342,
+    "shareCircle": 0.3261
+  },
+  {
+    "gem_id": "NO0136",
+    "country_id": "NO",
+    "name": "Rygge",
+    "shareBB": 0.4423,
+    "shareCircle": 0.3821
+  },
+  {
+    "gem_id": "NO0137",
+    "country_id": "NO",
+    "name": "Våler",
+    "shareBB": 0.707,
+    "shareCircle": 0.5904
+  },
+  {
+    "gem_id": "NO0138",
+    "country_id": "NO",
+    "name": "Hobøl",
+    "shareBB": 0.3973,
+    "shareCircle": 0.2682
+  },
+  {
+    "gem_id": "NO0211",
+    "country_id": "NO",
+    "name": "Vestby",
+    "shareBB": 0.5764,
+    "shareCircle": 0.4409
+  },
+  {
+    "gem_id": "NO0213",
+    "country_id": "NO",
+    "name": "Ski",
+    "shareBB": 0.6548,
+    "shareCircle": 0.3695
+  },
+  {
+    "gem_id": "NO0214",
+    "country_id": "NO",
+    "name": "Ås",
+    "shareBB": 0.4348,
+    "shareCircle": 0.3168
+  },
+  {
+    "gem_id": "NO0215",
+    "country_id": "NO",
+    "name": "Frogn",
+    "shareBB": 0.4112,
+    "shareCircle": 0.3185
+  },
+  {
+    "gem_id": "NO0216",
+    "country_id": "NO",
+    "name": "Nesodden",
+    "shareBB": 0.446,
+    "shareCircle": 0.2444
+  },
+  {
+    "gem_id": "NO0217",
+    "country_id": "NO",
+    "name": "Oppegård",
+    "shareBB": 0.7598,
+    "shareCircle": 0.6484
+  },
+  {
+    "gem_id": "NO0219",
+    "country_id": "NO",
+    "name": "Bærum",
+    "shareBB": 0.5731,
+    "shareCircle": 0.5227
+  },
+  {
+    "gem_id": "NO0220",
+    "country_id": "NO",
+    "name": "Asker",
+    "shareBB": 0.5386,
+    "shareCircle": 0.5335
+  },
+  {
+    "gem_id": "NO0221",
+    "country_id": "NO",
+    "name": "Aurskog-Høland",
+    "shareBB": 0.5435,
+    "shareCircle": 0.4677
+  },
+  {
+    "gem_id": "NO0226",
+    "country_id": "NO",
+    "name": "Sørum",
+    "shareBB": 0.4374,
+    "shareCircle": 0.4543
+  },
+  {
+    "gem_id": "NO0227",
+    "country_id": "NO",
+    "name": "Fet",
+    "shareBB": 0.4239,
+    "shareCircle": 0.2893
+  },
+  {
+    "gem_id": "NO0228",
+    "country_id": "NO",
+    "name": "Rælingen",
+    "shareBB": 0.5558,
+    "shareCircle": 0.4383
+  },
+  {
+    "gem_id": "NO0229",
+    "country_id": "NO",
+    "name": "Enebakk",
+    "shareBB": 0.6844,
+    "shareCircle": 0.5119
+  },
+  {
+    "gem_id": "NO0230",
+    "country_id": "NO",
+    "name": "Lørenskog",
+    "shareBB": 0.7688,
+    "shareCircle": 0.4674
+  },
+  {
+    "gem_id": "NO0231",
+    "country_id": "NO",
+    "name": "Skedsmo",
+    "shareBB": 0.4794,
+    "shareCircle": 0.4715
+  },
+  {
+    "gem_id": "NO0233",
+    "country_id": "NO",
+    "name": "Nittedal",
+    "shareBB": 0.4353,
+    "shareCircle": 0.3534
+  },
+  {
+    "gem_id": "NO0234",
+    "country_id": "NO",
+    "name": "Gjerdrum",
+    "shareBB": 0.6708,
+    "shareCircle": 0.5646
+  },
+  {
+    "gem_id": "NO0235",
+    "country_id": "NO",
+    "name": "Ullensaker",
+    "shareBB": 0.6734,
+    "shareCircle": 0.59
+  },
+  {
+    "gem_id": "NO0236",
+    "country_id": "NO",
+    "name": "Nes",
+    "shareBB": 0.4916,
+    "shareCircle": 0.4231
+  },
+  {
+    "gem_id": "NO0237",
+    "country_id": "NO",
+    "name": "Eidsvoll",
+    "shareBB": 0.5528,
+    "shareCircle": 0.325
+  },
+  {
+    "gem_id": "NO0238",
+    "country_id": "NO",
+    "name": "Nannestad",
+    "shareBB": 0.6492,
+    "shareCircle": 0.5839
+  },
+  {
+    "gem_id": "NO0239",
+    "country_id": "NO",
+    "name": "Hurdal",
+    "shareBB": 0.5191,
+    "shareCircle": 0.4038
+  },
+  {
+    "gem_id": "NO0301",
+    "country_id": "NO",
+    "name": "Oslo",
+    "shareBB": 0.4868,
+    "shareCircle": 0.3813
+  },
+  {
+    "gem_id": "NO0402",
+    "country_id": "NO",
+    "name": "Kongsvinger",
+    "shareBB": 0.5618,
+    "shareCircle": 0.4974
+  },
+  {
+    "gem_id": "NO0403",
+    "country_id": "NO",
+    "name": "Hamar",
+    "shareBB": 0.4057,
+    "shareCircle": 0.1585
+  },
+  {
+    "gem_id": "NO0412",
+    "country_id": "NO",
+    "name": "Ringsaker",
+    "shareBB": 0.5057,
+    "shareCircle": 0.3391
+  },
+  {
+    "gem_id": "NO0415",
+    "country_id": "NO",
+    "name": "Løten",
+    "shareBB": 0.3738,
+    "shareCircle": 0.2128
+  },
+  {
+    "gem_id": "NO0417",
+    "country_id": "NO",
+    "name": "Stange",
+    "shareBB": 0.5657,
+    "shareCircle": 0.5235
+  },
+  {
+    "gem_id": "NO0418",
+    "country_id": "NO",
+    "name": "Nord-Odal",
+    "shareBB": 0.5758,
+    "shareCircle": 0.612
+  },
+  {
+    "gem_id": "NO0419",
+    "country_id": "NO",
+    "name": "Sør-Odal",
+    "shareBB": 0.6137,
+    "shareCircle": 0.4702
+  },
+  {
+    "gem_id": "NO0420",
+    "country_id": "NO",
+    "name": "Eidskog",
+    "shareBB": 0.6006,
+    "shareCircle": 0.5124
+  },
+  {
+    "gem_id": "NO0423",
+    "country_id": "NO",
+    "name": "Grue",
+    "shareBB": 0.6186,
+    "shareCircle": 0.4762
+  },
+  {
+    "gem_id": "NO0425",
+    "country_id": "NO",
+    "name": "Åsnes",
+    "shareBB": 0.4197,
+    "shareCircle": 0.4183
+  },
+  {
+    "gem_id": "NO0426",
+    "country_id": "NO",
+    "name": "Våler",
+    "shareBB": 0.324,
+    "shareCircle": 0.246
+  },
+  {
+    "gem_id": "NO0427",
+    "country_id": "NO",
+    "name": "Elverum",
+    "shareBB": 0.512,
+    "shareCircle": 0.5802
+  },
+  {
+    "gem_id": "NO0428",
+    "country_id": "NO",
+    "name": "Trysil",
+    "shareBB": 0.6604,
+    "shareCircle": 0.5626
+  },
+  {
+    "gem_id": "NO0429",
+    "country_id": "NO",
+    "name": "Åmot",
+    "shareBB": 0.4713,
+    "shareCircle": 0.4701
+  },
+  {
+    "gem_id": "NO0430",
+    "country_id": "NO",
+    "name": "Stor-Elvdal",
+    "shareBB": 0.3614,
+    "shareCircle": 0.2557
+  },
+  {
+    "gem_id": "NO0432",
+    "country_id": "NO",
+    "name": "Rendalen",
+    "shareBB": 0.4877,
+    "shareCircle": 0.5183
+  },
+  {
+    "gem_id": "NO0434",
+    "country_id": "NO",
+    "name": "Engerdal",
+    "shareBB": 0.5886,
+    "shareCircle": 0.3541
+  },
+  {
+    "gem_id": "NO0436",
+    "country_id": "NO",
+    "name": "Tolga",
+    "shareBB": 0.3501,
+    "shareCircle": 0.2617
+  },
+  {
+    "gem_id": "NO0437",
+    "country_id": "NO",
+    "name": "Tynset",
+    "shareBB": 0.3987,
+    "shareCircle": 0.3367
+  },
+  {
+    "gem_id": "NO0438",
+    "country_id": "NO",
+    "name": "Alvdal",
+    "shareBB": 0.5437,
+    "shareCircle": 0.4975
+  },
+  {
+    "gem_id": "NO0439",
+    "country_id": "NO",
+    "name": "Folldal",
+    "shareBB": 0.5061,
+    "shareCircle": 0.4449
+  },
+  {
+    "gem_id": "NO0441",
+    "country_id": "NO",
+    "name": "Os",
+    "shareBB": 0.283,
+    "shareCircle": 0.1999
+  },
+  {
+    "gem_id": "NO0501",
+    "country_id": "NO",
+    "name": "Lillehammer",
+    "shareBB": 0.4955,
+    "shareCircle": 0.358
+  },
+  {
+    "gem_id": "NO0502",
+    "country_id": "NO",
+    "name": "Gjøvik",
+    "shareBB": 0.5833,
+    "shareCircle": 0.531
+  },
+  {
+    "gem_id": "NO0511",
+    "country_id": "NO",
+    "name": "Dovre",
+    "shareBB": 0.5586,
+    "shareCircle": 0.4988
+  },
+  {
+    "gem_id": "NO0512",
+    "country_id": "NO",
+    "name": "Lesja",
+    "shareBB": 0.7745,
+    "shareCircle": 0.5825
+  },
+  {
+    "gem_id": "NO0513",
+    "country_id": "NO",
+    "name": "Skjåk",
+    "shareBB": 0.5584,
+    "shareCircle": 0.5744
+  },
+  {
+    "gem_id": "NO0514",
+    "country_id": "NO",
+    "name": "Lom",
+    "shareBB": 0.4818,
+    "shareCircle": 0.4742
+  },
+  {
+    "gem_id": "NO0515",
+    "country_id": "NO",
+    "name": "Vågå",
+    "shareBB": 0.375,
+    "shareCircle": 0.3117
+  },
+  {
+    "gem_id": "NO0516",
+    "country_id": "NO",
+    "name": "Nord-Fron",
+    "shareBB": 0.3299,
+    "shareCircle": 0.266
+  },
+  {
+    "gem_id": "NO0517",
+    "country_id": "NO",
+    "name": "Sel",
+    "shareBB": 0.4293,
+    "shareCircle": 0.3461
+  },
+  {
+    "gem_id": "NO0519",
+    "country_id": "NO",
+    "name": "Sør-Fron",
+    "shareBB": 0.2065,
+    "shareCircle": 0.1475
+  },
+  {
+    "gem_id": "NO0520",
+    "country_id": "NO",
+    "name": "Ringebu",
+    "shareBB": 0.7055,
+    "shareCircle": 0.5835
+  },
+  {
+    "gem_id": "NO0521",
+    "country_id": "NO",
+    "name": "Øyer",
+    "shareBB": 0.5523,
+    "shareCircle": 0.5761
+  },
+  {
+    "gem_id": "NO0522",
+    "country_id": "NO",
+    "name": "Gausdal",
+    "shareBB": 0.5962,
+    "shareCircle": 0.4566
+  },
+  {
+    "gem_id": "NO0528",
+    "country_id": "NO",
+    "name": "Østre Toten",
+    "shareBB": 0.6322,
+    "shareCircle": 0.5761
+  },
+  {
+    "gem_id": "NO0529",
+    "country_id": "NO",
+    "name": "Vestre Toten",
+    "shareBB": 0.5888,
+    "shareCircle": 0.3943
+  },
+  {
+    "gem_id": "NO0532",
+    "country_id": "NO",
+    "name": "Jevnaker",
+    "shareBB": 0.4062,
+    "shareCircle": 0.2628
+  },
+  {
+    "gem_id": "NO0533",
+    "country_id": "NO",
+    "name": "Lunner",
+    "shareBB": 0.5605,
+    "shareCircle": 0.5122
+  },
+  {
+    "gem_id": "NO0534",
+    "country_id": "NO",
+    "name": "Gran",
+    "shareBB": 0.602,
+    "shareCircle": 0.3954
+  },
+  {
+    "gem_id": "NO0536",
+    "country_id": "NO",
+    "name": "Søndre Land",
+    "shareBB": 0.5938,
+    "shareCircle": 0.5879
+  },
+  {
+    "gem_id": "NO0538",
+    "country_id": "NO",
+    "name": "Nordre Land",
+    "shareBB": 0.5815,
+    "shareCircle": 0.45
+  },
+  {
+    "gem_id": "NO0540",
+    "country_id": "NO",
+    "name": "Sør-Aurdal",
+    "shareBB": 0.5524,
+    "shareCircle": 0.5319
+  },
+  {
+    "gem_id": "NO0541",
+    "country_id": "NO",
+    "name": "Etnedal",
+    "shareBB": 0.533,
+    "shareCircle": 0.397
+  },
+  {
+    "gem_id": "NO0542",
+    "country_id": "NO",
+    "name": "Nord-Aurdal",
+    "shareBB": 0.3951,
+    "shareCircle": 0.3945
+  },
+  {
+    "gem_id": "NO0543",
+    "country_id": "NO",
+    "name": "Vestre Slidre",
+    "shareBB": 0.4659,
+    "shareCircle": 0.486
+  },
+  {
+    "gem_id": "NO0544",
+    "country_id": "NO",
+    "name": "Øystre Slidre",
+    "shareBB": 0.5423,
+    "shareCircle": 0.4774
+  },
+  {
+    "gem_id": "NO0545",
+    "country_id": "NO",
+    "name": "Vang",
+    "shareBB": 0.5601,
+    "shareCircle": 0.5185
+  },
+  {
+    "gem_id": "NO0602",
+    "country_id": "NO",
+    "name": "Drammen",
+    "shareBB": 0.3959,
+    "shareCircle": 0.3805
+  },
+  {
+    "gem_id": "NO0604",
+    "country_id": "NO",
+    "name": "Kongsberg",
+    "shareBB": 0.4649,
+    "shareCircle": 0.3733
+  },
+  {
+    "gem_id": "NO0605",
+    "country_id": "NO",
+    "name": "Ringerike",
+    "shareBB": 0.4536,
+    "shareCircle": 0.3446
+  },
+  {
+    "gem_id": "NO0612",
+    "country_id": "NO",
+    "name": "Hole",
+    "shareBB": 0.521,
+    "shareCircle": 0.6135
+  },
+  {
+    "gem_id": "NO0615",
+    "country_id": "NO",
+    "name": "Flå",
+    "shareBB": 0.5551,
+    "shareCircle": 0.5159
+  },
+  {
+    "gem_id": "NO0616",
+    "country_id": "NO",
+    "name": "Nes",
+    "shareBB": 0.5748,
+    "shareCircle": 0.569
+  },
+  {
+    "gem_id": "NO0617",
+    "country_id": "NO",
+    "name": "Gol",
+    "shareBB": 0.5975,
+    "shareCircle": 0.5824
+  },
+  {
+    "gem_id": "NO0618",
+    "country_id": "NO",
+    "name": "Hemsedal",
+    "shareBB": 0.429,
+    "shareCircle": 0.4155
+  },
+  {
+    "gem_id": "NO0619",
+    "country_id": "NO",
+    "name": "Ål",
+    "shareBB": 0.3995,
+    "shareCircle": 0.3581
+  },
+  {
+    "gem_id": "NO0620",
+    "country_id": "NO",
+    "name": "Hol",
+    "shareBB": 0.4903,
+    "shareCircle": 0.4868
+  },
+  {
+    "gem_id": "NO0621",
+    "country_id": "NO",
+    "name": "Sigdal",
+    "shareBB": 0.4027,
+    "shareCircle": 0.2852
+  },
+  {
+    "gem_id": "NO0622",
+    "country_id": "NO",
+    "name": "Krødsherad",
+    "shareBB": 0.5934,
+    "shareCircle": 0.5151
+  },
+  {
+    "gem_id": "NO0623",
+    "country_id": "NO",
+    "name": "Modum",
+    "shareBB": 0.4483,
+    "shareCircle": 0.4932
+  },
+  {
+    "gem_id": "NO0624",
+    "country_id": "NO",
+    "name": "Øvre Eiker",
+    "shareBB": 0.5317,
+    "shareCircle": 0.4042
+  },
+  {
+    "gem_id": "NO0625",
+    "country_id": "NO",
+    "name": "Nedre Eiker",
+    "shareBB": 0.5758,
+    "shareCircle": 0.3196
+  },
+  {
+    "gem_id": "NO0626",
+    "country_id": "NO",
+    "name": "Lier",
+    "shareBB": 0.6108,
+    "shareCircle": 0.4809
+  },
+  {
+    "gem_id": "NO0627",
+    "country_id": "NO",
+    "name": "Røyken",
+    "shareBB": 0.6242,
+    "shareCircle": 0.5116
+  },
+  {
+    "gem_id": "NO0628",
+    "country_id": "NO",
+    "name": "Hurum",
+    "shareBB": 0.6171,
+    "shareCircle": 0.3936
+  },
+  {
+    "gem_id": "NO0631",
+    "country_id": "NO",
+    "name": "Flesberg",
+    "shareBB": 0.5966,
+    "shareCircle": 0.5997
+  },
+  {
+    "gem_id": "NO0632",
+    "country_id": "NO",
+    "name": "Rollag",
+    "shareBB": 0.539,
+    "shareCircle": 0.6195
+  },
+  {
+    "gem_id": "NO0633",
+    "country_id": "NO",
+    "name": "Nore og Uvdal",
+    "shareBB": 0.526,
+    "shareCircle": 0.3354
+  },
+  {
+    "gem_id": "NO0701",
+    "country_id": "NO",
+    "name": "Horten",
+    "shareBB": 0.4947,
+    "shareCircle": 0.4858
+  },
+  {
+    "gem_id": "NO0702",
+    "country_id": "NO",
+    "name": "Holmestrand",
+    "shareBB": 0.5153,
+    "shareCircle": 0.3811
+  },
+  {
+    "gem_id": "NO0704",
+    "country_id": "NO",
+    "name": "Tønsberg",
+    "shareBB": 0.5641,
+    "shareCircle": 0.6124
+  },
+  {
+    "gem_id": "NO0709",
+    "country_id": "NO",
+    "name": "Larvik",
+    "shareBB": 0.4845,
+    "shareCircle": 0.3588
+  },
+  {
+    "gem_id": "NO0710",
+    "country_id": "NO",
+    "name": "Sandefjord",
+    "shareBB": 0.5045,
+    "shareCircle": 0.3329
+  },
+  {
+    "gem_id": "NO0711",
+    "country_id": "NO",
+    "name": "Svelvik",
+    "shareBB": 0.531,
+    "shareCircle": 0.2307
+  },
+  {
+    "gem_id": "NO0713",
+    "country_id": "NO",
+    "name": "Sande",
+    "shareBB": 0.5084,
+    "shareCircle": 0.4302
+  },
+  {
+    "gem_id": "NO0714",
+    "country_id": "NO",
+    "name": "Hof",
+    "shareBB": 0.4894,
+    "shareCircle": 0.3197
+  },
+  {
+    "gem_id": "NO0716",
+    "country_id": "NO",
+    "name": "Re",
+    "shareBB": 0.5022,
+    "shareCircle": 0.4847
+  },
+  {
+    "gem_id": "NO0722",
+    "country_id": "NO",
+    "name": "Nøtterøy",
+    "shareBB": 0.2677,
+    "shareCircle": 0.2465
+  },
+  {
+    "gem_id": "NO0723",
+    "country_id": "NO",
+    "name": "Tjøme",
+    "shareBB": 0.2553,
+    "shareCircle": 0.2027
+  },
+  {
+    "gem_id": "NO0728",
+    "country_id": "NO",
+    "name": "Lardal",
+    "shareBB": 0.6575,
+    "shareCircle": 0.486
+  },
+  {
+    "gem_id": "NO0805",
+    "country_id": "NO",
+    "name": "Porsgrunn",
+    "shareBB": 0.4446,
+    "shareCircle": 0.4147
+  },
+  {
+    "gem_id": "NO0806",
+    "country_id": "NO",
+    "name": "Skien",
+    "shareBB": 0.5031,
+    "shareCircle": 0.4038
+  },
+  {
+    "gem_id": "NO0807",
+    "country_id": "NO",
+    "name": "Notodden",
+    "shareBB": 0.5093,
+    "shareCircle": 0.4362
+  },
+  {
+    "gem_id": "NO0811",
+    "country_id": "NO",
+    "name": "Siljan",
+    "shareBB": 0.4941,
+    "shareCircle": 0.3281
+  },
+  {
+    "gem_id": "NO0814",
+    "country_id": "NO",
+    "name": "Bamble",
+    "shareBB": 0.5043,
+    "shareCircle": 0.5539
+  },
+  {
+    "gem_id": "NO0815",
+    "country_id": "NO",
+    "name": "Kragerø",
+    "shareBB": 0.4107,
+    "shareCircle": 0.4403
+  },
+  {
+    "gem_id": "NO0817",
+    "country_id": "NO",
+    "name": "Drangedal",
+    "shareBB": 0.4959,
+    "shareCircle": 0.4296
+  },
+  {
+    "gem_id": "NO0819",
+    "country_id": "NO",
+    "name": "Nome",
+    "shareBB": 0.4512,
+    "shareCircle": 0.4235
+  },
+  {
+    "gem_id": "NO0821",
+    "country_id": "NO",
+    "name": "Bø",
+    "shareBB": 0.5944,
+    "shareCircle": 0.5597
+  },
+  {
+    "gem_id": "NO0822",
+    "country_id": "NO",
+    "name": "Sauherad",
+    "shareBB": 0.5188,
+    "shareCircle": 0.4363
+  },
+  {
+    "gem_id": "NO0826",
+    "country_id": "NO",
+    "name": "Tinn",
+    "shareBB": 0.5698,
+    "shareCircle": 0.395
+  },
+  {
+    "gem_id": "NO0827",
+    "country_id": "NO",
+    "name": "Hjartdal",
+    "shareBB": 0.5988,
+    "shareCircle": 0.5473
+  },
+  {
+    "gem_id": "NO0828",
+    "country_id": "NO",
+    "name": "Seljord",
+    "shareBB": 0.3621,
+    "shareCircle": 0.2725
+  },
+  {
+    "gem_id": "NO0829",
+    "country_id": "NO",
+    "name": "Kviteseid",
+    "shareBB": 0.4527,
+    "shareCircle": 0.4328
+  },
+  {
+    "gem_id": "NO0830",
+    "country_id": "NO",
+    "name": "Nissedal",
+    "shareBB": 0.601,
+    "shareCircle": 0.4135
+  },
+  {
+    "gem_id": "NO0831",
+    "country_id": "NO",
+    "name": "Fyresdal",
+    "shareBB": 0.6642,
+    "shareCircle": 0.5097
+  },
+  {
+    "gem_id": "NO0833",
+    "country_id": "NO",
+    "name": "Tokke",
+    "shareBB": 0.6951,
+    "shareCircle": 0.5166
+  },
+  {
+    "gem_id": "NO0834",
+    "country_id": "NO",
+    "name": "Vinje",
+    "shareBB": 0.6282,
+    "shareCircle": 0.7014
+  },
+  {
+    "gem_id": "NO0901",
+    "country_id": "NO",
+    "name": "Risør",
+    "shareBB": 0.4192,
+    "shareCircle": 0.4118
+  },
+  {
+    "gem_id": "NO0904",
+    "country_id": "NO",
+    "name": "Grimstad",
+    "shareBB": 0.4382,
+    "shareCircle": 0.5118
+  },
+  {
+    "gem_id": "NO0906",
+    "country_id": "NO",
+    "name": "Arendal",
+    "shareBB": 0.3896,
+    "shareCircle": 0.3382
+  },
+  {
+    "gem_id": "NO0911",
+    "country_id": "NO",
+    "name": "Gjerstad",
+    "shareBB": 0.5054,
+    "shareCircle": 0.5181
+  },
+  {
+    "gem_id": "NO0912",
+    "country_id": "NO",
+    "name": "Vegårdshei",
+    "shareBB": 0.609,
+    "shareCircle": 0.6916
+  },
+  {
+    "gem_id": "NO0914",
+    "country_id": "NO",
+    "name": "Tvedestrand",
+    "shareBB": 0.4865,
+    "shareCircle": 0.4278
+  },
+  {
+    "gem_id": "NO0919",
+    "country_id": "NO",
+    "name": "Froland",
+    "shareBB": 0.4615,
+    "shareCircle": 0.3452
+  },
+  {
+    "gem_id": "NO0926",
+    "country_id": "NO",
+    "name": "Lillesand",
+    "shareBB": 0.4238,
+    "shareCircle": 0.3621
+  },
+  {
+    "gem_id": "NO0928",
+    "country_id": "NO",
+    "name": "Birkenes",
+    "shareBB": 0.5149,
+    "shareCircle": 0.4294
+  },
+  {
+    "gem_id": "NO0929",
+    "country_id": "NO",
+    "name": "Åmli",
+    "shareBB": 0.5933,
+    "shareCircle": 0.4521
+  },
+  {
+    "gem_id": "NO0935",
+    "country_id": "NO",
+    "name": "Iveland",
+    "shareBB": 0.5067,
+    "shareCircle": 0.4394
+  },
+  {
+    "gem_id": "NO0937",
+    "country_id": "NO",
+    "name": "Evje og Hornnes",
+    "shareBB": 0.5554,
+    "shareCircle": 0.5484
+  },
+  {
+    "gem_id": "NO0938",
+    "country_id": "NO",
+    "name": "Bygland",
+    "shareBB": 0.4584,
+    "shareCircle": 0.4465
+  },
+  {
+    "gem_id": "NO0940",
+    "country_id": "NO",
+    "name": "Valle",
+    "shareBB": 0.537,
+    "shareCircle": 0.5274
+  },
+  {
+    "gem_id": "NO0941",
+    "country_id": "NO",
+    "name": "Bykle",
+    "shareBB": 0.5868,
+    "shareCircle": 0.4748
+  },
+  {
+    "gem_id": "NO1001",
+    "country_id": "NO",
+    "name": "Kristiansand",
+    "shareBB": 0.513,
+    "shareCircle": 0.4754
+  },
+  {
+    "gem_id": "NO1002",
+    "country_id": "NO",
+    "name": "Mandal",
+    "shareBB": 0.4838,
+    "shareCircle": 0.5139
+  },
+  {
+    "gem_id": "NO1003",
+    "country_id": "NO",
+    "name": "Farsund",
+    "shareBB": 0.484,
+    "shareCircle": 0.4842
+  },
+  {
+    "gem_id": "NO1004",
+    "country_id": "NO",
+    "name": "Flekkefjord",
+    "shareBB": 0.4109,
+    "shareCircle": 0.4017
+  },
+  {
+    "gem_id": "NO1014",
+    "country_id": "NO",
+    "name": "Vennesla",
+    "shareBB": 0.5232,
+    "shareCircle": 0.4895
+  },
+  {
+    "gem_id": "NO1017",
+    "country_id": "NO",
+    "name": "Songdalen",
+    "shareBB": 0.3404,
+    "shareCircle": 0.2388
+  },
+  {
+    "gem_id": "NO1018",
+    "country_id": "NO",
+    "name": "Søgne",
+    "shareBB": 0.3923,
+    "shareCircle": 0.3746
+  },
+  {
+    "gem_id": "NO1021",
+    "country_id": "NO",
+    "name": "Marnardal",
+    "shareBB": 0.5241,
+    "shareCircle": 0.3454
+  },
+  {
+    "gem_id": "NO1026",
+    "country_id": "NO",
+    "name": "Åseral",
+    "shareBB": 0.6782,
+    "shareCircle": 0.5937
+  },
+  {
+    "gem_id": "NO1027",
+    "country_id": "NO",
+    "name": "Audnedal",
+    "shareBB": 0.4416,
+    "shareCircle": 0.2662
+  },
+  {
+    "gem_id": "NO1029",
+    "country_id": "NO",
+    "name": "Lindesnes",
+    "shareBB": 0.3905,
+    "shareCircle": 0.3389
+  },
+  {
+    "gem_id": "NO1032",
+    "country_id": "NO",
+    "name": "Lyngdal",
+    "shareBB": 0.4518,
+    "shareCircle": 0.3553
+  },
+  {
+    "gem_id": "NO1034",
+    "country_id": "NO",
+    "name": "Hægebostad",
+    "shareBB": 0.5951,
+    "shareCircle": 0.3147
+  },
+  {
+    "gem_id": "NO1037",
+    "country_id": "NO",
+    "name": "Kvinesdal",
+    "shareBB": 0.4841,
+    "shareCircle": 0.2417
+  },
+  {
+    "gem_id": "NO1046",
+    "country_id": "NO",
+    "name": "Sirdal",
+    "shareBB": 0.4379,
+    "shareCircle": 0.3191
+  },
+  {
+    "gem_id": "NO1101",
+    "country_id": "NO",
+    "name": "Eigersund",
+    "shareBB": 0.3538,
+    "shareCircle": 0.3074
+  },
+  {
+    "gem_id": "NO1102",
+    "country_id": "NO",
+    "name": "Sandnes",
+    "shareBB": 0.4877,
+    "shareCircle": 0.4718
+  },
+  {
+    "gem_id": "NO1103",
+    "country_id": "NO",
+    "name": "Stavanger",
+    "shareBB": 0.2576,
+    "shareCircle": 0.2562
+  },
+  {
+    "gem_id": "NO1106",
+    "country_id": "NO",
+    "name": "Haugesund",
+    "shareBB": 0.262,
+    "shareCircle": 0.2486
+  },
+  {
+    "gem_id": "NO1111",
+    "country_id": "NO",
+    "name": "Sokndal",
+    "shareBB": 0.5487,
+    "shareCircle": 0.6073
+  },
+  {
+    "gem_id": "NO1112",
+    "country_id": "NO",
+    "name": "Lund",
+    "shareBB": 0.538,
+    "shareCircle": 0.3801
+  },
+  {
+    "gem_id": "NO1114",
+    "country_id": "NO",
+    "name": "Bjerkreim",
+    "shareBB": 0.4809,
+    "shareCircle": 0.3807
+  },
+  {
+    "gem_id": "NO1119",
+    "country_id": "NO",
+    "name": "Hå",
+    "shareBB": 0.4555,
+    "shareCircle": 0.3712
+  },
+  {
+    "gem_id": "NO1120",
+    "country_id": "NO",
+    "name": "Klepp",
+    "shareBB": 0.5097,
+    "shareCircle": 0.5082
+  },
+  {
+    "gem_id": "NO1121",
+    "country_id": "NO",
+    "name": "Time",
+    "shareBB": 0.4681,
+    "shareCircle": 0.4899
+  },
+  {
+    "gem_id": "NO1122",
+    "country_id": "NO",
+    "name": "Gjesdal",
+    "shareBB": 0.3635,
+    "shareCircle": 0.2462
+  },
+  {
+    "gem_id": "NO1124",
+    "country_id": "NO",
+    "name": "Sola",
+    "shareBB": 0.2611,
+    "shareCircle": 0.2512
+  },
+  {
+    "gem_id": "NO1127",
+    "country_id": "NO",
+    "name": "Randaberg",
+    "shareBB": 0.3267,
+    "shareCircle": 0.2654
+  },
+  {
+    "gem_id": "NO1129",
+    "country_id": "NO",
+    "name": "Forsand",
+    "shareBB": 0.3894,
+    "shareCircle": 0.282
+  },
+  {
+    "gem_id": "NO1130",
+    "country_id": "NO",
+    "name": "Strand",
+    "shareBB": 0.4389,
+    "shareCircle": 0.4466
+  },
+  {
+    "gem_id": "NO1133",
+    "country_id": "NO",
+    "name": "Hjelmeland",
+    "shareBB": 0.5774,
+    "shareCircle": 0.4545
+  },
+  {
+    "gem_id": "NO1134",
+    "country_id": "NO",
+    "name": "Suldal",
+    "shareBB": 0.451,
+    "shareCircle": 0.3292
+  },
+  {
+    "gem_id": "NO1135",
+    "country_id": "NO",
+    "name": "Sauda",
+    "shareBB": 0.5955,
+    "shareCircle": 0.4506
+  },
+  {
+    "gem_id": "NO1141",
+    "country_id": "NO",
+    "name": "Finnøy",
+    "shareBB": 0.2364,
+    "shareCircle": 0.2014
+  },
+  {
+    "gem_id": "NO1142",
+    "country_id": "NO",
+    "name": "Rennesøy",
+    "shareBB": 0.2941,
+    "shareCircle": 0.332
+  },
+  {
+    "gem_id": "NO1144",
+    "country_id": "NO",
+    "name": "Kvitsøy",
+    "shareBB": 0.0709,
+    "shareCircle": 0.0484
+  },
+  {
+    "gem_id": "NO1145",
+    "country_id": "NO",
+    "name": "Bokn",
+    "shareBB": 0.3385,
+    "shareCircle": 0.3294
+  },
+  {
+    "gem_id": "NO1146",
+    "country_id": "NO",
+    "name": "Tysvær",
+    "shareBB": 0.4718,
+    "shareCircle": 0.4862
+  },
+  {
+    "gem_id": "NO1149",
+    "country_id": "NO",
+    "name": "Karmøy",
+    "shareBB": 0.3231,
+    "shareCircle": 0.2519
+  },
+  {
+    "gem_id": "NO1151",
+    "country_id": "NO",
+    "name": "Utsira",
+    "shareBB": 0.361,
+    "shareCircle": 0.277
+  },
+  {
+    "gem_id": "NO1160",
+    "country_id": "NO",
+    "name": "Vindafjord",
+    "shareBB": 0.433,
+    "shareCircle": 0.4068
+  },
+  {
+    "gem_id": "NO1201",
+    "country_id": "NO",
+    "name": "Bergen",
+    "shareBB": 0.4633,
+    "shareCircle": 0.4315
+  },
+  {
+    "gem_id": "NO1211",
+    "country_id": "NO",
+    "name": "Etne",
+    "shareBB": 0.3618,
+    "shareCircle": 0.3344
+  },
+  {
+    "gem_id": "NO1216",
+    "country_id": "NO",
+    "name": "Sveio",
+    "shareBB": 0.4694,
+    "shareCircle": 0.3275
+  },
+  {
+    "gem_id": "NO1219",
+    "country_id": "NO",
+    "name": "Bømlo",
+    "shareBB": 0.2551,
+    "shareCircle": 0.1582
+  },
+  {
+    "gem_id": "NO1221",
+    "country_id": "NO",
+    "name": "Stord",
+    "shareBB": 0.4184,
+    "shareCircle": 0.392
+  },
+  {
+    "gem_id": "NO1222",
+    "country_id": "NO",
+    "name": "Fitjar",
+    "shareBB": 0.3603,
+    "shareCircle": 0.4116
+  },
+  {
+    "gem_id": "NO1223",
+    "country_id": "NO",
+    "name": "Tysnes",
+    "shareBB": 0.4736,
+    "shareCircle": 0.3963
+  },
+  {
+    "gem_id": "NO1224",
+    "country_id": "NO",
+    "name": "Kvinnherad",
+    "shareBB": 0.3812,
+    "shareCircle": 0.2702
+  },
+  {
+    "gem_id": "NO1227",
+    "country_id": "NO",
+    "name": "Jondal",
+    "shareBB": 0.3494,
+    "shareCircle": 0.2915
+  },
+  {
+    "gem_id": "NO1228",
+    "country_id": "NO",
+    "name": "Odda",
+    "shareBB": 0.4894,
+    "shareCircle": 0.5131
+  },
+  {
+    "gem_id": "NO1231",
+    "country_id": "NO",
+    "name": "Ullensvang",
+    "shareBB": 0.42,
+    "shareCircle": 0.3618
+  },
+  {
+    "gem_id": "NO1232",
+    "country_id": "NO",
+    "name": "Eidfjord",
+    "shareBB": 0.5505,
+    "shareCircle": 0.5472
+  },
+  {
+    "gem_id": "NO1233",
+    "country_id": "NO",
+    "name": "Ulvik",
+    "shareBB": 0.4623,
+    "shareCircle": 0.3085
+  },
+  {
+    "gem_id": "NO1234",
+    "country_id": "NO",
+    "name": "Granvin",
+    "shareBB": 0.4962,
+    "shareCircle": 0.3512
+  },
+  {
+    "gem_id": "NO1235",
+    "country_id": "NO",
+    "name": "Voss",
+    "shareBB": 0.5313,
+    "shareCircle": 0.554
+  },
+  {
+    "gem_id": "NO1238",
+    "country_id": "NO",
+    "name": "Kvam",
+    "shareBB": 0.3352,
+    "shareCircle": 0.263
+  },
+  {
+    "gem_id": "NO1241",
+    "country_id": "NO",
+    "name": "Fusa",
+    "shareBB": 0.4907,
+    "shareCircle": 0.3896
+  },
+  {
+    "gem_id": "NO1242",
+    "country_id": "NO",
+    "name": "Samnanger",
+    "shareBB": 0.4316,
+    "shareCircle": 0.3089
+  },
+  {
+    "gem_id": "NO1243",
+    "country_id": "NO",
+    "name": "Os",
+    "shareBB": 0.3536,
+    "shareCircle": 0.2789
+  },
+  {
+    "gem_id": "NO1244",
+    "country_id": "NO",
+    "name": "Austevoll",
+    "shareBB": 0.3098,
+    "shareCircle": 0.3056
+  },
+  {
+    "gem_id": "NO1245",
+    "country_id": "NO",
+    "name": "Sund",
+    "shareBB": 0.3525,
+    "shareCircle": 0.3371
+  },
+  {
+    "gem_id": "NO1246",
+    "country_id": "NO",
+    "name": "Fjell",
+    "shareBB": 0.3832,
+    "shareCircle": 0.3222
+  },
+  {
+    "gem_id": "NO1247",
+    "country_id": "NO",
+    "name": "Askøy",
+    "shareBB": 0.2547,
+    "shareCircle": 0.1671
+  },
+  {
+    "gem_id": "NO1251",
+    "country_id": "NO",
+    "name": "Vaksdal",
+    "shareBB": 0.3362,
+    "shareCircle": 0.2369
+  },
+  {
+    "gem_id": "NO1252",
+    "country_id": "NO",
+    "name": "Modalen",
+    "shareBB": 0.3952,
+    "shareCircle": 0.3577
+  },
+  {
+    "gem_id": "NO1253",
+    "country_id": "NO",
+    "name": "Osterøy",
+    "shareBB": 0.4246,
+    "shareCircle": 0.3281
+  },
+  {
+    "gem_id": "NO1256",
+    "country_id": "NO",
+    "name": "Meland",
+    "shareBB": 0.4029,
+    "shareCircle": 0.2923
+  },
+  {
+    "gem_id": "NO1259",
+    "country_id": "NO",
+    "name": "Øygarden",
+    "shareBB": 0.1664,
+    "shareCircle": 0.0804
+  },
+  {
+    "gem_id": "NO1260",
+    "country_id": "NO",
+    "name": "Radøy",
+    "shareBB": 0.2865,
+    "shareCircle": 0.1909
+  },
+  {
+    "gem_id": "NO1263",
+    "country_id": "NO",
+    "name": "Lindås",
+    "shareBB": 0.3661,
+    "shareCircle": 0.3001
+  },
+  {
+    "gem_id": "NO1264",
+    "country_id": "NO",
+    "name": "Austrheim",
+    "shareBB": 0.3071,
+    "shareCircle": 0.2431
+  },
+  {
+    "gem_id": "NO1265",
+    "country_id": "NO",
+    "name": "Fedje",
+    "shareBB": 0.149,
+    "shareCircle": 0.0884
+  },
+  {
+    "gem_id": "NO1266",
+    "country_id": "NO",
+    "name": "Masfjorden",
+    "shareBB": 0.4618,
+    "shareCircle": 0.3895
+  },
+  {
+    "gem_id": "NO1401",
+    "country_id": "NO",
+    "name": "Flora",
+    "shareBB": 0.4028,
+    "shareCircle": 0.2719
+  },
+  {
+    "gem_id": "NO1411",
+    "country_id": "NO",
+    "name": "Gulen",
+    "shareBB": 0.408,
+    "shareCircle": 0.2648
+  },
+  {
+    "gem_id": "NO1412",
+    "country_id": "NO",
+    "name": "Solund",
+    "shareBB": 0.2496,
+    "shareCircle": 0.2363
+  },
+  {
+    "gem_id": "NO1413",
+    "country_id": "NO",
+    "name": "Hyllestad",
+    "shareBB": 0.4298,
+    "shareCircle": 0.3825
+  },
+  {
+    "gem_id": "NO1416",
+    "country_id": "NO",
+    "name": "Høyanger",
+    "shareBB": 0.4384,
+    "shareCircle": 0.3364
+  },
+  {
+    "gem_id": "NO1417",
+    "country_id": "NO",
+    "name": "Vik",
+    "shareBB": 0.5429,
+    "shareCircle": 0.4343
+  },
+  {
+    "gem_id": "NO1418",
+    "country_id": "NO",
+    "name": "Balestrand",
+    "shareBB": 0.4118,
+    "shareCircle": 0.3416
+  },
+  {
+    "gem_id": "NO1419",
+    "country_id": "NO",
+    "name": "Leikanger",
+    "shareBB": 0.5968,
+    "shareCircle": 0.6038
+  },
+  {
+    "gem_id": "NO1420",
+    "country_id": "NO",
+    "name": "Sogndal",
+    "shareBB": 0.3313,
+    "shareCircle": 0.3232
+  },
+  {
+    "gem_id": "NO1421",
+    "country_id": "NO",
+    "name": "Aurland",
+    "shareBB": 0.5953,
+    "shareCircle": 0.5651
+  },
+  {
+    "gem_id": "NO1422",
+    "country_id": "NO",
+    "name": "Lærdal",
+    "shareBB": 0.4573,
+    "shareCircle": 0.3671
+  },
+  {
+    "gem_id": "NO1424",
+    "country_id": "NO",
+    "name": "Årdal",
+    "shareBB": 0.5452,
+    "shareCircle": 0.5307
+  },
+  {
+    "gem_id": "NO1426",
+    "country_id": "NO",
+    "name": "Luster",
+    "shareBB": 0.4499,
+    "shareCircle": 0.511
+  },
+  {
+    "gem_id": "NO1428",
+    "country_id": "NO",
+    "name": "Askvoll",
+    "shareBB": 0.2756,
+    "shareCircle": 0.1404
+  },
+  {
+    "gem_id": "NO1429",
+    "country_id": "NO",
+    "name": "Fjaler",
+    "shareBB": 0.4382,
+    "shareCircle": 0.2874
+  },
+  {
+    "gem_id": "NO1430",
+    "country_id": "NO",
+    "name": "Gaular",
+    "shareBB": 0.4977,
+    "shareCircle": 0.2515
+  },
+  {
+    "gem_id": "NO1431",
+    "country_id": "NO",
+    "name": "Jølster",
+    "shareBB": 0.5038,
+    "shareCircle": 0.339
+  },
+  {
+    "gem_id": "NO1432",
+    "country_id": "NO",
+    "name": "Førde",
+    "shareBB": 0.3471,
+    "shareCircle": 0.2022
+  },
+  {
+    "gem_id": "NO1433",
+    "country_id": "NO",
+    "name": "Naustdal",
+    "shareBB": 0.3345,
+    "shareCircle": 0.1517
+  },
+  {
+    "gem_id": "NO1438",
+    "country_id": "NO",
+    "name": "Bremanger",
+    "shareBB": 0.5146,
+    "shareCircle": 0.3212
+  },
+  {
+    "gem_id": "NO1439",
+    "country_id": "NO",
+    "name": "Vågsøy",
+    "shareBB": 0.3129,
+    "shareCircle": 0.2234
+  },
+  {
+    "gem_id": "NO1441",
+    "country_id": "NO",
+    "name": "Selje",
+    "shareBB": 0.3559,
+    "shareCircle": 0.2842
+  },
+  {
+    "gem_id": "NO1443",
+    "country_id": "NO",
+    "name": "Eid",
+    "shareBB": 0.4933,
+    "shareCircle": 0.2131
+  },
+  {
+    "gem_id": "NO1444",
+    "country_id": "NO",
+    "name": "Hornindal",
+    "shareBB": 0.5876,
+    "shareCircle": 0.5543
+  },
+  {
+    "gem_id": "NO1445",
+    "country_id": "NO",
+    "name": "Gloppen",
+    "shareBB": 0.5774,
+    "shareCircle": 0.3419
+  },
+  {
+    "gem_id": "NO1449",
+    "country_id": "NO",
+    "name": "Stryn",
+    "shareBB": 0.4887,
+    "shareCircle": 0.4546
+  },
+  {
+    "gem_id": "NO1502",
+    "country_id": "NO",
+    "name": "Molde",
+    "shareBB": 0.3469,
+    "shareCircle": 0.2336
+  },
+  {
+    "gem_id": "NO1504",
+    "country_id": "NO",
+    "name": "Ålesund",
+    "shareBB": 0.359,
+    "shareCircle": 0.2077
+  },
+  {
+    "gem_id": "NO1505",
+    "country_id": "NO",
+    "name": "Kristiansund",
+    "shareBB": 0.2332,
+    "shareCircle": 0.1819
+  },
+  {
+    "gem_id": "NO1511",
+    "country_id": "NO",
+    "name": "Vanylven",
+    "shareBB": 0.609,
+    "shareCircle": 0.4459
+  },
+  {
+    "gem_id": "NO1514",
+    "country_id": "NO",
+    "name": "Sande",
+    "shareBB": 0.3175,
+    "shareCircle": 0.2208
+  },
+  {
+    "gem_id": "NO1515",
+    "country_id": "NO",
+    "name": "Herøy",
+    "shareBB": 0.1713,
+    "shareCircle": 0.1496
+  },
+  {
+    "gem_id": "NO1516",
+    "country_id": "NO",
+    "name": "Ulstein",
+    "shareBB": 0.3854,
+    "shareCircle": 0.2291
+  },
+  {
+    "gem_id": "NO1517",
+    "country_id": "NO",
+    "name": "Hareid",
+    "shareBB": 0.4729,
+    "shareCircle": 0.4041
+  },
+  {
+    "gem_id": "NO1519",
+    "country_id": "NO",
+    "name": "Volda",
+    "shareBB": 0.4303,
+    "shareCircle": 0.3758
+  },
+  {
+    "gem_id": "NO1520",
+    "country_id": "NO",
+    "name": "Ørsta",
+    "shareBB": 0.4952,
+    "shareCircle": 0.5342
+  },
+  {
+    "gem_id": "NO1523",
+    "country_id": "NO",
+    "name": "Ørskog",
+    "shareBB": 0.404,
+    "shareCircle": 0.3278
+  },
+  {
+    "gem_id": "NO1524",
+    "country_id": "NO",
+    "name": "Norddal",
+    "shareBB": 0.5497,
+    "shareCircle": 0.576
+  },
+  {
+    "gem_id": "NO1525",
+    "country_id": "NO",
+    "name": "Stranda",
+    "shareBB": 0.4794,
+    "shareCircle": 0.4557
+  },
+  {
+    "gem_id": "NO1526",
+    "country_id": "NO",
+    "name": "Stordal",
+    "shareBB": 0.5115,
+    "shareCircle": 0.4274
+  },
+  {
+    "gem_id": "NO1528",
+    "country_id": "NO",
+    "name": "Sykkylven",
+    "shareBB": 0.5326,
+    "shareCircle": 0.5441
+  },
+  {
+    "gem_id": "NO1529",
+    "country_id": "NO",
+    "name": "Skodje",
+    "shareBB": 0.4093,
+    "shareCircle": 0.2934
+  },
+  {
+    "gem_id": "NO1531",
+    "country_id": "NO",
+    "name": "Sula",
+    "shareBB": 0.5742,
+    "shareCircle": 0.2876
+  },
+  {
+    "gem_id": "NO1532",
+    "country_id": "NO",
+    "name": "Giske",
+    "shareBB": 0.2243,
+    "shareCircle": 0.1813
+  },
+  {
+    "gem_id": "NO1534",
+    "country_id": "NO",
+    "name": "Haram",
+    "shareBB": 0.3364,
+    "shareCircle": 0.233
+  },
+  {
+    "gem_id": "NO1535",
+    "country_id": "NO",
+    "name": "Vestnes",
+    "shareBB": 0.4748,
+    "shareCircle": 0.3959
+  },
+  {
+    "gem_id": "NO1539",
+    "country_id": "NO",
+    "name": "Rauma",
+    "shareBB": 0.4883,
+    "shareCircle": 0.4668
+  },
+  {
+    "gem_id": "NO1543",
+    "country_id": "NO",
+    "name": "Nesset",
+    "shareBB": 0.3369,
+    "shareCircle": 0.282
+  },
+  {
+    "gem_id": "NO1545",
+    "country_id": "NO",
+    "name": "Midsund",
+    "shareBB": 0.3389,
+    "shareCircle": 0.2012
+  },
+  {
+    "gem_id": "NO1546",
+    "country_id": "NO",
+    "name": "Sandøy",
+    "shareBB": 0.065,
+    "shareCircle": 0.0625
+  },
+  {
+    "gem_id": "NO1547",
+    "country_id": "NO",
+    "name": "Aukra",
+    "shareBB": 0.2768,
+    "shareCircle": 0.2335
+  },
+  {
+    "gem_id": "NO1548",
+    "country_id": "NO",
+    "name": "Fræna",
+    "shareBB": 0.4184,
+    "shareCircle": 0.4373
+  },
+  {
+    "gem_id": "NO1551",
+    "country_id": "NO",
+    "name": "Eide",
+    "shareBB": 0.4074,
+    "shareCircle": 0.3311
+  },
+  {
+    "gem_id": "NO1554",
+    "country_id": "NO",
+    "name": "Averøy",
+    "shareBB": 0.4703,
+    "shareCircle": 0.4656
+  },
+  {
+    "gem_id": "NO1557",
+    "country_id": "NO",
+    "name": "Gjemnes",
+    "shareBB": 0.5103,
+    "shareCircle": 0.3287
+  },
+  {
+    "gem_id": "NO1560",
+    "country_id": "NO",
+    "name": "Tingvoll",
+    "shareBB": 0.3241,
+    "shareCircle": 0.2367
+  },
+  {
+    "gem_id": "NO1563",
+    "country_id": "NO",
+    "name": "Sunndal",
+    "shareBB": 0.5119,
+    "shareCircle": 0.4448
+  },
+  {
+    "gem_id": "NO1566",
+    "country_id": "NO",
+    "name": "Surnadal",
+    "shareBB": 0.521,
+    "shareCircle": 0.4548
+  },
+  {
+    "gem_id": "NO1567",
+    "country_id": "NO",
+    "name": "Rindal",
+    "shareBB": 0.4344,
+    "shareCircle": 0.3744
+  },
+  {
+    "gem_id": "NO1571",
+    "country_id": "NO",
+    "name": "Halsa",
+    "shareBB": 0.4879,
+    "shareCircle": 0.3178
+  },
+  {
+    "gem_id": "NO1573",
+    "country_id": "NO",
+    "name": "Smøla",
+    "shareBB": 0.3437,
+    "shareCircle": 0.3393
+  },
+  {
+    "gem_id": "NO1576",
+    "country_id": "NO",
+    "name": "Aure",
+    "shareBB": 0.3718,
+    "shareCircle": 0.2424
+  },
+  {
+    "gem_id": "NO1601",
+    "country_id": "NO",
+    "name": "Trondheim",
+    "shareBB": 0.5939,
+    "shareCircle": 0.3607
+  },
+  {
+    "gem_id": "NO1612",
+    "country_id": "NO",
+    "name": "Hemne",
+    "shareBB": 0.5101,
+    "shareCircle": 0.5064
+  },
+  {
+    "gem_id": "NO1613",
+    "country_id": "NO",
+    "name": "Snillfjord",
+    "shareBB": 0.4673,
+    "shareCircle": 0.5564
+  },
+  {
+    "gem_id": "NO1617",
+    "country_id": "NO",
+    "name": "Hitra",
+    "shareBB": 0.455,
+    "shareCircle": 0.3249
+  },
+  {
+    "gem_id": "NO1620",
+    "country_id": "NO",
+    "name": "Frøya",
+    "shareBB": 0.0651,
+    "shareCircle": 0.0423
+  },
+  {
+    "gem_id": "NO1621",
+    "country_id": "NO",
+    "name": "Ørland",
+    "shareBB": 0.2254,
+    "shareCircle": 0.1348
+  },
+  {
+    "gem_id": "NO1622",
+    "country_id": "NO",
+    "name": "Agdenes",
+    "shareBB": 0.3364,
+    "shareCircle": 0.3168
+  },
+  {
+    "gem_id": "NO1624",
+    "country_id": "NO",
+    "name": "Rissa",
+    "shareBB": 0.4687,
+    "shareCircle": 0.3857
+  },
+  {
+    "gem_id": "NO1627",
+    "country_id": "NO",
+    "name": "Bjugn",
+    "shareBB": 0.3164,
+    "shareCircle": 0.2631
+  },
+  {
+    "gem_id": "NO1630",
+    "country_id": "NO",
+    "name": "Åfjord",
+    "shareBB": 0.4711,
+    "shareCircle": 0.3952
+  },
+  {
+    "gem_id": "NO1632",
+    "country_id": "NO",
+    "name": "Roan",
+    "shareBB": 0.3764,
+    "shareCircle": 0.3138
+  },
+  {
+    "gem_id": "NO1633",
+    "country_id": "NO",
+    "name": "Osen",
+    "shareBB": 0.3298,
+    "shareCircle": 0.2601
+  },
+  {
+    "gem_id": "NO1634",
+    "country_id": "NO",
+    "name": "Oppdal",
+    "shareBB": 0.6037,
+    "shareCircle": 0.617
+  },
+  {
+    "gem_id": "NO1635",
+    "country_id": "NO",
+    "name": "Rennebu",
+    "shareBB": 0.4433,
+    "shareCircle": 0.4829
+  },
+  {
+    "gem_id": "NO1636",
+    "country_id": "NO",
+    "name": "Meldal",
+    "shareBB": 0.6242,
+    "shareCircle": 0.5577
+  },
+  {
+    "gem_id": "NO1638",
+    "country_id": "NO",
+    "name": "Orkdal",
+    "shareBB": 0.5495,
+    "shareCircle": 0.4444
+  },
+  {
+    "gem_id": "NO1640",
+    "country_id": "NO",
+    "name": "Røros",
+    "shareBB": 0.5771,
+    "shareCircle": 0.5121
+  },
+  {
+    "gem_id": "NO1644",
+    "country_id": "NO",
+    "name": "Holtålen",
+    "shareBB": 0.5237,
+    "shareCircle": 0.4669
+  },
+  {
+    "gem_id": "NO1648",
+    "country_id": "NO",
+    "name": "Midtre Gauldal",
+    "shareBB": 0.6558,
+    "shareCircle": 0.6634
+  },
+  {
+    "gem_id": "NO1653",
+    "country_id": "NO",
+    "name": "Melhus",
+    "shareBB": 0.4545,
+    "shareCircle": 0.488
+  },
+  {
+    "gem_id": "NO1657",
+    "country_id": "NO",
+    "name": "Skaun",
+    "shareBB": 0.6515,
+    "shareCircle": 0.5748
+  },
+  {
+    "gem_id": "NO1662",
+    "country_id": "NO",
+    "name": "Klæbu",
+    "shareBB": 0.5066,
+    "shareCircle": 0.4242
+  },
+  {
+    "gem_id": "NO1663",
+    "country_id": "NO",
+    "name": "Malvik",
+    "shareBB": 0.5335,
+    "shareCircle": 0.4182
+  },
+  {
+    "gem_id": "NO1664",
+    "country_id": "NO",
+    "name": "Selbu",
+    "shareBB": 0.6326,
+    "shareCircle": 0.5525
+  },
+  {
+    "gem_id": "NO1665",
+    "country_id": "NO",
+    "name": "Tydal",
+    "shareBB": 0.5601,
+    "shareCircle": 0.5297
+  },
+  {
+    "gem_id": "NO1702",
+    "country_id": "NO",
+    "name": "Steinkjer",
+    "shareBB": 0.4959,
+    "shareCircle": 0.5046
+  },
+  {
+    "gem_id": "NO1703",
+    "country_id": "NO",
+    "name": "Namsos",
+    "shareBB": 0.3223,
+    "shareCircle": 0.2663
+  },
+  {
+    "gem_id": "NO1711",
+    "country_id": "NO",
+    "name": "Meråker",
+    "shareBB": 0.6733,
+    "shareCircle": 0.5817
+  },
+  {
+    "gem_id": "NO1714",
+    "country_id": "NO",
+    "name": "Stjørdal",
+    "shareBB": 0.6338,
+    "shareCircle": 0.443
+  },
+  {
+    "gem_id": "NO1717",
+    "country_id": "NO",
+    "name": "Frosta",
+    "shareBB": 0.2761,
+    "shareCircle": 0.2437
+  },
+  {
+    "gem_id": "NO1718",
+    "country_id": "NO",
+    "name": "Leksvik",
+    "shareBB": 0.4079,
+    "shareCircle": 0.316
+  },
+  {
+    "gem_id": "NO1719",
+    "country_id": "NO",
+    "name": "Levanger",
+    "shareBB": 0.5159,
+    "shareCircle": 0.4134
+  },
+  {
+    "gem_id": "NO1721",
+    "country_id": "NO",
+    "name": "Verdal",
+    "shareBB": 0.5633,
+    "shareCircle": 0.4456
+  },
+  {
+    "gem_id": "NO1724",
+    "country_id": "NO",
+    "name": "Verran",
+    "shareBB": 0.2979,
+    "shareCircle": 0.2177
+  },
+  {
+    "gem_id": "NO1725",
+    "country_id": "NO",
+    "name": "Namdalseid",
+    "shareBB": 0.3925,
+    "shareCircle": 0.3673
+  },
+  {
+    "gem_id": "NO1736",
+    "country_id": "NO",
+    "name": "Snåsa#Snåase",
+    "shareBB": 0.6854,
+    "shareCircle": 0.6923
+  },
+  {
+    "gem_id": "NO1738",
+    "country_id": "NO",
+    "name": "Lierne",
+    "shareBB": 0.6067,
+    "shareCircle": 0.4532
+  },
+  {
+    "gem_id": "NO1739",
+    "country_id": "NO",
+    "name": "Røyrvik",
+    "shareBB": 0.3694,
+    "shareCircle": 0.2491
+  },
+  {
+    "gem_id": "NO1740",
+    "country_id": "NO",
+    "name": "Namsskogan",
+    "shareBB": 0.4019,
+    "shareCircle": 0.3437
+  },
+  {
+    "gem_id": "NO1742",
+    "country_id": "NO",
+    "name": "Grong",
+    "shareBB": 0.5201,
+    "shareCircle": 0.5123
+  },
+  {
+    "gem_id": "NO1743",
+    "country_id": "NO",
+    "name": "Høylandet",
+    "shareBB": 0.4455,
+    "shareCircle": 0.3278
+  },
+  {
+    "gem_id": "NO1744",
+    "country_id": "NO",
+    "name": "Overhalla",
+    "shareBB": 0.5551,
+    "shareCircle": 0.4492
+  },
+  {
+    "gem_id": "NO1748",
+    "country_id": "NO",
+    "name": "Fosnes",
+    "shareBB": 0.3316,
+    "shareCircle": 0.2182
+  },
+  {
+    "gem_id": "NO1749",
+    "country_id": "NO",
+    "name": "Flatanger",
+    "shareBB": 0.4285,
+    "shareCircle": 0.4195
+  },
+  {
+    "gem_id": "NO1750",
+    "country_id": "NO",
+    "name": "Vikna",
+    "shareBB": 0.2288,
+    "shareCircle": 0.2021
+  },
+  {
+    "gem_id": "NO1751",
+    "country_id": "NO",
+    "name": "Nærøy",
+    "shareBB": 0.378,
+    "shareCircle": 0.2353
+  },
+  {
+    "gem_id": "NO1755",
+    "country_id": "NO",
+    "name": "Leka",
+    "shareBB": 0.1018,
+    "shareCircle": 0.0581
+  },
+  {
+    "gem_id": "NO1756",
+    "country_id": "NO",
+    "name": "Inderøy",
+    "shareBB": 0.2839,
+    "shareCircle": 0.2426
+  },
+  {
+    "gem_id": "NO1804",
+    "country_id": "NO",
+    "name": "Bodø",
+    "shareBB": 0.25,
+    "shareCircle": 0.2567
+  },
+  {
+    "gem_id": "NO1805",
+    "country_id": "NO",
+    "name": "Narvik",
+    "shareBB": 0.6038,
+    "shareCircle": 0.4993
+  },
+  {
+    "gem_id": "NO1811",
+    "country_id": "NO",
+    "name": "Bindal",
+    "shareBB": 0.4277,
+    "shareCircle": 0.2906
+  },
+  {
+    "gem_id": "NO1812",
+    "country_id": "NO",
+    "name": "Sømna",
+    "shareBB": 0.1816,
+    "shareCircle": 0.1525
+  },
+  {
+    "gem_id": "NO1813",
+    "country_id": "NO",
+    "name": "Brønnøy",
+    "shareBB": 0.3327,
+    "shareCircle": 0.274
+  },
+  {
+    "gem_id": "NO1815",
+    "country_id": "NO",
+    "name": "Vega",
+    "shareBB": 0.0972,
+    "shareCircle": 0.0949
+  },
+  {
+    "gem_id": "NO1816",
+    "country_id": "NO",
+    "name": "Vevelstad",
+    "shareBB": 0.5136,
+    "shareCircle": 0.4872
+  },
+  {
+    "gem_id": "NO1818",
+    "country_id": "NO",
+    "name": "Herøy",
+    "shareBB": 0.0413,
+    "shareCircle": 0.0414
+  },
+  {
+    "gem_id": "NO1820",
+    "country_id": "NO",
+    "name": "Alstahaug",
+    "shareBB": 0.1862,
+    "shareCircle": 0.1544
+  },
+  {
+    "gem_id": "NO1822",
+    "country_id": "NO",
+    "name": "Leirfjord",
+    "shareBB": 0.4015,
+    "shareCircle": 0.2692
+  },
+  {
+    "gem_id": "NO1824",
+    "country_id": "NO",
+    "name": "Vefsn",
+    "shareBB": 0.4487,
+    "shareCircle": 0.3588
+  },
+  {
+    "gem_id": "NO1825",
+    "country_id": "NO",
+    "name": "Grane",
+    "shareBB": 0.5877,
+    "shareCircle": 0.4203
+  },
+  {
+    "gem_id": "NO1826",
+    "country_id": "NO",
+    "name": "Hattfjelldal",
+    "shareBB": 0.6703,
+    "shareCircle": 0.3862
+  },
+  {
+    "gem_id": "NO1827",
+    "country_id": "NO",
+    "name": "Dønna",
+    "shareBB": 0.2036,
+    "shareCircle": 0.2129
+  },
+  {
+    "gem_id": "NO1828",
+    "country_id": "NO",
+    "name": "Nesna",
+    "shareBB": 0.3805,
+    "shareCircle": 0.2838
+  },
+  {
+    "gem_id": "NO1832",
+    "country_id": "NO",
+    "name": "Hemnes",
+    "shareBB": 0.5059,
+    "shareCircle": 0.4683
+  },
+  {
+    "gem_id": "NO1833",
+    "country_id": "NO",
+    "name": "Rana",
+    "shareBB": 0.5544,
+    "shareCircle": 0.4796
+  },
+  {
+    "gem_id": "NO1834",
+    "country_id": "NO",
+    "name": "Lurøy",
+    "shareBB": 0.1497,
+    "shareCircle": 0.1324
+  },
+  {
+    "gem_id": "NO1835",
+    "country_id": "NO",
+    "name": "Træna",
+    "shareBB": 0.0436,
+    "shareCircle": 0.0304
+  },
+  {
+    "gem_id": "NO1836",
+    "country_id": "NO",
+    "name": "Rødøy",
+    "shareBB": 0.2318,
+    "shareCircle": 0.1835
+  },
+  {
+    "gem_id": "NO1837",
+    "country_id": "NO",
+    "name": "Meløy",
+    "shareBB": 0.318,
+    "shareCircle": 0.2468
+  },
+  {
+    "gem_id": "NO1838",
+    "country_id": "NO",
+    "name": "Gildeskål",
+    "shareBB": 0.3737,
+    "shareCircle": 0.3039
+  },
+  {
+    "gem_id": "NO1839",
+    "country_id": "NO",
+    "name": "Beiarn",
+    "shareBB": 0.7033,
+    "shareCircle": 0.4652
+  },
+  {
+    "gem_id": "NO1840",
+    "country_id": "NO",
+    "name": "Saltdal",
+    "shareBB": 0.5468,
+    "shareCircle": 0.5328
+  },
+  {
+    "gem_id": "NO1841",
+    "country_id": "NO",
+    "name": "Fauske",
+    "shareBB": 0.4359,
+    "shareCircle": 0.3335
+  },
+  {
+    "gem_id": "NO1845",
+    "country_id": "NO",
+    "name": "Sørfold",
+    "shareBB": 0.4871,
+    "shareCircle": 0.477
+  },
+  {
+    "gem_id": "NO1848",
+    "country_id": "NO",
+    "name": "Steigen",
+    "shareBB": 0.3693,
+    "shareCircle": 0.3429
+  },
+  {
+    "gem_id": "NO1849",
+    "country_id": "NO",
+    "name": "Hamarøy",
+    "shareBB": 0.2368,
+    "shareCircle": 0.2027
+  },
+  {
+    "gem_id": "NO1850",
+    "country_id": "NO",
+    "name": "Tysfjord#Divtasvuodna",
+    "shareBB": 0.3848,
+    "shareCircle": 0.3443
+  },
+  {
+    "gem_id": "NO1851",
+    "country_id": "NO",
+    "name": "Lødingen",
+    "shareBB": 0.3056,
+    "shareCircle": 0.2606
+  },
+  {
+    "gem_id": "NO1852",
+    "country_id": "NO",
+    "name": "Tjeldsund",
+    "shareBB": 0.4738,
+    "shareCircle": 0.5188
+  },
+  {
+    "gem_id": "NO1853",
+    "country_id": "NO",
+    "name": "Evenes",
+    "shareBB": 0.506,
+    "shareCircle": 0.2696
+  },
+  {
+    "gem_id": "NO1854",
+    "country_id": "NO",
+    "name": "Ballangen",
+    "shareBB": 0.4404,
+    "shareCircle": 0.3557
+  },
+  {
+    "gem_id": "NO1856",
+    "country_id": "NO",
+    "name": "Røst",
+    "shareBB": 0.0409,
+    "shareCircle": 0.0296
+  },
+  {
+    "gem_id": "NO1857",
+    "country_id": "NO",
+    "name": "Værøy",
+    "shareBB": 0.1512,
+    "shareCircle": 0.0897
+  },
+  {
+    "gem_id": "NO1859",
+    "country_id": "NO",
+    "name": "Flakstad",
+    "shareBB": 0.4261,
+    "shareCircle": 0.3677
+  },
+  {
+    "gem_id": "NO1860",
+    "country_id": "NO",
+    "name": "Vestvågøy",
+    "shareBB": 0.4195,
+    "shareCircle": 0.3876
+  },
+  {
+    "gem_id": "NO1865",
+    "country_id": "NO",
+    "name": "Vågan",
+    "shareBB": 0.3152,
+    "shareCircle": 0.2272
+  },
+  {
+    "gem_id": "NO1866",
+    "country_id": "NO",
+    "name": "Hadsel",
+    "shareBB": 0.394,
+    "shareCircle": 0.4288
+  },
+  {
+    "gem_id": "NO1867",
+    "country_id": "NO",
+    "name": "Bø",
+    "shareBB": 0.4033,
+    "shareCircle": 0.3249
+  },
+  {
+    "gem_id": "NO1868",
+    "country_id": "NO",
+    "name": "Øksnes",
+    "shareBB": 0.3346,
+    "shareCircle": 0.2532
+  },
+  {
+    "gem_id": "NO1870",
+    "country_id": "NO",
+    "name": "Sortland",
+    "shareBB": 0.2954,
+    "shareCircle": 0.2867
+  },
+  {
+    "gem_id": "NO1871",
+    "country_id": "NO",
+    "name": "Andøy",
+    "shareBB": 0.3818,
+    "shareCircle": 0.2013
+  },
+  {
+    "gem_id": "NO1874",
+    "country_id": "NO",
+    "name": "Moskenes",
+    "shareBB": 0.2964,
+    "shareCircle": 0.2317
+  },
+  {
+    "gem_id": "NO1902",
+    "country_id": "NO",
+    "name": "Tromsø",
+    "shareBB": 0.3688,
+    "shareCircle": 0.3449
+  },
+  {
+    "gem_id": "NO1903",
+    "country_id": "NO",
+    "name": "Harstad",
+    "shareBB": 0.2945,
+    "shareCircle": 0.125
+  },
+  {
+    "gem_id": "NO1911",
+    "country_id": "NO",
+    "name": "Kvæfjord",
+    "shareBB": 0.3071,
+    "shareCircle": 0.2273
+  },
+  {
+    "gem_id": "NO1913",
+    "country_id": "NO",
+    "name": "Skånland",
+    "shareBB": 0.46,
+    "shareCircle": 0.3664
+  },
+  {
+    "gem_id": "NO1917",
+    "country_id": "NO",
+    "name": "Ibestad",
+    "shareBB": 0.4014,
+    "shareCircle": 0.312
+  },
+  {
+    "gem_id": "NO1919",
+    "country_id": "NO",
+    "name": "Gratangen",
+    "shareBB": 0.4736,
+    "shareCircle": 0.4576
+  },
+  {
+    "gem_id": "NO1920",
+    "country_id": "NO",
+    "name": "Lavangen",
+    "shareBB": 0.4381,
+    "shareCircle": 0.3556
+  },
+  {
+    "gem_id": "NO1922",
+    "country_id": "NO",
+    "name": "Bardu",
+    "shareBB": 0.4149,
+    "shareCircle": 0.3437
+  },
+  {
+    "gem_id": "NO1923",
+    "country_id": "NO",
+    "name": "Salangen",
+    "shareBB": 0.5241,
+    "shareCircle": 0.4593
+  },
+  {
+    "gem_id": "NO1924",
+    "country_id": "NO",
+    "name": "Målselv",
+    "shareBB": 0.446,
+    "shareCircle": 0.3836
+  },
+  {
+    "gem_id": "NO1925",
+    "country_id": "NO",
+    "name": "Sørreisa",
+    "shareBB": 0.5626,
+    "shareCircle": 0.5775
+  },
+  {
+    "gem_id": "NO1926",
+    "country_id": "NO",
+    "name": "Dyrøy",
+    "shareBB": 0.3636,
+    "shareCircle": 0.3737
+  },
+  {
+    "gem_id": "NO1927",
+    "country_id": "NO",
+    "name": "Tranøy",
+    "shareBB": 0.3187,
+    "shareCircle": 0.3114
+  },
+  {
+    "gem_id": "NO1928",
+    "country_id": "NO",
+    "name": "Torsken",
+    "shareBB": 0.3974,
+    "shareCircle": 0.3898
+  },
+  {
+    "gem_id": "NO1929",
+    "country_id": "NO",
+    "name": "Berg",
+    "shareBB": 0.3365,
+    "shareCircle": 0.3344
+  },
+  {
+    "gem_id": "NO1931",
+    "country_id": "NO",
+    "name": "Lenvik",
+    "shareBB": 0.4141,
+    "shareCircle": 0.3844
+  },
+  {
+    "gem_id": "NO1933",
+    "country_id": "NO",
+    "name": "Balsfjord",
+    "shareBB": 0.4546,
+    "shareCircle": 0.3132
+  },
+  {
+    "gem_id": "NO1936",
+    "country_id": "NO",
+    "name": "Karlsøy",
+    "shareBB": 0.2825,
+    "shareCircle": 0.2678
+  },
+  {
+    "gem_id": "NO1938",
+    "country_id": "NO",
+    "name": "Lyngen",
+    "shareBB": 0.5283,
+    "shareCircle": 0.2447
+  },
+  {
+    "gem_id": "NO1939",
+    "country_id": "NO",
+    "name": "Storfjord",
+    "shareBB": 0.5378,
+    "shareCircle": 0.4882
+  },
+  {
+    "gem_id": "NO1940",
+    "country_id": "NO",
+    "name": "Gáivuotna#Kåfjord",
+    "shareBB": 0.4556,
+    "shareCircle": 0.3227
+  },
+  {
+    "gem_id": "NO1941",
+    "country_id": "NO",
+    "name": "Skjervøy",
+    "shareBB": 0.2826,
+    "shareCircle": 0.2801
+  },
+  {
+    "gem_id": "NO1942",
+    "country_id": "NO",
+    "name": "Nordreisa",
+    "shareBB": 0.3947,
+    "shareCircle": 0.3377
+  },
+  {
+    "gem_id": "NO1943",
+    "country_id": "NO",
+    "name": "Kvænangen",
+    "shareBB": 0.3718,
+    "shareCircle": 0.2709
+  },
+  {
+    "gem_id": "NO2002",
+    "country_id": "NO",
+    "name": "Vardø",
+    "shareBB": 0.54,
+    "shareCircle": 0.4301
+  },
+  {
+    "gem_id": "NO2003",
+    "country_id": "NO",
+    "name": "Vadsø",
+    "shareBB": 0.5376,
+    "shareCircle": 0.4235
+  },
+  {
+    "gem_id": "NO2004",
+    "country_id": "NO",
+    "name": "Hammerfest",
+    "shareBB": 0.2623,
+    "shareCircle": 0.2515
+  },
+  {
+    "gem_id": "NO2011",
+    "country_id": "NO",
+    "name": "Guovdageaidnu#Kautokeino",
+    "shareBB": 0.5765,
+    "shareCircle": 0.5402
+  },
+  {
+    "gem_id": "NO2012",
+    "country_id": "NO",
+    "name": "Alta",
+    "shareBB": 0.5058,
+    "shareCircle": 0.487
+  },
+  {
+    "gem_id": "NO2014",
+    "country_id": "NO",
+    "name": "Loppa",
+    "shareBB": 0.348,
+    "shareCircle": 0.2667
+  },
+  {
+    "gem_id": "NO2015",
+    "country_id": "NO",
+    "name": "Hasvik",
+    "shareBB": 0.2851,
+    "shareCircle": 0.2377
+  },
+  {
+    "gem_id": "NO2017",
+    "country_id": "NO",
+    "name": "Kvalsund",
+    "shareBB": 0.47,
+    "shareCircle": 0.4521
+  },
+  {
+    "gem_id": "NO2018",
+    "country_id": "NO",
+    "name": "Måsøy",
+    "shareBB": 0.361,
+    "shareCircle": 0.3305
+  },
+  {
+    "gem_id": "NO2019",
+    "country_id": "NO",
+    "name": "Nordkapp",
+    "shareBB": 0.3218,
+    "shareCircle": 0.2945
+  },
+  {
+    "gem_id": "NO2020",
+    "country_id": "NO",
+    "name": "Porsáŋgu#Porsanger#Porsanki",
+    "shareBB": 0.5619,
+    "shareCircle": 0.4527
+  },
+  {
+    "gem_id": "NO2021",
+    "country_id": "NO",
+    "name": "Kárášjohka#Karasjok",
+    "shareBB": 0.5842,
+    "shareCircle": 0.4802
+  },
+  {
+    "gem_id": "NO2022",
+    "country_id": "NO",
+    "name": "Lebesby",
+    "shareBB": 0.4399,
+    "shareCircle": 0.2211
+  },
+  {
+    "gem_id": "NO2023",
+    "country_id": "NO",
+    "name": "Gamvik",
+    "shareBB": 0.4654,
+    "shareCircle": 0.2678
+  },
+  {
+    "gem_id": "NO2024",
+    "country_id": "NO",
+    "name": "Berlevåg",
+    "shareBB": 0.6093,
+    "shareCircle": 0.6292
+  },
+  {
+    "gem_id": "NO2025",
+    "country_id": "NO",
+    "name": "Deatnu#Tana",
+    "shareBB": 0.3168,
+    "shareCircle": 0.2448
+  },
+  {
+    "gem_id": "NO2027",
+    "country_id": "NO",
+    "name": "Unjárga#Nesseby",
+    "shareBB": 0.4946,
+    "shareCircle": 0.4017
+  },
+  {
+    "gem_id": "NO2028",
+    "country_id": "NO",
+    "name": "Båtsfjord",
+    "shareBB": 0.5847,
+    "shareCircle": 0.5537
+  },
+  {
+    "gem_id": "NO2030",
+    "country_id": "NO",
+    "name": "Sør-Varanger",
+    "shareBB": 0.3347,
+    "shareCircle": 0.3638
+  }
+]

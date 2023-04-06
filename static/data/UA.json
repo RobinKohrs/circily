@@ -1,0 +1,4776 @@
+[
+  {
+    "gem_id": "UA010028",
+    "country_id": "UA",
+    "name": "Бахчисарайський",
+    "shareBB": 0.5446,
+    "shareCircle": 0.4938
+  },
+  {
+    "gem_id": "UA010029",
+    "country_id": "UA",
+    "name": "Білогірський",
+    "shareBB": 0.6087,
+    "shareCircle": 0.5608
+  },
+  {
+    "gem_id": "UA010030",
+    "country_id": "UA",
+    "name": "Джанкойський",
+    "shareBB": 0.5543,
+    "shareCircle": 0.429
+  },
+  {
+    "gem_id": "UA010031",
+    "country_id": "UA",
+    "name": "Кіровський",
+    "shareBB": 0.5082,
+    "shareCircle": 0.4702
+  },
+  {
+    "gem_id": "UA010032",
+    "country_id": "UA",
+    "name": "Красногвардійський",
+    "shareBB": 0.5961,
+    "shareCircle": 0.5467
+  },
+  {
+    "gem_id": "UA010033",
+    "country_id": "UA",
+    "name": "Ленінський",
+    "shareBB": 0.3232,
+    "shareCircle": 0.1989
+  },
+  {
+    "gem_id": "UA010034",
+    "country_id": "UA",
+    "name": "Нижньогірський",
+    "shareBB": 0.5083,
+    "shareCircle": 0.381
+  },
+  {
+    "gem_id": "UA010035",
+    "country_id": "UA",
+    "name": "Первомайський",
+    "shareBB": 0.6373,
+    "shareCircle": 0.546
+  },
+  {
+    "gem_id": "UA010036",
+    "country_id": "UA",
+    "name": "Роздольненський",
+    "shareBB": 0.4659,
+    "shareCircle": 0.4584
+  },
+  {
+    "gem_id": "UA010037",
+    "country_id": "UA",
+    "name": "Сакський",
+    "shareBB": 0.5583,
+    "shareCircle": 0.4879
+  },
+  {
+    "gem_id": "UA010038",
+    "country_id": "UA",
+    "name": "Сімферопольський",
+    "shareBB": 0.4532,
+    "shareCircle": 0.4442
+  },
+  {
+    "gem_id": "UA010039",
+    "country_id": "UA",
+    "name": "Совєтський",
+    "shareBB": 0.4778,
+    "shareCircle": 0.3863
+  },
+  {
+    "gem_id": "UA010040",
+    "country_id": "UA",
+    "name": "Чорноморський",
+    "shareBB": 0.4626,
+    "shareCircle": 0.4096
+  },
+  {
+    "gem_id": "UA010041",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.3257,
+    "shareCircle": 0.2928
+  },
+  {
+    "gem_id": "UA010042",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.5188,
+    "shareCircle": 0.4115
+  },
+  {
+    "gem_id": "UA010043",
+    "country_id": "UA",
+    "name": "Джанкойська",
+    "shareBB": 0.5072,
+    "shareCircle": 0.4329
+  },
+  {
+    "gem_id": "UA010044",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.0713,
+    "shareCircle": 0.0632
+  },
+  {
+    "gem_id": "UA010045",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.2349,
+    "shareCircle": 0.1939
+  },
+  {
+    "gem_id": "UA010046",
+    "country_id": "UA",
+    "name": "Красноперекопська",
+    "shareBB": 0.5184,
+    "shareCircle": 0.4066
+  },
+  {
+    "gem_id": "UA010047",
+    "country_id": "UA",
+    "name": "Сакська",
+    "shareBB": 0.4075,
+    "shareCircle": 0.3239
+  },
+  {
+    "gem_id": "UA010048",
+    "country_id": "UA",
+    "name": "Сімферопольська",
+    "shareBB": 0.3014,
+    "shareCircle": 0.2554
+  },
+  {
+    "gem_id": "UA010049",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.4714,
+    "shareCircle": 0.4391
+  },
+  {
+    "gem_id": "UA010050",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.2878,
+    "shareCircle": 0.2005
+  },
+  {
+    "gem_id": "UA010051",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.1899,
+    "shareCircle": 0.1525
+  },
+  {
+    "gem_id": "UA010556",
+    "country_id": "UA",
+    "name": "Красноперекопський",
+    "shareBB": 0.4893,
+    "shareCircle": 0.5456
+  },
+  {
+    "gem_id": "UA020052",
+    "country_id": "UA",
+    "name": "Барський",
+    "shareBB": 0.5632,
+    "shareCircle": 0.5477
+  },
+  {
+    "gem_id": "UA020053",
+    "country_id": "UA",
+    "name": "Бершадський",
+    "shareBB": 0.5297,
+    "shareCircle": 0.4857
+  },
+  {
+    "gem_id": "UA020054",
+    "country_id": "UA",
+    "name": "Вінницький",
+    "shareBB": 0.5314,
+    "shareCircle": 0.4
+  },
+  {
+    "gem_id": "UA020055",
+    "country_id": "UA",
+    "name": "Гайсинський",
+    "shareBB": 0.5243,
+    "shareCircle": 0.5247
+  },
+  {
+    "gem_id": "UA020056",
+    "country_id": "UA",
+    "name": "Жмеринський",
+    "shareBB": 0.6029,
+    "shareCircle": 0.6016
+  },
+  {
+    "gem_id": "UA020057",
+    "country_id": "UA",
+    "name": "Іллінецький",
+    "shareBB": 0.5214,
+    "shareCircle": 0.4169
+  },
+  {
+    "gem_id": "UA020058",
+    "country_id": "UA",
+    "name": "Калинівський",
+    "shareBB": 0.5558,
+    "shareCircle": 0.5361
+  },
+  {
+    "gem_id": "UA020059",
+    "country_id": "UA",
+    "name": "Козятинський",
+    "shareBB": 0.4541,
+    "shareCircle": 0.4354
+  },
+  {
+    "gem_id": "UA020060",
+    "country_id": "UA",
+    "name": "Крижопільський",
+    "shareBB": 0.5076,
+    "shareCircle": 0.4806
+  },
+  {
+    "gem_id": "UA020061",
+    "country_id": "UA",
+    "name": "Липовецький",
+    "shareBB": 0.5,
+    "shareCircle": 0.4784
+  },
+  {
+    "gem_id": "UA020062",
+    "country_id": "UA",
+    "name": "Могилів-Подільський",
+    "shareBB": 0.4596,
+    "shareCircle": 0.3769
+  },
+  {
+    "gem_id": "UA020063",
+    "country_id": "UA",
+    "name": "Мурованокуриловецький",
+    "shareBB": 0.5665,
+    "shareCircle": 0.5513
+  },
+  {
+    "gem_id": "UA020064",
+    "country_id": "UA",
+    "name": "Немирівський",
+    "shareBB": 0.5533,
+    "shareCircle": 0.6048
+  },
+  {
+    "gem_id": "UA020065",
+    "country_id": "UA",
+    "name": "Оратівський",
+    "shareBB": 0.5331,
+    "shareCircle": 0.5285
+  },
+  {
+    "gem_id": "UA020066",
+    "country_id": "UA",
+    "name": "Піщанський",
+    "shareBB": 0.5579,
+    "shareCircle": 0.4269
+  },
+  {
+    "gem_id": "UA020067",
+    "country_id": "UA",
+    "name": "Погребищенський",
+    "shareBB": 0.5186,
+    "shareCircle": 0.525
+  },
+  {
+    "gem_id": "UA020068",
+    "country_id": "UA",
+    "name": "Теплицький",
+    "shareBB": 0.4814,
+    "shareCircle": 0.5026
+  },
+  {
+    "gem_id": "UA020069",
+    "country_id": "UA",
+    "name": "Тиврівський",
+    "shareBB": 0.6768,
+    "shareCircle": 0.6029
+  },
+  {
+    "gem_id": "UA020070",
+    "country_id": "UA",
+    "name": "Томашпільський",
+    "shareBB": 0.5084,
+    "shareCircle": 0.6044
+  },
+  {
+    "gem_id": "UA020071",
+    "country_id": "UA",
+    "name": "Тростянецький",
+    "shareBB": 0.4894,
+    "shareCircle": 0.5534
+  },
+  {
+    "gem_id": "UA020072",
+    "country_id": "UA",
+    "name": "Тульчинський",
+    "shareBB": 0.5902,
+    "shareCircle": 0.5067
+  },
+  {
+    "gem_id": "UA020073",
+    "country_id": "UA",
+    "name": "Хмільницький",
+    "shareBB": 0.5772,
+    "shareCircle": 0.4473
+  },
+  {
+    "gem_id": "UA020074",
+    "country_id": "UA",
+    "name": "Чернівецький",
+    "shareBB": 0.618,
+    "shareCircle": 0.5706
+  },
+  {
+    "gem_id": "UA020075",
+    "country_id": "UA",
+    "name": "Чечельницький",
+    "shareBB": 0.5741,
+    "shareCircle": 0.4573
+  },
+  {
+    "gem_id": "UA020076",
+    "country_id": "UA",
+    "name": "Шаргородський",
+    "shareBB": 0.615,
+    "shareCircle": 0.5987
+  },
+  {
+    "gem_id": "UA020077",
+    "country_id": "UA",
+    "name": "Ямпільський",
+    "shareBB": 0.4601,
+    "shareCircle": 0.441
+  },
+  {
+    "gem_id": "UA020078",
+    "country_id": "UA",
+    "name": "Вінницька",
+    "shareBB": 0.4598,
+    "shareCircle": 0.4335
+  },
+  {
+    "gem_id": "UA020079",
+    "country_id": "UA",
+    "name": "Жмеринська",
+    "shareBB": 0.4443,
+    "shareCircle": 0.3722
+  },
+  {
+    "gem_id": "UA020080",
+    "country_id": "UA",
+    "name": "Козятинська",
+    "shareBB": 0.3241,
+    "shareCircle": 0.2898
+  },
+  {
+    "gem_id": "UA020081",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.6658,
+    "shareCircle": 0.481
+  },
+  {
+    "gem_id": "UA020082",
+    "country_id": "UA",
+    "name": "Могилів-Подільська",
+    "shareBB": 0.2889,
+    "shareCircle": 0.26
+  },
+  {
+    "gem_id": "UA020083",
+    "country_id": "UA",
+    "name": "Хмільницька",
+    "shareBB": 0.4383,
+    "shareCircle": 0.4658
+  },
+  {
+    "gem_id": "UA020542",
+    "country_id": "UA",
+    "name": "Літинський",
+    "shareBB": 0.5093,
+    "shareCircle": 0.6017
+  },
+  {
+    "gem_id": "UA030084",
+    "country_id": "UA",
+    "name": "Горохівський",
+    "shareBB": 0.5707,
+    "shareCircle": 0.5643
+  },
+  {
+    "gem_id": "UA030085",
+    "country_id": "UA",
+    "name": "Іваничівський",
+    "shareBB": 0.5391,
+    "shareCircle": 0.3424
+  },
+  {
+    "gem_id": "UA030086",
+    "country_id": "UA",
+    "name": "Камінь-Каширський",
+    "shareBB": 0.6228,
+    "shareCircle": 0.6618
+  },
+  {
+    "gem_id": "UA030087",
+    "country_id": "UA",
+    "name": "Ківерцівський",
+    "shareBB": 0.5332,
+    "shareCircle": 0.4341
+  },
+  {
+    "gem_id": "UA030088",
+    "country_id": "UA",
+    "name": "Ковельський",
+    "shareBB": 0.56,
+    "shareCircle": 0.4932
+  },
+  {
+    "gem_id": "UA030089",
+    "country_id": "UA",
+    "name": "Локачинський",
+    "shareBB": 0.6677,
+    "shareCircle": 0.6369
+  },
+  {
+    "gem_id": "UA030090",
+    "country_id": "UA",
+    "name": "Луцький",
+    "shareBB": 0.513,
+    "shareCircle": 0.4049
+  },
+  {
+    "gem_id": "UA030091",
+    "country_id": "UA",
+    "name": "Любешівський",
+    "shareBB": 0.5451,
+    "shareCircle": 0.4503
+  },
+  {
+    "gem_id": "UA030092",
+    "country_id": "UA",
+    "name": "Любомльський",
+    "shareBB": 0.55,
+    "shareCircle": 0.6281
+  },
+  {
+    "gem_id": "UA030093",
+    "country_id": "UA",
+    "name": "Маневицький",
+    "shareBB": 0.5081,
+    "shareCircle": 0.5118
+  },
+  {
+    "gem_id": "UA030094",
+    "country_id": "UA",
+    "name": "Ратнівський",
+    "shareBB": 0.5109,
+    "shareCircle": 0.3717
+  },
+  {
+    "gem_id": "UA030095",
+    "country_id": "UA",
+    "name": "Рожищенський",
+    "shareBB": 0.5321,
+    "shareCircle": 0.5007
+  },
+  {
+    "gem_id": "UA030096",
+    "country_id": "UA",
+    "name": "Старовижівський",
+    "shareBB": 0.492,
+    "shareCircle": 0.5255
+  },
+  {
+    "gem_id": "UA030097",
+    "country_id": "UA",
+    "name": "Турійський",
+    "shareBB": 0.5429,
+    "shareCircle": 0.4908
+  },
+  {
+    "gem_id": "UA030098",
+    "country_id": "UA",
+    "name": "Шацький",
+    "shareBB": 0.6268,
+    "shareCircle": 0.5739
+  },
+  {
+    "gem_id": "UA030099",
+    "country_id": "UA",
+    "name": "Володимир-Волинська",
+    "shareBB": 0.3254,
+    "shareCircle": 0.2411
+  },
+  {
+    "gem_id": "UA030100",
+    "country_id": "UA",
+    "name": "Ковельська",
+    "shareBB": 0.561,
+    "shareCircle": 0.4965
+  },
+  {
+    "gem_id": "UA030101",
+    "country_id": "UA",
+    "name": "Луцька",
+    "shareBB": 0.3989,
+    "shareCircle": 0.3758
+  },
+  {
+    "gem_id": "UA030102",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.153,
+    "shareCircle": 0.132
+  },
+  {
+    "gem_id": "UA030544",
+    "country_id": "UA",
+    "name": "Володимир-Волинський",
+    "shareBB": 0.5509,
+    "shareCircle": 0.379
+  },
+  {
+    "gem_id": "UA040103",
+    "country_id": "UA",
+    "name": "Апостолівський",
+    "shareBB": 0.5642,
+    "shareCircle": 0.5419
+  },
+  {
+    "gem_id": "UA040104",
+    "country_id": "UA",
+    "name": "Васильківський",
+    "shareBB": 0.6543,
+    "shareCircle": 0.5466
+  },
+  {
+    "gem_id": "UA040105",
+    "country_id": "UA",
+    "name": "Верхньодніпровський",
+    "shareBB": 0.53,
+    "shareCircle": 0.4231
+  },
+  {
+    "gem_id": "UA040106",
+    "country_id": "UA",
+    "name": "Дніпропетровський",
+    "shareBB": 0.4184,
+    "shareCircle": 0.4511
+  },
+  {
+    "gem_id": "UA040107",
+    "country_id": "UA",
+    "name": "Криворізький",
+    "shareBB": 0.3661,
+    "shareCircle": 0.359
+  },
+  {
+    "gem_id": "UA040108",
+    "country_id": "UA",
+    "name": "Криничанський",
+    "shareBB": 0.5212,
+    "shareCircle": 0.5135
+  },
+  {
+    "gem_id": "UA040109",
+    "country_id": "UA",
+    "name": "Магдалинівський",
+    "shareBB": 0.5905,
+    "shareCircle": 0.5688
+  },
+  {
+    "gem_id": "UA040110",
+    "country_id": "UA",
+    "name": "Межівський",
+    "shareBB": 0.5412,
+    "shareCircle": 0.4292
+  },
+  {
+    "gem_id": "UA040111",
+    "country_id": "UA",
+    "name": "Нікопольський",
+    "shareBB": 0.5957,
+    "shareCircle": 0.6726
+  },
+  {
+    "gem_id": "UA040112",
+    "country_id": "UA",
+    "name": "Новомосковський",
+    "shareBB": 0.6011,
+    "shareCircle": 0.4869
+  },
+  {
+    "gem_id": "UA040113",
+    "country_id": "UA",
+    "name": "Павлоградський",
+    "shareBB": 0.5457,
+    "shareCircle": 0.5122
+  },
+  {
+    "gem_id": "UA040114",
+    "country_id": "UA",
+    "name": "Петриківський",
+    "shareBB": 0.4814,
+    "shareCircle": 0.4598
+  },
+  {
+    "gem_id": "UA040115",
+    "country_id": "UA",
+    "name": "Петропавлівський",
+    "shareBB": 0.4908,
+    "shareCircle": 0.4414
+  },
+  {
+    "gem_id": "UA040116",
+    "country_id": "UA",
+    "name": "Покровський",
+    "shareBB": 0.5738,
+    "shareCircle": 0.5984
+  },
+  {
+    "gem_id": "UA040117",
+    "country_id": "UA",
+    "name": "П'ятихатський",
+    "shareBB": 0.5396,
+    "shareCircle": 0.4703
+  },
+  {
+    "gem_id": "UA040118",
+    "country_id": "UA",
+    "name": "Синельниківський",
+    "shareBB": 0.6763,
+    "shareCircle": 0.6621
+  },
+  {
+    "gem_id": "UA040119",
+    "country_id": "UA",
+    "name": "Солонянський",
+    "shareBB": 0.4554,
+    "shareCircle": 0.3346
+  },
+  {
+    "gem_id": "UA040120",
+    "country_id": "UA",
+    "name": "Софіївський",
+    "shareBB": 0.533,
+    "shareCircle": 0.5512
+  },
+  {
+    "gem_id": "UA040121",
+    "country_id": "UA",
+    "name": "Томаківський",
+    "shareBB": 0.4788,
+    "shareCircle": 0.4356
+  },
+  {
+    "gem_id": "UA040122",
+    "country_id": "UA",
+    "name": "Царичанський",
+    "shareBB": 0.5885,
+    "shareCircle": 0.565
+  },
+  {
+    "gem_id": "UA040123",
+    "country_id": "UA",
+    "name": "Широківський",
+    "shareBB": 0.6313,
+    "shareCircle": 0.5326
+  },
+  {
+    "gem_id": "UA040124",
+    "country_id": "UA",
+    "name": "Юр'ївський",
+    "shareBB": 0.5038,
+    "shareCircle": 0.5233
+  },
+  {
+    "gem_id": "UA040125",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.5999,
+    "shareCircle": 0.5568
+  },
+  {
+    "gem_id": "UA040126",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.3841,
+    "shareCircle": 0.3405
+  },
+  {
+    "gem_id": "UA040127",
+    "country_id": "UA",
+    "name": "Дніпропетровська",
+    "shareBB": 0.5167,
+    "shareCircle": 0.3937
+  },
+  {
+    "gem_id": "UA040128",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.5465,
+    "shareCircle": 0.4865
+  },
+  {
+    "gem_id": "UA040129",
+    "country_id": "UA",
+    "name": "Криворізька",
+    "shareBB": 0.3114,
+    "shareCircle": 0.1393
+  },
+  {
+    "gem_id": "UA040130",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.3844,
+    "shareCircle": 0.3681
+  },
+  {
+    "gem_id": "UA040131",
+    "country_id": "UA",
+    "name": "Нікопольська",
+    "shareBB": 0.4377,
+    "shareCircle": 0.2888
+  },
+  {
+    "gem_id": "UA040132",
+    "country_id": "UA",
+    "name": "Новомосковська",
+    "shareBB": 0.4739,
+    "shareCircle": 0.3206
+  },
+  {
+    "gem_id": "UA040133",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.3717,
+    "shareCircle": 0.1861
+  },
+  {
+    "gem_id": "UA040134",
+    "country_id": "UA",
+    "name": "Павлоградська",
+    "shareBB": 0.4068,
+    "shareCircle": 0.3674
+  },
+  {
+    "gem_id": "UA040135",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.5649,
+    "shareCircle": 0.4476
+  },
+  {
+    "gem_id": "UA040136",
+    "country_id": "UA",
+    "name": "Синельниківська",
+    "shareBB": 0.415,
+    "shareCircle": 0.3955
+  },
+  {
+    "gem_id": "UA040137",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.1575,
+    "shareCircle": 0.1109
+  },
+  {
+    "gem_id": "UA050138",
+    "country_id": "UA",
+    "name": "Амвросіївський",
+    "shareBB": 0.5479,
+    "shareCircle": 0.5383
+  },
+  {
+    "gem_id": "UA050139",
+    "country_id": "UA",
+    "name": "Артемівський",
+    "shareBB": 0.4476,
+    "shareCircle": 0.3903
+  },
+  {
+    "gem_id": "UA050140",
+    "country_id": "UA",
+    "name": "Великоновосілківський",
+    "shareBB": 0.4895,
+    "shareCircle": 0.4227
+  },
+  {
+    "gem_id": "UA050141",
+    "country_id": "UA",
+    "name": "Волновахський",
+    "shareBB": 0.5023,
+    "shareCircle": 0.4666
+  },
+  {
+    "gem_id": "UA050142",
+    "country_id": "UA",
+    "name": "Володарський",
+    "shareBB": 0.4962,
+    "shareCircle": 0.3568
+  },
+  {
+    "gem_id": "UA050143",
+    "country_id": "UA",
+    "name": "Добропільский",
+    "shareBB": 0.5348,
+    "shareCircle": 0.5182
+  },
+  {
+    "gem_id": "UA050144",
+    "country_id": "UA",
+    "name": "Костянтинівський",
+    "shareBB": 0.4611,
+    "shareCircle": 0.5519
+  },
+  {
+    "gem_id": "UA050145",
+    "country_id": "UA",
+    "name": "Красноармійський",
+    "shareBB": 0.47,
+    "shareCircle": 0.4352
+  },
+  {
+    "gem_id": "UA050146",
+    "country_id": "UA",
+    "name": "Мар'їнський",
+    "shareBB": 0.5335,
+    "shareCircle": 0.5406
+  },
+  {
+    "gem_id": "UA050147",
+    "country_id": "UA",
+    "name": "Новоазовський",
+    "shareBB": 0.4688,
+    "shareCircle": 0.3676
+  },
+  {
+    "gem_id": "UA050148",
+    "country_id": "UA",
+    "name": "Олександрівський",
+    "shareBB": 0.5642,
+    "shareCircle": 0.575
+  },
+  {
+    "gem_id": "UA050149",
+    "country_id": "UA",
+    "name": "Першотравневий",
+    "shareBB": 0.4197,
+    "shareCircle": 0.4213
+  },
+  {
+    "gem_id": "UA050150",
+    "country_id": "UA",
+    "name": "Слов'янський",
+    "shareBB": 0.4107,
+    "shareCircle": 0.427
+  },
+  {
+    "gem_id": "UA050151",
+    "country_id": "UA",
+    "name": "Старобешівський",
+    "shareBB": 0.6433,
+    "shareCircle": 0.4706
+  },
+  {
+    "gem_id": "UA050152",
+    "country_id": "UA",
+    "name": "Тельманівський",
+    "shareBB": 0.6017,
+    "shareCircle": 0.5585
+  },
+  {
+    "gem_id": "UA050153",
+    "country_id": "UA",
+    "name": "Шахтарський",
+    "shareBB": 0.3378,
+    "shareCircle": 0.2281
+  },
+  {
+    "gem_id": "UA050154",
+    "country_id": "UA",
+    "name": "Ясинуватський",
+    "shareBB": 0.4624,
+    "shareCircle": 0.4804
+  },
+  {
+    "gem_id": "UA050155",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.4731,
+    "shareCircle": 0.3293
+  },
+  {
+    "gem_id": "UA050156",
+    "country_id": "UA",
+    "name": "Артемівська",
+    "shareBB": 0.167,
+    "shareCircle": 0.1349
+  },
+  {
+    "gem_id": "UA050157",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.2352,
+    "shareCircle": 0.1795
+  },
+  {
+    "gem_id": "UA050158",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.3486,
+    "shareCircle": 0.2976
+  },
+  {
+    "gem_id": "UA050159",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.0793,
+    "shareCircle": 0.0819
+  },
+  {
+    "gem_id": "UA050160",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.2562,
+    "shareCircle": 0.1646
+  },
+  {
+    "gem_id": "UA050161",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.385,
+    "shareCircle": 0.3941
+  },
+  {
+    "gem_id": "UA050162",
+    "country_id": "UA",
+    "name": "Добропільска",
+    "shareBB": 0.0441,
+    "shareCircle": 0.0315
+  },
+  {
+    "gem_id": "UA050163",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.5843,
+    "shareCircle": 0.5396
+  },
+  {
+    "gem_id": "UA050164",
+    "country_id": "UA",
+    "name": "Донецька",
+    "shareBB": 0.4858,
+    "shareCircle": 0.2843
+  },
+  {
+    "gem_id": "UA050165",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.169,
+    "shareCircle": 0.145
+  },
+  {
+    "gem_id": "UA050166",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.3544,
+    "shareCircle": 0.3255
+  },
+  {
+    "gem_id": "UA050167",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.1155,
+    "shareCircle": 0.1171
+  },
+  {
+    "gem_id": "UA050168",
+    "country_id": "UA",
+    "name": "Кіровська",
+    "shareBB": 0.5589,
+    "shareCircle": 0.4743
+  },
+  {
+    "gem_id": "UA050169",
+    "country_id": "UA",
+    "name": "Костянтинівська",
+    "shareBB": 0.556,
+    "shareCircle": 0.4097
+  },
+  {
+    "gem_id": "UA050170",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.4198,
+    "shareCircle": 0.4651
+  },
+  {
+    "gem_id": "UA050171",
+    "country_id": "UA",
+    "name": "Красноармійська",
+    "shareBB": 0.2423,
+    "shareCircle": 0.1469
+  },
+  {
+    "gem_id": "UA050172",
+    "country_id": "UA",
+    "name": "Краснолиманська",
+    "shareBB": 0.346,
+    "shareCircle": 0.3169
+  },
+  {
+    "gem_id": "UA050173",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.5152,
+    "shareCircle": 0.4267
+  },
+  {
+    "gem_id": "UA050174",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.2803,
+    "shareCircle": 0.2535
+  },
+  {
+    "gem_id": "UA050175",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.3027,
+    "shareCircle": 0.2513
+  },
+  {
+    "gem_id": "UA050176",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.2411,
+    "shareCircle": 0.1932
+  },
+  {
+    "gem_id": "UA050177",
+    "country_id": "UA",
+    "name": "Слов'янська",
+    "shareBB": 0.1113,
+    "shareCircle": 0.104
+  },
+  {
+    "gem_id": "UA050178",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.4784,
+    "shareCircle": 0.3857
+  },
+  {
+    "gem_id": "UA050179",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.4515,
+    "shareCircle": 0.3375
+  },
+  {
+    "gem_id": "UA050180",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.3559,
+    "shareCircle": 0.3849
+  },
+  {
+    "gem_id": "UA050181",
+    "country_id": "UA",
+    "name": "Шахтарська",
+    "shareBB": 0.2749,
+    "shareCircle": 0.3239
+  },
+  {
+    "gem_id": "UA050182",
+    "country_id": "UA",
+    "name": "Ясинуватська",
+    "shareBB": 0.4726,
+    "shareCircle": 0.3539
+  },
+  {
+    "gem_id": "UA050552",
+    "country_id": "UA",
+    "name": "Краснолиманський",
+    "shareBB": 0.4549,
+    "shareCircle": 0.4261
+  },
+  {
+    "gem_id": "UA060599",
+    "country_id": "UA",
+    "name": "Андрушівський",
+    "shareBB": 0.6532,
+    "shareCircle": 0.7315
+  },
+  {
+    "gem_id": "UA060600",
+    "country_id": "UA",
+    "name": "Баранівський",
+    "shareBB": 0.5057,
+    "shareCircle": 0.3742
+  },
+  {
+    "gem_id": "UA060601",
+    "country_id": "UA",
+    "name": "Брусилівський",
+    "shareBB": 0.5327,
+    "shareCircle": 0.4707
+  },
+  {
+    "gem_id": "UA060602",
+    "country_id": "UA",
+    "name": "Володарсько-Волинський",
+    "shareBB": 0.5635,
+    "shareCircle": 0.5204
+  },
+  {
+    "gem_id": "UA060603",
+    "country_id": "UA",
+    "name": "Романівський",
+    "shareBB": 0.5411,
+    "shareCircle": 0.5113
+  },
+  {
+    "gem_id": "UA060604",
+    "country_id": "UA",
+    "name": "Ємільчинський",
+    "shareBB": 0.6224,
+    "shareCircle": 0.5294
+  },
+  {
+    "gem_id": "UA060605",
+    "country_id": "UA",
+    "name": "Коростишівский",
+    "shareBB": 0.5773,
+    "shareCircle": 0.4252
+  },
+  {
+    "gem_id": "UA060606",
+    "country_id": "UA",
+    "name": "Лугинський",
+    "shareBB": 0.5193,
+    "shareCircle": 0.5033
+  },
+  {
+    "gem_id": "UA060607",
+    "country_id": "UA",
+    "name": "Любарський",
+    "shareBB": 0.6229,
+    "shareCircle": 0.5982
+  },
+  {
+    "gem_id": "UA060608",
+    "country_id": "UA",
+    "name": "Народицький",
+    "shareBB": 0.4724,
+    "shareCircle": 0.46
+  },
+  {
+    "gem_id": "UA060609",
+    "country_id": "UA",
+    "name": "Новоград-Волинський",
+    "shareBB": 0.4252,
+    "shareCircle": 0.3761
+  },
+  {
+    "gem_id": "UA060610",
+    "country_id": "UA",
+    "name": "Овруцький",
+    "shareBB": 0.5607,
+    "shareCircle": 0.4971
+  },
+  {
+    "gem_id": "UA060611",
+    "country_id": "UA",
+    "name": "Олевський",
+    "shareBB": 0.5767,
+    "shareCircle": 0.4446
+  },
+  {
+    "gem_id": "UA060612",
+    "country_id": "UA",
+    "name": "Попільнянський",
+    "shareBB": 0.5892,
+    "shareCircle": 0.6337
+  },
+  {
+    "gem_id": "UA060613",
+    "country_id": "UA",
+    "name": "Радомишльський",
+    "shareBB": 0.4936,
+    "shareCircle": 0.4313
+  },
+  {
+    "gem_id": "UA060614",
+    "country_id": "UA",
+    "name": "Ружинський",
+    "shareBB": 0.6391,
+    "shareCircle": 0.6336
+  },
+  {
+    "gem_id": "UA060615",
+    "country_id": "UA",
+    "name": "Червоноармійський",
+    "shareBB": 0.5864,
+    "shareCircle": 0.6309
+  },
+  {
+    "gem_id": "UA060616",
+    "country_id": "UA",
+    "name": "Черняхівський",
+    "shareBB": 0.5027,
+    "shareCircle": 0.533
+  },
+  {
+    "gem_id": "UA060617",
+    "country_id": "UA",
+    "name": "Коростенська",
+    "shareBB": 0.2727,
+    "shareCircle": 0.2086
+  },
+  {
+    "gem_id": "UA060618",
+    "country_id": "UA",
+    "name": "Новоград-Волинська",
+    "shareBB": 0.5923,
+    "shareCircle": 0.5106
+  },
+  {
+    "gem_id": "UA060690",
+    "country_id": "UA",
+    "name": "Чуднівський",
+    "shareBB": 0.7134,
+    "shareCircle": 0.5258
+  },
+  {
+    "gem_id": "UA060694",
+    "country_id": "UA",
+    "name": "Малинський",
+    "shareBB": 0.5551,
+    "shareCircle": 0.5245
+  },
+  {
+    "gem_id": "UA060695",
+    "country_id": "UA",
+    "name": "Малинська",
+    "shareBB": 0.6397,
+    "shareCircle": 0.4926
+  },
+  {
+    "gem_id": "UA060696",
+    "country_id": "UA",
+    "name": "Бердичівський",
+    "shareBB": 0.586,
+    "shareCircle": 0.5095
+  },
+  {
+    "gem_id": "UA060697",
+    "country_id": "UA",
+    "name": "Бердичівська",
+    "shareBB": 0.4974,
+    "shareCircle": 0.6052
+  },
+  {
+    "gem_id": "UA060698",
+    "country_id": "UA",
+    "name": "Житомирський",
+    "shareBB": 0.5049,
+    "shareCircle": 0.446
+  },
+  {
+    "gem_id": "UA060699",
+    "country_id": "UA",
+    "name": "Житомирська",
+    "shareBB": 0.5423,
+    "shareCircle": 0.4753
+  },
+  {
+    "gem_id": "UA060700",
+    "country_id": "UA",
+    "name": "Коростенський",
+    "shareBB": 0.5232,
+    "shareCircle": 0.4906
+  },
+  {
+    "gem_id": "UA070183",
+    "country_id": "UA",
+    "name": "Великоберезнянський",
+    "shareBB": 0.6428,
+    "shareCircle": 0.5376
+  },
+  {
+    "gem_id": "UA070184",
+    "country_id": "UA",
+    "name": "Воловецький",
+    "shareBB": 0.4595,
+    "shareCircle": 0.4129
+  },
+  {
+    "gem_id": "UA070185",
+    "country_id": "UA",
+    "name": "Іршавський",
+    "shareBB": 0.5057,
+    "shareCircle": 0.4794
+  },
+  {
+    "gem_id": "UA070186",
+    "country_id": "UA",
+    "name": "Міжгірський",
+    "shareBB": 0.5674,
+    "shareCircle": 0.5166
+  },
+  {
+    "gem_id": "UA070187",
+    "country_id": "UA",
+    "name": "Свалявський",
+    "shareBB": 0.5712,
+    "shareCircle": 0.476
+  },
+  {
+    "gem_id": "UA070188",
+    "country_id": "UA",
+    "name": "Тячівський",
+    "shareBB": 0.5324,
+    "shareCircle": 0.4255
+  },
+  {
+    "gem_id": "UA070189",
+    "country_id": "UA",
+    "name": "Ужгородський",
+    "shareBB": 0.4978,
+    "shareCircle": 0.4621
+  },
+  {
+    "gem_id": "UA070190",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.6167,
+    "shareCircle": 0.5287
+  },
+  {
+    "gem_id": "UA070191",
+    "country_id": "UA",
+    "name": "Ужгородська",
+    "shareBB": 0.4232,
+    "shareCircle": 0.4367
+  },
+  {
+    "gem_id": "UA070192",
+    "country_id": "UA",
+    "name": "Хустська",
+    "shareBB": 0.4362,
+    "shareCircle": 0.3407
+  },
+  {
+    "gem_id": "UA070193",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.5323,
+    "shareCircle": 0.3915
+  },
+  {
+    "gem_id": "UA070546",
+    "country_id": "UA",
+    "name": "Рахівський",
+    "shareBB": 0.6139,
+    "shareCircle": 0.6078
+  },
+  {
+    "gem_id": "UA070547",
+    "country_id": "UA",
+    "name": "Хустський",
+    "shareBB": 0.4554,
+    "shareCircle": 0.42
+  },
+  {
+    "gem_id": "UA070548",
+    "country_id": "UA",
+    "name": "Мукачівський",
+    "shareBB": 0.542,
+    "shareCircle": 0.6007
+  },
+  {
+    "gem_id": "UA070549",
+    "country_id": "UA",
+    "name": "Берегівська",
+    "shareBB": 0.4246,
+    "shareCircle": 0.3559
+  },
+  {
+    "gem_id": "UA070550",
+    "country_id": "UA",
+    "name": "Перечинський",
+    "shareBB": 0.6259,
+    "shareCircle": 0.4858
+  },
+  {
+    "gem_id": "UA070564",
+    "country_id": "UA",
+    "name": "Виноградівський",
+    "shareBB": 0.5114,
+    "shareCircle": 0.5673
+  },
+  {
+    "gem_id": "UA070565",
+    "country_id": "UA",
+    "name": "Берегівський",
+    "shareBB": 0.4689,
+    "shareCircle": 0.3448
+  },
+  {
+    "gem_id": "UA080194",
+    "country_id": "UA",
+    "name": "Бердянський",
+    "shareBB": 0.5627,
+    "shareCircle": 0.6307
+  },
+  {
+    "gem_id": "UA080195",
+    "country_id": "UA",
+    "name": "Василівський",
+    "shareBB": 0.4315,
+    "shareCircle": 0.3598
+  },
+  {
+    "gem_id": "UA080196",
+    "country_id": "UA",
+    "name": "Великобілозерський",
+    "shareBB": 0.5479,
+    "shareCircle": 0.459
+  },
+  {
+    "gem_id": "UA080197",
+    "country_id": "UA",
+    "name": "Веселівський",
+    "shareBB": 0.5664,
+    "shareCircle": 0.4867
+  },
+  {
+    "gem_id": "UA080198",
+    "country_id": "UA",
+    "name": "Вільнянський",
+    "shareBB": 0.557,
+    "shareCircle": 0.5179
+  },
+  {
+    "gem_id": "UA080199",
+    "country_id": "UA",
+    "name": "Гуляйпільський",
+    "shareBB": 0.4824,
+    "shareCircle": 0.4393
+  },
+  {
+    "gem_id": "UA080200",
+    "country_id": "UA",
+    "name": "Запорізький",
+    "shareBB": 0.3643,
+    "shareCircle": 0.3368
+  },
+  {
+    "gem_id": "UA080201",
+    "country_id": "UA",
+    "name": "Кам'янсько-Дніпровський",
+    "shareBB": 0.4109,
+    "shareCircle": 0.3592
+  },
+  {
+    "gem_id": "UA080202",
+    "country_id": "UA",
+    "name": "Куйбишевський",
+    "shareBB": 0.4583,
+    "shareCircle": 0.4698
+  },
+  {
+    "gem_id": "UA080203",
+    "country_id": "UA",
+    "name": "Мелітопольський",
+    "shareBB": 0.519,
+    "shareCircle": 0.4525
+  },
+  {
+    "gem_id": "UA080204",
+    "country_id": "UA",
+    "name": "Михайлівський",
+    "shareBB": 0.5596,
+    "shareCircle": 0.4696
+  },
+  {
+    "gem_id": "UA080205",
+    "country_id": "UA",
+    "name": "Новомиколаївський",
+    "shareBB": 0.5192,
+    "shareCircle": 0.4824
+  },
+  {
+    "gem_id": "UA080206",
+    "country_id": "UA",
+    "name": "Оріхівський",
+    "shareBB": 0.5926,
+    "shareCircle": 0.5887
+  },
+  {
+    "gem_id": "UA080207",
+    "country_id": "UA",
+    "name": "Пологівський",
+    "shareBB": 0.5643,
+    "shareCircle": 0.4538
+  },
+  {
+    "gem_id": "UA080208",
+    "country_id": "UA",
+    "name": "Приазовський",
+    "shareBB": 0.4625,
+    "shareCircle": 0.3481
+  },
+  {
+    "gem_id": "UA080209",
+    "country_id": "UA",
+    "name": "Приморський",
+    "shareBB": 0.445,
+    "shareCircle": 0.3377
+  },
+  {
+    "gem_id": "UA080210",
+    "country_id": "UA",
+    "name": "Розівський",
+    "shareBB": 0.5123,
+    "shareCircle": 0.3503
+  },
+  {
+    "gem_id": "UA080211",
+    "country_id": "UA",
+    "name": "Токмацький",
+    "shareBB": 0.5317,
+    "shareCircle": 0.5373
+  },
+  {
+    "gem_id": "UA080212",
+    "country_id": "UA",
+    "name": "Чернігівський",
+    "shareBB": 0.5567,
+    "shareCircle": 0.6111
+  },
+  {
+    "gem_id": "UA080213",
+    "country_id": "UA",
+    "name": "Якимівський",
+    "shareBB": 0.4714,
+    "shareCircle": 0.3916
+  },
+  {
+    "gem_id": "UA080214",
+    "country_id": "UA",
+    "name": "Бердянська",
+    "shareBB": 0.35,
+    "shareCircle": 0.2568
+  },
+  {
+    "gem_id": "UA080215",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.4924,
+    "shareCircle": 0.3296
+  },
+  {
+    "gem_id": "UA080216",
+    "country_id": "UA",
+    "name": "Запорізька",
+    "shareBB": 0.619,
+    "shareCircle": 0.5278
+  },
+  {
+    "gem_id": "UA080217",
+    "country_id": "UA",
+    "name": "Мелітопольська",
+    "shareBB": 0.6572,
+    "shareCircle": 0.5001
+  },
+  {
+    "gem_id": "UA080218",
+    "country_id": "UA",
+    "name": "Токмацька",
+    "shareBB": 0.5161,
+    "shareCircle": 0.4929
+  },
+  {
+    "gem_id": "UA090219",
+    "country_id": "UA",
+    "name": "Богородчанський",
+    "shareBB": 0.4705,
+    "shareCircle": 0.3808
+  },
+  {
+    "gem_id": "UA090220",
+    "country_id": "UA",
+    "name": "Верховинський",
+    "shareBB": 0.5679,
+    "shareCircle": 0.403
+  },
+  {
+    "gem_id": "UA090221",
+    "country_id": "UA",
+    "name": "Галицький",
+    "shareBB": 0.5361,
+    "shareCircle": 0.5293
+  },
+  {
+    "gem_id": "UA090222",
+    "country_id": "UA",
+    "name": "Городенківський",
+    "shareBB": 0.6797,
+    "shareCircle": 0.6961
+  },
+  {
+    "gem_id": "UA090223",
+    "country_id": "UA",
+    "name": "Долинський",
+    "shareBB": 0.465,
+    "shareCircle": 0.3392
+  },
+  {
+    "gem_id": "UA090224",
+    "country_id": "UA",
+    "name": "Калуський",
+    "shareBB": 0.472,
+    "shareCircle": 0.3927
+  },
+  {
+    "gem_id": "UA090225",
+    "country_id": "UA",
+    "name": "Коломийський",
+    "shareBB": 0.553,
+    "shareCircle": 0.534
+  },
+  {
+    "gem_id": "UA090226",
+    "country_id": "UA",
+    "name": "Косівський",
+    "shareBB": 0.5953,
+    "shareCircle": 0.5395
+  },
+  {
+    "gem_id": "UA090227",
+    "country_id": "UA",
+    "name": "Надвірнянський",
+    "shareBB": 0.4483,
+    "shareCircle": 0.4266
+  },
+  {
+    "gem_id": "UA090228",
+    "country_id": "UA",
+    "name": "Рогатинський",
+    "shareBB": 0.5584,
+    "shareCircle": 0.5299
+  },
+  {
+    "gem_id": "UA090229",
+    "country_id": "UA",
+    "name": "Рожнятівський",
+    "shareBB": 0.5306,
+    "shareCircle": 0.3768
+  },
+  {
+    "gem_id": "UA090230",
+    "country_id": "UA",
+    "name": "Снятинський",
+    "shareBB": 0.6134,
+    "shareCircle": 0.559
+  },
+  {
+    "gem_id": "UA090231",
+    "country_id": "UA",
+    "name": "Тисменицький",
+    "shareBB": 0.5277,
+    "shareCircle": 0.5418
+  },
+  {
+    "gem_id": "UA090232",
+    "country_id": "UA",
+    "name": "Тлумацький",
+    "shareBB": 0.5636,
+    "shareCircle": 0.4466
+  },
+  {
+    "gem_id": "UA090233",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.2869,
+    "shareCircle": 0.2109
+  },
+  {
+    "gem_id": "UA090234",
+    "country_id": "UA",
+    "name": "Івано-Франківська",
+    "shareBB": 0.4936,
+    "shareCircle": 0.4961
+  },
+  {
+    "gem_id": "UA090235",
+    "country_id": "UA",
+    "name": "Калуська",
+    "shareBB": 0.4982,
+    "shareCircle": 0.4793
+  },
+  {
+    "gem_id": "UA090236",
+    "country_id": "UA",
+    "name": "Коломийська",
+    "shareBB": 0.4838,
+    "shareCircle": 0.4037
+  },
+  {
+    "gem_id": "UA090237",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.5033,
+    "shareCircle": 0.4492
+  },
+  {
+    "gem_id": "UA100266",
+    "country_id": "UA",
+    "name": "Бобринецький",
+    "shareBB": 0.6157,
+    "shareCircle": 0.5747
+  },
+  {
+    "gem_id": "UA100267",
+    "country_id": "UA",
+    "name": "Вільшанський",
+    "shareBB": 0.6147,
+    "shareCircle": 0.5468
+  },
+  {
+    "gem_id": "UA100268",
+    "country_id": "UA",
+    "name": "Гайворонський",
+    "shareBB": 0.5713,
+    "shareCircle": 0.5334
+  },
+  {
+    "gem_id": "UA100269",
+    "country_id": "UA",
+    "name": "Голованівський",
+    "shareBB": 0.5944,
+    "shareCircle": 0.5246
+  },
+  {
+    "gem_id": "UA100270",
+    "country_id": "UA",
+    "name": "Добровеличківський",
+    "shareBB": 0.4512,
+    "shareCircle": 0.4059
+  },
+  {
+    "gem_id": "UA100271",
+    "country_id": "UA",
+    "name": "Долинський",
+    "shareBB": 0.4876,
+    "shareCircle": 0.4924
+  },
+  {
+    "gem_id": "UA100272",
+    "country_id": "UA",
+    "name": "Знам'янський",
+    "shareBB": 0.5493,
+    "shareCircle": 0.5682
+  },
+  {
+    "gem_id": "UA100273",
+    "country_id": "UA",
+    "name": "Кіровоградський",
+    "shareBB": 0.5866,
+    "shareCircle": 0.5043
+  },
+  {
+    "gem_id": "UA100274",
+    "country_id": "UA",
+    "name": "Компаніївський",
+    "shareBB": 0.6659,
+    "shareCircle": 0.5631
+  },
+  {
+    "gem_id": "UA100275",
+    "country_id": "UA",
+    "name": "Маловисківський",
+    "shareBB": 0.5568,
+    "shareCircle": 0.4182
+  },
+  {
+    "gem_id": "UA100276",
+    "country_id": "UA",
+    "name": "Новгородківський",
+    "shareBB": 0.4714,
+    "shareCircle": 0.3942
+  },
+  {
+    "gem_id": "UA100277",
+    "country_id": "UA",
+    "name": "Новоархангельський",
+    "shareBB": 0.5064,
+    "shareCircle": 0.4455
+  },
+  {
+    "gem_id": "UA100278",
+    "country_id": "UA",
+    "name": "Новомиргородський",
+    "shareBB": 0.4194,
+    "shareCircle": 0.3611
+  },
+  {
+    "gem_id": "UA100279",
+    "country_id": "UA",
+    "name": "Новоукраїнський",
+    "shareBB": 0.4291,
+    "shareCircle": 0.3675
+  },
+  {
+    "gem_id": "UA100280",
+    "country_id": "UA",
+    "name": "Олександрівський",
+    "shareBB": 0.5047,
+    "shareCircle": 0.4983
+  },
+  {
+    "gem_id": "UA100281",
+    "country_id": "UA",
+    "name": "Онуфріївський",
+    "shareBB": 0.5383,
+    "shareCircle": 0.4335
+  },
+  {
+    "gem_id": "UA100282",
+    "country_id": "UA",
+    "name": "Петрівський",
+    "shareBB": 0.5358,
+    "shareCircle": 0.5263
+  },
+  {
+    "gem_id": "UA100283",
+    "country_id": "UA",
+    "name": "Світловодський",
+    "shareBB": 0.5568,
+    "shareCircle": 0.5156
+  },
+  {
+    "gem_id": "UA100284",
+    "country_id": "UA",
+    "name": "Ульяновський",
+    "shareBB": 0.4995,
+    "shareCircle": 0.5009
+  },
+  {
+    "gem_id": "UA100285",
+    "country_id": "UA",
+    "name": "Устинівський",
+    "shareBB": 0.6383,
+    "shareCircle": 0.5618
+  },
+  {
+    "gem_id": "UA100286",
+    "country_id": "UA",
+    "name": "Знам'янська",
+    "shareBB": 0.4656,
+    "shareCircle": 0.3654
+  },
+  {
+    "gem_id": "UA100287",
+    "country_id": "UA",
+    "name": "Кіровоградська",
+    "shareBB": 0.421,
+    "shareCircle": 0.38
+  },
+  {
+    "gem_id": "UA100288",
+    "country_id": "UA",
+    "name": "Світловодська",
+    "shareBB": 0.3225,
+    "shareCircle": 0.2425
+  },
+  {
+    "gem_id": "UA100597",
+    "country_id": "UA",
+    "name": "Олександрійська",
+    "shareBB": 0.2127,
+    "shareCircle": 0.1785
+  },
+  {
+    "gem_id": "UA100598",
+    "country_id": "UA",
+    "name": "Олександрійський",
+    "shareBB": 0.4879,
+    "shareCircle": 0.3695
+  },
+  {
+    "gem_id": "UA110289",
+    "country_id": "UA",
+    "name": "Антрацитівський",
+    "shareBB": 0.462,
+    "shareCircle": 0.4219
+  },
+  {
+    "gem_id": "UA110290",
+    "country_id": "UA",
+    "name": "Біловодський",
+    "shareBB": 0.5672,
+    "shareCircle": 0.5286
+  },
+  {
+    "gem_id": "UA110291",
+    "country_id": "UA",
+    "name": "Білокуракинський",
+    "shareBB": 0.5316,
+    "shareCircle": 0.4443
+  },
+  {
+    "gem_id": "UA110292",
+    "country_id": "UA",
+    "name": "Кремінський",
+    "shareBB": 0.5068,
+    "shareCircle": 0.4997
+  },
+  {
+    "gem_id": "UA110293",
+    "country_id": "UA",
+    "name": "Лутугинский",
+    "shareBB": 0.5543,
+    "shareCircle": 0.4678
+  },
+  {
+    "gem_id": "UA110294",
+    "country_id": "UA",
+    "name": "Марківський",
+    "shareBB": 0.567,
+    "shareCircle": 0.5127
+  },
+  {
+    "gem_id": "UA110295",
+    "country_id": "UA",
+    "name": "Міловський",
+    "shareBB": 0.4995,
+    "shareCircle": 0.4747
+  },
+  {
+    "gem_id": "UA110296",
+    "country_id": "UA",
+    "name": "Новоайдарський",
+    "shareBB": 0.511,
+    "shareCircle": 0.4737
+  },
+  {
+    "gem_id": "UA110297",
+    "country_id": "UA",
+    "name": "Новопсковський",
+    "shareBB": 0.5545,
+    "shareCircle": 0.5367
+  },
+  {
+    "gem_id": "UA110298",
+    "country_id": "UA",
+    "name": "Перевальський",
+    "shareBB": 0.5303,
+    "shareCircle": 0.4612
+  },
+  {
+    "gem_id": "UA110299",
+    "country_id": "UA",
+    "name": "Попаснянський",
+    "shareBB": 0.4379,
+    "shareCircle": 0.3747
+  },
+  {
+    "gem_id": "UA110300",
+    "country_id": "UA",
+    "name": "Сватівський",
+    "shareBB": 0.6048,
+    "shareCircle": 0.5812
+  },
+  {
+    "gem_id": "UA110301",
+    "country_id": "UA",
+    "name": "Слов'яносербський",
+    "shareBB": 0.5318,
+    "shareCircle": 0.4768
+  },
+  {
+    "gem_id": "UA110302",
+    "country_id": "UA",
+    "name": "Станично-Луганський",
+    "shareBB": 0.4864,
+    "shareCircle": 0.4155
+  },
+  {
+    "gem_id": "UA110303",
+    "country_id": "UA",
+    "name": "Старобільський",
+    "shareBB": 0.4864,
+    "shareCircle": 0.4834
+  },
+  {
+    "gem_id": "UA110304",
+    "country_id": "UA",
+    "name": "Троїцький",
+    "shareBB": 0.6065,
+    "shareCircle": 0.5363
+  },
+  {
+    "gem_id": "UA110305",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.5827,
+    "shareCircle": 0.6556
+  },
+  {
+    "gem_id": "UA110306",
+    "country_id": "UA",
+    "name": "Антрацитівська",
+    "shareBB": 0.2554,
+    "shareCircle": 0.2104
+  },
+  {
+    "gem_id": "UA110307",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.2287,
+    "shareCircle": 0.1636
+  },
+  {
+    "gem_id": "UA110308",
+    "country_id": "UA",
+    "name": "Кіровська",
+    "shareBB": 0.1824,
+    "shareCircle": 0.134
+  },
+  {
+    "gem_id": "UA110309",
+    "country_id": "UA",
+    "name": "Краснодонська",
+    "shareBB": 0.1219,
+    "shareCircle": 0.095
+  },
+  {
+    "gem_id": "UA110310",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.1784,
+    "shareCircle": 0.1707
+  },
+  {
+    "gem_id": "UA110311",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.2425,
+    "shareCircle": 0.1693
+  },
+  {
+    "gem_id": "UA110312",
+    "country_id": "UA",
+    "name": "Луганська",
+    "shareBB": 0.3627,
+    "shareCircle": 0.3082
+  },
+  {
+    "gem_id": "UA110313",
+    "country_id": "UA",
+    "name": "Первомайська",
+    "shareBB": 0.252,
+    "shareCircle": 0.2487
+  },
+  {
+    "gem_id": "UA110314",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.4883,
+    "shareCircle": 0.3657
+  },
+  {
+    "gem_id": "UA110315",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.2124,
+    "shareCircle": 0.159
+  },
+  {
+    "gem_id": "UA110316",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.4334,
+    "shareCircle": 0.4245
+  },
+  {
+    "gem_id": "UA110557",
+    "country_id": "UA",
+    "name": "Краснодонський",
+    "shareBB": 0.4966,
+    "shareCircle": 0.5182
+  },
+  {
+    "gem_id": "UA110558",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.212,
+    "shareCircle": 0.1727
+  },
+  {
+    "gem_id": "UA110566",
+    "country_id": "UA",
+    "name": "Свердловський",
+    "shareBB": 0.4541,
+    "shareCircle": 0.4169
+  },
+  {
+    "gem_id": "UA110567",
+    "country_id": "UA",
+    "name": "Свердловська",
+    "shareBB": 0.3804,
+    "shareCircle": 0.2971
+  },
+  {
+    "gem_id": "UA120317",
+    "country_id": "UA",
+    "name": "Буський",
+    "shareBB": 0.5485,
+    "shareCircle": 0.4753
+  },
+  {
+    "gem_id": "UA120318",
+    "country_id": "UA",
+    "name": "Городоцький",
+    "shareBB": 0.5458,
+    "shareCircle": 0.4625
+  },
+  {
+    "gem_id": "UA120319",
+    "country_id": "UA",
+    "name": "Жидачівський",
+    "shareBB": 0.5134,
+    "shareCircle": 0.4353
+  },
+  {
+    "gem_id": "UA120320",
+    "country_id": "UA",
+    "name": "Жовківський",
+    "shareBB": 0.503,
+    "shareCircle": 0.4383
+  },
+  {
+    "gem_id": "UA120321",
+    "country_id": "UA",
+    "name": "Кам'янка-Бузький",
+    "shareBB": 0.5052,
+    "shareCircle": 0.5094
+  },
+  {
+    "gem_id": "UA120322",
+    "country_id": "UA",
+    "name": "Миколаївський",
+    "shareBB": 0.5057,
+    "shareCircle": 0.6057
+  },
+  {
+    "gem_id": "UA120323",
+    "country_id": "UA",
+    "name": "Мостиський",
+    "shareBB": 0.5733,
+    "shareCircle": 0.5305
+  },
+  {
+    "gem_id": "UA120324",
+    "country_id": "UA",
+    "name": "Перемишлянський",
+    "shareBB": 0.5939,
+    "shareCircle": 0.3666
+  },
+  {
+    "gem_id": "UA120325",
+    "country_id": "UA",
+    "name": "Радехівський",
+    "shareBB": 0.6234,
+    "shareCircle": 0.4243
+  },
+  {
+    "gem_id": "UA120326",
+    "country_id": "UA",
+    "name": "Самбірський",
+    "shareBB": 0.4212,
+    "shareCircle": 0.4304
+  },
+  {
+    "gem_id": "UA120327",
+    "country_id": "UA",
+    "name": "Сколівський",
+    "shareBB": 0.5782,
+    "shareCircle": 0.5389
+  },
+  {
+    "gem_id": "UA120328",
+    "country_id": "UA",
+    "name": "Сокальський",
+    "shareBB": 0.4961,
+    "shareCircle": 0.4269
+  },
+  {
+    "gem_id": "UA120329",
+    "country_id": "UA",
+    "name": "Старосамбірський",
+    "shareBB": 0.5589,
+    "shareCircle": 0.4822
+  },
+  {
+    "gem_id": "UA120330",
+    "country_id": "UA",
+    "name": "Стрийський",
+    "shareBB": 0.5152,
+    "shareCircle": 0.5199
+  },
+  {
+    "gem_id": "UA120331",
+    "country_id": "UA",
+    "name": "Турківський",
+    "shareBB": 0.5427,
+    "shareCircle": 0.4134
+  },
+  {
+    "gem_id": "UA120332",
+    "country_id": "UA",
+    "name": "Яворівський",
+    "shareBB": 0.6181,
+    "shareCircle": 0.5408
+  },
+  {
+    "gem_id": "UA120333",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.3496,
+    "shareCircle": 0.2461
+  },
+  {
+    "gem_id": "UA120334",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.5923,
+    "shareCircle": 0.4873
+  },
+  {
+    "gem_id": "UA120335",
+    "country_id": "UA",
+    "name": "Самбірська",
+    "shareBB": 0.3208,
+    "shareCircle": 0.2266
+  },
+  {
+    "gem_id": "UA120336",
+    "country_id": "UA",
+    "name": "Стрийська",
+    "shareBB": 0.5806,
+    "shareCircle": 0.5124
+  },
+  {
+    "gem_id": "UA120337",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.5861,
+    "shareCircle": 0.5305
+  },
+  {
+    "gem_id": "UA120338",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.1965,
+    "shareCircle": 0.1361
+  },
+  {
+    "gem_id": "UA120339",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.4702,
+    "shareCircle": 0.2619
+  },
+  {
+    "gem_id": "UA120571",
+    "country_id": "UA",
+    "name": "Бродівський",
+    "shareBB": 0.4548,
+    "shareCircle": 0.4914
+  },
+  {
+    "gem_id": "UA120572",
+    "country_id": "UA",
+    "name": "Пустомитівський",
+    "shareBB": 0.5207,
+    "shareCircle": 0.4369
+  },
+  {
+    "gem_id": "UA120586",
+    "country_id": "UA",
+    "name": "Львівська",
+    "shareBB": 0.4808,
+    "shareCircle": 0.4746
+  },
+  {
+    "gem_id": "UA120587",
+    "country_id": "UA",
+    "name": "Золочівський",
+    "shareBB": 0.5053,
+    "shareCircle": 0.4146
+  },
+  {
+    "gem_id": "UA120593",
+    "country_id": "UA",
+    "name": "Дрогобицький",
+    "shareBB": 0.5053,
+    "shareCircle": 0.5021
+  },
+  {
+    "gem_id": "UA120595",
+    "country_id": "UA",
+    "name": "Дрогобицька",
+    "shareBB": 0.3907,
+    "shareCircle": 0.3136
+  },
+  {
+    "gem_id": "UA130619",
+    "country_id": "UA",
+    "name": "Арбузинський",
+    "shareBB": 0.5513,
+    "shareCircle": 0.5417
+  },
+  {
+    "gem_id": "UA130620",
+    "country_id": "UA",
+    "name": "Баштанський",
+    "shareBB": 0.6401,
+    "shareCircle": 0.6169
+  },
+  {
+    "gem_id": "UA130621",
+    "country_id": "UA",
+    "name": "Березанський",
+    "shareBB": 0.5723,
+    "shareCircle": 0.5805
+  },
+  {
+    "gem_id": "UA130622",
+    "country_id": "UA",
+    "name": "Березнегуватський",
+    "shareBB": 0.5671,
+    "shareCircle": 0.5655
+  },
+  {
+    "gem_id": "UA130623",
+    "country_id": "UA",
+    "name": "Братський",
+    "shareBB": 0.5491,
+    "shareCircle": 0.5801
+  },
+  {
+    "gem_id": "UA130624",
+    "country_id": "UA",
+    "name": "Врадіївський",
+    "shareBB": 0.6049,
+    "shareCircle": 0.6007
+  },
+  {
+    "gem_id": "UA130625",
+    "country_id": "UA",
+    "name": "Доманівський",
+    "shareBB": 0.5356,
+    "shareCircle": 0.4915
+  },
+  {
+    "gem_id": "UA130626",
+    "country_id": "UA",
+    "name": "Єланецький",
+    "shareBB": 0.598,
+    "shareCircle": 0.5091
+  },
+  {
+    "gem_id": "UA130627",
+    "country_id": "UA",
+    "name": "Жовтневий",
+    "shareBB": 0.4561,
+    "shareCircle": 0.3637
+  },
+  {
+    "gem_id": "UA130628",
+    "country_id": "UA",
+    "name": "Кривоозерський",
+    "shareBB": 0.5537,
+    "shareCircle": 0.5675
+  },
+  {
+    "gem_id": "UA130629",
+    "country_id": "UA",
+    "name": "Миколаївський",
+    "shareBB": 0.5008,
+    "shareCircle": 0.5025
+  },
+  {
+    "gem_id": "UA130630",
+    "country_id": "UA",
+    "name": "Новоодеський",
+    "shareBB": 0.4721,
+    "shareCircle": 0.3971
+  },
+  {
+    "gem_id": "UA130631",
+    "country_id": "UA",
+    "name": "Очаківський",
+    "shareBB": 0.4311,
+    "shareCircle": 0.3108
+  },
+  {
+    "gem_id": "UA130632",
+    "country_id": "UA",
+    "name": "Снігурівський",
+    "shareBB": 0.5162,
+    "shareCircle": 0.3806
+  },
+  {
+    "gem_id": "UA130633",
+    "country_id": "UA",
+    "name": "Вознесенська",
+    "shareBB": 0.2973,
+    "shareCircle": 0.2052
+  },
+  {
+    "gem_id": "UA130634",
+    "country_id": "UA",
+    "name": "Миколаївська",
+    "shareBB": 0.4662,
+    "shareCircle": 0.4466
+  },
+  {
+    "gem_id": "UA130635",
+    "country_id": "UA",
+    "name": "Очаківська",
+    "shareBB": 0.2764,
+    "shareCircle": 0.2418
+  },
+  {
+    "gem_id": "UA130636",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.201,
+    "shareCircle": 0.2012
+  },
+  {
+    "gem_id": "UA130687",
+    "country_id": "UA",
+    "name": "Вознесенський",
+    "shareBB": 0.6017,
+    "shareCircle": 0.5216
+  },
+  {
+    "gem_id": "UA130688",
+    "country_id": "UA",
+    "name": "Казанківський",
+    "shareBB": 0.4287,
+    "shareCircle": 0.3982
+  },
+  {
+    "gem_id": "UA130689",
+    "country_id": "UA",
+    "name": "Новобузький",
+    "shareBB": 0.5348,
+    "shareCircle": 0.5636
+  },
+  {
+    "gem_id": "UA130691",
+    "country_id": "UA",
+    "name": "Первомайська",
+    "shareBB": 0.345,
+    "shareCircle": 0.3185
+  },
+  {
+    "gem_id": "UA130692",
+    "country_id": "UA",
+    "name": "Первомайський",
+    "shareBB": 0.4821,
+    "shareCircle": 0.4985
+  },
+  {
+    "gem_id": "UA130693",
+    "country_id": "UA",
+    "name": "Веселинівський",
+    "shareBB": 0.5193,
+    "shareCircle": 0.4418
+  },
+  {
+    "gem_id": "UA140637",
+    "country_id": "UA",
+    "name": "Ананьївський",
+    "shareBB": 0.4375,
+    "shareCircle": 0.4474
+  },
+  {
+    "gem_id": "UA140638",
+    "country_id": "UA",
+    "name": "Арцизький",
+    "shareBB": 0.5055,
+    "shareCircle": 0.4555
+  },
+  {
+    "gem_id": "UA140639",
+    "country_id": "UA",
+    "name": "Балтський",
+    "shareBB": 0.5515,
+    "shareCircle": 0.6107
+  },
+  {
+    "gem_id": "UA140640",
+    "country_id": "UA",
+    "name": "Березівський",
+    "shareBB": 0.5141,
+    "shareCircle": 0.4455
+  },
+  {
+    "gem_id": "UA140641",
+    "country_id": "UA",
+    "name": "Білгород-Дністровський",
+    "shareBB": 0.3819,
+    "shareCircle": 0.3167
+  },
+  {
+    "gem_id": "UA140642",
+    "country_id": "UA",
+    "name": "Болградський",
+    "shareBB": 0.4961,
+    "shareCircle": 0.4089
+  },
+  {
+    "gem_id": "UA140643",
+    "country_id": "UA",
+    "name": "Великомихайлівський",
+    "shareBB": 0.4653,
+    "shareCircle": 0.4384
+  },
+  {
+    "gem_id": "UA140644",
+    "country_id": "UA",
+    "name": "Іванівський",
+    "shareBB": 0.5439,
+    "shareCircle": 0.4782
+  },
+  {
+    "gem_id": "UA140645",
+    "country_id": "UA",
+    "name": "Ізмаїльський",
+    "shareBB": 0.4519,
+    "shareCircle": 0.34
+  },
+  {
+    "gem_id": "UA140646",
+    "country_id": "UA",
+    "name": "Кілійський",
+    "shareBB": 0.2873,
+    "shareCircle": 0.1713
+  },
+  {
+    "gem_id": "UA140647",
+    "country_id": "UA",
+    "name": "Кодимський",
+    "shareBB": 0.5002,
+    "shareCircle": 0.4466
+  },
+  {
+    "gem_id": "UA140648",
+    "country_id": "UA",
+    "name": "Комінтернівський",
+    "shareBB": 0.5459,
+    "shareCircle": 0.5373
+  },
+  {
+    "gem_id": "UA140649",
+    "country_id": "UA",
+    "name": "Красноокнянський",
+    "shareBB": 0.6039,
+    "shareCircle": 0.5857
+  },
+  {
+    "gem_id": "UA140650",
+    "country_id": "UA",
+    "name": "Любашівський",
+    "shareBB": 0.4288,
+    "shareCircle": 0.3799
+  },
+  {
+    "gem_id": "UA140651",
+    "country_id": "UA",
+    "name": "Миколаївський",
+    "shareBB": 0.527,
+    "shareCircle": 0.561
+  },
+  {
+    "gem_id": "UA140652",
+    "country_id": "UA",
+    "name": "Ренійський",
+    "shareBB": 0.5467,
+    "shareCircle": 0.5222
+  },
+  {
+    "gem_id": "UA140653",
+    "country_id": "UA",
+    "name": "Роздільнянський",
+    "shareBB": 0.5329,
+    "shareCircle": 0.4772
+  },
+  {
+    "gem_id": "UA140654",
+    "country_id": "UA",
+    "name": "Савранський",
+    "shareBB": 0.5362,
+    "shareCircle": 0.5208
+  },
+  {
+    "gem_id": "UA140655",
+    "country_id": "UA",
+    "name": "Саратський",
+    "shareBB": 0.4631,
+    "shareCircle": 0.4313
+  },
+  {
+    "gem_id": "UA140656",
+    "country_id": "UA",
+    "name": "Тарутинський",
+    "shareBB": 0.4592,
+    "shareCircle": 0.4905
+  },
+  {
+    "gem_id": "UA140657",
+    "country_id": "UA",
+    "name": "Татарбунарський",
+    "shareBB": 0.5008,
+    "shareCircle": 0.457
+  },
+  {
+    "gem_id": "UA140658",
+    "country_id": "UA",
+    "name": "Фрунзівський",
+    "shareBB": 0.5648,
+    "shareCircle": 0.5464
+  },
+  {
+    "gem_id": "UA140659",
+    "country_id": "UA",
+    "name": "Ширяївський",
+    "shareBB": 0.5222,
+    "shareCircle": 0.5027
+  },
+  {
+    "gem_id": "UA140660",
+    "country_id": "UA",
+    "name": "Ізмаїльська",
+    "shareBB": 0.5672,
+    "shareCircle": 0.386
+  },
+  {
+    "gem_id": "UA140661",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.4773,
+    "shareCircle": 0.4102
+  },
+  {
+    "gem_id": "UA140662",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.6392,
+    "shareCircle": 0.5663
+  },
+  {
+    "gem_id": "UA140663",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.4698,
+    "shareCircle": 0.3668
+  },
+  {
+    "gem_id": "UA140685",
+    "country_id": "UA",
+    "name": "Котовська",
+    "shareBB": 0.4277,
+    "shareCircle": 0.3412
+  },
+  {
+    "gem_id": "UA140686",
+    "country_id": "UA",
+    "name": "Котовський",
+    "shareBB": 0.5157,
+    "shareCircle": 0.4106
+  },
+  {
+    "gem_id": "UA140701",
+    "country_id": "UA",
+    "name": "Білгород-Дністровська",
+    "shareBB": 0.1943,
+    "shareCircle": 0.1577
+  },
+  {
+    "gem_id": "UA140702",
+    "country_id": "UA",
+    "name": "Одеська",
+    "shareBB": 0.3737,
+    "shareCircle": 0.2204
+  },
+  {
+    "gem_id": "UA140703",
+    "country_id": "UA",
+    "name": "Овідіопольський",
+    "shareBB": 0.5627,
+    "shareCircle": 0.5141
+  },
+  {
+    "gem_id": "UA140704",
+    "country_id": "UA",
+    "name": "Біляївський",
+    "shareBB": 0.4408,
+    "shareCircle": 0.447
+  },
+  {
+    "gem_id": "UA150340",
+    "country_id": "UA",
+    "name": "Глобинський",
+    "shareBB": 0.4681,
+    "shareCircle": 0.313
+  },
+  {
+    "gem_id": "UA150341",
+    "country_id": "UA",
+    "name": "Гребінківський",
+    "shareBB": 0.5715,
+    "shareCircle": 0.5159
+  },
+  {
+    "gem_id": "UA150342",
+    "country_id": "UA",
+    "name": "Карлівський",
+    "shareBB": 0.6249,
+    "shareCircle": 0.5737
+  },
+  {
+    "gem_id": "UA150343",
+    "country_id": "UA",
+    "name": "Кобеляцький",
+    "shareBB": 0.5752,
+    "shareCircle": 0.3965
+  },
+  {
+    "gem_id": "UA150344",
+    "country_id": "UA",
+    "name": "Козельщинський",
+    "shareBB": 0.5521,
+    "shareCircle": 0.5345
+  },
+  {
+    "gem_id": "UA150345",
+    "country_id": "UA",
+    "name": "Котелевський",
+    "shareBB": 0.4212,
+    "shareCircle": 0.3763
+  },
+  {
+    "gem_id": "UA150346",
+    "country_id": "UA",
+    "name": "Машівський",
+    "shareBB": 0.4772,
+    "shareCircle": 0.3975
+  },
+  {
+    "gem_id": "UA150347",
+    "country_id": "UA",
+    "name": "Новосанжарський",
+    "shareBB": 0.4923,
+    "shareCircle": 0.454
+  },
+  {
+    "gem_id": "UA150348",
+    "country_id": "UA",
+    "name": "Оржицький",
+    "shareBB": 0.4858,
+    "shareCircle": 0.4856
+  },
+  {
+    "gem_id": "UA150349",
+    "country_id": "UA",
+    "name": "Пирятинський",
+    "shareBB": 0.5272,
+    "shareCircle": 0.3981
+  },
+  {
+    "gem_id": "UA150350",
+    "country_id": "UA",
+    "name": "Семенівський",
+    "shareBB": 0.6496,
+    "shareCircle": 0.4753
+  },
+  {
+    "gem_id": "UA150351",
+    "country_id": "UA",
+    "name": "Хорольський",
+    "shareBB": 0.5919,
+    "shareCircle": 0.5325
+  },
+  {
+    "gem_id": "UA150352",
+    "country_id": "UA",
+    "name": "Чорнухинський",
+    "shareBB": 0.6125,
+    "shareCircle": 0.6192
+  },
+  {
+    "gem_id": "UA150353",
+    "country_id": "UA",
+    "name": "Чутівський",
+    "shareBB": 0.4895,
+    "shareCircle": 0.3799
+  },
+  {
+    "gem_id": "UA150354",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.51,
+    "shareCircle": 0.4011
+  },
+  {
+    "gem_id": "UA150355",
+    "country_id": "UA",
+    "name": "Кременчуцька",
+    "shareBB": 0.4557,
+    "shareCircle": 0.3083
+  },
+  {
+    "gem_id": "UA150356",
+    "country_id": "UA",
+    "name": "Лубенська",
+    "shareBB": 0.4187,
+    "shareCircle": 0.4209
+  },
+  {
+    "gem_id": "UA150357",
+    "country_id": "UA",
+    "name": "Миргородська",
+    "shareBB": 0.7322,
+    "shareCircle": 0.7013
+  },
+  {
+    "gem_id": "UA150573",
+    "country_id": "UA",
+    "name": "Зіньківський",
+    "shareBB": 0.5528,
+    "shareCircle": 0.4945
+  },
+  {
+    "gem_id": "UA150574",
+    "country_id": "UA",
+    "name": "Гадяцький",
+    "shareBB": 0.5597,
+    "shareCircle": 0.6107
+  },
+  {
+    "gem_id": "UA150575",
+    "country_id": "UA",
+    "name": "Кременчуцький",
+    "shareBB": 0.4173,
+    "shareCircle": 0.4159
+  },
+  {
+    "gem_id": "UA150579",
+    "country_id": "UA",
+    "name": "Миргородський",
+    "shareBB": 0.6114,
+    "shareCircle": 0.6293
+  },
+  {
+    "gem_id": "UA150580",
+    "country_id": "UA",
+    "name": "Великобагачанський",
+    "shareBB": 0.6364,
+    "shareCircle": 0.4688
+  },
+  {
+    "gem_id": "UA150583",
+    "country_id": "UA",
+    "name": "Лохвицький",
+    "shareBB": 0.5924,
+    "shareCircle": 0.5656
+  },
+  {
+    "gem_id": "UA150585",
+    "country_id": "UA",
+    "name": "Лубенський",
+    "shareBB": 0.5413,
+    "shareCircle": 0.5613
+  },
+  {
+    "gem_id": "UA150588",
+    "country_id": "UA",
+    "name": "Шишацький",
+    "shareBB": 0.6307,
+    "shareCircle": 0.4838
+  },
+  {
+    "gem_id": "UA150589",
+    "country_id": "UA",
+    "name": "Решетилівський",
+    "shareBB": 0.5334,
+    "shareCircle": 0.5079
+  },
+  {
+    "gem_id": "UA150591",
+    "country_id": "UA",
+    "name": "Полтавська",
+    "shareBB": 0.6093,
+    "shareCircle": 0.5138
+  },
+  {
+    "gem_id": "UA150592",
+    "country_id": "UA",
+    "name": "Полтавський",
+    "shareBB": 0.5451,
+    "shareCircle": 0.5284
+  },
+  {
+    "gem_id": "UA150594",
+    "country_id": "UA",
+    "name": "Диканський",
+    "shareBB": 0.6962,
+    "shareCircle": 0.5538
+  },
+  {
+    "gem_id": "UA160358",
+    "country_id": "UA",
+    "name": "Березнівський",
+    "shareBB": 0.6335,
+    "shareCircle": 0.5362
+  },
+  {
+    "gem_id": "UA160359",
+    "country_id": "UA",
+    "name": "Володимирецький",
+    "shareBB": 0.4941,
+    "shareCircle": 0.4792
+  },
+  {
+    "gem_id": "UA160360",
+    "country_id": "UA",
+    "name": "Гощанський",
+    "shareBB": 0.524,
+    "shareCircle": 0.5625
+  },
+  {
+    "gem_id": "UA160361",
+    "country_id": "UA",
+    "name": "Демидівський",
+    "shareBB": 0.6059,
+    "shareCircle": 0.4665
+  },
+  {
+    "gem_id": "UA160362",
+    "country_id": "UA",
+    "name": "Дубенський",
+    "shareBB": 0.4757,
+    "shareCircle": 0.517
+  },
+  {
+    "gem_id": "UA160363",
+    "country_id": "UA",
+    "name": "Дубровицький",
+    "shareBB": 0.5072,
+    "shareCircle": 0.4343
+  },
+  {
+    "gem_id": "UA160364",
+    "country_id": "UA",
+    "name": "Зарічненський",
+    "shareBB": 0.5148,
+    "shareCircle": 0.444
+  },
+  {
+    "gem_id": "UA160365",
+    "country_id": "UA",
+    "name": "Здолбунівський",
+    "shareBB": 0.4724,
+    "shareCircle": 0.452
+  },
+  {
+    "gem_id": "UA160366",
+    "country_id": "UA",
+    "name": "Корецький",
+    "shareBB": 0.5407,
+    "shareCircle": 0.564
+  },
+  {
+    "gem_id": "UA160367",
+    "country_id": "UA",
+    "name": "Костопільський",
+    "shareBB": 0.4745,
+    "shareCircle": 0.3848
+  },
+  {
+    "gem_id": "UA160368",
+    "country_id": "UA",
+    "name": "Млинівський",
+    "shareBB": 0.462,
+    "shareCircle": 0.5226
+  },
+  {
+    "gem_id": "UA160369",
+    "country_id": "UA",
+    "name": "Острозький",
+    "shareBB": 0.4473,
+    "shareCircle": 0.3504
+  },
+  {
+    "gem_id": "UA160370",
+    "country_id": "UA",
+    "name": "Радивилівський",
+    "shareBB": 0.5392,
+    "shareCircle": 0.4902
+  },
+  {
+    "gem_id": "UA160371",
+    "country_id": "UA",
+    "name": "Рівненський",
+    "shareBB": 0.6005,
+    "shareCircle": 0.5147
+  },
+  {
+    "gem_id": "UA160372",
+    "country_id": "UA",
+    "name": "Рокитнівський",
+    "shareBB": 0.5761,
+    "shareCircle": 0.4327
+  },
+  {
+    "gem_id": "UA160373",
+    "country_id": "UA",
+    "name": "Сарненський",
+    "shareBB": 0.4913,
+    "shareCircle": 0.4891
+  },
+  {
+    "gem_id": "UA160374",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.4708,
+    "shareCircle": 0.4234
+  },
+  {
+    "gem_id": "UA160375",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.325,
+    "shareCircle": 0.3093
+  },
+  {
+    "gem_id": "UA160376",
+    "country_id": "UA",
+    "name": "Острозька",
+    "shareBB": 0.575,
+    "shareCircle": 0.526
+  },
+  {
+    "gem_id": "UA160377",
+    "country_id": "UA",
+    "name": "Рівненська",
+    "shareBB": 0.4916,
+    "shareCircle": 0.4553
+  },
+  {
+    "gem_id": "UA170378",
+    "country_id": "UA",
+    "name": "Білопільський",
+    "shareBB": 0.6773,
+    "shareCircle": 0.5593
+  },
+  {
+    "gem_id": "UA170379",
+    "country_id": "UA",
+    "name": "Буринський",
+    "shareBB": 0.638,
+    "shareCircle": 0.5353
+  },
+  {
+    "gem_id": "UA170380",
+    "country_id": "UA",
+    "name": "Великописарівський",
+    "shareBB": 0.4235,
+    "shareCircle": 0.472
+  },
+  {
+    "gem_id": "UA170381",
+    "country_id": "UA",
+    "name": "Глухівський",
+    "shareBB": 0.4716,
+    "shareCircle": 0.5037
+  },
+  {
+    "gem_id": "UA170382",
+    "country_id": "UA",
+    "name": "Конотопський",
+    "shareBB": 0.615,
+    "shareCircle": 0.5693
+  },
+  {
+    "gem_id": "UA170383",
+    "country_id": "UA",
+    "name": "Краснопільський",
+    "shareBB": 0.4999,
+    "shareCircle": 0.4234
+  },
+  {
+    "gem_id": "UA170384",
+    "country_id": "UA",
+    "name": "Кролевецький",
+    "shareBB": 0.6012,
+    "shareCircle": 0.6352
+  },
+  {
+    "gem_id": "UA170385",
+    "country_id": "UA",
+    "name": "Лебединський",
+    "shareBB": 0.5496,
+    "shareCircle": 0.5276
+  },
+  {
+    "gem_id": "UA170386",
+    "country_id": "UA",
+    "name": "Липоводолинський",
+    "shareBB": 0.5498,
+    "shareCircle": 0.4611
+  },
+  {
+    "gem_id": "UA170387",
+    "country_id": "UA",
+    "name": "Недригайлівський",
+    "shareBB": 0.5469,
+    "shareCircle": 0.6358
+  },
+  {
+    "gem_id": "UA170388",
+    "country_id": "UA",
+    "name": "Охтирський",
+    "shareBB": 0.5831,
+    "shareCircle": 0.5758
+  },
+  {
+    "gem_id": "UA170389",
+    "country_id": "UA",
+    "name": "Путивльський",
+    "shareBB": 0.6157,
+    "shareCircle": 0.6053
+  },
+  {
+    "gem_id": "UA170390",
+    "country_id": "UA",
+    "name": "Роменський",
+    "shareBB": 0.637,
+    "shareCircle": 0.5933
+  },
+  {
+    "gem_id": "UA170391",
+    "country_id": "UA",
+    "name": "Середино-Будський",
+    "shareBB": 0.587,
+    "shareCircle": 0.4708
+  },
+  {
+    "gem_id": "UA170392",
+    "country_id": "UA",
+    "name": "Сумський",
+    "shareBB": 0.6005,
+    "shareCircle": 0.5278
+  },
+  {
+    "gem_id": "UA170393",
+    "country_id": "UA",
+    "name": "Тростянецький",
+    "shareBB": 0.5885,
+    "shareCircle": 0.5792
+  },
+  {
+    "gem_id": "UA170394",
+    "country_id": "UA",
+    "name": "Шосткинський",
+    "shareBB": 0.4608,
+    "shareCircle": 0.4087
+  },
+  {
+    "gem_id": "UA170395",
+    "country_id": "UA",
+    "name": "Ямпільський",
+    "shareBB": 0.6318,
+    "shareCircle": 0.6224
+  },
+  {
+    "gem_id": "UA170396",
+    "country_id": "UA",
+    "name": "Глухівська",
+    "shareBB": 0.5676,
+    "shareCircle": 0.6162
+  },
+  {
+    "gem_id": "UA170397",
+    "country_id": "UA",
+    "name": "Конотопська",
+    "shareBB": 0.4133,
+    "shareCircle": 0.4383
+  },
+  {
+    "gem_id": "UA170398",
+    "country_id": "UA",
+    "name": "Лебединська",
+    "shareBB": 0.6026,
+    "shareCircle": 0.4896
+  },
+  {
+    "gem_id": "UA170399",
+    "country_id": "UA",
+    "name": "Охтирська",
+    "shareBB": 0.3263,
+    "shareCircle": 0.2634
+  },
+  {
+    "gem_id": "UA170400",
+    "country_id": "UA",
+    "name": "Роменська",
+    "shareBB": 0.2686,
+    "shareCircle": 0.2143
+  },
+  {
+    "gem_id": "UA170401",
+    "country_id": "UA",
+    "name": "Сумська",
+    "shareBB": 0.4139,
+    "shareCircle": 0.4316
+  },
+  {
+    "gem_id": "UA170402",
+    "country_id": "UA",
+    "name": "Шосткинська",
+    "shareBB": 0.3955,
+    "shareCircle": 0.458
+  },
+  {
+    "gem_id": "UA180403",
+    "country_id": "UA",
+    "name": "Бережанський",
+    "shareBB": 0.5774,
+    "shareCircle": 0.5388
+  },
+  {
+    "gem_id": "UA180404",
+    "country_id": "UA",
+    "name": "Борщівський",
+    "shareBB": 0.4108,
+    "shareCircle": 0.3693
+  },
+  {
+    "gem_id": "UA180405",
+    "country_id": "UA",
+    "name": "Гусятинський",
+    "shareBB": 0.674,
+    "shareCircle": 0.5491
+  },
+  {
+    "gem_id": "UA180406",
+    "country_id": "UA",
+    "name": "Заліщицький",
+    "shareBB": 0.432,
+    "shareCircle": 0.3357
+  },
+  {
+    "gem_id": "UA180407",
+    "country_id": "UA",
+    "name": "Збаразький",
+    "shareBB": 0.5272,
+    "shareCircle": 0.3831
+  },
+  {
+    "gem_id": "UA180408",
+    "country_id": "UA",
+    "name": "Зборівський",
+    "shareBB": 0.4964,
+    "shareCircle": 0.4541
+  },
+  {
+    "gem_id": "UA180409",
+    "country_id": "UA",
+    "name": "Козівський",
+    "shareBB": 0.6258,
+    "shareCircle": 0.6431
+  },
+  {
+    "gem_id": "UA180410",
+    "country_id": "UA",
+    "name": "Кременецький",
+    "shareBB": 0.4923,
+    "shareCircle": 0.4725
+  },
+  {
+    "gem_id": "UA180411",
+    "country_id": "UA",
+    "name": "Лановецький",
+    "shareBB": 0.5729,
+    "shareCircle": 0.6469
+  },
+  {
+    "gem_id": "UA180412",
+    "country_id": "UA",
+    "name": "Монастириський",
+    "shareBB": 0.4812,
+    "shareCircle": 0.3972
+  },
+  {
+    "gem_id": "UA180413",
+    "country_id": "UA",
+    "name": "Підволочиський",
+    "shareBB": 0.62,
+    "shareCircle": 0.5265
+  },
+  {
+    "gem_id": "UA180414",
+    "country_id": "UA",
+    "name": "Підгаєцький",
+    "shareBB": 0.577,
+    "shareCircle": 0.5131
+  },
+  {
+    "gem_id": "UA180415",
+    "country_id": "UA",
+    "name": "Теребовлянський",
+    "shareBB": 0.6447,
+    "shareCircle": 0.536
+  },
+  {
+    "gem_id": "UA180416",
+    "country_id": "UA",
+    "name": "Тернопільський",
+    "shareBB": 0.5461,
+    "shareCircle": 0.5015
+  },
+  {
+    "gem_id": "UA180417",
+    "country_id": "UA",
+    "name": "Чортківський",
+    "shareBB": 0.5546,
+    "shareCircle": 0.4072
+  },
+  {
+    "gem_id": "UA180418",
+    "country_id": "UA",
+    "name": "Шумський",
+    "shareBB": 0.5856,
+    "shareCircle": 0.5604
+  },
+  {
+    "gem_id": "UA180419",
+    "country_id": "UA",
+    "name": "Тернопільська",
+    "shareBB": 0.4602,
+    "shareCircle": 0.3227
+  },
+  {
+    "gem_id": "UA180545",
+    "country_id": "UA",
+    "name": "Бучацький",
+    "shareBB": 0.6831,
+    "shareCircle": 0.5137
+  },
+  {
+    "gem_id": "UA190420",
+    "country_id": "UA",
+    "name": "Балаклійський",
+    "shareBB": 0.5603,
+    "shareCircle": 0.5403
+  },
+  {
+    "gem_id": "UA190421",
+    "country_id": "UA",
+    "name": "Барвінківський",
+    "shareBB": 0.4805,
+    "shareCircle": 0.4356
+  },
+  {
+    "gem_id": "UA190422",
+    "country_id": "UA",
+    "name": "Близнюківський",
+    "shareBB": 0.4637,
+    "shareCircle": 0.4256
+  },
+  {
+    "gem_id": "UA190423",
+    "country_id": "UA",
+    "name": "Борівський",
+    "shareBB": 0.5984,
+    "shareCircle": 0.643
+  },
+  {
+    "gem_id": "UA190424",
+    "country_id": "UA",
+    "name": "Валківський",
+    "shareBB": 0.5778,
+    "shareCircle": 0.4383
+  },
+  {
+    "gem_id": "UA190425",
+    "country_id": "UA",
+    "name": "Великобурлуцький",
+    "shareBB": 0.5443,
+    "shareCircle": 0.4043
+  },
+  {
+    "gem_id": "UA190426",
+    "country_id": "UA",
+    "name": "Вовчанський",
+    "shareBB": 0.4838,
+    "shareCircle": 0.3686
+  },
+  {
+    "gem_id": "UA190427",
+    "country_id": "UA",
+    "name": "Дворічанський",
+    "shareBB": 0.6829,
+    "shareCircle": 0.6295
+  },
+  {
+    "gem_id": "UA190428",
+    "country_id": "UA",
+    "name": "Дергачівський",
+    "shareBB": 0.4463,
+    "shareCircle": 0.3817
+  },
+  {
+    "gem_id": "UA190429",
+    "country_id": "UA",
+    "name": "Зачепилівський",
+    "shareBB": 0.4762,
+    "shareCircle": 0.3909
+  },
+  {
+    "gem_id": "UA190430",
+    "country_id": "UA",
+    "name": "Ізюмський",
+    "shareBB": 0.4952,
+    "shareCircle": 0.4447
+  },
+  {
+    "gem_id": "UA190431",
+    "country_id": "UA",
+    "name": "Кегичівський",
+    "shareBB": 0.4821,
+    "shareCircle": 0.3405
+  },
+  {
+    "gem_id": "UA190432",
+    "country_id": "UA",
+    "name": "Коломацький",
+    "shareBB": 0.5155,
+    "shareCircle": 0.6103
+  },
+  {
+    "gem_id": "UA190433",
+    "country_id": "UA",
+    "name": "Красноградський",
+    "shareBB": 0.5209,
+    "shareCircle": 0.3493
+  },
+  {
+    "gem_id": "UA190434",
+    "country_id": "UA",
+    "name": "Краснокутський",
+    "shareBB": 0.6369,
+    "shareCircle": 0.6833
+  },
+  {
+    "gem_id": "UA190435",
+    "country_id": "UA",
+    "name": "Куп'янський",
+    "shareBB": 0.4685,
+    "shareCircle": 0.4443
+  },
+  {
+    "gem_id": "UA190436",
+    "country_id": "UA",
+    "name": "Лозівський",
+    "shareBB": 0.4825,
+    "shareCircle": 0.4342
+  },
+  {
+    "gem_id": "UA190437",
+    "country_id": "UA",
+    "name": "Первомайський",
+    "shareBB": 0.5659,
+    "shareCircle": 0.5355
+  },
+  {
+    "gem_id": "UA190438",
+    "country_id": "UA",
+    "name": "Печенізький",
+    "shareBB": 0.5188,
+    "shareCircle": 0.5347
+  },
+  {
+    "gem_id": "UA190439",
+    "country_id": "UA",
+    "name": "Сахновщинський",
+    "shareBB": 0.4947,
+    "shareCircle": 0.426
+  },
+  {
+    "gem_id": "UA190440",
+    "country_id": "UA",
+    "name": "Шевченківський",
+    "shareBB": 0.5224,
+    "shareCircle": 0.4584
+  },
+  {
+    "gem_id": "UA190441",
+    "country_id": "UA",
+    "name": "Ізюмська",
+    "shareBB": 0.4994,
+    "shareCircle": 0.4106
+  },
+  {
+    "gem_id": "UA190442",
+    "country_id": "UA",
+    "name": "Куп'янська",
+    "shareBB": 0.2667,
+    "shareCircle": 0.2241
+  },
+  {
+    "gem_id": "UA190443",
+    "country_id": "UA",
+    "name": "Лозівська",
+    "shareBB": 0.3557,
+    "shareCircle": 0.3091
+  },
+  {
+    "gem_id": "UA190444",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.614,
+    "shareCircle": 0.5498
+  },
+  {
+    "gem_id": "UA190445",
+    "country_id": "UA",
+    "name": "Первомайська",
+    "shareBB": 0.522,
+    "shareCircle": 0.4011
+  },
+  {
+    "gem_id": "UA190576",
+    "country_id": "UA",
+    "name": "Богодухівський",
+    "shareBB": 0.5305,
+    "shareCircle": 0.6554
+  },
+  {
+    "gem_id": "UA190577",
+    "country_id": "UA",
+    "name": "Нововодолазький",
+    "shareBB": 0.5631,
+    "shareCircle": 0.5409
+  },
+  {
+    "gem_id": "UA190578",
+    "country_id": "UA",
+    "name": "Чугуївська",
+    "shareBB": 0.3706,
+    "shareCircle": 0.2763
+  },
+  {
+    "gem_id": "UA190581",
+    "country_id": "UA",
+    "name": "Чугуївський",
+    "shareBB": 0.4174,
+    "shareCircle": 0.3708
+  },
+  {
+    "gem_id": "UA190582",
+    "country_id": "UA",
+    "name": "Харківська",
+    "shareBB": 0.4973,
+    "shareCircle": 0.5376
+  },
+  {
+    "gem_id": "UA190584",
+    "country_id": "UA",
+    "name": "Харківський",
+    "shareBB": 0.325,
+    "shareCircle": 0.3131
+  },
+  {
+    "gem_id": "UA190590",
+    "country_id": "UA",
+    "name": "Золочівський",
+    "shareBB": 0.6026,
+    "shareCircle": 0.5953
+  },
+  {
+    "gem_id": "UA190596",
+    "country_id": "UA",
+    "name": "Зміївський",
+    "shareBB": 0.5701,
+    "shareCircle": 0.5661
+  },
+  {
+    "gem_id": "UA200446",
+    "country_id": "UA",
+    "name": "Віньковецький",
+    "shareBB": 0.6029,
+    "shareCircle": 0.5534
+  },
+  {
+    "gem_id": "UA200447",
+    "country_id": "UA",
+    "name": "Волочиський",
+    "shareBB": 0.5946,
+    "shareCircle": 0.583
+  },
+  {
+    "gem_id": "UA200448",
+    "country_id": "UA",
+    "name": "Городоцький",
+    "shareBB": 0.6069,
+    "shareCircle": 0.5399
+  },
+  {
+    "gem_id": "UA200449",
+    "country_id": "UA",
+    "name": "Деражнянський",
+    "shareBB": 0.5048,
+    "shareCircle": 0.3419
+  },
+  {
+    "gem_id": "UA200450",
+    "country_id": "UA",
+    "name": "Дунаєвецький",
+    "shareBB": 0.6588,
+    "shareCircle": 0.5979
+  },
+  {
+    "gem_id": "UA200451",
+    "country_id": "UA",
+    "name": "Ізяславський",
+    "shareBB": 0.5047,
+    "shareCircle": 0.4614
+  },
+  {
+    "gem_id": "UA200452",
+    "country_id": "UA",
+    "name": "Кам'янець-Подільський",
+    "shareBB": 0.4899,
+    "shareCircle": 0.4043
+  },
+  {
+    "gem_id": "UA200453",
+    "country_id": "UA",
+    "name": "Летичівський",
+    "shareBB": 0.586,
+    "shareCircle": 0.42
+  },
+  {
+    "gem_id": "UA200454",
+    "country_id": "UA",
+    "name": "Новоушицький",
+    "shareBB": 0.6523,
+    "shareCircle": 0.5229
+  },
+  {
+    "gem_id": "UA200455",
+    "country_id": "UA",
+    "name": "Полонський",
+    "shareBB": 0.6022,
+    "shareCircle": 0.4695
+  },
+  {
+    "gem_id": "UA200456",
+    "country_id": "UA",
+    "name": "Славутський",
+    "shareBB": 0.5913,
+    "shareCircle": 0.5102
+  },
+  {
+    "gem_id": "UA200457",
+    "country_id": "UA",
+    "name": "Старокостянтинівський",
+    "shareBB": 0.5168,
+    "shareCircle": 0.5296
+  },
+  {
+    "gem_id": "UA200458",
+    "country_id": "UA",
+    "name": "Старосинявський",
+    "shareBB": 0.5531,
+    "shareCircle": 0.5199
+  },
+  {
+    "gem_id": "UA200459",
+    "country_id": "UA",
+    "name": "Теофіпольський",
+    "shareBB": 0.5458,
+    "shareCircle": 0.5649
+  },
+  {
+    "gem_id": "UA200460",
+    "country_id": "UA",
+    "name": "Хмельницький",
+    "shareBB": 0.5408,
+    "shareCircle": 0.4387
+  },
+  {
+    "gem_id": "UA200461",
+    "country_id": "UA",
+    "name": "Чемеровецький",
+    "shareBB": 0.5498,
+    "shareCircle": 0.5321
+  },
+  {
+    "gem_id": "UA200462",
+    "country_id": "UA",
+    "name": "Шепетівський",
+    "shareBB": 0.5904,
+    "shareCircle": 0.4526
+  },
+  {
+    "gem_id": "UA200463",
+    "country_id": "UA",
+    "name": "Ярмолинецький",
+    "shareBB": 0.5778,
+    "shareCircle": 0.4948
+  },
+  {
+    "gem_id": "UA200464",
+    "country_id": "UA",
+    "name": "Кам'янець-Подільська",
+    "shareBB": 0.5081,
+    "shareCircle": 0.366
+  },
+  {
+    "gem_id": "UA200465",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.4888,
+    "shareCircle": 0.3867
+  },
+  {
+    "gem_id": "UA200466",
+    "country_id": "UA",
+    "name": "Старокостянтинівська",
+    "shareBB": 0.4183,
+    "shareCircle": 0.3477
+  },
+  {
+    "gem_id": "UA200467",
+    "country_id": "UA",
+    "name": "Хмельницька",
+    "shareBB": 0.5853,
+    "shareCircle": 0.5267
+  },
+  {
+    "gem_id": "UA200468",
+    "country_id": "UA",
+    "name": "Шепетівська",
+    "shareBB": 0.6981,
+    "shareCircle": 0.534
+  },
+  {
+    "gem_id": "UA200541",
+    "country_id": "UA",
+    "name": "Білогірський",
+    "shareBB": 0.5983,
+    "shareCircle": 0.5858
+  },
+  {
+    "gem_id": "UA200543",
+    "country_id": "UA",
+    "name": "Славутська",
+    "shareBB": 0.5275,
+    "shareCircle": 0.4079
+  },
+  {
+    "gem_id": "UA200559",
+    "country_id": "UA",
+    "name": "Красилівський",
+    "shareBB": 0.6093,
+    "shareCircle": 0.5264
+  },
+  {
+    "gem_id": "UA210469",
+    "country_id": "UA",
+    "name": "Городищенський",
+    "shareBB": 0.5077,
+    "shareCircle": 0.4495
+  },
+  {
+    "gem_id": "UA210470",
+    "country_id": "UA",
+    "name": "Драбівський",
+    "shareBB": 0.5841,
+    "shareCircle": 0.554
+  },
+  {
+    "gem_id": "UA210471",
+    "country_id": "UA",
+    "name": "Жашківський",
+    "shareBB": 0.4853,
+    "shareCircle": 0.4674
+  },
+  {
+    "gem_id": "UA210472",
+    "country_id": "UA",
+    "name": "Звенигородський",
+    "shareBB": 0.4879,
+    "shareCircle": 0.441
+  },
+  {
+    "gem_id": "UA210473",
+    "country_id": "UA",
+    "name": "Кам'янський",
+    "shareBB": 0.5111,
+    "shareCircle": 0.4521
+  },
+  {
+    "gem_id": "UA210474",
+    "country_id": "UA",
+    "name": "Канівський",
+    "shareBB": 0.5893,
+    "shareCircle": 0.4874
+  },
+  {
+    "gem_id": "UA210475",
+    "country_id": "UA",
+    "name": "Катеринопільський",
+    "shareBB": 0.4916,
+    "shareCircle": 0.4106
+  },
+  {
+    "gem_id": "UA210476",
+    "country_id": "UA",
+    "name": "Корсунь-Шевченківський",
+    "shareBB": 0.5363,
+    "shareCircle": 0.5174
+  },
+  {
+    "gem_id": "UA210477",
+    "country_id": "UA",
+    "name": "Лисянський",
+    "shareBB": 0.5639,
+    "shareCircle": 0.5019
+  },
+  {
+    "gem_id": "UA210478",
+    "country_id": "UA",
+    "name": "Маньківський",
+    "shareBB": 0.5762,
+    "shareCircle": 0.4961
+  },
+  {
+    "gem_id": "UA210479",
+    "country_id": "UA",
+    "name": "Монастирищенський",
+    "shareBB": 0.5603,
+    "shareCircle": 0.5333
+  },
+  {
+    "gem_id": "UA210480",
+    "country_id": "UA",
+    "name": "Смілянський",
+    "shareBB": 0.4772,
+    "shareCircle": 0.4389
+  },
+  {
+    "gem_id": "UA210481",
+    "country_id": "UA",
+    "name": "Тальнівський",
+    "shareBB": 0.5662,
+    "shareCircle": 0.5641
+  },
+  {
+    "gem_id": "UA210482",
+    "country_id": "UA",
+    "name": "Уманський",
+    "shareBB": 0.5985,
+    "shareCircle": 0.5317
+  },
+  {
+    "gem_id": "UA210483",
+    "country_id": "UA",
+    "name": "Христинівський",
+    "shareBB": 0.4743,
+    "shareCircle": 0.4617
+  },
+  {
+    "gem_id": "UA210484",
+    "country_id": "UA",
+    "name": "Черкаський",
+    "shareBB": 0.551,
+    "shareCircle": 0.3468
+  },
+  {
+    "gem_id": "UA210485",
+    "country_id": "UA",
+    "name": "Чигиринський",
+    "shareBB": 0.5775,
+    "shareCircle": 0.5541
+  },
+  {
+    "gem_id": "UA210486",
+    "country_id": "UA",
+    "name": "Чорнобаївський",
+    "shareBB": 0.6046,
+    "shareCircle": 0.5017
+  },
+  {
+    "gem_id": "UA210487",
+    "country_id": "UA",
+    "name": "Шполянський",
+    "shareBB": 0.5075,
+    "shareCircle": 0.5831
+  },
+  {
+    "gem_id": "UA210488",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.3433,
+    "shareCircle": 0.2563
+  },
+  {
+    "gem_id": "UA210489",
+    "country_id": "UA",
+    "name": "Золотоніська",
+    "shareBB": 0.6306,
+    "shareCircle": 0.5873
+  },
+  {
+    "gem_id": "UA210490",
+    "country_id": "UA",
+    "name": "Канівська",
+    "shareBB": 0.4232,
+    "shareCircle": 0.4199
+  },
+  {
+    "gem_id": "UA210491",
+    "country_id": "UA",
+    "name": "Смілянська",
+    "shareBB": 0.5061,
+    "shareCircle": 0.4532
+  },
+  {
+    "gem_id": "UA210492",
+    "country_id": "UA",
+    "name": "Уманська",
+    "shareBB": 0.4448,
+    "shareCircle": 0.4149
+  },
+  {
+    "gem_id": "UA210493",
+    "country_id": "UA",
+    "name": "Черкаська",
+    "shareBB": 0.3589,
+    "shareCircle": 0.3025
+  },
+  {
+    "gem_id": "UA210551",
+    "country_id": "UA",
+    "name": "Золотоніський",
+    "shareBB": 0.6388,
+    "shareCircle": 0.4926
+  },
+  {
+    "gem_id": "UA220494",
+    "country_id": "UA",
+    "name": "Вижницький",
+    "shareBB": 0.5489,
+    "shareCircle": 0.3674
+  },
+  {
+    "gem_id": "UA220495",
+    "country_id": "UA",
+    "name": "Герцаївський",
+    "shareBB": 0.4419,
+    "shareCircle": 0.4247
+  },
+  {
+    "gem_id": "UA220496",
+    "country_id": "UA",
+    "name": "Глибоцький",
+    "shareBB": 0.4605,
+    "shareCircle": 0.4536
+  },
+  {
+    "gem_id": "UA220497",
+    "country_id": "UA",
+    "name": "Заставнівський",
+    "shareBB": 0.4616,
+    "shareCircle": 0.4017
+  },
+  {
+    "gem_id": "UA220498",
+    "country_id": "UA",
+    "name": "Кельменецький",
+    "shareBB": 0.5319,
+    "shareCircle": 0.5425
+  },
+  {
+    "gem_id": "UA220499",
+    "country_id": "UA",
+    "name": "Кіцманський",
+    "shareBB": 0.4854,
+    "shareCircle": 0.3835
+  },
+  {
+    "gem_id": "UA220500",
+    "country_id": "UA",
+    "name": "Новоселицький",
+    "shareBB": 0.5303,
+    "shareCircle": 0.3346
+  },
+  {
+    "gem_id": "UA220501",
+    "country_id": "UA",
+    "name": "Путильський",
+    "shareBB": 0.462,
+    "shareCircle": 0.3181
+  },
+  {
+    "gem_id": "UA220502",
+    "country_id": "UA",
+    "name": "Сокирянський",
+    "shareBB": 0.55,
+    "shareCircle": 0.5598
+  },
+  {
+    "gem_id": "UA220503",
+    "country_id": "UA",
+    "name": "Сторожинецький",
+    "shareBB": 0.6003,
+    "shareCircle": 0.5201
+  },
+  {
+    "gem_id": "UA220504",
+    "country_id": "UA",
+    "name": "Хотинський",
+    "shareBB": 0.5704,
+    "shareCircle": 0.4495
+  },
+  {
+    "gem_id": "UA220505",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.4812,
+    "shareCircle": 0.444
+  },
+  {
+    "gem_id": "UA220506",
+    "country_id": "UA",
+    "name": "Чернівецька",
+    "shareBB": 0.5799,
+    "shareCircle": 0.5615
+  },
+  {
+    "gem_id": "UA230537",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.5267,
+    "shareCircle": 0.4643
+  },
+  {
+    "gem_id": "UA230538",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.5103,
+    "shareCircle": 0.5554
+  },
+  {
+    "gem_id": "UA230539",
+    "country_id": "UA",
+    "name": "Ленінська",
+    "shareBB": 0.335,
+    "shareCircle": 0.304
+  },
+  {
+    "gem_id": "UA230540",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.4637,
+    "shareCircle": 0.3826
+  },
+  {
+    "gem_id": "UA240507",
+    "country_id": "UA",
+    "name": "Бахмацький",
+    "shareBB": 0.5618,
+    "shareCircle": 0.4523
+  },
+  {
+    "gem_id": "UA240508",
+    "country_id": "UA",
+    "name": "Борзнянський",
+    "shareBB": 0.5587,
+    "shareCircle": 0.515
+  },
+  {
+    "gem_id": "UA240509",
+    "country_id": "UA",
+    "name": "Варвинський",
+    "shareBB": 0.4911,
+    "shareCircle": 0.3823
+  },
+  {
+    "gem_id": "UA240510",
+    "country_id": "UA",
+    "name": "Городнянський",
+    "shareBB": 0.5872,
+    "shareCircle": 0.5737
+  },
+  {
+    "gem_id": "UA240511",
+    "country_id": "UA",
+    "name": "Ічнянський",
+    "shareBB": 0.6106,
+    "shareCircle": 0.5906
+  },
+  {
+    "gem_id": "UA240512",
+    "country_id": "UA",
+    "name": "Коропський",
+    "shareBB": 0.5524,
+    "shareCircle": 0.4573
+  },
+  {
+    "gem_id": "UA240513",
+    "country_id": "UA",
+    "name": "Корюківський",
+    "shareBB": 0.4964,
+    "shareCircle": 0.4571
+  },
+  {
+    "gem_id": "UA240514",
+    "country_id": "UA",
+    "name": "Куликівський",
+    "shareBB": 0.5298,
+    "shareCircle": 0.4886
+  },
+  {
+    "gem_id": "UA240515",
+    "country_id": "UA",
+    "name": "Менський",
+    "shareBB": 0.5561,
+    "shareCircle": 0.4221
+  },
+  {
+    "gem_id": "UA240516",
+    "country_id": "UA",
+    "name": "Ніжинський",
+    "shareBB": 0.3703,
+    "shareCircle": 0.3607
+  },
+  {
+    "gem_id": "UA240517",
+    "country_id": "UA",
+    "name": "Новгород-Сіверський",
+    "shareBB": 0.4822,
+    "shareCircle": 0.4418
+  },
+  {
+    "gem_id": "UA240518",
+    "country_id": "UA",
+    "name": "Носівський",
+    "shareBB": 0.3806,
+    "shareCircle": 0.3187
+  },
+  {
+    "gem_id": "UA240519",
+    "country_id": "UA",
+    "name": "Прилуцький",
+    "shareBB": 0.565,
+    "shareCircle": 0.5545
+  },
+  {
+    "gem_id": "UA240520",
+    "country_id": "UA",
+    "name": "Ріпкинський",
+    "shareBB": 0.5002,
+    "shareCircle": 0.4208
+  },
+  {
+    "gem_id": "UA240521",
+    "country_id": "UA",
+    "name": "Семенівський",
+    "shareBB": 0.6059,
+    "shareCircle": 0.5684
+  },
+  {
+    "gem_id": "UA240522",
+    "country_id": "UA",
+    "name": "Сосницький",
+    "shareBB": 0.4085,
+    "shareCircle": 0.3131
+  },
+  {
+    "gem_id": "UA240523",
+    "country_id": "UA",
+    "name": "Срібнянський",
+    "shareBB": 0.5792,
+    "shareCircle": 0.5844
+  },
+  {
+    "gem_id": "UA240524",
+    "country_id": "UA",
+    "name": "Талалаївський",
+    "shareBB": 0.5063,
+    "shareCircle": 0.4798
+  },
+  {
+    "gem_id": "UA240525",
+    "country_id": "UA",
+    "name": "Чернігівський",
+    "shareBB": 0.5532,
+    "shareCircle": 0.4185
+  },
+  {
+    "gem_id": "UA240526",
+    "country_id": "UA",
+    "name": "Щорський",
+    "shareBB": 0.665,
+    "shareCircle": 0.5096
+  },
+  {
+    "gem_id": "UA240527",
+    "country_id": "UA",
+    "name": "Ніжинська",
+    "shareBB": 0.4073,
+    "shareCircle": 0.4203
+  },
+  {
+    "gem_id": "UA240528",
+    "country_id": "UA",
+    "name": "Прилуцька",
+    "shareBB": 0.5613,
+    "shareCircle": 0.589
+  },
+  {
+    "gem_id": "UA240529",
+    "country_id": "UA",
+    "name": "Чернігівська",
+    "shareBB": 0.3768,
+    "shareCircle": 0.2205
+  },
+  {
+    "gem_id": "UA240554",
+    "country_id": "UA",
+    "name": "Бобровицький",
+    "shareBB": 0.6143,
+    "shareCircle": 0.6841
+  },
+  {
+    "gem_id": "UA240555",
+    "country_id": "UA",
+    "name": "Козелецький",
+    "shareBB": 0.6666,
+    "shareCircle": 0.5917
+  },
+  {
+    "gem_id": "UA250664",
+    "country_id": "UA",
+    "name": "Бериславський",
+    "shareBB": 0.4421,
+    "shareCircle": 0.3506
+  },
+  {
+    "gem_id": "UA250665",
+    "country_id": "UA",
+    "name": "Білозерський",
+    "shareBB": 0.335,
+    "shareCircle": 0.252
+  },
+  {
+    "gem_id": "UA250666",
+    "country_id": "UA",
+    "name": "Великолепетиський",
+    "shareBB": 0.5405,
+    "shareCircle": 0.5412
+  },
+  {
+    "gem_id": "UA250667",
+    "country_id": "UA",
+    "name": "Великоолександрівський",
+    "shareBB": 0.5506,
+    "shareCircle": 0.4715
+  },
+  {
+    "gem_id": "UA250668",
+    "country_id": "UA",
+    "name": "Верхньорогачицький",
+    "shareBB": 0.5123,
+    "shareCircle": 0.3845
+  },
+  {
+    "gem_id": "UA250669",
+    "country_id": "UA",
+    "name": "Високопільський",
+    "shareBB": 0.4732,
+    "shareCircle": 0.4194
+  },
+  {
+    "gem_id": "UA250670",
+    "country_id": "UA",
+    "name": "Генічеський",
+    "shareBB": 0.3325,
+    "shareCircle": 0.2696
+  },
+  {
+    "gem_id": "UA250671",
+    "country_id": "UA",
+    "name": "Голопристанський",
+    "shareBB": 0.4166,
+    "shareCircle": 0.3009
+  },
+  {
+    "gem_id": "UA250672",
+    "country_id": "UA",
+    "name": "Горностаївський",
+    "shareBB": 0.5607,
+    "shareCircle": 0.6131
+  },
+  {
+    "gem_id": "UA250673",
+    "country_id": "UA",
+    "name": "Іванівський",
+    "shareBB": 0.5344,
+    "shareCircle": 0.5504
+  },
+  {
+    "gem_id": "UA250674",
+    "country_id": "UA",
+    "name": "Каланчацький",
+    "shareBB": 0.5635,
+    "shareCircle": 0.5387
+  },
+  {
+    "gem_id": "UA250675",
+    "country_id": "UA",
+    "name": "Каховський",
+    "shareBB": 0.5438,
+    "shareCircle": 0.5167
+  },
+  {
+    "gem_id": "UA250676",
+    "country_id": "UA",
+    "name": "Нижньосірогозький",
+    "shareBB": 0.3824,
+    "shareCircle": 0.3763
+  },
+  {
+    "gem_id": "UA250677",
+    "country_id": "UA",
+    "name": "Новотроїцький",
+    "shareBB": 0.472,
+    "shareCircle": 0.4474
+  },
+  {
+    "gem_id": "UA250678",
+    "country_id": "UA",
+    "name": "Скадовський",
+    "shareBB": 0.4539,
+    "shareCircle": 0.345
+  },
+  {
+    "gem_id": "UA250679",
+    "country_id": "UA",
+    "name": "Цюрупинський",
+    "shareBB": 0.4928,
+    "shareCircle": 0.577
+  },
+  {
+    "gem_id": "UA250680",
+    "country_id": "UA",
+    "name": "Чаплинський",
+    "shareBB": 0.5406,
+    "shareCircle": 0.4189
+  },
+  {
+    "gem_id": "UA250681",
+    "country_id": "UA",
+    "name": "Каховська",
+    "shareBB": 0.513,
+    "shareCircle": 0.4993
+  },
+  {
+    "gem_id": "UA250682",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.3684,
+    "shareCircle": 0.3297
+  },
+  {
+    "gem_id": "UA250683",
+    "country_id": "UA",
+    "name": "Херсонська",
+    "shareBB": 0.3748,
+    "shareCircle": 0.3938
+  },
+  {
+    "gem_id": "UA250684",
+    "country_id": "UA",
+    "name": "Нововоронцовський",
+    "shareBB": 0.6318,
+    "shareCircle": 0.5703
+  },
+  {
+    "gem_id": "UA268095",
+    "country_id": "UA",
+    "name": "Голосіївський м.Київ",
+    "shareBB": 0.3662,
+    "shareCircle": 0.2947
+  },
+  {
+    "gem_id": "UA268096",
+    "country_id": "UA",
+    "name": "Дарницький м.Київ",
+    "shareBB": 0.4868,
+    "shareCircle": 0.5216
+  },
+  {
+    "gem_id": "UA268097",
+    "country_id": "UA",
+    "name": "Деснянський м.Київ",
+    "shareBB": 0.3942,
+    "shareCircle": 0.3577
+  },
+  {
+    "gem_id": "UA268098",
+    "country_id": "UA",
+    "name": "Дніпровський м.Київ",
+    "shareBB": 0.3882,
+    "shareCircle": 0.3136
+  },
+  {
+    "gem_id": "UA268099",
+    "country_id": "UA",
+    "name": "Оболонський м.Київ",
+    "shareBB": 0.5471,
+    "shareCircle": 0.3944
+  },
+  {
+    "gem_id": "UA268100",
+    "country_id": "UA",
+    "name": "Печерський м.Київ",
+    "shareBB": 0.6325,
+    "shareCircle": 0.6303
+  },
+  {
+    "gem_id": "UA268101",
+    "country_id": "UA",
+    "name": "Подільський м.Київ",
+    "shareBB": 0.4104,
+    "shareCircle": 0.2282
+  },
+  {
+    "gem_id": "UA268102",
+    "country_id": "UA",
+    "name": "Святошинський м.Київ",
+    "shareBB": 0.4916,
+    "shareCircle": 0.3782
+  },
+  {
+    "gem_id": "UA268103",
+    "country_id": "UA",
+    "name": "Солом'янський м.Київ",
+    "shareBB": 0.6078,
+    "shareCircle": 0.6067
+  },
+  {
+    "gem_id": "UA268104",
+    "country_id": "UA",
+    "name": "Шевченківський м.Київ",
+    "shareBB": 0.6146,
+    "shareCircle": 0.3307
+  },
+  {
+    "gem_id": "UA270238",
+    "country_id": "UA",
+    "name": "Баришівський",
+    "shareBB": 0.5125,
+    "shareCircle": 0.5023
+  },
+  {
+    "gem_id": "UA270239",
+    "country_id": "UA",
+    "name": "Білоцерківський",
+    "shareBB": 0.4447,
+    "shareCircle": 0.4504
+  },
+  {
+    "gem_id": "UA270240",
+    "country_id": "UA",
+    "name": "Богуславський",
+    "shareBB": 0.5101,
+    "shareCircle": 0.4303
+  },
+  {
+    "gem_id": "UA270241",
+    "country_id": "UA",
+    "name": "Бородянський",
+    "shareBB": 0.5626,
+    "shareCircle": 0.3741
+  },
+  {
+    "gem_id": "UA270242",
+    "country_id": "UA",
+    "name": "Вишгородський",
+    "shareBB": 0.6898,
+    "shareCircle": 0.65
+  },
+  {
+    "gem_id": "UA270243",
+    "country_id": "UA",
+    "name": "Володарський",
+    "shareBB": 0.5596,
+    "shareCircle": 0.4513
+  },
+  {
+    "gem_id": "UA270244",
+    "country_id": "UA",
+    "name": "Згурівський",
+    "shareBB": 0.4303,
+    "shareCircle": 0.4325
+  },
+  {
+    "gem_id": "UA270245",
+    "country_id": "UA",
+    "name": "Іванківський",
+    "shareBB": 0.4613,
+    "shareCircle": 0.3617
+  },
+  {
+    "gem_id": "UA270246",
+    "country_id": "UA",
+    "name": "Кагарлицький",
+    "shareBB": 0.4443,
+    "shareCircle": 0.5049
+  },
+  {
+    "gem_id": "UA270247",
+    "country_id": "UA",
+    "name": "Макарівський",
+    "shareBB": 0.5501,
+    "shareCircle": 0.4721
+  },
+  {
+    "gem_id": "UA270248",
+    "country_id": "UA",
+    "name": "Миронівський",
+    "shareBB": 0.4606,
+    "shareCircle": 0.342
+  },
+  {
+    "gem_id": "UA270249",
+    "country_id": "UA",
+    "name": "Переяслав-Хмельницький",
+    "shareBB": 0.5234,
+    "shareCircle": 0.5892
+  },
+  {
+    "gem_id": "UA270250",
+    "country_id": "UA",
+    "name": "Поліський",
+    "shareBB": 0.4764,
+    "shareCircle": 0.378
+  },
+  {
+    "gem_id": "UA270251",
+    "country_id": "UA",
+    "name": "Рокитнянський",
+    "shareBB": 0.5225,
+    "shareCircle": 0.4626
+  },
+  {
+    "gem_id": "UA270252",
+    "country_id": "UA",
+    "name": "Сквирський",
+    "shareBB": 0.5065,
+    "shareCircle": 0.4619
+  },
+  {
+    "gem_id": "UA270253",
+    "country_id": "UA",
+    "name": "Ставищенський",
+    "shareBB": 0.5735,
+    "shareCircle": 0.5415
+  },
+  {
+    "gem_id": "UA270254",
+    "country_id": "UA",
+    "name": "Таращанський",
+    "shareBB": 0.6379,
+    "shareCircle": 0.6848
+  },
+  {
+    "gem_id": "UA270255",
+    "country_id": "UA",
+    "name": "Тетіївський",
+    "shareBB": 0.6249,
+    "shareCircle": 0.5421
+  },
+  {
+    "gem_id": "UA270256",
+    "country_id": "UA",
+    "name": "Фастівський",
+    "shareBB": 0.5241,
+    "shareCircle": 0.4702
+  },
+  {
+    "gem_id": "UA270257",
+    "country_id": "UA",
+    "name": "Яготинський",
+    "shareBB": 0.5444,
+    "shareCircle": 0.4559
+  },
+  {
+    "gem_id": "UA270258",
+    "country_id": "UA",
+    "name": "Березанська",
+    "shareBB": 0.5247,
+    "shareCircle": 0.5224
+  },
+  {
+    "gem_id": "UA270259",
+    "country_id": "UA",
+    "name": "Білоцерківська",
+    "shareBB": 0.5209,
+    "shareCircle": 0.3851
+  },
+  {
+    "gem_id": "UA270260",
+    "country_id": "UA",
+    "name": "Бориспільська",
+    "shareBB": 0.5722,
+    "shareCircle": 0.5313
+  },
+  {
+    "gem_id": "UA270261",
+    "country_id": "UA",
+    "name": "Васильківська",
+    "shareBB": 0.3091,
+    "shareCircle": 0.2393
+  },
+  {
+    "gem_id": "UA270262",
+    "country_id": "UA",
+    "name": "Переяслав-Хмельницька",
+    "shareBB": 0.4685,
+    "shareCircle": 0.4621
+  },
+  {
+    "gem_id": "UA270263",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.4451,
+    "shareCircle": 0.4043
+  },
+  {
+    "gem_id": "UA270264",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.5421,
+    "shareCircle": 0.3437
+  },
+  {
+    "gem_id": "UA270265",
+    "country_id": "UA",
+    "name": "Фастівська",
+    "shareBB": 0.5263,
+    "shareCircle": 0.4475
+  },
+  {
+    "gem_id": "UA270560",
+    "country_id": "UA",
+    "name": "Бориспільський",
+    "shareBB": 0.4548,
+    "shareCircle": 0.4196
+  },
+  {
+    "gem_id": "UA270561",
+    "country_id": "UA",
+    "name": "Васильківський",
+    "shareBB": 0.5683,
+    "shareCircle": 0.539
+  },
+  {
+    "gem_id": "UA270563",
+    "country_id": "UA",
+    "name": "Києво-Святошинський",
+    "shareBB": 0.3593,
+    "shareCircle": 0.3185
+  },
+  {
+    "gem_id": "UA270568",
+    "country_id": "UA",
+    "name": "Броварський",
+    "shareBB": 0.5561,
+    "shareCircle": 0.5881
+  },
+  {
+    "gem_id": "UA270569",
+    "country_id": "UA",
+    "name": "Броварська",
+    "shareBB": 0.5715,
+    "shareCircle": 0.5703
+  },
+  {
+    "gem_id": "UA270705",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.5495,
+    "shareCircle": 0.3913
+  },
+  {
+    "gem_id": "UA270706",
+    "country_id": "UA",
+    "name": "Обухівська",
+    "shareBB": 0.3486,
+    "shareCircle": 0.26
+  },
+  {
+    "gem_id": "UA270707",
+    "country_id": "UA",
+    "name": "Обухівський",
+    "shareBB": 0.5195,
+    "shareCircle": 0.5325
+  },
+  {
+    "gem_id": "UA270708",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.4733,
+    "shareCircle": 0.4979
+  },
+  {
+    "gem_id": "UA270709",
+    "country_id": "UA",
+    "name": "UNK",
+    "shareBB": 0.2647,
+    "shareCircle": 0.2821
+  }
+]

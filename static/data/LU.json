@@ -1,0 +1,737 @@
+[
+  {
+    "gem_id": "LU0001",
+    "country_id": "LU",
+    "name": "Luxembourg",
+    "shareBB": 0.5188,
+    "shareCircle": 0.5437
+  },
+  {
+    "gem_id": "LU0203",
+    "country_id": "LU",
+    "name": "Dippach",
+    "shareBB": 0.5608,
+    "shareCircle": 0.5245
+  },
+  {
+    "gem_id": "LU0204",
+    "country_id": "LU",
+    "name": "Garnich",
+    "shareBB": 0.673,
+    "shareCircle": 0.6236
+  },
+  {
+    "gem_id": "LU0205",
+    "country_id": "LU",
+    "name": "Hobscheid",
+    "shareBB": 0.6389,
+    "shareCircle": 0.6177
+  },
+  {
+    "gem_id": "LU0206",
+    "country_id": "LU",
+    "name": "Kehlen",
+    "shareBB": 0.5315,
+    "shareCircle": 0.3817
+  },
+  {
+    "gem_id": "LU0207",
+    "country_id": "LU",
+    "name": "Koerich",
+    "shareBB": 0.6222,
+    "shareCircle": 0.7072
+  },
+  {
+    "gem_id": "LU0208",
+    "country_id": "LU",
+    "name": "Kopstal",
+    "shareBB": 0.5888,
+    "shareCircle": 0.5331
+  },
+  {
+    "gem_id": "LU0209",
+    "country_id": "LU",
+    "name": "Mamer",
+    "shareBB": 0.6245,
+    "shareCircle": 0.4425
+  },
+  {
+    "gem_id": "LU0210",
+    "country_id": "LU",
+    "name": "Septfontaines",
+    "shareBB": 0.4722,
+    "shareCircle": 0.4217
+  },
+  {
+    "gem_id": "LU0211",
+    "country_id": "LU",
+    "name": "Steinfort",
+    "shareBB": 0.4091,
+    "shareCircle": 0.3717
+  },
+  {
+    "gem_id": "LU0212",
+    "country_id": "LU",
+    "name": "Käerjeng",
+    "shareBB": 0.4832,
+    "shareCircle": 0.5025
+  },
+  {
+    "gem_id": "LU0301",
+    "country_id": "LU",
+    "name": "Bettembourg",
+    "shareBB": 0.5148,
+    "shareCircle": 0.4607
+  },
+  {
+    "gem_id": "LU0302",
+    "country_id": "LU",
+    "name": "Differdange",
+    "shareBB": 0.6797,
+    "shareCircle": 0.6522
+  },
+  {
+    "gem_id": "LU0303",
+    "country_id": "LU",
+    "name": "Dudelange",
+    "shareBB": 0.6055,
+    "shareCircle": 0.5809
+  },
+  {
+    "gem_id": "LU0304",
+    "country_id": "LU",
+    "name": "Esch-sur-Alzette",
+    "shareBB": 0.5314,
+    "shareCircle": 0.4354
+  },
+  {
+    "gem_id": "LU0305",
+    "country_id": "LU",
+    "name": "Frisange",
+    "shareBB": 0.412,
+    "shareCircle": 0.3175
+  },
+  {
+    "gem_id": "LU0306",
+    "country_id": "LU",
+    "name": "Kayl",
+    "shareBB": 0.4589,
+    "shareCircle": 0.4265
+  },
+  {
+    "gem_id": "LU0307",
+    "country_id": "LU",
+    "name": "Leudelange",
+    "shareBB": 0.622,
+    "shareCircle": 0.7224
+  },
+  {
+    "gem_id": "LU0308",
+    "country_id": "LU",
+    "name": "Mondercange",
+    "shareBB": 0.5769,
+    "shareCircle": 0.4212
+  },
+  {
+    "gem_id": "LU0309",
+    "country_id": "LU",
+    "name": "Pétange",
+    "shareBB": 0.4449,
+    "shareCircle": 0.4119
+  },
+  {
+    "gem_id": "LU0310",
+    "country_id": "LU",
+    "name": "Reckange-sur-Mess",
+    "shareBB": 0.584,
+    "shareCircle": 0.4721
+  },
+  {
+    "gem_id": "LU0311",
+    "country_id": "LU",
+    "name": "Roeser",
+    "shareBB": 0.4403,
+    "shareCircle": 0.4068
+  },
+  {
+    "gem_id": "LU0312",
+    "country_id": "LU",
+    "name": "Rumelange",
+    "shareBB": 0.5065,
+    "shareCircle": 0.4394
+  },
+  {
+    "gem_id": "LU0313",
+    "country_id": "LU",
+    "name": "Sanem",
+    "shareBB": 0.5899,
+    "shareCircle": 0.4342
+  },
+  {
+    "gem_id": "LU0314",
+    "country_id": "LU",
+    "name": "Schifflange",
+    "shareBB": 0.5059,
+    "shareCircle": 0.443
+  },
+  {
+    "gem_id": "LU0401",
+    "country_id": "LU",
+    "name": "Bertrange",
+    "shareBB": 0.5593,
+    "shareCircle": 0.5839
+  },
+  {
+    "gem_id": "LU0402",
+    "country_id": "LU",
+    "name": "Contern",
+    "shareBB": 0.5856,
+    "shareCircle": 0.4558
+  },
+  {
+    "gem_id": "LU0403",
+    "country_id": "LU",
+    "name": "Hesperange",
+    "shareBB": 0.5802,
+    "shareCircle": 0.5075
+  },
+  {
+    "gem_id": "LU0404",
+    "country_id": "LU",
+    "name": "Niederanven",
+    "shareBB": 0.6263,
+    "shareCircle": 0.5414
+  },
+  {
+    "gem_id": "LU0405",
+    "country_id": "LU",
+    "name": "Sandweiler",
+    "shareBB": 0.6099,
+    "shareCircle": 0.614
+  },
+  {
+    "gem_id": "LU0406",
+    "country_id": "LU",
+    "name": "Schuttrange",
+    "shareBB": 0.5916,
+    "shareCircle": 0.6312
+  },
+  {
+    "gem_id": "LU0407",
+    "country_id": "LU",
+    "name": "Steinsel",
+    "shareBB": 0.4089,
+    "shareCircle": 0.3047
+  },
+  {
+    "gem_id": "LU0408",
+    "country_id": "LU",
+    "name": "Strassen",
+    "shareBB": 0.4474,
+    "shareCircle": 0.3931
+  },
+  {
+    "gem_id": "LU0409",
+    "country_id": "LU",
+    "name": "Walferdange",
+    "shareBB": 0.5956,
+    "shareCircle": 0.3659
+  },
+  {
+    "gem_id": "LU0410",
+    "country_id": "LU",
+    "name": "Weiler-la-Tour",
+    "shareBB": 0.4504,
+    "shareCircle": 0.363
+  },
+  {
+    "gem_id": "LU0501",
+    "country_id": "LU",
+    "name": "Colmar-Berg",
+    "shareBB": 0.4837,
+    "shareCircle": 0.4063
+  },
+  {
+    "gem_id": "LU0502",
+    "country_id": "LU",
+    "name": "Bissen",
+    "shareBB": 0.5017,
+    "shareCircle": 0.5705
+  },
+  {
+    "gem_id": "LU0503",
+    "country_id": "LU",
+    "name": "Boevange-sur-Attert",
+    "shareBB": 0.6771,
+    "shareCircle": 0.5178
+  },
+  {
+    "gem_id": "LU0504",
+    "country_id": "LU",
+    "name": "Fischbach",
+    "shareBB": 0.4735,
+    "shareCircle": 0.4988
+  },
+  {
+    "gem_id": "LU0505",
+    "country_id": "LU",
+    "name": "Heffingen",
+    "shareBB": 0.5973,
+    "shareCircle": 0.5213
+  },
+  {
+    "gem_id": "LU0506",
+    "country_id": "LU",
+    "name": "Larochette",
+    "shareBB": 0.5519,
+    "shareCircle": 0.5685
+  },
+  {
+    "gem_id": "LU0507",
+    "country_id": "LU",
+    "name": "Lintgen",
+    "shareBB": 0.5865,
+    "shareCircle": 0.4679
+  },
+  {
+    "gem_id": "LU0508",
+    "country_id": "LU",
+    "name": "Lorentzweiler",
+    "shareBB": 0.5763,
+    "shareCircle": 0.3933
+  },
+  {
+    "gem_id": "LU0509",
+    "country_id": "LU",
+    "name": "Mersch",
+    "shareBB": 0.522,
+    "shareCircle": 0.4947
+  },
+  {
+    "gem_id": "LU0510",
+    "country_id": "LU",
+    "name": "Nommern",
+    "shareBB": 0.5647,
+    "shareCircle": 0.6194
+  },
+  {
+    "gem_id": "LU0511",
+    "country_id": "LU",
+    "name": "Tuntange",
+    "shareBB": 0.6649,
+    "shareCircle": 0.5788
+  },
+  {
+    "gem_id": "LU0601",
+    "country_id": "LU",
+    "name": "Wincrange",
+    "shareBB": 0.4776,
+    "shareCircle": 0.4371
+  },
+  {
+    "gem_id": "LU0609",
+    "country_id": "LU",
+    "name": "Troisvierges",
+    "shareBB": 0.6429,
+    "shareCircle": 0.5547
+  },
+  {
+    "gem_id": "LU0610",
+    "country_id": "LU",
+    "name": "Weiswampach",
+    "shareBB": 0.4871,
+    "shareCircle": 0.3872
+  },
+  {
+    "gem_id": "LU0611",
+    "country_id": "LU",
+    "name": "Clervaux",
+    "shareBB": 0.4353,
+    "shareCircle": 0.3753
+  },
+  {
+    "gem_id": "LU0612",
+    "country_id": "LU",
+    "name": "Parc Hosingen",
+    "shareBB": 0.4811,
+    "shareCircle": 0.4308
+  },
+  {
+    "gem_id": "LU0702",
+    "country_id": "LU",
+    "name": "Bettendorf",
+    "shareBB": 0.6137,
+    "shareCircle": 0.4637
+  },
+  {
+    "gem_id": "LU0703",
+    "country_id": "LU",
+    "name": "Bourscheid",
+    "shareBB": 0.4298,
+    "shareCircle": 0.4725
+  },
+  {
+    "gem_id": "LU0704",
+    "country_id": "LU",
+    "name": "Diekirch",
+    "shareBB": 0.41,
+    "shareCircle": 0.3254
+  },
+  {
+    "gem_id": "LU0706",
+    "country_id": "LU",
+    "name": "Erpeldange-sur-Sûre",
+    "shareBB": 0.4223,
+    "shareCircle": 0.2929
+  },
+  {
+    "gem_id": "LU0707",
+    "country_id": "LU",
+    "name": "Ettelbruck",
+    "shareBB": 0.4779,
+    "shareCircle": 0.4666
+  },
+  {
+    "gem_id": "LU0708",
+    "country_id": "LU",
+    "name": "Feulen",
+    "shareBB": 0.6018,
+    "shareCircle": 0.6536
+  },
+  {
+    "gem_id": "LU0711",
+    "country_id": "LU",
+    "name": "Mertzig",
+    "shareBB": 0.499,
+    "shareCircle": 0.468
+  },
+  {
+    "gem_id": "LU0712",
+    "country_id": "LU",
+    "name": "Reisdorf",
+    "shareBB": 0.4159,
+    "shareCircle": 0.3172
+  },
+  {
+    "gem_id": "LU0713",
+    "country_id": "LU",
+    "name": "Schieren",
+    "shareBB": 0.5289,
+    "shareCircle": 0.4598
+  },
+  {
+    "gem_id": "LU0714",
+    "country_id": "LU",
+    "name": "Vallée de l'Ernz",
+    "shareBB": 0.5521,
+    "shareCircle": 0.4998
+  },
+  {
+    "gem_id": "LU0802",
+    "country_id": "LU",
+    "name": "Beckerich",
+    "shareBB": 0.5677,
+    "shareCircle": 0.4652
+  },
+  {
+    "gem_id": "LU0803",
+    "country_id": "LU",
+    "name": "Préizerdaul",
+    "shareBB": 0.6063,
+    "shareCircle": 0.636
+  },
+  {
+    "gem_id": "LU0805",
+    "country_id": "LU",
+    "name": "Ell",
+    "shareBB": 0.4871,
+    "shareCircle": 0.3894
+  },
+  {
+    "gem_id": "LU0806",
+    "country_id": "LU",
+    "name": "Rambrouch",
+    "shareBB": 0.6246,
+    "shareCircle": 0.5711
+  },
+  {
+    "gem_id": "LU0807",
+    "country_id": "LU",
+    "name": "Grosbous",
+    "shareBB": 0.603,
+    "shareCircle": 0.5036
+  },
+  {
+    "gem_id": "LU0809",
+    "country_id": "LU",
+    "name": "Redange/Attert",
+    "shareBB": 0.531,
+    "shareCircle": 0.4442
+  },
+  {
+    "gem_id": "LU0810",
+    "country_id": "LU",
+    "name": "Saeul",
+    "shareBB": 0.4345,
+    "shareCircle": 0.3819
+  },
+  {
+    "gem_id": "LU0811",
+    "country_id": "LU",
+    "name": "Useldange",
+    "shareBB": 0.4731,
+    "shareCircle": 0.3906
+  },
+  {
+    "gem_id": "LU0812",
+    "country_id": "LU",
+    "name": "Vichten",
+    "shareBB": 0.4761,
+    "shareCircle": 0.4778
+  },
+  {
+    "gem_id": "LU0813",
+    "country_id": "LU",
+    "name": "Wahl",
+    "shareBB": 0.4523,
+    "shareCircle": 0.3396
+  },
+  {
+    "gem_id": "LU0901",
+    "country_id": "LU",
+    "name": "Boulaide",
+    "shareBB": 0.6361,
+    "shareCircle": 0.5485
+  },
+  {
+    "gem_id": "LU0904",
+    "country_id": "LU",
+    "name": "Goesdorf",
+    "shareBB": 0.4783,
+    "shareCircle": 0.4208
+  },
+  {
+    "gem_id": "LU0905",
+    "country_id": "LU",
+    "name": "Lac de la Haute-Sûre",
+    "shareBB": 0.476,
+    "shareCircle": 0.3268
+  },
+  {
+    "gem_id": "LU0913",
+    "country_id": "LU",
+    "name": "Winseler",
+    "shareBB": 0.5417,
+    "shareCircle": 0.5193
+  },
+  {
+    "gem_id": "LU0914",
+    "country_id": "LU",
+    "name": "Kiischpelt",
+    "shareBB": 0.5217,
+    "shareCircle": 0.4425
+  },
+  {
+    "gem_id": "LU0915",
+    "country_id": "LU",
+    "name": "Esch-sur-Sûre",
+    "shareBB": 0.4657,
+    "shareCircle": 0.3381
+  },
+  {
+    "gem_id": "LU0916",
+    "country_id": "LU",
+    "name": "Wiltz",
+    "shareBB": 0.4836,
+    "shareCircle": 0.3689
+  },
+  {
+    "gem_id": "LU1002",
+    "country_id": "LU",
+    "name": "Putscheid",
+    "shareBB": 0.4696,
+    "shareCircle": 0.4556
+  },
+  {
+    "gem_id": "LU1003",
+    "country_id": "LU",
+    "name": "Vianden",
+    "shareBB": 0.5172,
+    "shareCircle": 0.4129
+  },
+  {
+    "gem_id": "LU1004",
+    "country_id": "LU",
+    "name": "Tandel",
+    "shareBB": 0.578,
+    "shareCircle": 0.627
+  },
+  {
+    "gem_id": "LU1101",
+    "country_id": "LU",
+    "name": "Beaufort",
+    "shareBB": 0.5838,
+    "shareCircle": 0.5009
+  },
+  {
+    "gem_id": "LU1102",
+    "country_id": "LU",
+    "name": "Bech",
+    "shareBB": 0.5176,
+    "shareCircle": 0.2912
+  },
+  {
+    "gem_id": "LU1103",
+    "country_id": "LU",
+    "name": "Berdorf",
+    "shareBB": 0.6059,
+    "shareCircle": 0.4987
+  },
+  {
+    "gem_id": "LU1104",
+    "country_id": "LU",
+    "name": "Consdorf",
+    "shareBB": 0.5042,
+    "shareCircle": 0.3199
+  },
+  {
+    "gem_id": "LU1105",
+    "country_id": "LU",
+    "name": "Echternach",
+    "shareBB": 0.3879,
+    "shareCircle": 0.368
+  },
+  {
+    "gem_id": "LU1106",
+    "country_id": "LU",
+    "name": "Mompach",
+    "shareBB": 0.6513,
+    "shareCircle": 0.4149
+  },
+  {
+    "gem_id": "LU1107",
+    "country_id": "LU",
+    "name": "Rosport",
+    "shareBB": 0.4816,
+    "shareCircle": 0.3488
+  },
+  {
+    "gem_id": "LU1108",
+    "country_id": "LU",
+    "name": "Waldbillig",
+    "shareBB": 0.5223,
+    "shareCircle": 0.485
+  },
+  {
+    "gem_id": "LU1201",
+    "country_id": "LU",
+    "name": "Betzdorf",
+    "shareBB": 0.4878,
+    "shareCircle": 0.4735
+  },
+  {
+    "gem_id": "LU1202",
+    "country_id": "LU",
+    "name": "Biwer",
+    "shareBB": 0.4674,
+    "shareCircle": 0.5034
+  },
+  {
+    "gem_id": "LU1203",
+    "country_id": "LU",
+    "name": "Flaxweiler",
+    "shareBB": 0.4725,
+    "shareCircle": 0.5001
+  },
+  {
+    "gem_id": "LU1204",
+    "country_id": "LU",
+    "name": "Grevenmacher",
+    "shareBB": 0.4729,
+    "shareCircle": 0.3714
+  },
+  {
+    "gem_id": "LU1205",
+    "country_id": "LU",
+    "name": "Junglinster",
+    "shareBB": 0.5556,
+    "shareCircle": 0.4298
+  },
+  {
+    "gem_id": "LU1206",
+    "country_id": "LU",
+    "name": "Manternach",
+    "shareBB": 0.5265,
+    "shareCircle": 0.5058
+  },
+  {
+    "gem_id": "LU1207",
+    "country_id": "LU",
+    "name": "Mertert",
+    "shareBB": 0.5464,
+    "shareCircle": 0.5672
+  },
+  {
+    "gem_id": "LU1209",
+    "country_id": "LU",
+    "name": "Wormeldange",
+    "shareBB": 0.3448,
+    "shareCircle": 0.2717
+  },
+  {
+    "gem_id": "LU1301",
+    "country_id": "LU",
+    "name": "Bous",
+    "shareBB": 0.57,
+    "shareCircle": 0.5607
+  },
+  {
+    "gem_id": "LU1302",
+    "country_id": "LU",
+    "name": "Dalheim",
+    "shareBB": 0.4131,
+    "shareCircle": 0.3607
+  },
+  {
+    "gem_id": "LU1303",
+    "country_id": "LU",
+    "name": "Lenningen",
+    "shareBB": 0.5141,
+    "shareCircle": 0.4407
+  },
+  {
+    "gem_id": "LU1304",
+    "country_id": "LU",
+    "name": "Mondorf-les-Bains",
+    "shareBB": 0.5068,
+    "shareCircle": 0.4752
+  },
+  {
+    "gem_id": "LU1306",
+    "country_id": "LU",
+    "name": "Remich",
+    "shareBB": 0.5676,
+    "shareCircle": 0.4782
+  },
+  {
+    "gem_id": "LU1307",
+    "country_id": "LU",
+    "name": "Stadtbredimus",
+    "shareBB": 0.4659,
+    "shareCircle": 0.4418
+  },
+  {
+    "gem_id": "LU1308",
+    "country_id": "LU",
+    "name": "Waldbredimus",
+    "shareBB": 0.6299,
+    "shareCircle": 0.6236
+  },
+  {
+    "gem_id": "LU1310",
+    "country_id": "LU",
+    "name": "Schengen",
+    "shareBB": 0.5963,
+    "shareCircle": 0.4878
+  }
+]

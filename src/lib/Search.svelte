@@ -36,7 +36,6 @@
   function handleInput() {
     if (textValue.length > 0) {
       suggestions = fuse.search(textValue).slice(0, 3);
-      console.log("suggestions: ", suggestions);
     } else {
       suggestions = [];
     }

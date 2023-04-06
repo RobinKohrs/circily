@@ -1,0 +1,3894 @@
+[
+  {
+    "gem_id": "HR0100337",
+    "country_id": "HR",
+    "name": "Brckovljani",
+    "shareBB": 0.3814,
+    "shareCircle": 0.3342
+  },
+  {
+    "gem_id": "HR0100345",
+    "country_id": "HR",
+    "name": "Brdovec",
+    "shareBB": 0.5994,
+    "shareCircle": 0.5296
+  },
+  {
+    "gem_id": "HR0100973",
+    "country_id": "HR",
+    "name": "Dubrava",
+    "shareBB": 0.5478,
+    "shareCircle": 0.5092
+  },
+  {
+    "gem_id": "HR0101015",
+    "country_id": "HR",
+    "name": "Dugo Selo",
+    "shareBB": 0.6543,
+    "shareCircle": 0.4912
+  },
+  {
+    "gem_id": "HR0101147",
+    "country_id": "HR",
+    "name": "Farkaševac",
+    "shareBB": 0.6203,
+    "shareCircle": 0.481
+  },
+  {
+    "gem_id": "HR0101350",
+    "country_id": "HR",
+    "name": "Gradec",
+    "shareBB": 0.6348,
+    "shareCircle": 0.6787
+  },
+  {
+    "gem_id": "HR0101589",
+    "country_id": "HR",
+    "name": "Ivanić-Grad",
+    "shareBB": 0.4252,
+    "shareCircle": 0.4056
+  },
+  {
+    "gem_id": "HR0101635",
+    "country_id": "HR",
+    "name": "Jakovlje",
+    "shareBB": 0.5308,
+    "shareCircle": 0.3669
+  },
+  {
+    "gem_id": "HR0101694",
+    "country_id": "HR",
+    "name": "Jastrebarsko",
+    "shareBB": 0.5316,
+    "shareCircle": 0.4493
+  },
+  {
+    "gem_id": "HR0101902",
+    "country_id": "HR",
+    "name": "Klinča Sela",
+    "shareBB": 0.3675,
+    "shareCircle": 0.3151
+  },
+  {
+    "gem_id": "HR0101937",
+    "country_id": "HR",
+    "name": "Kloštar Ivanić",
+    "shareBB": 0.6109,
+    "shareCircle": 0.5967
+  },
+  {
+    "gem_id": "HR0102135",
+    "country_id": "HR",
+    "name": "Križ",
+    "shareBB": 0.5474,
+    "shareCircle": 0.4926
+  },
+  {
+    "gem_id": "HR0103310",
+    "country_id": "HR",
+    "name": "Pisarovina",
+    "shareBB": 0.5609,
+    "shareCircle": 0.6083
+  },
+  {
+    "gem_id": "HR0103565",
+    "country_id": "HR",
+    "name": "Preseka",
+    "shareBB": 0.6402,
+    "shareCircle": 0.548
+  },
+  {
+    "gem_id": "HR0103620",
+    "country_id": "HR",
+    "name": "Pušća",
+    "shareBB": 0.5328,
+    "shareCircle": 0.4096
+  },
+  {
+    "gem_id": "HR0103760",
+    "country_id": "HR",
+    "name": "Rugvica",
+    "shareBB": 0.4162,
+    "shareCircle": 0.3186
+  },
+  {
+    "gem_id": "HR0103808",
+    "country_id": "HR",
+    "name": "Samobor",
+    "shareBB": 0.4724,
+    "shareCircle": 0.3924
+  },
+  {
+    "gem_id": "HR0104294",
+    "country_id": "HR",
+    "name": "Sveti Ivan Zelina",
+    "shareBB": 0.5463,
+    "shareCircle": 0.4522
+  },
+  {
+    "gem_id": "HR0104367",
+    "country_id": "HR",
+    "name": "Sveta Nedelja",
+    "shareBB": 0.6249,
+    "shareCircle": 0.5428
+  },
+  {
+    "gem_id": "HR0105088",
+    "country_id": "HR",
+    "name": "Vrbovec",
+    "shareBB": 0.5345,
+    "shareCircle": 0.4853
+  },
+  {
+    "gem_id": "HR0105339",
+    "country_id": "HR",
+    "name": "Krašić",
+    "shareBB": 0.4321,
+    "shareCircle": 0.2642
+  },
+  {
+    "gem_id": "HR0105363",
+    "country_id": "HR",
+    "name": "Rakovec",
+    "shareBB": 0.4954,
+    "shareCircle": 0.4783
+  },
+  {
+    "gem_id": "HR0105398",
+    "country_id": "HR",
+    "name": "Marija Gorica",
+    "shareBB": 0.5624,
+    "shareCircle": 0.4812
+  },
+  {
+    "gem_id": "HR0105401",
+    "country_id": "HR",
+    "name": "Žumberak",
+    "shareBB": 0.6776,
+    "shareCircle": 0.6071
+  },
+  {
+    "gem_id": "HR0105410",
+    "country_id": "HR",
+    "name": "Velika Gorica",
+    "shareBB": 0.4572,
+    "shareCircle": 0.4448
+  },
+  {
+    "gem_id": "HR0105428",
+    "country_id": "HR",
+    "name": "Orle",
+    "shareBB": 0.3547,
+    "shareCircle": 0.2816
+  },
+  {
+    "gem_id": "HR0105436",
+    "country_id": "HR",
+    "name": "Zaprešić",
+    "shareBB": 0.4207,
+    "shareCircle": 0.2985
+  },
+  {
+    "gem_id": "HR0105444",
+    "country_id": "HR",
+    "name": "Pokupsko",
+    "shareBB": 0.6114,
+    "shareCircle": 0.5922
+  },
+  {
+    "gem_id": "HR0105452",
+    "country_id": "HR",
+    "name": "Kravarsko",
+    "shareBB": 0.4436,
+    "shareCircle": 0.3802
+  },
+  {
+    "gem_id": "HR0105479",
+    "country_id": "HR",
+    "name": "Bistra",
+    "shareBB": 0.577,
+    "shareCircle": 0.4885
+  },
+  {
+    "gem_id": "HR0105487",
+    "country_id": "HR",
+    "name": "Luka",
+    "shareBB": 0.5418,
+    "shareCircle": 0.5957
+  },
+  {
+    "gem_id": "HR0105495",
+    "country_id": "HR",
+    "name": "Dubravica",
+    "shareBB": 0.7574,
+    "shareCircle": 0.6225
+  },
+  {
+    "gem_id": "HR0105509",
+    "country_id": "HR",
+    "name": "Bedenica",
+    "shareBB": 0.5683,
+    "shareCircle": 0.5443
+  },
+  {
+    "gem_id": "HR0105517",
+    "country_id": "HR",
+    "name": "Stupnik",
+    "shareBB": 0.6425,
+    "shareCircle": 0.7077
+  },
+  {
+    "gem_id": "HR0200116",
+    "country_id": "HR",
+    "name": "Bedekovčina",
+    "shareBB": 0.5521,
+    "shareCircle": 0.5286
+  },
+  {
+    "gem_id": "HR0200418",
+    "country_id": "HR",
+    "name": "Budinščina",
+    "shareBB": 0.5235,
+    "shareCircle": 0.4488
+  },
+  {
+    "gem_id": "HR0200701",
+    "country_id": "HR",
+    "name": "Desinić",
+    "shareBB": 0.5031,
+    "shareCircle": 0.3937
+  },
+  {
+    "gem_id": "HR0200795",
+    "country_id": "HR",
+    "name": "Donja Stubica",
+    "shareBB": 0.4207,
+    "shareCircle": 0.382
+  },
+  {
+    "gem_id": "HR0201082",
+    "country_id": "HR",
+    "name": "Đurmanec",
+    "shareBB": 0.5472,
+    "shareCircle": 0.4183
+  },
+  {
+    "gem_id": "HR0201252",
+    "country_id": "HR",
+    "name": "Gornja Stubica",
+    "shareBB": 0.576,
+    "shareCircle": 0.4906
+  },
+  {
+    "gem_id": "HR0201465",
+    "country_id": "HR",
+    "name": "Hrašćina",
+    "shareBB": 0.6832,
+    "shareCircle": 0.3575
+  },
+  {
+    "gem_id": "HR0201520",
+    "country_id": "HR",
+    "name": "Hum na Sutli",
+    "shareBB": 0.4585,
+    "shareCircle": 0.2826
+  },
+  {
+    "gem_id": "HR0201872",
+    "country_id": "HR",
+    "name": "Klanjec",
+    "shareBB": 0.6259,
+    "shareCircle": 0.5912
+  },
+  {
+    "gem_id": "HR0202003",
+    "country_id": "HR",
+    "name": "Konjščina",
+    "shareBB": 0.5887,
+    "shareCircle": 0.559
+  },
+  {
+    "gem_id": "HR0202089",
+    "country_id": "HR",
+    "name": "Kraljevec na Sutli",
+    "shareBB": 0.6029,
+    "shareCircle": 0.531
+  },
+  {
+    "gem_id": "HR0202119",
+    "country_id": "HR",
+    "name": "Krapina",
+    "shareBB": 0.4023,
+    "shareCircle": 0.4099
+  },
+  {
+    "gem_id": "HR0202127",
+    "country_id": "HR",
+    "name": "Krapinske Toplice",
+    "shareBB": 0.5929,
+    "shareCircle": 0.5413
+  },
+  {
+    "gem_id": "HR0202364",
+    "country_id": "HR",
+    "name": "Lobor",
+    "shareBB": 0.5579,
+    "shareCircle": 0.4554
+  },
+  {
+    "gem_id": "HR0202488",
+    "country_id": "HR",
+    "name": "Mače",
+    "shareBB": 0.6093,
+    "shareCircle": 0.4348
+  },
+  {
+    "gem_id": "HR0202569",
+    "country_id": "HR",
+    "name": "Marija Bistrica",
+    "shareBB": 0.4722,
+    "shareCircle": 0.4069
+  },
+  {
+    "gem_id": "HR0202658",
+    "country_id": "HR",
+    "name": "Mihovljan",
+    "shareBB": 0.574,
+    "shareCircle": 0.4746
+  },
+  {
+    "gem_id": "HR0203115",
+    "country_id": "HR",
+    "name": "Oroslavje",
+    "shareBB": 0.5329,
+    "shareCircle": 0.4542
+  },
+  {
+    "gem_id": "HR0203298",
+    "country_id": "HR",
+    "name": "Petrovsko",
+    "shareBB": 0.564,
+    "shareCircle": 0.5547
+  },
+  {
+    "gem_id": "HR0203522",
+    "country_id": "HR",
+    "name": "Pregrada",
+    "shareBB": 0.5288,
+    "shareCircle": 0.4938
+  },
+  {
+    "gem_id": "HR0203646",
+    "country_id": "HR",
+    "name": "Radoboj",
+    "shareBB": 0.6562,
+    "shareCircle": 0.5966
+  },
+  {
+    "gem_id": "HR0204227",
+    "country_id": "HR",
+    "name": "Stubičke Toplice",
+    "shareBB": 0.3286,
+    "shareCircle": 0.3489
+  },
+  {
+    "gem_id": "HR0204308",
+    "country_id": "HR",
+    "name": "Sveti Križ Začretje",
+    "shareBB": 0.6567,
+    "shareCircle": 0.5352
+  },
+  {
+    "gem_id": "HR0204669",
+    "country_id": "HR",
+    "name": "Tuhelj",
+    "shareBB": 0.4737,
+    "shareCircle": 0.4477
+  },
+  {
+    "gem_id": "HR0204812",
+    "country_id": "HR",
+    "name": "Veliko Trgovišće",
+    "shareBB": 0.6113,
+    "shareCircle": 0.4504
+  },
+  {
+    "gem_id": "HR0205193",
+    "country_id": "HR",
+    "name": "Zabok",
+    "shareBB": 0.4786,
+    "shareCircle": 0.4492
+  },
+  {
+    "gem_id": "HR0205215",
+    "country_id": "HR",
+    "name": "Zagorska Sela",
+    "shareBB": 0.4307,
+    "shareCircle": 0.3223
+  },
+  {
+    "gem_id": "HR0205266",
+    "country_id": "HR",
+    "name": "Zlatar",
+    "shareBB": 0.6231,
+    "shareCircle": 0.469
+  },
+  {
+    "gem_id": "HR0205274",
+    "country_id": "HR",
+    "name": "Zlatar Bistrica",
+    "shareBB": 0.4273,
+    "shareCircle": 0.3409
+  },
+  {
+    "gem_id": "HR0205525",
+    "country_id": "HR",
+    "name": "Jesenje",
+    "shareBB": 0.4747,
+    "shareCircle": 0.326
+  },
+  {
+    "gem_id": "HR0205533",
+    "country_id": "HR",
+    "name": "Kumrovec",
+    "shareBB": 0.5005,
+    "shareCircle": 0.4231
+  },
+  {
+    "gem_id": "HR0205541",
+    "country_id": "HR",
+    "name": "Novi Golubovec",
+    "shareBB": 0.4188,
+    "shareCircle": 0.2715
+  },
+  {
+    "gem_id": "HR0300833",
+    "country_id": "HR",
+    "name": "Donji Kukuruzari",
+    "shareBB": 0.6114,
+    "shareCircle": 0.5967
+  },
+  {
+    "gem_id": "HR0301023",
+    "country_id": "HR",
+    "name": "Dvor",
+    "shareBB": 0.524,
+    "shareCircle": 0.4817
+  },
+  {
+    "gem_id": "HR0301210",
+    "country_id": "HR",
+    "name": "Glina",
+    "shareBB": 0.5059,
+    "shareCircle": 0.4417
+  },
+  {
+    "gem_id": "HR0301490",
+    "country_id": "HR",
+    "name": "Hrvatska Dubica",
+    "shareBB": 0.4956,
+    "shareCircle": 0.4295
+  },
+  {
+    "gem_id": "HR0301503",
+    "country_id": "HR",
+    "name": "Hrvatska Kostajnica",
+    "shareBB": 0.3702,
+    "shareCircle": 0.2284
+  },
+  {
+    "gem_id": "HR0301686",
+    "country_id": "HR",
+    "name": "Jasenovac",
+    "shareBB": 0.2496,
+    "shareCircle": 0.1555
+  },
+  {
+    "gem_id": "HR0302208",
+    "country_id": "HR",
+    "name": "Kutina",
+    "shareBB": 0.4543,
+    "shareCircle": 0.3561
+  },
+  {
+    "gem_id": "HR0302283",
+    "country_id": "HR",
+    "name": "Lekenik",
+    "shareBB": 0.5246,
+    "shareCircle": 0.4778
+  },
+  {
+    "gem_id": "HR0302321",
+    "country_id": "HR",
+    "name": "Lipovljani",
+    "shareBB": 0.5449,
+    "shareCircle": 0.4992
+  },
+  {
+    "gem_id": "HR0302593",
+    "country_id": "HR",
+    "name": "Martinska Ves",
+    "shareBB": 0.4781,
+    "shareCircle": 0.4873
+  },
+  {
+    "gem_id": "HR0302933",
+    "country_id": "HR",
+    "name": "Novska",
+    "shareBB": 0.4835,
+    "shareCircle": 0.4458
+  },
+  {
+    "gem_id": "HR0303280",
+    "country_id": "HR",
+    "name": "Petrinja",
+    "shareBB": 0.4476,
+    "shareCircle": 0.389
+  },
+  {
+    "gem_id": "HR0303476",
+    "country_id": "HR",
+    "name": "Popovača",
+    "shareBB": 0.489,
+    "shareCircle": 0.4784
+  },
+  {
+    "gem_id": "HR0303913",
+    "country_id": "HR",
+    "name": "Sisak",
+    "shareBB": 0.3747,
+    "shareCircle": 0.2533
+  },
+  {
+    "gem_id": "HR0304260",
+    "country_id": "HR",
+    "name": "Sunja",
+    "shareBB": 0.4818,
+    "shareCircle": 0.3595
+  },
+  {
+    "gem_id": "HR0304570",
+    "country_id": "HR",
+    "name": "Topusko",
+    "shareBB": 0.5045,
+    "shareCircle": 0.515
+  },
+  {
+    "gem_id": "HR0304774",
+    "country_id": "HR",
+    "name": "Velika Ludina",
+    "shareBB": 0.293,
+    "shareCircle": 0.2247
+  },
+  {
+    "gem_id": "HR0305100",
+    "country_id": "HR",
+    "name": "Gvozd",
+    "shareBB": 0.5325,
+    "shareCircle": 0.4947
+  },
+  {
+    "gem_id": "HR0305550",
+    "country_id": "HR",
+    "name": "Majur",
+    "shareBB": 0.5105,
+    "shareCircle": 0.4428
+  },
+  {
+    "gem_id": "HR0400078",
+    "country_id": "HR",
+    "name": "Barilović",
+    "shareBB": 0.4141,
+    "shareCircle": 0.3181
+  },
+  {
+    "gem_id": "HR0400302",
+    "country_id": "HR",
+    "name": "Bosiljevo",
+    "shareBB": 0.5525,
+    "shareCircle": 0.5051
+  },
+  {
+    "gem_id": "HR0400493",
+    "country_id": "HR",
+    "name": "Cetingrad",
+    "shareBB": 0.5874,
+    "shareCircle": 0.4438
+  },
+  {
+    "gem_id": "HR0400906",
+    "country_id": "HR",
+    "name": "Draganić",
+    "shareBB": 0.5442,
+    "shareCircle": 0.5306
+  },
+  {
+    "gem_id": "HR0400990",
+    "country_id": "HR",
+    "name": "Duga Resa",
+    "shareBB": 0.5105,
+    "shareCircle": 0.4512
+  },
+  {
+    "gem_id": "HR0401201",
+    "country_id": "HR",
+    "name": "Generalski Stol",
+    "shareBB": 0.5458,
+    "shareCircle": 0.5717
+  },
+  {
+    "gem_id": "HR0401724",
+    "country_id": "HR",
+    "name": "Josipdol",
+    "shareBB": 0.3687,
+    "shareCircle": 0.4104
+  },
+  {
+    "gem_id": "HR0401791",
+    "country_id": "HR",
+    "name": "Karlovac",
+    "shareBB": 0.5048,
+    "shareCircle": 0.4681
+  },
+  {
+    "gem_id": "HR0402160",
+    "country_id": "HR",
+    "name": "Krnjak",
+    "shareBB": 0.5481,
+    "shareCircle": 0.5538
+  },
+  {
+    "gem_id": "HR0402259",
+    "country_id": "HR",
+    "name": "Lasinja",
+    "shareBB": 0.4716,
+    "shareCircle": 0.5561
+  },
+  {
+    "gem_id": "HR0402810",
+    "country_id": "HR",
+    "name": "Netretić",
+    "shareBB": 0.4973,
+    "shareCircle": 0.5364
+  },
+  {
+    "gem_id": "HR0402976",
+    "country_id": "HR",
+    "name": "Ogulin",
+    "shareBB": 0.4659,
+    "shareCircle": 0.4983
+  },
+  {
+    "gem_id": "HR0403158",
+    "country_id": "HR",
+    "name": "Ozalj",
+    "shareBB": 0.2744,
+    "shareCircle": 0.2647
+  },
+  {
+    "gem_id": "HR0403336",
+    "country_id": "HR",
+    "name": "Plaški",
+    "shareBB": 0.4893,
+    "shareCircle": 0.4334
+  },
+  {
+    "gem_id": "HR0403654",
+    "country_id": "HR",
+    "name": "Rakovica",
+    "shareBB": 0.6621,
+    "shareCircle": 0.6169
+  },
+  {
+    "gem_id": "HR0403786",
+    "country_id": "HR",
+    "name": "Saborsko",
+    "shareBB": 0.4038,
+    "shareCircle": 0.297
+  },
+  {
+    "gem_id": "HR0404006",
+    "country_id": "HR",
+    "name": "Slunj",
+    "shareBB": 0.5171,
+    "shareCircle": 0.4984
+  },
+  {
+    "gem_id": "HR0405037",
+    "country_id": "HR",
+    "name": "Vojnić",
+    "shareBB": 0.6007,
+    "shareCircle": 0.4431
+  },
+  {
+    "gem_id": "HR0405304",
+    "country_id": "HR",
+    "name": "Žakanje",
+    "shareBB": 0.3553,
+    "shareCircle": 0.3297
+  },
+  {
+    "gem_id": "HR0405568",
+    "country_id": "HR",
+    "name": "Ribnik",
+    "shareBB": 0.552,
+    "shareCircle": 0.4436
+  },
+  {
+    "gem_id": "HR0405576",
+    "country_id": "HR",
+    "name": "Tounj",
+    "shareBB": 0.4361,
+    "shareCircle": 0.3567
+  },
+  {
+    "gem_id": "HR0406238",
+    "country_id": "HR",
+    "name": "Kamanje",
+    "shareBB": 0.5402,
+    "shareCircle": 0.4557
+  },
+  {
+    "gem_id": "HR0500124",
+    "country_id": "HR",
+    "name": "Bednja",
+    "shareBB": 0.587,
+    "shareCircle": 0.5289
+  },
+  {
+    "gem_id": "HR0500191",
+    "country_id": "HR",
+    "name": "Beretinec",
+    "shareBB": 0.5721,
+    "shareCircle": 0.5557
+  },
+  {
+    "gem_id": "HR0500361",
+    "country_id": "HR",
+    "name": "Breznica",
+    "shareBB": 0.4882,
+    "shareCircle": 0.4702
+  },
+  {
+    "gem_id": "HR0500485",
+    "country_id": "HR",
+    "name": "Cestica",
+    "shareBB": 0.5418,
+    "shareCircle": 0.5407
+  },
+  {
+    "gem_id": "HR0500809",
+    "country_id": "HR",
+    "name": "Donja Voća",
+    "shareBB": 0.5551,
+    "shareCircle": 0.453
+  },
+  {
+    "gem_id": "HR0500850",
+    "country_id": "HR",
+    "name": "Martijanec",
+    "shareBB": 0.5524,
+    "shareCircle": 0.3003
+  },
+  {
+    "gem_id": "HR0501295",
+    "country_id": "HR",
+    "name": "Gornji Kneginec",
+    "shareBB": 0.6698,
+    "shareCircle": 0.5275
+  },
+  {
+    "gem_id": "HR0501511",
+    "country_id": "HR",
+    "name": "Breznički Hum",
+    "shareBB": 0.6304,
+    "shareCircle": 0.6483
+  },
+  {
+    "gem_id": "HR0501562",
+    "country_id": "HR",
+    "name": "Ivanec",
+    "shareBB": 0.5398,
+    "shareCircle": 0.3941
+  },
+  {
+    "gem_id": "HR0501651",
+    "country_id": "HR",
+    "name": "Jalžabet",
+    "shareBB": 0.6801,
+    "shareCircle": 0.562
+  },
+  {
+    "gem_id": "HR0501899",
+    "country_id": "HR",
+    "name": "Klenovnik",
+    "shareBB": 0.5677,
+    "shareCircle": 0.5035
+  },
+  {
+    "gem_id": "HR0502291",
+    "country_id": "HR",
+    "name": "Lepoglava",
+    "shareBB": 0.4218,
+    "shareCircle": 0.3368
+  },
+  {
+    "gem_id": "HR0502445",
+    "country_id": "HR",
+    "name": "Ludbreg",
+    "shareBB": 0.6083,
+    "shareCircle": 0.5032
+  },
+  {
+    "gem_id": "HR0502470",
+    "country_id": "HR",
+    "name": "Ljubešćica",
+    "shareBB": 0.5865,
+    "shareCircle": 0.464
+  },
+  {
+    "gem_id": "HR0502518",
+    "country_id": "HR",
+    "name": "Mali Bukovec",
+    "shareBB": 0.4341,
+    "shareCircle": 0.3506
+  },
+  {
+    "gem_id": "HR0502607",
+    "country_id": "HR",
+    "name": "Maruševec",
+    "shareBB": 0.6438,
+    "shareCircle": 0.5562
+  },
+  {
+    "gem_id": "HR0502895",
+    "country_id": "HR",
+    "name": "Novi Marof",
+    "shareBB": 0.5752,
+    "shareCircle": 0.5126
+  },
+  {
+    "gem_id": "HR0503263",
+    "country_id": "HR",
+    "name": "Petrijanec",
+    "shareBB": 0.6237,
+    "shareCircle": 0.5393
+  },
+  {
+    "gem_id": "HR0504103",
+    "country_id": "HR",
+    "name": "Sračinec",
+    "shareBB": 0.5603,
+    "shareCircle": 0.5206
+  },
+  {
+    "gem_id": "HR0504375",
+    "country_id": "HR",
+    "name": "Sveti Đurđ",
+    "shareBB": 0.6206,
+    "shareCircle": 0.428
+  },
+  {
+    "gem_id": "HR0504383",
+    "country_id": "HR",
+    "name": "Sveti Ilija",
+    "shareBB": 0.5451,
+    "shareCircle": 0.4827
+  },
+  {
+    "gem_id": "HR0504626",
+    "country_id": "HR",
+    "name": "Trnovec Bartolovečki",
+    "shareBB": 0.6454,
+    "shareCircle": 0.4235
+  },
+  {
+    "gem_id": "HR0504723",
+    "country_id": "HR",
+    "name": "Varaždin",
+    "shareBB": 0.4258,
+    "shareCircle": 0.3949
+  },
+  {
+    "gem_id": "HR0504731",
+    "country_id": "HR",
+    "name": "Varaždinske Toplice",
+    "shareBB": 0.6673,
+    "shareCircle": 0.4908
+  },
+  {
+    "gem_id": "HR0504847",
+    "country_id": "HR",
+    "name": "Vidovec",
+    "shareBB": 0.6868,
+    "shareCircle": 0.5091
+  },
+  {
+    "gem_id": "HR0504863",
+    "country_id": "HR",
+    "name": "Vinica",
+    "shareBB": 0.5866,
+    "shareCircle": 0.586
+  },
+  {
+    "gem_id": "HR0504936",
+    "country_id": "HR",
+    "name": "Visoko",
+    "shareBB": 0.5932,
+    "shareCircle": 0.5043
+  },
+  {
+    "gem_id": "HR0505584",
+    "country_id": "HR",
+    "name": "Veliki Bukovec",
+    "shareBB": 0.6198,
+    "shareCircle": 0.564
+  },
+  {
+    "gem_id": "HR0600965",
+    "country_id": "HR",
+    "name": "Drnje",
+    "shareBB": 0.4398,
+    "shareCircle": 0.3728
+  },
+  {
+    "gem_id": "HR0601040",
+    "country_id": "HR",
+    "name": "Đelekovec",
+    "shareBB": 0.5142,
+    "shareCircle": 0.4143
+  },
+  {
+    "gem_id": "HR0601074",
+    "country_id": "HR",
+    "name": "Đurđevac",
+    "shareBB": 0.497,
+    "shareCircle": 0.4464
+  },
+  {
+    "gem_id": "HR0601155",
+    "country_id": "HR",
+    "name": "Ferdinandovac",
+    "shareBB": 0.484,
+    "shareCircle": 0.3686
+  },
+  {
+    "gem_id": "HR0601228",
+    "country_id": "HR",
+    "name": "Gola",
+    "shareBB": 0.3204,
+    "shareCircle": 0.1994
+  },
+  {
+    "gem_id": "HR0601457",
+    "country_id": "HR",
+    "name": "Hlebine",
+    "shareBB": 0.6275,
+    "shareCircle": 0.4199
+  },
+  {
+    "gem_id": "HR0601945",
+    "country_id": "HR",
+    "name": "Kloštar Podravski",
+    "shareBB": 0.4418,
+    "shareCircle": 0.3071
+  },
+  {
+    "gem_id": "HR0602011",
+    "country_id": "HR",
+    "name": "Koprivnica",
+    "shareBB": 0.6201,
+    "shareCircle": 0.5877
+  },
+  {
+    "gem_id": "HR0602020",
+    "country_id": "HR",
+    "name": "Koprivnički Bregi",
+    "shareBB": 0.4545,
+    "shareCircle": 0.3838
+  },
+  {
+    "gem_id": "HR0602038",
+    "country_id": "HR",
+    "name": "Koprivnički Ivanec",
+    "shareBB": 0.6789,
+    "shareCircle": 0.5546
+  },
+  {
+    "gem_id": "HR0602143",
+    "country_id": "HR",
+    "name": "Križevci",
+    "shareBB": 0.4035,
+    "shareCircle": 0.4356
+  },
+  {
+    "gem_id": "HR0602275",
+    "country_id": "HR",
+    "name": "Legrad",
+    "shareBB": 0.3479,
+    "shareCircle": 0.3364
+  },
+  {
+    "gem_id": "HR0602704",
+    "country_id": "HR",
+    "name": "Molve",
+    "shareBB": 0.4433,
+    "shareCircle": 0.4594
+  },
+  {
+    "gem_id": "HR0602925",
+    "country_id": "HR",
+    "name": "Novigrad Podravski",
+    "shareBB": 0.5287,
+    "shareCircle": 0.4767
+  },
+  {
+    "gem_id": "HR0603247",
+    "country_id": "HR",
+    "name": "Peteranec",
+    "shareBB": 0.5399,
+    "shareCircle": 0.3167
+  },
+  {
+    "gem_id": "HR0603662",
+    "country_id": "HR",
+    "name": "Rasinja",
+    "shareBB": 0.3471,
+    "shareCircle": 0.2757
+  },
+  {
+    "gem_id": "HR0604057",
+    "country_id": "HR",
+    "name": "Sokolovac",
+    "shareBB": 0.4546,
+    "shareCircle": 0.3921
+  },
+  {
+    "gem_id": "HR0604391",
+    "country_id": "HR",
+    "name": "Sveti Ivan Žabno",
+    "shareBB": 0.6147,
+    "shareCircle": 0.6039
+  },
+  {
+    "gem_id": "HR0604421",
+    "country_id": "HR",
+    "name": "Sveti Petar Orehovec",
+    "shareBB": 0.516,
+    "shareCircle": 0.434
+  },
+  {
+    "gem_id": "HR0604901",
+    "country_id": "HR",
+    "name": "Virje",
+    "shareBB": 0.4682,
+    "shareCircle": 0.3658
+  },
+  {
+    "gem_id": "HR0605592",
+    "country_id": "HR",
+    "name": "Kalinovac",
+    "shareBB": 0.6252,
+    "shareCircle": 0.5453
+  },
+  {
+    "gem_id": "HR0605606",
+    "country_id": "HR",
+    "name": "Kalnik",
+    "shareBB": 0.5995,
+    "shareCircle": 0.4763
+  },
+  {
+    "gem_id": "HR0605614",
+    "country_id": "HR",
+    "name": "Novo Virje",
+    "shareBB": 0.505,
+    "shareCircle": 0.2832
+  },
+  {
+    "gem_id": "HR0606165",
+    "country_id": "HR",
+    "name": "Podravske Sesvete",
+    "shareBB": 0.5697,
+    "shareCircle": 0.3409
+  },
+  {
+    "gem_id": "HR0606181",
+    "country_id": "HR",
+    "name": "Gornja Rijeka",
+    "shareBB": 0.4762,
+    "shareCircle": 0.2803
+  },
+  {
+    "gem_id": "HR0700183",
+    "country_id": "HR",
+    "name": "Berek",
+    "shareBB": 0.478,
+    "shareCircle": 0.4395
+  },
+  {
+    "gem_id": "HR0700248",
+    "country_id": "HR",
+    "name": "Bjelovar",
+    "shareBB": 0.5629,
+    "shareCircle": 0.4965
+  },
+  {
+    "gem_id": "HR0700639",
+    "country_id": "HR",
+    "name": "Čazma",
+    "shareBB": 0.5313,
+    "shareCircle": 0.6116
+  },
+  {
+    "gem_id": "HR0700671",
+    "country_id": "HR",
+    "name": "Daruvar",
+    "shareBB": 0.4978,
+    "shareCircle": 0.4502
+  },
+  {
+    "gem_id": "HR0700710",
+    "country_id": "HR",
+    "name": "Dežanovac",
+    "shareBB": 0.4675,
+    "shareCircle": 0.4076
+  },
+  {
+    "gem_id": "HR0701058",
+    "country_id": "HR",
+    "name": "Đulovac",
+    "shareBB": 0.5243,
+    "shareCircle": 0.4341
+  },
+  {
+    "gem_id": "HR0701198",
+    "country_id": "HR",
+    "name": "Garešnica",
+    "shareBB": 0.4855,
+    "shareCircle": 0.5216
+  },
+  {
+    "gem_id": "HR0701392",
+    "country_id": "HR",
+    "name": "Grubišno Polje",
+    "shareBB": 0.4537,
+    "shareCircle": 0.4166
+  },
+  {
+    "gem_id": "HR0701449",
+    "country_id": "HR",
+    "name": "Hercegovac",
+    "shareBB": 0.4886,
+    "shareCircle": 0.4764
+  },
+  {
+    "gem_id": "HR0701619",
+    "country_id": "HR",
+    "name": "Ivanska",
+    "shareBB": 0.3968,
+    "shareCircle": 0.3186
+  },
+  {
+    "gem_id": "HR0701767",
+    "country_id": "HR",
+    "name": "Kapela",
+    "shareBB": 0.5921,
+    "shareCircle": 0.4666
+  },
+  {
+    "gem_id": "HR0701996",
+    "country_id": "HR",
+    "name": "Končanica",
+    "shareBB": 0.5028,
+    "shareCircle": 0.335
+  },
+  {
+    "gem_id": "HR0702879",
+    "country_id": "HR",
+    "name": "Nova Rača",
+    "shareBB": 0.329,
+    "shareCircle": 0.2891
+  },
+  {
+    "gem_id": "HR0703751",
+    "country_id": "HR",
+    "name": "Rovišće",
+    "shareBB": 0.6443,
+    "shareCircle": 0.5484
+  },
+  {
+    "gem_id": "HR0703905",
+    "country_id": "HR",
+    "name": "Sirač",
+    "shareBB": 0.5448,
+    "shareCircle": 0.3553
+  },
+  {
+    "gem_id": "HR0704502",
+    "country_id": "HR",
+    "name": "Štefanje",
+    "shareBB": 0.4621,
+    "shareCircle": 0.4655
+  },
+  {
+    "gem_id": "HR0704782",
+    "country_id": "HR",
+    "name": "Velika Pisanica",
+    "shareBB": 0.4832,
+    "shareCircle": 0.4359
+  },
+  {
+    "gem_id": "HR0704804",
+    "country_id": "HR",
+    "name": "Veliki Grđevac",
+    "shareBB": 0.3531,
+    "shareCircle": 0.3488
+  },
+  {
+    "gem_id": "HR0704839",
+    "country_id": "HR",
+    "name": "Veliko Trojstvo",
+    "shareBB": 0.7017,
+    "shareCircle": 0.5415
+  },
+  {
+    "gem_id": "HR0705622",
+    "country_id": "HR",
+    "name": "Severin",
+    "shareBB": 0.4892,
+    "shareCircle": 0.2886
+  },
+  {
+    "gem_id": "HR0705649",
+    "country_id": "HR",
+    "name": "Šandrovac",
+    "shareBB": 0.6125,
+    "shareCircle": 0.5408
+  },
+  {
+    "gem_id": "HR0705657",
+    "country_id": "HR",
+    "name": "Velika Trnovitica",
+    "shareBB": 0.5197,
+    "shareCircle": 0.4597
+  },
+  {
+    "gem_id": "HR0705665",
+    "country_id": "HR",
+    "name": "Zrinski Topolovac",
+    "shareBB": 0.5207,
+    "shareCircle": 0.5424
+  },
+  {
+    "gem_id": "HR0800043",
+    "country_id": "HR",
+    "name": "Bakar",
+    "shareBB": 0.4006,
+    "shareCircle": 0.4032
+  },
+  {
+    "gem_id": "HR0800086",
+    "country_id": "HR",
+    "name": "Baška",
+    "shareBB": 0.3639,
+    "shareCircle": 0.2635
+  },
+  {
+    "gem_id": "HR0800388",
+    "country_id": "HR",
+    "name": "Brod Moravice",
+    "shareBB": 0.4979,
+    "shareCircle": 0.4903
+  },
+  {
+    "gem_id": "HR0800523",
+    "country_id": "HR",
+    "name": "Cres",
+    "shareBB": 0.3526,
+    "shareCircle": 0.1632
+  },
+  {
+    "gem_id": "HR0800531",
+    "country_id": "HR",
+    "name": "Crikvenica",
+    "shareBB": 0.2106,
+    "shareCircle": 0.1562
+  },
+  {
+    "gem_id": "HR0800558",
+    "country_id": "HR",
+    "name": "Čabar",
+    "shareBB": 0.5691,
+    "shareCircle": 0.4761
+  },
+  {
+    "gem_id": "HR0800612",
+    "country_id": "HR",
+    "name": "Čavle",
+    "shareBB": 0.4148,
+    "shareCircle": 0.4307
+  },
+  {
+    "gem_id": "HR0800698",
+    "country_id": "HR",
+    "name": "Delnice",
+    "shareBB": 0.5179,
+    "shareCircle": 0.5119
+  },
+  {
+    "gem_id": "HR0800744",
+    "country_id": "HR",
+    "name": "Dobrinj",
+    "shareBB": 0.5155,
+    "shareCircle": 0.5538
+  },
+  {
+    "gem_id": "HR0801171",
+    "country_id": "HR",
+    "name": "Fužine",
+    "shareBB": 0.6693,
+    "shareCircle": 0.5952
+  },
+  {
+    "gem_id": "HR0801708",
+    "country_id": "HR",
+    "name": "Jelenje",
+    "shareBB": 0.5182,
+    "shareCircle": 0.4446
+  },
+  {
+    "gem_id": "HR0801805",
+    "country_id": "HR",
+    "name": "Kastav",
+    "shareBB": 0.5822,
+    "shareCircle": 0.4792
+  },
+  {
+    "gem_id": "HR0801864",
+    "country_id": "HR",
+    "name": "Klana",
+    "shareBB": 0.3943,
+    "shareCircle": 0.2868
+  },
+  {
+    "gem_id": "HR0802097",
+    "country_id": "HR",
+    "name": "Kraljevica",
+    "shareBB": 0.4862,
+    "shareCircle": 0.5136
+  },
+  {
+    "gem_id": "HR0802151",
+    "country_id": "HR",
+    "name": "Krk",
+    "shareBB": 0.3967,
+    "shareCircle": 0.3979
+  },
+  {
+    "gem_id": "HR0802372",
+    "country_id": "HR",
+    "name": "Lokve",
+    "shareBB": 0.3441,
+    "shareCircle": 0.2353
+  },
+  {
+    "gem_id": "HR0802429",
+    "country_id": "HR",
+    "name": "Lovran",
+    "shareBB": 0.6394,
+    "shareCircle": 0.484
+  },
+  {
+    "gem_id": "HR0802526",
+    "country_id": "HR",
+    "name": "Mali Lošinj",
+    "shareBB": 0.1895,
+    "shareCircle": 0.1682
+  },
+  {
+    "gem_id": "HR0802534",
+    "country_id": "HR",
+    "name": "Malinska-Dubašnica",
+    "shareBB": 0.4822,
+    "shareCircle": 0.453
+  },
+  {
+    "gem_id": "HR0802615",
+    "country_id": "HR",
+    "name": "Matulji",
+    "shareBB": 0.5118,
+    "shareCircle": 0.4475
+  },
+  {
+    "gem_id": "HR0802739",
+    "country_id": "HR",
+    "name": "Mošćenička Draga",
+    "shareBB": 0.5846,
+    "shareCircle": 0.3113
+  },
+  {
+    "gem_id": "HR0802755",
+    "country_id": "HR",
+    "name": "Mrkopalj",
+    "shareBB": 0.5269,
+    "shareCircle": 0.3578
+  },
+  {
+    "gem_id": "HR0802909",
+    "country_id": "HR",
+    "name": "Novi Vinodolski",
+    "shareBB": 0.5008,
+    "shareCircle": 0.561
+  },
+  {
+    "gem_id": "HR0803018",
+    "country_id": "HR",
+    "name": "Omišalj",
+    "shareBB": 0.4681,
+    "shareCircle": 0.3376
+  },
+  {
+    "gem_id": "HR0803026",
+    "country_id": "HR",
+    "name": "Opatija",
+    "shareBB": 0.4189,
+    "shareCircle": 0.3554
+  },
+  {
+    "gem_id": "HR0803603",
+    "country_id": "HR",
+    "name": "Punat",
+    "shareBB": 0.3971,
+    "shareCircle": 0.3059
+  },
+  {
+    "gem_id": "HR0803638",
+    "country_id": "HR",
+    "name": "Rab",
+    "shareBB": 0.319,
+    "shareCircle": 0.2631
+  },
+  {
+    "gem_id": "HR0803697",
+    "country_id": "HR",
+    "name": "Ravna Gora",
+    "shareBB": 0.6421,
+    "shareCircle": 0.5845
+  },
+  {
+    "gem_id": "HR0803735",
+    "country_id": "HR",
+    "name": "Rijeka",
+    "shareBB": 0.3471,
+    "shareCircle": 0.2096
+  },
+  {
+    "gem_id": "HR0803930",
+    "country_id": "HR",
+    "name": "Skrad",
+    "shareBB": 0.6252,
+    "shareCircle": 0.6238
+  },
+  {
+    "gem_id": "HR0804880",
+    "country_id": "HR",
+    "name": "Vinodolska općina",
+    "shareBB": 0.4878,
+    "shareCircle": 0.528
+  },
+  {
+    "gem_id": "HR0804952",
+    "country_id": "HR",
+    "name": "Viškovo",
+    "shareBB": 0.5687,
+    "shareCircle": 0.5119
+  },
+  {
+    "gem_id": "HR0805070",
+    "country_id": "HR",
+    "name": "Vrbnik",
+    "shareBB": 0.4327,
+    "shareCircle": 0.5126
+  },
+  {
+    "gem_id": "HR0805096",
+    "country_id": "HR",
+    "name": "Vrbovsko",
+    "shareBB": 0.5612,
+    "shareCircle": 0.6074
+  },
+  {
+    "gem_id": "HR0805380",
+    "country_id": "HR",
+    "name": "Kostrena",
+    "shareBB": 0.4142,
+    "shareCircle": 0.2857
+  },
+  {
+    "gem_id": "HR0806246",
+    "country_id": "HR",
+    "name": "Lopar",
+    "shareBB": 0.2412,
+    "shareCircle": 0.202
+  },
+  {
+    "gem_id": "HR0900370",
+    "country_id": "HR",
+    "name": "Brinje",
+    "shareBB": 0.6573,
+    "shareCircle": 0.5018
+  },
+  {
+    "gem_id": "HR0900841",
+    "country_id": "HR",
+    "name": "Donji Lapac",
+    "shareBB": 0.3895,
+    "shareCircle": 0.3058
+  },
+  {
+    "gem_id": "HR0901309",
+    "country_id": "HR",
+    "name": "Gospić",
+    "shareBB": 0.4994,
+    "shareCircle": 0.3987
+  },
+  {
+    "gem_id": "HR0901783",
+    "country_id": "HR",
+    "name": "Karlobag",
+    "shareBB": 0.3178,
+    "shareCircle": 0.2648
+  },
+  {
+    "gem_id": "HR0902402",
+    "country_id": "HR",
+    "name": "Lovinac",
+    "shareBB": 0.5987,
+    "shareCircle": 0.6347
+  },
+  {
+    "gem_id": "HR0902887",
+    "country_id": "HR",
+    "name": "Novalja",
+    "shareBB": 0.1159,
+    "shareCircle": 0.077
+  },
+  {
+    "gem_id": "HR0903131",
+    "country_id": "HR",
+    "name": "Otočac",
+    "shareBB": 0.5344,
+    "shareCircle": 0.4952
+  },
+  {
+    "gem_id": "HR0903239",
+    "country_id": "HR",
+    "name": "Perušić",
+    "shareBB": 0.5505,
+    "shareCircle": 0.3804
+  },
+  {
+    "gem_id": "HR0903875",
+    "country_id": "HR",
+    "name": "Senj",
+    "shareBB": 0.5833,
+    "shareCircle": 0.2696
+  },
+  {
+    "gem_id": "HR0904553",
+    "country_id": "HR",
+    "name": "Plitvička jezera",
+    "shareBB": 0.5669,
+    "shareCircle": 0.5129
+  },
+  {
+    "gem_id": "HR0904677",
+    "country_id": "HR",
+    "name": "Udbina",
+    "shareBB": 0.552,
+    "shareCircle": 0.5898
+  },
+  {
+    "gem_id": "HR0905126",
+    "country_id": "HR",
+    "name": "Vrhovine",
+    "shareBB": 0.4927,
+    "shareCircle": 0.551
+  },
+  {
+    "gem_id": "HR1000540",
+    "country_id": "HR",
+    "name": "Crnac",
+    "shareBB": 0.6634,
+    "shareCircle": 0.6892
+  },
+  {
+    "gem_id": "HR1000566",
+    "country_id": "HR",
+    "name": "Čačinci",
+    "shareBB": 0.3497,
+    "shareCircle": 0.2666
+  },
+  {
+    "gem_id": "HR1000574",
+    "country_id": "HR",
+    "name": "Čađavica",
+    "shareBB": 0.5462,
+    "shareCircle": 0.5138
+  },
+  {
+    "gem_id": "HR1001368",
+    "country_id": "HR",
+    "name": "Gradina",
+    "shareBB": 0.5726,
+    "shareCircle": 0.514
+  },
+  {
+    "gem_id": "HR1002453",
+    "country_id": "HR",
+    "name": "Lukač",
+    "shareBB": 0.674,
+    "shareCircle": 0.5592
+  },
+  {
+    "gem_id": "HR1002666",
+    "country_id": "HR",
+    "name": "Mikleuš",
+    "shareBB": 0.4525,
+    "shareCircle": 0.387
+  },
+  {
+    "gem_id": "HR1002836",
+    "country_id": "HR",
+    "name": "Nova Bukovica",
+    "shareBB": 0.5764,
+    "shareCircle": 0.5438
+  },
+  {
+    "gem_id": "HR1003077",
+    "country_id": "HR",
+    "name": "Orahovica",
+    "shareBB": 0.5032,
+    "shareCircle": 0.4187
+  },
+  {
+    "gem_id": "HR1003328",
+    "country_id": "HR",
+    "name": "Pitomača",
+    "shareBB": 0.4464,
+    "shareCircle": 0.3868
+  },
+  {
+    "gem_id": "HR1003956",
+    "country_id": "HR",
+    "name": "Slatina",
+    "shareBB": 0.5773,
+    "shareCircle": 0.591
+  },
+  {
+    "gem_id": "HR1004073",
+    "country_id": "HR",
+    "name": "Sopje",
+    "shareBB": 0.6151,
+    "shareCircle": 0.4769
+  },
+  {
+    "gem_id": "HR1004243",
+    "country_id": "HR",
+    "name": "Suhopolje",
+    "shareBB": 0.5351,
+    "shareCircle": 0.4391
+  },
+  {
+    "gem_id": "HR1004499",
+    "country_id": "HR",
+    "name": "Špišić Bukovica",
+    "shareBB": 0.468,
+    "shareCircle": 0.3849
+  },
+  {
+    "gem_id": "HR1004910",
+    "country_id": "HR",
+    "name": "Virovitica",
+    "shareBB": 0.5871,
+    "shareCircle": 0.5352
+  },
+  {
+    "gem_id": "HR1004995",
+    "country_id": "HR",
+    "name": "Voćin",
+    "shareBB": 0.5026,
+    "shareCircle": 0.5615
+  },
+  {
+    "gem_id": "HR1005240",
+    "country_id": "HR",
+    "name": "Zdenci",
+    "shareBB": 0.5211,
+    "shareCircle": 0.4843
+  },
+  {
+    "gem_id": "HR1100353",
+    "country_id": "HR",
+    "name": "Brestovac",
+    "shareBB": 0.456,
+    "shareCircle": 0.302
+  },
+  {
+    "gem_id": "HR1100582",
+    "country_id": "HR",
+    "name": "Čaglin",
+    "shareBB": 0.6773,
+    "shareCircle": 0.6301
+  },
+  {
+    "gem_id": "HR1101643",
+    "country_id": "HR",
+    "name": "Jakšić",
+    "shareBB": 0.6146,
+    "shareCircle": 0.6062
+  },
+  {
+    "gem_id": "HR1101775",
+    "country_id": "HR",
+    "name": "Kaptol",
+    "shareBB": 0.7269,
+    "shareCircle": 0.5314
+  },
+  {
+    "gem_id": "HR1102216",
+    "country_id": "HR",
+    "name": "Kutjevo",
+    "shareBB": 0.5593,
+    "shareCircle": 0.5844
+  },
+  {
+    "gem_id": "HR1102313",
+    "country_id": "HR",
+    "name": "Lipik",
+    "shareBB": 0.3813,
+    "shareCircle": 0.3186
+  },
+  {
+    "gem_id": "HR1103182",
+    "country_id": "HR",
+    "name": "Pakrac",
+    "shareBB": 0.6235,
+    "shareCircle": 0.4585
+  },
+  {
+    "gem_id": "HR1103344",
+    "country_id": "HR",
+    "name": "Pleternica",
+    "shareBB": 0.5456,
+    "shareCircle": 0.4878
+  },
+  {
+    "gem_id": "HR1103514",
+    "country_id": "HR",
+    "name": "Požega",
+    "shareBB": 0.6132,
+    "shareCircle": 0.5751
+  },
+  {
+    "gem_id": "HR1104758",
+    "country_id": "HR",
+    "name": "Velika",
+    "shareBB": 0.6333,
+    "shareCircle": 0.6481
+  },
+  {
+    "gem_id": "HR1200108",
+    "country_id": "HR",
+    "name": "Bebrina",
+    "shareBB": 0.6798,
+    "shareCircle": 0.7006
+  },
+  {
+    "gem_id": "HR1200396",
+    "country_id": "HR",
+    "name": "Brodski Stupnik",
+    "shareBB": 0.6719,
+    "shareCircle": 0.6032
+  },
+  {
+    "gem_id": "HR1200469",
+    "country_id": "HR",
+    "name": "Cernik",
+    "shareBB": 0.5692,
+    "shareCircle": 0.5679
+  },
+  {
+    "gem_id": "HR1200680",
+    "country_id": "HR",
+    "name": "Davor",
+    "shareBB": 0.4575,
+    "shareCircle": 0.3537
+  },
+  {
+    "gem_id": "HR1200817",
+    "country_id": "HR",
+    "name": "Donji Andrijevci",
+    "shareBB": 0.4646,
+    "shareCircle": 0.4712
+  },
+  {
+    "gem_id": "HR1201180",
+    "country_id": "HR",
+    "name": "Garčin",
+    "shareBB": 0.5804,
+    "shareCircle": 0.5252
+  },
+  {
+    "gem_id": "HR1201279",
+    "country_id": "HR",
+    "name": "Gornji Bogićevci",
+    "shareBB": 0.4729,
+    "shareCircle": 0.4041
+  },
+  {
+    "gem_id": "HR1201406",
+    "country_id": "HR",
+    "name": "Gundinci",
+    "shareBB": 0.5031,
+    "shareCircle": 0.3648
+  },
+  {
+    "gem_id": "HR1201856",
+    "country_id": "HR",
+    "name": "Klakar",
+    "shareBB": 0.5264,
+    "shareCircle": 0.359
+  },
+  {
+    "gem_id": "HR1202844",
+    "country_id": "HR",
+    "name": "Nova Gradiška",
+    "shareBB": 0.6667,
+    "shareCircle": 0.4506
+  },
+  {
+    "gem_id": "HR1202852",
+    "country_id": "HR",
+    "name": "Nova Kapela",
+    "shareBB": 0.56,
+    "shareCircle": 0.4131
+  },
+  {
+    "gem_id": "HR1202992",
+    "country_id": "HR",
+    "name": "Okučani",
+    "shareBB": 0.3764,
+    "shareCircle": 0.2914
+  },
+  {
+    "gem_id": "HR1203034",
+    "country_id": "HR",
+    "name": "Oprisavci",
+    "shareBB": 0.4053,
+    "shareCircle": 0.2082
+  },
+  {
+    "gem_id": "HR1203093",
+    "country_id": "HR",
+    "name": "Oriovac",
+    "shareBB": 0.4094,
+    "shareCircle": 0.3543
+  },
+  {
+    "gem_id": "HR1203387",
+    "country_id": "HR",
+    "name": "Podcrkavlje",
+    "shareBB": 0.735,
+    "shareCircle": 0.5871
+  },
+  {
+    "gem_id": "HR1203727",
+    "country_id": "HR",
+    "name": "Rešetari",
+    "shareBB": 0.6061,
+    "shareCircle": 0.4617
+  },
+  {
+    "gem_id": "HR1203883",
+    "country_id": "HR",
+    "name": "Sibinj",
+    "shareBB": 0.5324,
+    "shareCircle": 0.4142
+  },
+  {
+    "gem_id": "HR1203964",
+    "country_id": "HR",
+    "name": "Slavonski Brod",
+    "shareBB": 0.5233,
+    "shareCircle": 0.4559
+  },
+  {
+    "gem_id": "HR1203972",
+    "country_id": "HR",
+    "name": "Slavonski Šamac",
+    "shareBB": 0.5328,
+    "shareCircle": 0.4971
+  },
+  {
+    "gem_id": "HR1204120",
+    "country_id": "HR",
+    "name": "Stara Gradiška",
+    "shareBB": 0.5433,
+    "shareCircle": 0.455
+  },
+  {
+    "gem_id": "HR1204189",
+    "country_id": "HR",
+    "name": "Staro Petrovo Selo",
+    "shareBB": 0.7196,
+    "shareCircle": 0.542
+  },
+  {
+    "gem_id": "HR1204766",
+    "country_id": "HR",
+    "name": "Velika Kopanica",
+    "shareBB": 0.4607,
+    "shareCircle": 0.4301
+  },
+  {
+    "gem_id": "HR1205061",
+    "country_id": "HR",
+    "name": "Vrbje",
+    "shareBB": 0.572,
+    "shareCircle": 0.517
+  },
+  {
+    "gem_id": "HR1205142",
+    "country_id": "HR",
+    "name": "Vrpolje",
+    "shareBB": 0.5375,
+    "shareCircle": 0.4263
+  },
+  {
+    "gem_id": "HR1205673",
+    "country_id": "HR",
+    "name": "Bukovlje",
+    "shareBB": 0.4761,
+    "shareCircle": 0.4216
+  },
+  {
+    "gem_id": "HR1205681",
+    "country_id": "HR",
+    "name": "Dragalić",
+    "shareBB": 0.5645,
+    "shareCircle": 0.4907
+  },
+  {
+    "gem_id": "HR1205690",
+    "country_id": "HR",
+    "name": "Gornja Vrba",
+    "shareBB": 0.6897,
+    "shareCircle": 0.4235
+  },
+  {
+    "gem_id": "HR1205703",
+    "country_id": "HR",
+    "name": "Sikirevci",
+    "shareBB": 0.5075,
+    "shareCircle": 0.4649
+  },
+  {
+    "gem_id": "HR1300175",
+    "country_id": "HR",
+    "name": "Benkovac",
+    "shareBB": 0.4464,
+    "shareCircle": 0.4287
+  },
+  {
+    "gem_id": "HR1300205",
+    "country_id": "HR",
+    "name": "Bibinje",
+    "shareBB": 0.3897,
+    "shareCircle": 0.3625
+  },
+  {
+    "gem_id": "HR1300221",
+    "country_id": "HR",
+    "name": "Biograd na Moru",
+    "shareBB": 0.6063,
+    "shareCircle": 0.5175
+  },
+  {
+    "gem_id": "HR1301317",
+    "country_id": "HR",
+    "name": "Gračac",
+    "shareBB": 0.5302,
+    "shareCircle": 0.5864
+  },
+  {
+    "gem_id": "HR1301678",
+    "country_id": "HR",
+    "name": "Jasenice",
+    "shareBB": 0.6731,
+    "shareCircle": 0.5363
+  },
+  {
+    "gem_id": "HR1301732",
+    "country_id": "HR",
+    "name": "Kali",
+    "shareBB": 0.4343,
+    "shareCircle": 0.4374
+  },
+  {
+    "gem_id": "HR1302348",
+    "country_id": "HR",
+    "name": "Lišane Ostrovičke",
+    "shareBB": 0.5053,
+    "shareCircle": 0.4787
+  },
+  {
+    "gem_id": "HR1302828",
+    "country_id": "HR",
+    "name": "Nin",
+    "shareBB": 0.3694,
+    "shareCircle": 0.3106
+  },
+  {
+    "gem_id": "HR1302968",
+    "country_id": "HR",
+    "name": "Obrovac",
+    "shareBB": 0.573,
+    "shareCircle": 0.483
+  },
+  {
+    "gem_id": "HR1303166",
+    "country_id": "HR",
+    "name": "Pag",
+    "shareBB": 0.1972,
+    "shareCircle": 0.1508
+  },
+  {
+    "gem_id": "HR1303174",
+    "country_id": "HR",
+    "name": "Pakoštane",
+    "shareBB": 0.3157,
+    "shareCircle": 0.3073
+  },
+  {
+    "gem_id": "HR1303204",
+    "country_id": "HR",
+    "name": "Pašman",
+    "shareBB": 0.3166,
+    "shareCircle": 0.2588
+  },
+  {
+    "gem_id": "HR1303441",
+    "country_id": "HR",
+    "name": "Polača",
+    "shareBB": 0.615,
+    "shareCircle": 0.6824
+  },
+  {
+    "gem_id": "HR1303450",
+    "country_id": "HR",
+    "name": "Poličnik",
+    "shareBB": 0.5438,
+    "shareCircle": 0.4641
+  },
+  {
+    "gem_id": "HR1303492",
+    "country_id": "HR",
+    "name": "Posedarje",
+    "shareBB": 0.5611,
+    "shareCircle": 0.5849
+  },
+  {
+    "gem_id": "HR1303549",
+    "country_id": "HR",
+    "name": "Preko",
+    "shareBB": 0.1521,
+    "shareCircle": 0.098
+  },
+  {
+    "gem_id": "HR1303719",
+    "country_id": "HR",
+    "name": "Ražanac",
+    "shareBB": 0.4354,
+    "shareCircle": 0.3899
+  },
+  {
+    "gem_id": "HR1303794",
+    "country_id": "HR",
+    "name": "Sali",
+    "shareBB": 0.0939,
+    "shareCircle": 0.0686
+  },
+  {
+    "gem_id": "HR1304111",
+    "country_id": "HR",
+    "name": "Stankovci",
+    "shareBB": 0.4936,
+    "shareCircle": 0.4079
+  },
+  {
+    "gem_id": "HR1304162",
+    "country_id": "HR",
+    "name": "Starigrad",
+    "shareBB": 0.4493,
+    "shareCircle": 0.3489
+  },
+  {
+    "gem_id": "HR1304251",
+    "country_id": "HR",
+    "name": "Sukošan",
+    "shareBB": 0.4755,
+    "shareCircle": 0.3843
+  },
+  {
+    "gem_id": "HR1304286",
+    "country_id": "HR",
+    "name": "Sveti Filip i Jakov",
+    "shareBB": 0.4959,
+    "shareCircle": 0.5255
+  },
+  {
+    "gem_id": "HR1304456",
+    "country_id": "HR",
+    "name": "Škabrnja",
+    "shareBB": 0.5669,
+    "shareCircle": 0.5881
+  },
+  {
+    "gem_id": "HR1304898",
+    "country_id": "HR",
+    "name": "Vir",
+    "shareBB": 0.4812,
+    "shareCircle": 0.2478
+  },
+  {
+    "gem_id": "HR1305207",
+    "country_id": "HR",
+    "name": "Zadar",
+    "shareBB": 0.065,
+    "shareCircle": 0.0478
+  },
+  {
+    "gem_id": "HR1305258",
+    "country_id": "HR",
+    "name": "Zemunik Donji",
+    "shareBB": 0.5296,
+    "shareCircle": 0.4658
+  },
+  {
+    "gem_id": "HR1305371",
+    "country_id": "HR",
+    "name": "Novigrad",
+    "shareBB": 0.5729,
+    "shareCircle": 0.5693
+  },
+  {
+    "gem_id": "HR1305711",
+    "country_id": "HR",
+    "name": "Galovac",
+    "shareBB": 0.4912,
+    "shareCircle": 0.4673
+  },
+  {
+    "gem_id": "HR1305720",
+    "country_id": "HR",
+    "name": "Kukljica",
+    "shareBB": 0.386,
+    "shareCircle": 0.3045
+  },
+  {
+    "gem_id": "HR1305738",
+    "country_id": "HR",
+    "name": "Povljana",
+    "shareBB": 0.5011,
+    "shareCircle": 0.4002
+  },
+  {
+    "gem_id": "HR1305746",
+    "country_id": "HR",
+    "name": "Privlaka",
+    "shareBB": 0.5742,
+    "shareCircle": 0.6354
+  },
+  {
+    "gem_id": "HR1305754",
+    "country_id": "HR",
+    "name": "Tkon",
+    "shareBB": 0.2817,
+    "shareCircle": 0.2275
+  },
+  {
+    "gem_id": "HR1306220",
+    "country_id": "HR",
+    "name": "Kolan",
+    "shareBB": 0.5276,
+    "shareCircle": 0.5488
+  },
+  {
+    "gem_id": "HR1306254",
+    "country_id": "HR",
+    "name": "Vrsi",
+    "shareBB": 0.4147,
+    "shareCircle": 0.3546
+  },
+  {
+    "gem_id": "HR1400027",
+    "country_id": "HR",
+    "name": "Antunovac",
+    "shareBB": 0.5692,
+    "shareCircle": 0.4175
+  },
+  {
+    "gem_id": "HR1400132",
+    "country_id": "HR",
+    "name": "Beli Manastir",
+    "shareBB": 0.586,
+    "shareCircle": 0.4372
+  },
+  {
+    "gem_id": "HR1400167",
+    "country_id": "HR",
+    "name": "Belišće",
+    "shareBB": 0.4127,
+    "shareCircle": 0.3326
+  },
+  {
+    "gem_id": "HR1400213",
+    "country_id": "HR",
+    "name": "Bilje",
+    "shareBB": 0.5813,
+    "shareCircle": 0.6229
+  },
+  {
+    "gem_id": "HR1400230",
+    "country_id": "HR",
+    "name": "Bizovac",
+    "shareBB": 0.6727,
+    "shareCircle": 0.5572
+  },
+  {
+    "gem_id": "HR1400647",
+    "country_id": "HR",
+    "name": "Čeminac",
+    "shareBB": 0.506,
+    "shareCircle": 0.4326
+  },
+  {
+    "gem_id": "HR1400655",
+    "country_id": "HR",
+    "name": "Čepin",
+    "shareBB": 0.5345,
+    "shareCircle": 0.5418
+  },
+  {
+    "gem_id": "HR1400663",
+    "country_id": "HR",
+    "name": "Darda",
+    "shareBB": 0.5809,
+    "shareCircle": 0.5378
+  },
+  {
+    "gem_id": "HR1400868",
+    "country_id": "HR",
+    "name": "Donji Miholjac",
+    "shareBB": 0.5361,
+    "shareCircle": 0.4897
+  },
+  {
+    "gem_id": "HR1400914",
+    "country_id": "HR",
+    "name": "Draž",
+    "shareBB": 0.4656,
+    "shareCircle": 0.352
+  },
+  {
+    "gem_id": "HR1400949",
+    "country_id": "HR",
+    "name": "Drenje",
+    "shareBB": 0.5858,
+    "shareCircle": 0.5158
+  },
+  {
+    "gem_id": "HR1401031",
+    "country_id": "HR",
+    "name": "Đakovo",
+    "shareBB": 0.4098,
+    "shareCircle": 0.3812
+  },
+  {
+    "gem_id": "HR1401066",
+    "country_id": "HR",
+    "name": "Đurđenovac",
+    "shareBB": 0.5151,
+    "shareCircle": 0.4669
+  },
+  {
+    "gem_id": "HR1401104",
+    "country_id": "HR",
+    "name": "Erdut",
+    "shareBB": 0.4611,
+    "shareCircle": 0.3615
+  },
+  {
+    "gem_id": "HR1401112",
+    "country_id": "HR",
+    "name": "Ernestinovo",
+    "shareBB": 0.5124,
+    "shareCircle": 0.4829
+  },
+  {
+    "gem_id": "HR1401163",
+    "country_id": "HR",
+    "name": "Feričanci",
+    "shareBB": 0.3268,
+    "shareCircle": 0.293
+  },
+  {
+    "gem_id": "HR1401244",
+    "country_id": "HR",
+    "name": "Gorjani",
+    "shareBB": 0.6036,
+    "shareCircle": 0.4717
+  },
+  {
+    "gem_id": "HR1401953",
+    "country_id": "HR",
+    "name": "Kneževi Vinogradi",
+    "shareBB": 0.5101,
+    "shareCircle": 0.4107
+  },
+  {
+    "gem_id": "HR1402054",
+    "country_id": "HR",
+    "name": "Koška",
+    "shareBB": 0.6694,
+    "shareCircle": 0.5368
+  },
+  {
+    "gem_id": "HR1402305",
+    "country_id": "HR",
+    "name": "Levanjska Varoš",
+    "shareBB": 0.4855,
+    "shareCircle": 0.4841
+  },
+  {
+    "gem_id": "HR1402577",
+    "country_id": "HR",
+    "name": "Marijanci",
+    "shareBB": 0.5644,
+    "shareCircle": 0.3131
+  },
+  {
+    "gem_id": "HR1402712",
+    "country_id": "HR",
+    "name": "Podravska Moslavina",
+    "shareBB": 0.5521,
+    "shareCircle": 0.5029
+  },
+  {
+    "gem_id": "HR1402780",
+    "country_id": "HR",
+    "name": "Našice",
+    "shareBB": 0.4642,
+    "shareCircle": 0.3823
+  },
+  {
+    "gem_id": "HR1403123",
+    "country_id": "HR",
+    "name": "Osijek",
+    "shareBB": 0.4704,
+    "shareCircle": 0.331
+  },
+  {
+    "gem_id": "HR1403255",
+    "country_id": "HR",
+    "name": "Petlovac",
+    "shareBB": 0.3571,
+    "shareCircle": 0.2721
+  },
+  {
+    "gem_id": "HR1403271",
+    "country_id": "HR",
+    "name": "Petrijevci",
+    "shareBB": 0.3405,
+    "shareCircle": 0.3945
+  },
+  {
+    "gem_id": "HR1403409",
+    "country_id": "HR",
+    "name": "Podgorač",
+    "shareBB": 0.4288,
+    "shareCircle": 0.2954
+  },
+  {
+    "gem_id": "HR1403468",
+    "country_id": "HR",
+    "name": "Popovac",
+    "shareBB": 0.6241,
+    "shareCircle": 0.6101
+  },
+  {
+    "gem_id": "HR1403611",
+    "country_id": "HR",
+    "name": "Punitovci",
+    "shareBB": 0.4427,
+    "shareCircle": 0.2905
+  },
+  {
+    "gem_id": "HR1403816",
+    "country_id": "HR",
+    "name": "Satnica Đakovačka",
+    "shareBB": 0.4949,
+    "shareCircle": 0.3041
+  },
+  {
+    "gem_id": "HR1403867",
+    "country_id": "HR",
+    "name": "Semeljci",
+    "shareBB": 0.5503,
+    "shareCircle": 0.5245
+  },
+  {
+    "gem_id": "HR1404219",
+    "country_id": "HR",
+    "name": "Strizivojna",
+    "shareBB": 0.5193,
+    "shareCircle": 0.3428
+  },
+  {
+    "gem_id": "HR1404618",
+    "country_id": "HR",
+    "name": "Trnava",
+    "shareBB": 0.5119,
+    "shareCircle": 0.4519
+  },
+  {
+    "gem_id": "HR1404715",
+    "country_id": "HR",
+    "name": "Valpovo",
+    "shareBB": 0.3616,
+    "shareCircle": 0.3061
+  },
+  {
+    "gem_id": "HR1404855",
+    "country_id": "HR",
+    "name": "Viljevo",
+    "shareBB": 0.6471,
+    "shareCircle": 0.6177
+  },
+  {
+    "gem_id": "HR1404944",
+    "country_id": "HR",
+    "name": "Viškovci",
+    "shareBB": 0.5977,
+    "shareCircle": 0.5764
+  },
+  {
+    "gem_id": "HR1405177",
+    "country_id": "HR",
+    "name": "Vuka",
+    "shareBB": 0.4871,
+    "shareCircle": 0.5325
+  },
+  {
+    "gem_id": "HR1405762",
+    "country_id": "HR",
+    "name": "Donja Motičina",
+    "shareBB": 0.4571,
+    "shareCircle": 0.3512
+  },
+  {
+    "gem_id": "HR1405789",
+    "country_id": "HR",
+    "name": "Magadenovac",
+    "shareBB": 0.4941,
+    "shareCircle": 0.3382
+  },
+  {
+    "gem_id": "HR1405797",
+    "country_id": "HR",
+    "name": "Vladislavci",
+    "shareBB": 0.4398,
+    "shareCircle": 0.487
+  },
+  {
+    "gem_id": "HR1406092",
+    "country_id": "HR",
+    "name": "Jagodnjak",
+    "shareBB": 0.6262,
+    "shareCircle": 0.6459
+  },
+  {
+    "gem_id": "HR1406149",
+    "country_id": "HR",
+    "name": "Šodolovci",
+    "shareBB": 0.3084,
+    "shareCircle": 0.2559
+  },
+  {
+    "gem_id": "HR1500515",
+    "country_id": "HR",
+    "name": "Civljane",
+    "shareBB": 0.417,
+    "shareCircle": 0.3855
+  },
+  {
+    "gem_id": "HR1500957",
+    "country_id": "HR",
+    "name": "Drniš",
+    "shareBB": 0.4589,
+    "shareCircle": 0.3823
+  },
+  {
+    "gem_id": "HR1501139",
+    "country_id": "HR",
+    "name": "Ervenik",
+    "shareBB": 0.4768,
+    "shareCircle": 0.4926
+  },
+  {
+    "gem_id": "HR1501830",
+    "country_id": "HR",
+    "name": "Kijevo",
+    "shareBB": 0.6157,
+    "shareCircle": 0.3712
+  },
+  {
+    "gem_id": "HR1501848",
+    "country_id": "HR",
+    "name": "Kistanje",
+    "shareBB": 0.5597,
+    "shareCircle": 0.5958
+  },
+  {
+    "gem_id": "HR1501961",
+    "country_id": "HR",
+    "name": "Knin",
+    "shareBB": 0.4424,
+    "shareCircle": 0.441
+  },
+  {
+    "gem_id": "HR1502984",
+    "country_id": "HR",
+    "name": "Promina",
+    "shareBB": 0.6296,
+    "shareCircle": 0.5711
+  },
+  {
+    "gem_id": "HR1503107",
+    "country_id": "HR",
+    "name": "Biskupija",
+    "shareBB": 0.5875,
+    "shareCircle": 0.5579
+  },
+  {
+    "gem_id": "HR1503573",
+    "country_id": "HR",
+    "name": "Primošten",
+    "shareBB": 0.5087,
+    "shareCircle": 0.3173
+  },
+  {
+    "gem_id": "HR1503778",
+    "country_id": "HR",
+    "name": "Ružić",
+    "shareBB": 0.4939,
+    "shareCircle": 0.4838
+  },
+  {
+    "gem_id": "HR1503948",
+    "country_id": "HR",
+    "name": "Skradin",
+    "shareBB": 0.6386,
+    "shareCircle": 0.4509
+  },
+  {
+    "gem_id": "HR1504448",
+    "country_id": "HR",
+    "name": "Šibenik",
+    "shareBB": 0.3539,
+    "shareCircle": 0.2545
+  },
+  {
+    "gem_id": "HR1504545",
+    "country_id": "HR",
+    "name": "Tisno",
+    "shareBB": 0.2119,
+    "shareCircle": 0.1935
+  },
+  {
+    "gem_id": "HR1504693",
+    "country_id": "HR",
+    "name": "Unešić",
+    "shareBB": 0.6011,
+    "shareCircle": 0.4161
+  },
+  {
+    "gem_id": "HR1505002",
+    "country_id": "HR",
+    "name": "Vodice",
+    "shareBB": 0.3271,
+    "shareCircle": 0.1778
+  },
+  {
+    "gem_id": "HR1505819",
+    "country_id": "HR",
+    "name": "Pirovac",
+    "shareBB": 0.4592,
+    "shareCircle": 0.5235
+  },
+  {
+    "gem_id": "HR1505827",
+    "country_id": "HR",
+    "name": "Rogoznica",
+    "shareBB": 0.415,
+    "shareCircle": 0.3125
+  },
+  {
+    "gem_id": "HR1506173",
+    "country_id": "HR",
+    "name": "Murter - Kornati",
+    "shareBB": 0.0845,
+    "shareCircle": 0.0722
+  },
+  {
+    "gem_id": "HR1506211",
+    "country_id": "HR",
+    "name": "Bilice",
+    "shareBB": 0.5808,
+    "shareCircle": 0.6242
+  },
+  {
+    "gem_id": "HR1506262",
+    "country_id": "HR",
+    "name": "Tribunj",
+    "shareBB": 0.2625,
+    "shareCircle": 0.1555
+  },
+  {
+    "gem_id": "HR1600019",
+    "country_id": "HR",
+    "name": "Andrijaševci",
+    "shareBB": 0.7125,
+    "shareCircle": 0.596
+  },
+  {
+    "gem_id": "HR1600035",
+    "country_id": "HR",
+    "name": "Babina Greda",
+    "shareBB": 0.5601,
+    "shareCircle": 0.509
+  },
+  {
+    "gem_id": "HR1600264",
+    "country_id": "HR",
+    "name": "Bogdanovci",
+    "shareBB": 0.3994,
+    "shareCircle": 0.2901
+  },
+  {
+    "gem_id": "HR1600299",
+    "country_id": "HR",
+    "name": "Borovo",
+    "shareBB": 0.6069,
+    "shareCircle": 0.4878
+  },
+  {
+    "gem_id": "HR1600329",
+    "country_id": "HR",
+    "name": "Bošnjaci",
+    "shareBB": 0.6471,
+    "shareCircle": 0.6543
+  },
+  {
+    "gem_id": "HR1600442",
+    "country_id": "HR",
+    "name": "Cerna",
+    "shareBB": 0.4232,
+    "shareCircle": 0.3417
+  },
+  {
+    "gem_id": "HR1600922",
+    "country_id": "HR",
+    "name": "Drenovci",
+    "shareBB": 0.432,
+    "shareCircle": 0.3833
+  },
+  {
+    "gem_id": "HR1601376",
+    "country_id": "HR",
+    "name": "Gradište",
+    "shareBB": 0.565,
+    "shareCircle": 0.5051
+  },
+  {
+    "gem_id": "HR1601414",
+    "country_id": "HR",
+    "name": "Gunja",
+    "shareBB": 0.6183,
+    "shareCircle": 0.4681
+  },
+  {
+    "gem_id": "HR1601546",
+    "country_id": "HR",
+    "name": "Ilok",
+    "shareBB": 0.5048,
+    "shareCircle": 0.335
+  },
+  {
+    "gem_id": "HR1601597",
+    "country_id": "HR",
+    "name": "Ivankovo",
+    "shareBB": 0.5052,
+    "shareCircle": 0.3861
+  },
+  {
+    "gem_id": "HR1601660",
+    "country_id": "HR",
+    "name": "Jarmina",
+    "shareBB": 0.6089,
+    "shareCircle": 0.4554
+  },
+  {
+    "gem_id": "HR1602399",
+    "country_id": "HR",
+    "name": "Lovas",
+    "shareBB": 0.5363,
+    "shareCircle": 0.4429
+  },
+  {
+    "gem_id": "HR1602941",
+    "country_id": "HR",
+    "name": "Nuštar",
+    "shareBB": 0.5747,
+    "shareCircle": 0.5651
+  },
+  {
+    "gem_id": "HR1602950",
+    "country_id": "HR",
+    "name": "Nijemci",
+    "shareBB": 0.4601,
+    "shareCircle": 0.3973
+  },
+  {
+    "gem_id": "HR1604146",
+    "country_id": "HR",
+    "name": "Stari Jankovci",
+    "shareBB": 0.6005,
+    "shareCircle": 0.5142
+  },
+  {
+    "gem_id": "HR1604154",
+    "country_id": "HR",
+    "name": "Stari Mikanovci",
+    "shareBB": 0.6098,
+    "shareCircle": 0.4933
+  },
+  {
+    "gem_id": "HR1604561",
+    "country_id": "HR",
+    "name": "Tompojevci",
+    "shareBB": 0.5642,
+    "shareCircle": 0.6272
+  },
+  {
+    "gem_id": "HR1604588",
+    "country_id": "HR",
+    "name": "Tordinci",
+    "shareBB": 0.5621,
+    "shareCircle": 0.3526
+  },
+  {
+    "gem_id": "HR1604596",
+    "country_id": "HR",
+    "name": "Tovarnik",
+    "shareBB": 0.6774,
+    "shareCircle": 0.6961
+  },
+  {
+    "gem_id": "HR1604642",
+    "country_id": "HR",
+    "name": "Trpinja",
+    "shareBB": 0.5748,
+    "shareCircle": 0.5665
+  },
+  {
+    "gem_id": "HR1604871",
+    "country_id": "HR",
+    "name": "Vinkovci",
+    "shareBB": 0.5907,
+    "shareCircle": 0.6207
+  },
+  {
+    "gem_id": "HR1605053",
+    "country_id": "HR",
+    "name": "Vrbanja",
+    "shareBB": 0.4812,
+    "shareCircle": 0.4272
+  },
+  {
+    "gem_id": "HR1605185",
+    "country_id": "HR",
+    "name": "Vukovar",
+    "shareBB": 0.3508,
+    "shareCircle": 0.2203
+  },
+  {
+    "gem_id": "HR1605347",
+    "country_id": "HR",
+    "name": "Županja",
+    "shareBB": 0.4814,
+    "shareCircle": 0.4079
+  },
+  {
+    "gem_id": "HR1605355",
+    "country_id": "HR",
+    "name": "Otok",
+    "shareBB": 0.6244,
+    "shareCircle": 0.5313
+  },
+  {
+    "gem_id": "HR1605835",
+    "country_id": "HR",
+    "name": "Privlaka",
+    "shareBB": 0.5254,
+    "shareCircle": 0.5817
+  },
+  {
+    "gem_id": "HR1605843",
+    "country_id": "HR",
+    "name": "Vođinci",
+    "shareBB": 0.5394,
+    "shareCircle": 0.3334
+  },
+  {
+    "gem_id": "HR1606106",
+    "country_id": "HR",
+    "name": "Markušica",
+    "shareBB": 0.4838,
+    "shareCircle": 0.3582
+  },
+  {
+    "gem_id": "HR1606122",
+    "country_id": "HR",
+    "name": "Negoslavci",
+    "shareBB": 0.6543,
+    "shareCircle": 0.6838
+  },
+  {
+    "gem_id": "HR1606289",
+    "country_id": "HR",
+    "name": "Štitar",
+    "shareBB": 0.5838,
+    "shareCircle": 0.5017
+  },
+  {
+    "gem_id": "HR1700094",
+    "country_id": "HR",
+    "name": "Baška Voda",
+    "shareBB": 0.4815,
+    "shareCircle": 0.576
+  },
+  {
+    "gem_id": "HR1700272",
+    "country_id": "HR",
+    "name": "Bol",
+    "shareBB": 0.4309,
+    "shareCircle": 0.096
+  },
+  {
+    "gem_id": "HR1700507",
+    "country_id": "HR",
+    "name": "Cista Provo",
+    "shareBB": 0.4553,
+    "shareCircle": 0.3536
+  },
+  {
+    "gem_id": "HR1700728",
+    "country_id": "HR",
+    "name": "Dicmo",
+    "shareBB": 0.5123,
+    "shareCircle": 0.538
+  },
+  {
+    "gem_id": "HR1700779",
+    "country_id": "HR",
+    "name": "Brela",
+    "shareBB": 0.5904,
+    "shareCircle": 0.6704
+  },
+  {
+    "gem_id": "HR1700876",
+    "country_id": "HR",
+    "name": "Muć",
+    "shareBB": 0.5679,
+    "shareCircle": 0.6283
+  },
+  {
+    "gem_id": "HR1700884",
+    "country_id": "HR",
+    "name": "Proložac",
+    "shareBB": 0.443,
+    "shareCircle": 0.409
+  },
+  {
+    "gem_id": "HR1701007",
+    "country_id": "HR",
+    "name": "Dugi Rat",
+    "shareBB": 0.3413,
+    "shareCircle": 0.1953
+  },
+  {
+    "gem_id": "HR1701341",
+    "country_id": "HR",
+    "name": "Gradac",
+    "shareBB": 0.3311,
+    "shareCircle": 0.2813
+  },
+  {
+    "gem_id": "HR1701481",
+    "country_id": "HR",
+    "name": "Hrvace",
+    "shareBB": 0.5797,
+    "shareCircle": 0.676
+  },
+  {
+    "gem_id": "HR1701538",
+    "country_id": "HR",
+    "name": "Hvar",
+    "shareBB": 0.3605,
+    "shareCircle": 0.1382
+  },
+  {
+    "gem_id": "HR1701554",
+    "country_id": "HR",
+    "name": "Imotski",
+    "shareBB": 0.6446,
+    "shareCircle": 0.6132
+  },
+  {
+    "gem_id": "HR1701716",
+    "country_id": "HR",
+    "name": "Jelsa",
+    "shareBB": 0.3381,
+    "shareCircle": 0.1721
+  },
+  {
+    "gem_id": "HR1701813",
+    "country_id": "HR",
+    "name": "Kaštela",
+    "shareBB": 0.4057,
+    "shareCircle": 0.241
+  },
+  {
+    "gem_id": "HR1701929",
+    "country_id": "HR",
+    "name": "Klis",
+    "shareBB": 0.457,
+    "shareCircle": 0.3567
+  },
+  {
+    "gem_id": "HR1701970",
+    "country_id": "HR",
+    "name": "Komiža",
+    "shareBB": 0.0131,
+    "shareCircle": 0.009
+  },
+  {
+    "gem_id": "HR1702437",
+    "country_id": "HR",
+    "name": "Lovreć",
+    "shareBB": 0.4706,
+    "shareCircle": 0.4085
+  },
+  {
+    "gem_id": "HR1702496",
+    "country_id": "HR",
+    "name": "Makarska",
+    "shareBB": 0.5334,
+    "shareCircle": 0.5614
+  },
+  {
+    "gem_id": "HR1702585",
+    "country_id": "HR",
+    "name": "Marina",
+    "shareBB": 0.5445,
+    "shareCircle": 0.4518
+  },
+  {
+    "gem_id": "HR1702674",
+    "country_id": "HR",
+    "name": "Milna",
+    "shareBB": 0.5926,
+    "shareCircle": 0.502
+  },
+  {
+    "gem_id": "HR1702801",
+    "country_id": "HR",
+    "name": "Nerežišća",
+    "shareBB": 0.6381,
+    "shareCircle": 0.5891
+  },
+  {
+    "gem_id": "HR1703000",
+    "country_id": "HR",
+    "name": "Omiš",
+    "shareBB": 0.6416,
+    "shareCircle": 0.5391
+  },
+  {
+    "gem_id": "HR1703140",
+    "country_id": "HR",
+    "name": "Otok",
+    "shareBB": 0.5119,
+    "shareCircle": 0.4887
+  },
+  {
+    "gem_id": "HR1703379",
+    "country_id": "HR",
+    "name": "Podbablje",
+    "shareBB": 0.6056,
+    "shareCircle": 0.4766
+  },
+  {
+    "gem_id": "HR1703395",
+    "country_id": "HR",
+    "name": "Podgora",
+    "shareBB": 0.4222,
+    "shareCircle": 0.4236
+  },
+  {
+    "gem_id": "HR1703417",
+    "country_id": "HR",
+    "name": "Podstrana",
+    "shareBB": 0.4212,
+    "shareCircle": 0.3587
+  },
+  {
+    "gem_id": "HR1703506",
+    "country_id": "HR",
+    "name": "Postira",
+    "shareBB": 0.6946,
+    "shareCircle": 0.4611
+  },
+  {
+    "gem_id": "HR1703581",
+    "country_id": "HR",
+    "name": "Pučišća",
+    "shareBB": 0.7374,
+    "shareCircle": 0.5509
+  },
+  {
+    "gem_id": "HR1703824",
+    "country_id": "HR",
+    "name": "Seget",
+    "shareBB": 0.4558,
+    "shareCircle": 0.3596
+  },
+  {
+    "gem_id": "HR1703832",
+    "country_id": "HR",
+    "name": "Selca",
+    "shareBB": 0.624,
+    "shareCircle": 0.633
+  },
+  {
+    "gem_id": "HR1703891",
+    "country_id": "HR",
+    "name": "Sinj",
+    "shareBB": 0.3369,
+    "shareCircle": 0.3887
+  },
+  {
+    "gem_id": "HR1704065",
+    "country_id": "HR",
+    "name": "Solin",
+    "shareBB": 0.4171,
+    "shareCircle": 0.3087
+  },
+  {
+    "gem_id": "HR1704090",
+    "country_id": "HR",
+    "name": "Split",
+    "shareBB": 0.3124,
+    "shareCircle": 0.1282
+  },
+  {
+    "gem_id": "HR1704138",
+    "country_id": "HR",
+    "name": "Stari Grad",
+    "shareBB": 0.4762,
+    "shareCircle": 0.4242
+  },
+  {
+    "gem_id": "HR1704235",
+    "country_id": "HR",
+    "name": "Sućuraj",
+    "shareBB": 0.6276,
+    "shareCircle": 0.1663
+  },
+  {
+    "gem_id": "HR1704278",
+    "country_id": "HR",
+    "name": "Supetar",
+    "shareBB": 0.6711,
+    "shareCircle": 0.431
+  },
+  {
+    "gem_id": "HR1704430",
+    "country_id": "HR",
+    "name": "Šestanovac",
+    "shareBB": 0.4538,
+    "shareCircle": 0.3794
+  },
+  {
+    "gem_id": "HR1704472",
+    "country_id": "HR",
+    "name": "Šolta",
+    "shareBB": 0.3543,
+    "shareCircle": 0.1838
+  },
+  {
+    "gem_id": "HR1704600",
+    "country_id": "HR",
+    "name": "Trilj",
+    "shareBB": 0.5391,
+    "shareCircle": 0.4798
+  },
+  {
+    "gem_id": "HR1704634",
+    "country_id": "HR",
+    "name": "Trogir",
+    "shareBB": 0.1186,
+    "shareCircle": 0.1011
+  },
+  {
+    "gem_id": "HR1704928",
+    "country_id": "HR",
+    "name": "Vis",
+    "shareBB": 0.6507,
+    "shareCircle": 0.5355
+  },
+  {
+    "gem_id": "HR1705118",
+    "country_id": "HR",
+    "name": "Vrgorac",
+    "shareBB": 0.5299,
+    "shareCircle": 0.4137
+  },
+  {
+    "gem_id": "HR1705134",
+    "country_id": "HR",
+    "name": "Vrlika",
+    "shareBB": 0.5077,
+    "shareCircle": 0.5695
+  },
+  {
+    "gem_id": "HR1705223",
+    "country_id": "HR",
+    "name": "Zagvozd",
+    "shareBB": 0.4923,
+    "shareCircle": 0.4875
+  },
+  {
+    "gem_id": "HR1705282",
+    "country_id": "HR",
+    "name": "Zmijavci",
+    "shareBB": 0.6068,
+    "shareCircle": 0.5021
+  },
+  {
+    "gem_id": "HR1705851",
+    "country_id": "HR",
+    "name": "Dugopolje",
+    "shareBB": 0.5436,
+    "shareCircle": 0.4689
+  },
+  {
+    "gem_id": "HR1705860",
+    "country_id": "HR",
+    "name": "Lećevica",
+    "shareBB": 0.5453,
+    "shareCircle": 0.479
+  },
+  {
+    "gem_id": "HR1705878",
+    "country_id": "HR",
+    "name": "Lokvičići",
+    "shareBB": 0.5325,
+    "shareCircle": 0.4254
+  },
+  {
+    "gem_id": "HR1705886",
+    "country_id": "HR",
+    "name": "Okrug",
+    "shareBB": 0.3273,
+    "shareCircle": 0.2045
+  },
+  {
+    "gem_id": "HR1705894",
+    "country_id": "HR",
+    "name": "Prgomet",
+    "shareBB": 0.3987,
+    "shareCircle": 0.3143
+  },
+  {
+    "gem_id": "HR1705908",
+    "country_id": "HR",
+    "name": "Primorski Dolac",
+    "shareBB": 0.7502,
+    "shareCircle": 0.4515
+  },
+  {
+    "gem_id": "HR1705916",
+    "country_id": "HR",
+    "name": "Runovići",
+    "shareBB": 0.4848,
+    "shareCircle": 0.4873
+  },
+  {
+    "gem_id": "HR1705924",
+    "country_id": "HR",
+    "name": "Sutivan",
+    "shareBB": 0.7205,
+    "shareCircle": 0.445
+  },
+  {
+    "gem_id": "HR1705932",
+    "country_id": "HR",
+    "name": "Tučepi",
+    "shareBB": 0.5577,
+    "shareCircle": 0.5789
+  },
+  {
+    "gem_id": "HR1705959",
+    "country_id": "HR",
+    "name": "Zadvarje",
+    "shareBB": 0.4186,
+    "shareCircle": 0.3697
+  },
+  {
+    "gem_id": "HR1800051",
+    "country_id": "HR",
+    "name": "Bale#Valle",
+    "shareBB": 0.6037,
+    "shareCircle": 0.5639
+  },
+  {
+    "gem_id": "HR1800060",
+    "country_id": "HR",
+    "name": "Barban",
+    "shareBB": 0.5486,
+    "shareCircle": 0.3937
+  },
+  {
+    "gem_id": "HR1800400",
+    "country_id": "HR",
+    "name": "Brtonigla#Verteneglio",
+    "shareBB": 0.5168,
+    "shareCircle": 0.3918
+  },
+  {
+    "gem_id": "HR1800426",
+    "country_id": "HR",
+    "name": "Buje#Buie",
+    "shareBB": 0.3322,
+    "shareCircle": 0.2854
+  },
+  {
+    "gem_id": "HR1800434",
+    "country_id": "HR",
+    "name": "Buzet",
+    "shareBB": 0.614,
+    "shareCircle": 0.5679
+  },
+  {
+    "gem_id": "HR1800477",
+    "country_id": "HR",
+    "name": "Cerovlje",
+    "shareBB": 0.5269,
+    "shareCircle": 0.5369
+  },
+  {
+    "gem_id": "HR1801325",
+    "country_id": "HR",
+    "name": "Gračišće",
+    "shareBB": 0.4539,
+    "shareCircle": 0.4425
+  },
+  {
+    "gem_id": "HR1801384",
+    "country_id": "HR",
+    "name": "Grožnjan#Grisignana",
+    "shareBB": 0.468,
+    "shareCircle": 0.3505
+  },
+  {
+    "gem_id": "HR1801759",
+    "country_id": "HR",
+    "name": "Kanfanar",
+    "shareBB": 0.681,
+    "shareCircle": 0.5266
+  },
+  {
+    "gem_id": "HR1802178",
+    "country_id": "HR",
+    "name": "Kršan",
+    "shareBB": 0.6032,
+    "shareCircle": 0.4519
+  },
+  {
+    "gem_id": "HR1802224",
+    "country_id": "HR",
+    "name": "Labin",
+    "shareBB": 0.5201,
+    "shareCircle": 0.4455
+  },
+  {
+    "gem_id": "HR1802232",
+    "country_id": "HR",
+    "name": "Lanišće",
+    "shareBB": 0.411,
+    "shareCircle": 0.3413
+  },
+  {
+    "gem_id": "HR1802356",
+    "country_id": "HR",
+    "name": "Ližnjan#Lisignano",
+    "shareBB": 0.4883,
+    "shareCircle": 0.3766
+  },
+  {
+    "gem_id": "HR1802461",
+    "country_id": "HR",
+    "name": "Lupoglav",
+    "shareBB": 0.5839,
+    "shareCircle": 0.5566
+  },
+  {
+    "gem_id": "HR1802542",
+    "country_id": "HR",
+    "name": "Marčana",
+    "shareBB": 0.5596,
+    "shareCircle": 0.5048
+  },
+  {
+    "gem_id": "HR1802631",
+    "country_id": "HR",
+    "name": "Medulin",
+    "shareBB": 0.3474,
+    "shareCircle": 0.3399
+  },
+  {
+    "gem_id": "HR1802747",
+    "country_id": "HR",
+    "name": "Motovun#Montona",
+    "shareBB": 0.4575,
+    "shareCircle": 0.377
+  },
+  {
+    "gem_id": "HR1802917",
+    "country_id": "HR",
+    "name": "Novigrad#Cittanova",
+    "shareBB": 0.5806,
+    "shareCircle": 0.4107
+  },
+  {
+    "gem_id": "HR1803042",
+    "country_id": "HR",
+    "name": "Oprtalj#Portole",
+    "shareBB": 0.6543,
+    "shareCircle": 0.553
+  },
+  {
+    "gem_id": "HR1803212",
+    "country_id": "HR",
+    "name": "Pazin",
+    "shareBB": 0.543,
+    "shareCircle": 0.4853
+  },
+  {
+    "gem_id": "HR1803301",
+    "country_id": "HR",
+    "name": "Pićan",
+    "shareBB": 0.5378,
+    "shareCircle": 0.3561
+  },
+  {
+    "gem_id": "HR1803484",
+    "country_id": "HR",
+    "name": "Poreč#Parenzo",
+    "shareBB": 0.5261,
+    "shareCircle": 0.4268
+  },
+  {
+    "gem_id": "HR1803590",
+    "country_id": "HR",
+    "name": "Pula#Pola",
+    "shareBB": 0.2737,
+    "shareCircle": 0.2069
+  },
+  {
+    "gem_id": "HR1803689",
+    "country_id": "HR",
+    "name": "Raša",
+    "shareBB": 0.3845,
+    "shareCircle": 0.3474
+  },
+  {
+    "gem_id": "HR1803743",
+    "country_id": "HR",
+    "name": "Rovinj#Rovigno",
+    "shareBB": 0.6131,
+    "shareCircle": 0.5093
+  },
+  {
+    "gem_id": "HR1804316",
+    "country_id": "HR",
+    "name": "Sveti Lovreč",
+    "shareBB": 0.5451,
+    "shareCircle": 0.6109
+  },
+  {
+    "gem_id": "HR1804324",
+    "country_id": "HR",
+    "name": "Sveta Nedelja",
+    "shareBB": 0.5249,
+    "shareCircle": 0.4644
+  },
+  {
+    "gem_id": "HR1804332",
+    "country_id": "HR",
+    "name": "Sveti Petar u Šumi",
+    "shareBB": 0.6829,
+    "shareCircle": 0.5226
+  },
+  {
+    "gem_id": "HR1804359",
+    "country_id": "HR",
+    "name": "Svetvinčenat",
+    "shareBB": 0.6838,
+    "shareCircle": 0.5956
+  },
+  {
+    "gem_id": "HR1804537",
+    "country_id": "HR",
+    "name": "Tinjan",
+    "shareBB": 0.688,
+    "shareCircle": 0.4967
+  },
+  {
+    "gem_id": "HR1804685",
+    "country_id": "HR",
+    "name": "Umag#Umago",
+    "shareBB": 0.5637,
+    "shareCircle": 0.4573
+  },
+  {
+    "gem_id": "HR1804979",
+    "country_id": "HR",
+    "name": "Višnjan#Visignano",
+    "shareBB": 0.6591,
+    "shareCircle": 0.6146
+  },
+  {
+    "gem_id": "HR1804987",
+    "country_id": "HR",
+    "name": "Vižinada#Visinada",
+    "shareBB": 0.6566,
+    "shareCircle": 0.5155
+  },
+  {
+    "gem_id": "HR1805029",
+    "country_id": "HR",
+    "name": "Vodnjan#Dignano",
+    "shareBB": 0.5105,
+    "shareCircle": 0.5134
+  },
+  {
+    "gem_id": "HR1805169",
+    "country_id": "HR",
+    "name": "Vrsar#Orsera",
+    "shareBB": 0.6002,
+    "shareCircle": 0.3504
+  },
+  {
+    "gem_id": "HR1805312",
+    "country_id": "HR",
+    "name": "Žminj",
+    "shareBB": 0.7086,
+    "shareCircle": 0.5367
+  },
+  {
+    "gem_id": "HR1805967",
+    "country_id": "HR",
+    "name": "Karojba",
+    "shareBB": 0.5118,
+    "shareCircle": 0.4549
+  },
+  {
+    "gem_id": "HR1805975",
+    "country_id": "HR",
+    "name": "Kaštelir-Labinci#Castelliere-S. Domenica",
+    "shareBB": 0.6759,
+    "shareCircle": 0.5361
+  },
+  {
+    "gem_id": "HR1806190",
+    "country_id": "HR",
+    "name": "Fažana#Fasana",
+    "shareBB": 0.4997,
+    "shareCircle": 0.4414
+  },
+  {
+    "gem_id": "HR1806297",
+    "country_id": "HR",
+    "name": "Funtana#Fontane",
+    "shareBB": 0.5202,
+    "shareCircle": 0.3366
+  },
+  {
+    "gem_id": "HR1806319",
+    "country_id": "HR",
+    "name": "Tar-Vabriga#Torre-Abrega",
+    "shareBB": 0.4934,
+    "shareCircle": 0.4563
+  },
+  {
+    "gem_id": "HR1900256",
+    "country_id": "HR",
+    "name": "Blato",
+    "shareBB": 0.5041,
+    "shareCircle": 0.347
+  },
+  {
+    "gem_id": "HR1900981",
+    "country_id": "HR",
+    "name": "Dubrovnik",
+    "shareBB": 0.2581,
+    "shareCircle": 0.1495
+  },
+  {
+    "gem_id": "HR1901988",
+    "country_id": "HR",
+    "name": "Konavle",
+    "shareBB": 0.3025,
+    "shareCircle": 0.2203
+  },
+  {
+    "gem_id": "HR1902046",
+    "country_id": "HR",
+    "name": "Korčula",
+    "shareBB": 0.5353,
+    "shareCircle": 0.2514
+  },
+  {
+    "gem_id": "HR1902194",
+    "country_id": "HR",
+    "name": "Kula Norinska",
+    "shareBB": 0.4309,
+    "shareCircle": 0.3297
+  },
+  {
+    "gem_id": "HR1902267",
+    "country_id": "HR",
+    "name": "Lastovo",
+    "shareBB": 0.1297,
+    "shareCircle": 0.0248
+  },
+  {
+    "gem_id": "HR1902640",
+    "country_id": "HR",
+    "name": "Metković",
+    "shareBB": 0.4235,
+    "shareCircle": 0.2683
+  },
+  {
+    "gem_id": "HR1902682",
+    "country_id": "HR",
+    "name": "Mljet",
+    "shareBB": 0.2782,
+    "shareCircle": 0.0932
+  },
+  {
+    "gem_id": "HR1903069",
+    "country_id": "HR",
+    "name": "Opuzen",
+    "shareBB": 0.5024,
+    "shareCircle": 0.2803
+  },
+  {
+    "gem_id": "HR1903085",
+    "country_id": "HR",
+    "name": "Orebić",
+    "shareBB": 0.3133,
+    "shareCircle": 0.1236
+  },
+  {
+    "gem_id": "HR1903352",
+    "country_id": "HR",
+    "name": "Ploče",
+    "shareBB": 0.479,
+    "shareCircle": 0.3396
+  },
+  {
+    "gem_id": "HR1903433",
+    "country_id": "HR",
+    "name": "Pojezerje",
+    "shareBB": 0.4881,
+    "shareCircle": 0.4715
+  },
+  {
+    "gem_id": "HR1903999",
+    "country_id": "HR",
+    "name": "Slivno",
+    "shareBB": 0.4885,
+    "shareCircle": 0.296
+  },
+  {
+    "gem_id": "HR1904022",
+    "country_id": "HR",
+    "name": "Smokvica",
+    "shareBB": 0.7076,
+    "shareCircle": 0.6549
+  },
+  {
+    "gem_id": "HR1904197",
+    "country_id": "HR",
+    "name": "Ston",
+    "shareBB": 0.3717,
+    "shareCircle": 0.2415
+  },
+  {
+    "gem_id": "HR1904740",
+    "country_id": "HR",
+    "name": "Vela Luka",
+    "shareBB": 0.3973,
+    "shareCircle": 0.3404
+  },
+  {
+    "gem_id": "HR1905231",
+    "country_id": "HR",
+    "name": "Zažablje",
+    "shareBB": 0.5927,
+    "shareCircle": 0.5771
+  },
+  {
+    "gem_id": "HR1905983",
+    "country_id": "HR",
+    "name": "Dubrovačko primorje",
+    "shareBB": 0.3916,
+    "shareCircle": 0.2954
+  },
+  {
+    "gem_id": "HR1905991",
+    "country_id": "HR",
+    "name": "Janjina",
+    "shareBB": 0.4439,
+    "shareCircle": 0.376
+  },
+  {
+    "gem_id": "HR1906009",
+    "country_id": "HR",
+    "name": "Lumbarda",
+    "shareBB": 0.4421,
+    "shareCircle": 0.3861
+  },
+  {
+    "gem_id": "HR1906017",
+    "country_id": "HR",
+    "name": "Trpanj",
+    "shareBB": 0.5617,
+    "shareCircle": 0.1875
+  },
+  {
+    "gem_id": "HR1906025",
+    "country_id": "HR",
+    "name": "Župa dubrovačka",
+    "shareBB": 0.3993,
+    "shareCircle": 0.3152
+  },
+  {
+    "gem_id": "HR2000159",
+    "country_id": "HR",
+    "name": "Belica",
+    "shareBB": 0.6308,
+    "shareCircle": 0.6045
+  },
+  {
+    "gem_id": "HR2000604",
+    "country_id": "HR",
+    "name": "Čakovec",
+    "shareBB": 0.4638,
+    "shareCircle": 0.3543
+  },
+  {
+    "gem_id": "HR2000752",
+    "country_id": "HR",
+    "name": "Domašinec",
+    "shareBB": 0.5607,
+    "shareCircle": 0.607
+  },
+  {
+    "gem_id": "HR2000787",
+    "country_id": "HR",
+    "name": "Donja Dubrava",
+    "shareBB": 0.531,
+    "shareCircle": 0.5068
+  },
+  {
+    "gem_id": "HR2000825",
+    "country_id": "HR",
+    "name": "Donji Kraljevec",
+    "shareBB": 0.5303,
+    "shareCircle": 0.4936
+  },
+  {
+    "gem_id": "HR2000892",
+    "country_id": "HR",
+    "name": "Donji Vidovec",
+    "shareBB": 0.5894,
+    "shareCircle": 0.4065
+  },
+  {
+    "gem_id": "HR2001236",
+    "country_id": "HR",
+    "name": "Goričan",
+    "shareBB": 0.3652,
+    "shareCircle": 0.3798
+  },
+  {
+    "gem_id": "HR2002062",
+    "country_id": "HR",
+    "name": "Kotoriba",
+    "shareBB": 0.581,
+    "shareCircle": 0.3733
+  },
+  {
+    "gem_id": "HR2002500",
+    "country_id": "HR",
+    "name": "Mala Subotica",
+    "shareBB": 0.5482,
+    "shareCircle": 0.4132
+  },
+  {
+    "gem_id": "HR2002763",
+    "country_id": "HR",
+    "name": "Mursko Središće",
+    "shareBB": 0.3905,
+    "shareCircle": 0.4063
+  },
+  {
+    "gem_id": "HR2002798",
+    "country_id": "HR",
+    "name": "Nedelišće",
+    "shareBB": 0.4892,
+    "shareCircle": 0.4906
+  },
+  {
+    "gem_id": "HR2003425",
+    "country_id": "HR",
+    "name": "Podturen",
+    "shareBB": 0.4791,
+    "shareCircle": 0.381
+  },
+  {
+    "gem_id": "HR2003557",
+    "country_id": "HR",
+    "name": "Prelog",
+    "shareBB": 0.4783,
+    "shareCircle": 0.3576
+  },
+  {
+    "gem_id": "HR2003859",
+    "country_id": "HR",
+    "name": "Selnica",
+    "shareBB": 0.5303,
+    "shareCircle": 0.4691
+  },
+  {
+    "gem_id": "HR2004405",
+    "country_id": "HR",
+    "name": "Sveti Juraj na Bregu",
+    "shareBB": 0.6417,
+    "shareCircle": 0.5814
+  },
+  {
+    "gem_id": "HR2004413",
+    "country_id": "HR",
+    "name": "Sveti Martin na Muri",
+    "shareBB": 0.5341,
+    "shareCircle": 0.4857
+  },
+  {
+    "gem_id": "HR2004529",
+    "country_id": "HR",
+    "name": "Štrigova",
+    "shareBB": 0.4358,
+    "shareCircle": 0.4084
+  },
+  {
+    "gem_id": "HR2005045",
+    "country_id": "HR",
+    "name": "Vratišinec",
+    "shareBB": 0.6599,
+    "shareCircle": 0.4958
+  },
+  {
+    "gem_id": "HR2006033",
+    "country_id": "HR",
+    "name": "Dekanovec",
+    "shareBB": 0.3903,
+    "shareCircle": 0.2516
+  },
+  {
+    "gem_id": "HR2006041",
+    "country_id": "HR",
+    "name": "Gornji Mihaljevec",
+    "shareBB": 0.6791,
+    "shareCircle": 0.6663
+  },
+  {
+    "gem_id": "HR2006050",
+    "country_id": "HR",
+    "name": "Orehovica",
+    "shareBB": 0.5626,
+    "shareCircle": 0.4384
+  },
+  {
+    "gem_id": "HR2006068",
+    "country_id": "HR",
+    "name": "Strahoninec",
+    "shareBB": 0.3832,
+    "shareCircle": 0.3066
+  },
+  {
+    "gem_id": "HR2006076",
+    "country_id": "HR",
+    "name": "Sveta Marija",
+    "shareBB": 0.5161,
+    "shareCircle": 0.4242
+  },
+  {
+    "gem_id": "HR2006084",
+    "country_id": "HR",
+    "name": "Šenkovec",
+    "shareBB": 0.447,
+    "shareCircle": 0.3276
+  },
+  {
+    "gem_id": "HR2006203",
+    "country_id": "HR",
+    "name": "Pribislavec",
+    "shareBB": 0.5819,
+    "shareCircle": 0.5627
+  },
+  {
+    "gem_id": "HR2101333",
+    "country_id": "HR",
+    "name": "Zagreb",
+    "shareBB": 0.4503,
+    "shareCircle": 0.4279
+  }
+]

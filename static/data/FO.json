@@ -1,0 +1,205 @@
+[
+  {
+    "gem_id": "FO4101",
+    "country_id": "FO",
+    "name": "Fugloy",
+    "shareBB": 0.6392,
+    "shareCircle": 0.6715
+  },
+  {
+    "gem_id": "FO4103",
+    "country_id": "FO",
+    "name": "Hvannasund",
+    "shareBB": 0.2467,
+    "shareCircle": 0.1732
+  },
+  {
+    "gem_id": "FO4104",
+    "country_id": "FO",
+    "name": "Klaksvík",
+    "shareBB": 0.2063,
+    "shareCircle": 0.1868
+  },
+  {
+    "gem_id": "FO4105",
+    "country_id": "FO",
+    "name": "Kunoy",
+    "shareBB": 0.6755,
+    "shareCircle": 0.2382
+  },
+  {
+    "gem_id": "FO4107",
+    "country_id": "FO",
+    "name": "Viðareiði",
+    "shareBB": 0.3654,
+    "shareCircle": 0.2376
+  },
+  {
+    "gem_id": "FO4203",
+    "country_id": "FO",
+    "name": "Fuglafjørður",
+    "shareBB": 0.5861,
+    "shareCircle": 0.6228
+  },
+  {
+    "gem_id": "FO4205",
+    "country_id": "FO",
+    "name": "Eystur",
+    "shareBB": 0.3235,
+    "shareCircle": 0.2593
+  },
+  {
+    "gem_id": "FO4206",
+    "country_id": "FO",
+    "name": "Nes",
+    "shareBB": 0.3467,
+    "shareCircle": 0.3244
+  },
+  {
+    "gem_id": "FO4207",
+    "country_id": "FO",
+    "name": "Runavík",
+    "shareBB": 0.1985,
+    "shareCircle": 0.1315
+  },
+  {
+    "gem_id": "FO4208",
+    "country_id": "FO",
+    "name": "Sjógv",
+    "shareBB": 0.2744,
+    "shareCircle": 0.1997
+  },
+  {
+    "gem_id": "FO4210",
+    "country_id": "FO",
+    "name": "Eiði",
+    "shareBB": 0.4826,
+    "shareCircle": 0.3389
+  },
+  {
+    "gem_id": "FO4301",
+    "country_id": "FO",
+    "name": "Tórshavn",
+    "shareBB": 0.3181,
+    "shareCircle": 0.214
+  },
+  {
+    "gem_id": "FO4306",
+    "country_id": "FO",
+    "name": "Kvívík",
+    "shareBB": 0.3736,
+    "shareCircle": 0.3
+  },
+  {
+    "gem_id": "FO4307",
+    "country_id": "FO",
+    "name": "Vestmanna",
+    "shareBB": 0.5646,
+    "shareCircle": 0.4955
+  },
+  {
+    "gem_id": "FO4311",
+    "country_id": "FO",
+    "name": "Sunda",
+    "shareBB": 0.3636,
+    "shareCircle": 0.344
+  },
+  {
+    "gem_id": "FO4401",
+    "country_id": "FO",
+    "name": "Vága",
+    "shareBB": 0.5082,
+    "shareCircle": 0.4485
+  },
+  {
+    "gem_id": "FO4403",
+    "country_id": "FO",
+    "name": "Sørvágur",
+    "shareBB": 0.244,
+    "shareCircle": 0.1697
+  },
+  {
+    "gem_id": "FO4501",
+    "country_id": "FO",
+    "name": "Sandur",
+    "shareBB": 0.6379,
+    "shareCircle": 0.4923
+  },
+  {
+    "gem_id": "FO4502",
+    "country_id": "FO",
+    "name": "Skopun",
+    "shareBB": 0.5455,
+    "shareCircle": 0.4856
+  },
+  {
+    "gem_id": "FO4503",
+    "country_id": "FO",
+    "name": "Skálavík",
+    "shareBB": 0.5026,
+    "shareCircle": 0.4133
+  },
+  {
+    "gem_id": "FO4504",
+    "country_id": "FO",
+    "name": "Húsavík",
+    "shareBB": 0.6465,
+    "shareCircle": 0.4749
+  },
+  {
+    "gem_id": "FO4505",
+    "country_id": "FO",
+    "name": "Skúgvoy",
+    "shareBB": 0.2696,
+    "shareCircle": 0.0979
+  },
+  {
+    "gem_id": "FO4601",
+    "country_id": "FO",
+    "name": "Hvalba",
+    "shareBB": 0.2573,
+    "shareCircle": 0.1979
+  },
+  {
+    "gem_id": "FO4602",
+    "country_id": "FO",
+    "name": "Tvøroyri",
+    "shareBB": 0.4722,
+    "shareCircle": 0.5026
+  },
+  {
+    "gem_id": "FO4603",
+    "country_id": "FO",
+    "name": "Fámjin",
+    "shareBB": 0.5903,
+    "shareCircle": 0.4248
+  },
+  {
+    "gem_id": "FO4604",
+    "country_id": "FO",
+    "name": "Hov",
+    "shareBB": 0.4795,
+    "shareCircle": 0.3504
+  },
+  {
+    "gem_id": "FO4605",
+    "country_id": "FO",
+    "name": "Porkeri",
+    "shareBB": 0.4597,
+    "shareCircle": 0.2839
+  },
+  {
+    "gem_id": "FO4606",
+    "country_id": "FO",
+    "name": "Vágur",
+    "shareBB": 0.4046,
+    "shareCircle": 0.3664
+  },
+  {
+    "gem_id": "FO4607",
+    "country_id": "FO",
+    "name": "Sumba",
+    "shareBB": 0.3258,
+    "shareCircle": 0.1615
+  }
+]

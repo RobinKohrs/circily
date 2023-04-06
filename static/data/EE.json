@@ -1,0 +1,1521 @@
+[
+  {
+    "gem_id": "EE009996",
+    "country_id": "EE",
+    "name": "Narva jõgi",
+    "shareBB": 0.0146,
+    "shareCircle": 0.0051
+  },
+  {
+    "gem_id": "EE009997",
+    "country_id": "EE",
+    "name": "Narva veehoidla",
+    "shareBB": 0.1905,
+    "shareCircle": 0.125
+  },
+  {
+    "gem_id": "EE009998",
+    "country_id": "EE",
+    "name": "Peipsi järv",
+    "shareBB": 0.2059,
+    "shareCircle": 0.1403
+  },
+  {
+    "gem_id": "EE009999",
+    "country_id": "EE",
+    "name": "Võrtsjärv",
+    "shareBB": 0.5133,
+    "shareCircle": 0.2795
+  },
+  {
+    "gem_id": "EE370112",
+    "country_id": "EE",
+    "name": "Aegviidu",
+    "shareBB": 0.5571,
+    "shareCircle": 0.4311
+  },
+  {
+    "gem_id": "EE370140",
+    "country_id": "EE",
+    "name": "Anija",
+    "shareBB": 0.4766,
+    "shareCircle": 0.4958
+  },
+  {
+    "gem_id": "EE370198",
+    "country_id": "EE",
+    "name": "Harku",
+    "shareBB": 0.4791,
+    "shareCircle": 0.5223
+  },
+  {
+    "gem_id": "EE370245",
+    "country_id": "EE",
+    "name": "Jõelähtme",
+    "shareBB": 0.3813,
+    "shareCircle": 0.4203
+  },
+  {
+    "gem_id": "EE370295",
+    "country_id": "EE",
+    "name": "Keila",
+    "shareBB": 0.4643,
+    "shareCircle": 0.509
+  },
+  {
+    "gem_id": "EE370296",
+    "country_id": "EE",
+    "name": "Keila",
+    "shareBB": 0.5592,
+    "shareCircle": 0.3406
+  },
+  {
+    "gem_id": "EE370297",
+    "country_id": "EE",
+    "name": "Kernu",
+    "shareBB": 0.5203,
+    "shareCircle": 0.4321
+  },
+  {
+    "gem_id": "EE370304",
+    "country_id": "EE",
+    "name": "Kiili",
+    "shareBB": 0.6031,
+    "shareCircle": 0.4321
+  },
+  {
+    "gem_id": "EE370338",
+    "country_id": "EE",
+    "name": "Kose",
+    "shareBB": 0.5549,
+    "shareCircle": 0.4867
+  },
+  {
+    "gem_id": "EE370353",
+    "country_id": "EE",
+    "name": "Kuusalu",
+    "shareBB": 0.3694,
+    "shareCircle": 0.347
+  },
+  {
+    "gem_id": "EE370424",
+    "country_id": "EE",
+    "name": "Loksa",
+    "shareBB": 0.6696,
+    "shareCircle": 0.4864
+  },
+  {
+    "gem_id": "EE370446",
+    "country_id": "EE",
+    "name": "Maardu",
+    "shareBB": 0.5953,
+    "shareCircle": 0.5422
+  },
+  {
+    "gem_id": "EE370518",
+    "country_id": "EE",
+    "name": "Nissi",
+    "shareBB": 0.4721,
+    "shareCircle": 0.4519
+  },
+  {
+    "gem_id": "EE370562",
+    "country_id": "EE",
+    "name": "Padise",
+    "shareBB": 0.5698,
+    "shareCircle": 0.5261
+  },
+  {
+    "gem_id": "EE370580",
+    "country_id": "EE",
+    "name": "Paldiski",
+    "shareBB": 0.3055,
+    "shareCircle": 0.224
+  },
+  {
+    "gem_id": "EE370651",
+    "country_id": "EE",
+    "name": "Raasiku",
+    "shareBB": 0.4383,
+    "shareCircle": 0.4236
+  },
+  {
+    "gem_id": "EE370653",
+    "country_id": "EE",
+    "name": "Rae",
+    "shareBB": 0.4328,
+    "shareCircle": 0.3863
+  },
+  {
+    "gem_id": "EE370718",
+    "country_id": "EE",
+    "name": "Saku",
+    "shareBB": 0.428,
+    "shareCircle": 0.4124
+  },
+  {
+    "gem_id": "EE370727",
+    "country_id": "EE",
+    "name": "Saue",
+    "shareBB": 0.4638,
+    "shareCircle": 0.3399
+  },
+  {
+    "gem_id": "EE370728",
+    "country_id": "EE",
+    "name": "Saue",
+    "shareBB": 0.4887,
+    "shareCircle": 0.3844
+  },
+  {
+    "gem_id": "EE370784",
+    "country_id": "EE",
+    "name": "Tallinn",
+    "shareBB": 0.2732,
+    "shareCircle": 0.2566
+  },
+  {
+    "gem_id": "EE370868",
+    "country_id": "EE",
+    "name": "Vasalemma",
+    "shareBB": 0.4685,
+    "shareCircle": 0.3751
+  },
+  {
+    "gem_id": "EE370890",
+    "country_id": "EE",
+    "name": "Viimsi",
+    "shareBB": 0.1021,
+    "shareCircle": 0.074
+  },
+  {
+    "gem_id": "EE390175",
+    "country_id": "EE",
+    "name": "Emmaste",
+    "shareBB": 0.449,
+    "shareCircle": 0.3985
+  },
+  {
+    "gem_id": "EE390204",
+    "country_id": "EE",
+    "name": "Hiiu",
+    "shareBB": 0.3627,
+    "shareCircle": 0.2786
+  },
+  {
+    "gem_id": "EE390368",
+    "country_id": "EE",
+    "name": "Käina",
+    "shareBB": 0.6066,
+    "shareCircle": 0.5166
+  },
+  {
+    "gem_id": "EE390639",
+    "country_id": "EE",
+    "name": "Pühalepa",
+    "shareBB": 0.2935,
+    "shareCircle": 0.222
+  },
+  {
+    "gem_id": "EE440122",
+    "country_id": "EE",
+    "name": "Alajõe",
+    "shareBB": 0.4024,
+    "shareCircle": 0.2084
+  },
+  {
+    "gem_id": "EE440154",
+    "country_id": "EE",
+    "name": "Aseri",
+    "shareBB": 0.4793,
+    "shareCircle": 0.3905
+  },
+  {
+    "gem_id": "EE440164",
+    "country_id": "EE",
+    "name": "Avinurme",
+    "shareBB": 0.4846,
+    "shareCircle": 0.4568
+  },
+  {
+    "gem_id": "EE440224",
+    "country_id": "EE",
+    "name": "Iisaku",
+    "shareBB": 0.5104,
+    "shareCircle": 0.5052
+  },
+  {
+    "gem_id": "EE440229",
+    "country_id": "EE",
+    "name": "Illuka",
+    "shareBB": 0.633,
+    "shareCircle": 0.5058
+  },
+  {
+    "gem_id": "EE440251",
+    "country_id": "EE",
+    "name": "Jõhvi",
+    "shareBB": 0.4882,
+    "shareCircle": 0.561
+  },
+  {
+    "gem_id": "EE440309",
+    "country_id": "EE",
+    "name": "Kiviõli",
+    "shareBB": 0.5734,
+    "shareCircle": 0.3855
+  },
+  {
+    "gem_id": "EE440320",
+    "country_id": "EE",
+    "name": "Kohtla",
+    "shareBB": 0.374,
+    "shareCircle": 0.2931
+  },
+  {
+    "gem_id": "EE440322",
+    "country_id": "EE",
+    "name": "Kohtla-Järve",
+    "shareBB": 0.1098,
+    "shareCircle": 0.0446
+  },
+  {
+    "gem_id": "EE440323",
+    "country_id": "EE",
+    "name": "Kohtla-Nõmme",
+    "shareBB": 0.4552,
+    "shareCircle": 0.3334
+  },
+  {
+    "gem_id": "EE440420",
+    "country_id": "EE",
+    "name": "Lohusuu",
+    "shareBB": 0.4495,
+    "shareCircle": 0.4063
+  },
+  {
+    "gem_id": "EE440438",
+    "country_id": "EE",
+    "name": "Lüganuse",
+    "shareBB": 0.5378,
+    "shareCircle": 0.4801
+  },
+  {
+    "gem_id": "EE440498",
+    "country_id": "EE",
+    "name": "Mäetaguse",
+    "shareBB": 0.563,
+    "shareCircle": 0.5218
+  },
+  {
+    "gem_id": "EE440511",
+    "country_id": "EE",
+    "name": "Narva",
+    "shareBB": 0.3658,
+    "shareCircle": 0.3156
+  },
+  {
+    "gem_id": "EE440513",
+    "country_id": "EE",
+    "name": "Narva-Jõesuu",
+    "shareBB": 0.2458,
+    "shareCircle": 0.2048
+  },
+  {
+    "gem_id": "EE440735",
+    "country_id": "EE",
+    "name": "Sillamäe",
+    "shareBB": 0.4728,
+    "shareCircle": 0.3724
+  },
+  {
+    "gem_id": "EE440751",
+    "country_id": "EE",
+    "name": "Sonda",
+    "shareBB": 0.4175,
+    "shareCircle": 0.3809
+  },
+  {
+    "gem_id": "EE440802",
+    "country_id": "EE",
+    "name": "Toila",
+    "shareBB": 0.4363,
+    "shareCircle": 0.3353
+  },
+  {
+    "gem_id": "EE440815",
+    "country_id": "EE",
+    "name": "Tudulinna",
+    "shareBB": 0.5779,
+    "shareCircle": 0.4673
+  },
+  {
+    "gem_id": "EE440851",
+    "country_id": "EE",
+    "name": "Vaivara",
+    "shareBB": 0.5055,
+    "shareCircle": 0.4462
+  },
+  {
+    "gem_id": "EE490248",
+    "country_id": "EE",
+    "name": "Jõgeva",
+    "shareBB": 0.5068,
+    "shareCircle": 0.5183
+  },
+  {
+    "gem_id": "EE490249",
+    "country_id": "EE",
+    "name": "Jõgeva",
+    "shareBB": 0.5202,
+    "shareCircle": 0.4267
+  },
+  {
+    "gem_id": "EE490485",
+    "country_id": "EE",
+    "name": "Mustvee",
+    "shareBB": 0.5109,
+    "shareCircle": 0.396
+  },
+  {
+    "gem_id": "EE490573",
+    "country_id": "EE",
+    "name": "Pajusi",
+    "shareBB": 0.5676,
+    "shareCircle": 0.5731
+  },
+  {
+    "gem_id": "EE490576",
+    "country_id": "EE",
+    "name": "Pala",
+    "shareBB": 0.5292,
+    "shareCircle": 0.4904
+  },
+  {
+    "gem_id": "EE490578",
+    "country_id": "EE",
+    "name": "Palamuse",
+    "shareBB": 0.488,
+    "shareCircle": 0.5401
+  },
+  {
+    "gem_id": "EE490611",
+    "country_id": "EE",
+    "name": "Puurmani",
+    "shareBB": 0.4747,
+    "shareCircle": 0.421
+  },
+  {
+    "gem_id": "EE490616",
+    "country_id": "EE",
+    "name": "Põltsamaa",
+    "shareBB": 0.5638,
+    "shareCircle": 0.5315
+  },
+  {
+    "gem_id": "EE490617",
+    "country_id": "EE",
+    "name": "Põltsamaa",
+    "shareBB": 0.723,
+    "shareCircle": 0.6381
+  },
+  {
+    "gem_id": "EE490657",
+    "country_id": "EE",
+    "name": "Kasepää",
+    "shareBB": 0.3936,
+    "shareCircle": 0.3068
+  },
+  {
+    "gem_id": "EE490713",
+    "country_id": "EE",
+    "name": "Saare",
+    "shareBB": 0.5735,
+    "shareCircle": 0.5363
+  },
+  {
+    "gem_id": "EE490773",
+    "country_id": "EE",
+    "name": "Tabivere",
+    "shareBB": 0.4489,
+    "shareCircle": 0.3262
+  },
+  {
+    "gem_id": "EE490810",
+    "country_id": "EE",
+    "name": "Torma",
+    "shareBB": 0.4767,
+    "shareCircle": 0.4699
+  },
+  {
+    "gem_id": "EE510129",
+    "country_id": "EE",
+    "name": "Albu",
+    "shareBB": 0.4509,
+    "shareCircle": 0.3913
+  },
+  {
+    "gem_id": "EE510134",
+    "country_id": "EE",
+    "name": "Ambla",
+    "shareBB": 0.6005,
+    "shareCircle": 0.5188
+  },
+  {
+    "gem_id": "EE510234",
+    "country_id": "EE",
+    "name": "Imavere",
+    "shareBB": 0.6029,
+    "shareCircle": 0.6702
+  },
+  {
+    "gem_id": "EE510257",
+    "country_id": "EE",
+    "name": "Järva-Jaani",
+    "shareBB": 0.517,
+    "shareCircle": 0.5376
+  },
+  {
+    "gem_id": "EE510288",
+    "country_id": "EE",
+    "name": "Kareda",
+    "shareBB": 0.4714,
+    "shareCircle": 0.4327
+  },
+  {
+    "gem_id": "EE510314",
+    "country_id": "EE",
+    "name": "Koeru",
+    "shareBB": 0.6378,
+    "shareCircle": 0.5773
+  },
+  {
+    "gem_id": "EE510325",
+    "country_id": "EE",
+    "name": "Koigi",
+    "shareBB": 0.4621,
+    "shareCircle": 0.3663
+  },
+  {
+    "gem_id": "EE510565",
+    "country_id": "EE",
+    "name": "Paide",
+    "shareBB": 0.3721,
+    "shareCircle": 0.3471
+  },
+  {
+    "gem_id": "EE510566",
+    "country_id": "EE",
+    "name": "Paide",
+    "shareBB": 0.4661,
+    "shareCircle": 0.3408
+  },
+  {
+    "gem_id": "EE510684",
+    "country_id": "EE",
+    "name": "Roosna-Alliku",
+    "shareBB": 0.5464,
+    "shareCircle": 0.4566
+  },
+  {
+    "gem_id": "EE510835",
+    "country_id": "EE",
+    "name": "Türi",
+    "shareBB": 0.5931,
+    "shareCircle": 0.6483
+  },
+  {
+    "gem_id": "EE510937",
+    "country_id": "EE",
+    "name": "Väätsa",
+    "shareBB": 0.6017,
+    "shareCircle": 0.5766
+  },
+  {
+    "gem_id": "EE570183",
+    "country_id": "EE",
+    "name": "Haapsalu",
+    "shareBB": 0.3621,
+    "shareCircle": 0.3006
+  },
+  {
+    "gem_id": "EE570195",
+    "country_id": "EE",
+    "name": "Hanila",
+    "shareBB": 0.4555,
+    "shareCircle": 0.3482
+  },
+  {
+    "gem_id": "EE570342",
+    "country_id": "EE",
+    "name": "Kullamaa",
+    "shareBB": 0.5405,
+    "shareCircle": 0.5333
+  },
+  {
+    "gem_id": "EE570411",
+    "country_id": "EE",
+    "name": "Lihula",
+    "shareBB": 0.4565,
+    "shareCircle": 0.3471
+  },
+  {
+    "gem_id": "EE570436",
+    "country_id": "EE",
+    "name": "Lääne-Nigula",
+    "shareBB": 0.5065,
+    "shareCircle": 0.5411
+  },
+  {
+    "gem_id": "EE570452",
+    "country_id": "EE",
+    "name": "Martna",
+    "shareBB": 0.3906,
+    "shareCircle": 0.3844
+  },
+  {
+    "gem_id": "EE570520",
+    "country_id": "EE",
+    "name": "Noarootsi",
+    "shareBB": 0.2876,
+    "shareCircle": 0.2464
+  },
+  {
+    "gem_id": "EE570531",
+    "country_id": "EE",
+    "name": "Nõva",
+    "shareBB": 0.4072,
+    "shareCircle": 0.3309
+  },
+  {
+    "gem_id": "EE570674",
+    "country_id": "EE",
+    "name": "Ridala",
+    "shareBB": 0.459,
+    "shareCircle": 0.4474
+  },
+  {
+    "gem_id": "EE570907",
+    "country_id": "EE",
+    "name": "Vormsi",
+    "shareBB": 0.5065,
+    "shareCircle": 0.4765
+  },
+  {
+    "gem_id": "EE590190",
+    "country_id": "EE",
+    "name": "Haljala",
+    "shareBB": 0.5344,
+    "shareCircle": 0.5394
+  },
+  {
+    "gem_id": "EE590272",
+    "country_id": "EE",
+    "name": "Kadrina",
+    "shareBB": 0.5089,
+    "shareCircle": 0.3983
+  },
+  {
+    "gem_id": "EE590345",
+    "country_id": "EE",
+    "name": "Kunda",
+    "shareBB": 0.6158,
+    "shareCircle": 0.5393
+  },
+  {
+    "gem_id": "EE590381",
+    "country_id": "EE",
+    "name": "Laekvere",
+    "shareBB": 0.6547,
+    "shareCircle": 0.6902
+  },
+  {
+    "gem_id": "EE590660",
+    "country_id": "EE",
+    "name": "Rakke",
+    "shareBB": 0.5199,
+    "shareCircle": 0.4435
+  },
+  {
+    "gem_id": "EE590662",
+    "country_id": "EE",
+    "name": "Rakvere",
+    "shareBB": 0.5434,
+    "shareCircle": 0.3171
+  },
+  {
+    "gem_id": "EE590663",
+    "country_id": "EE",
+    "name": "Rakvere",
+    "shareBB": 0.5566,
+    "shareCircle": 0.5833
+  },
+  {
+    "gem_id": "EE590702",
+    "country_id": "EE",
+    "name": "Rägavere",
+    "shareBB": 0.6237,
+    "shareCircle": 0.5497
+  },
+  {
+    "gem_id": "EE590770",
+    "country_id": "EE",
+    "name": "Sõmeru",
+    "shareBB": 0.53,
+    "shareCircle": 0.5335
+  },
+  {
+    "gem_id": "EE590786",
+    "country_id": "EE",
+    "name": "Tamsalu",
+    "shareBB": 0.4516,
+    "shareCircle": 0.2931
+  },
+  {
+    "gem_id": "EE590790",
+    "country_id": "EE",
+    "name": "Tapa",
+    "shareBB": 0.5022,
+    "shareCircle": 0.2707
+  },
+  {
+    "gem_id": "EE590887",
+    "country_id": "EE",
+    "name": "Vihula",
+    "shareBB": 0.5107,
+    "shareCircle": 0.3119
+  },
+  {
+    "gem_id": "EE590900",
+    "country_id": "EE",
+    "name": "Vinni",
+    "shareBB": 0.5499,
+    "shareCircle": 0.4027
+  },
+  {
+    "gem_id": "EE590902",
+    "country_id": "EE",
+    "name": "Viru-Nigula",
+    "shareBB": 0.4903,
+    "shareCircle": 0.4278
+  },
+  {
+    "gem_id": "EE590926",
+    "country_id": "EE",
+    "name": "Väike-Maarja",
+    "shareBB": 0.4111,
+    "shareCircle": 0.4089
+  },
+  {
+    "gem_id": "EE650117",
+    "country_id": "EE",
+    "name": "Ahja",
+    "shareBB": 0.5224,
+    "shareCircle": 0.5063
+  },
+  {
+    "gem_id": "EE650285",
+    "country_id": "EE",
+    "name": "Kanepi",
+    "shareBB": 0.6385,
+    "shareCircle": 0.5414
+  },
+  {
+    "gem_id": "EE650354",
+    "country_id": "EE",
+    "name": "Kõlleste",
+    "shareBB": 0.6379,
+    "shareCircle": 0.544
+  },
+  {
+    "gem_id": "EE650385",
+    "country_id": "EE",
+    "name": "Laheda",
+    "shareBB": 0.6073,
+    "shareCircle": 0.5077
+  },
+  {
+    "gem_id": "EE650465",
+    "country_id": "EE",
+    "name": "Mikitamäe",
+    "shareBB": 0.5457,
+    "shareCircle": 0.3649
+  },
+  {
+    "gem_id": "EE650473",
+    "country_id": "EE",
+    "name": "Mooste",
+    "shareBB": 0.5854,
+    "shareCircle": 0.3835
+  },
+  {
+    "gem_id": "EE650547",
+    "country_id": "EE",
+    "name": "Orava",
+    "shareBB": 0.6025,
+    "shareCircle": 0.5768
+  },
+  {
+    "gem_id": "EE650621",
+    "country_id": "EE",
+    "name": "Põlva",
+    "shareBB": 0.6054,
+    "shareCircle": 0.5006
+  },
+  {
+    "gem_id": "EE650707",
+    "country_id": "EE",
+    "name": "Räpina",
+    "shareBB": 0.5974,
+    "shareCircle": 0.5119
+  },
+  {
+    "gem_id": "EE650856",
+    "country_id": "EE",
+    "name": "Valgjärve",
+    "shareBB": 0.464,
+    "shareCircle": 0.4173
+  },
+  {
+    "gem_id": "EE650872",
+    "country_id": "EE",
+    "name": "Vastse-Kuuste",
+    "shareBB": 0.4911,
+    "shareCircle": 0.4711
+  },
+  {
+    "gem_id": "EE650879",
+    "country_id": "EE",
+    "name": "Veriora",
+    "shareBB": 0.5724,
+    "shareCircle": 0.5322
+  },
+  {
+    "gem_id": "EE650934",
+    "country_id": "EE",
+    "name": "Värska",
+    "shareBB": 0.46,
+    "shareCircle": 0.4376
+  },
+  {
+    "gem_id": "EE670149",
+    "country_id": "EE",
+    "name": "Are",
+    "shareBB": 0.5688,
+    "shareCircle": 0.5937
+  },
+  {
+    "gem_id": "EE670160",
+    "country_id": "EE",
+    "name": "Audru",
+    "shareBB": 0.4606,
+    "shareCircle": 0.4613
+  },
+  {
+    "gem_id": "EE670188",
+    "country_id": "EE",
+    "name": "Halinga",
+    "shareBB": 0.535,
+    "shareCircle": 0.5402
+  },
+  {
+    "gem_id": "EE670213",
+    "country_id": "EE",
+    "name": "Häädemeeste",
+    "shareBB": 0.5103,
+    "shareCircle": 0.2808
+  },
+  {
+    "gem_id": "EE670303",
+    "country_id": "EE",
+    "name": "Kihnu",
+    "shareBB": 0.7484,
+    "shareCircle": 0.4659
+  },
+  {
+    "gem_id": "EE670334",
+    "country_id": "EE",
+    "name": "Koonga",
+    "shareBB": 0.6017,
+    "shareCircle": 0.5598
+  },
+  {
+    "gem_id": "EE670568",
+    "country_id": "EE",
+    "name": "Paikuse",
+    "shareBB": 0.4237,
+    "shareCircle": 0.3483
+  },
+  {
+    "gem_id": "EE670625",
+    "country_id": "EE",
+    "name": "Pärnu",
+    "shareBB": 0.5151,
+    "shareCircle": 0.4338
+  },
+  {
+    "gem_id": "EE670710",
+    "country_id": "EE",
+    "name": "Saarde",
+    "shareBB": 0.4564,
+    "shareCircle": 0.3669
+  },
+  {
+    "gem_id": "EE670730",
+    "country_id": "EE",
+    "name": "Sauga",
+    "shareBB": 0.5378,
+    "shareCircle": 0.483
+  },
+  {
+    "gem_id": "EE670741",
+    "country_id": "EE",
+    "name": "Sindi",
+    "shareBB": 0.4229,
+    "shareCircle": 0.2708
+  },
+  {
+    "gem_id": "EE670756",
+    "country_id": "EE",
+    "name": "Surju",
+    "shareBB": 0.6195,
+    "shareCircle": 0.5395
+  },
+  {
+    "gem_id": "EE670805",
+    "country_id": "EE",
+    "name": "Tootsi",
+    "shareBB": 0.2936,
+    "shareCircle": 0.204
+  },
+  {
+    "gem_id": "EE670808",
+    "country_id": "EE",
+    "name": "Tori",
+    "shareBB": 0.6056,
+    "shareCircle": 0.4314
+  },
+  {
+    "gem_id": "EE670826",
+    "country_id": "EE",
+    "name": "Tõstamaa",
+    "shareBB": 0.3448,
+    "shareCircle": 0.28
+  },
+  {
+    "gem_id": "EE670848",
+    "country_id": "EE",
+    "name": "Tahkuranna",
+    "shareBB": 0.434,
+    "shareCircle": 0.2143
+  },
+  {
+    "gem_id": "EE670863",
+    "country_id": "EE",
+    "name": "Varbla",
+    "shareBB": 0.5088,
+    "shareCircle": 0.5269
+  },
+  {
+    "gem_id": "EE670929",
+    "country_id": "EE",
+    "name": "Vändra",
+    "shareBB": 0.6882,
+    "shareCircle": 0.5436
+  },
+  {
+    "gem_id": "EE670931",
+    "country_id": "EE",
+    "name": "Vändra",
+    "shareBB": 0.6707,
+    "shareCircle": 0.4989
+  },
+  {
+    "gem_id": "EE700240",
+    "country_id": "EE",
+    "name": "Juuru",
+    "shareBB": 0.6263,
+    "shareCircle": 0.5924
+  },
+  {
+    "gem_id": "EE700260",
+    "country_id": "EE",
+    "name": "Järvakandi",
+    "shareBB": 0.838,
+    "shareCircle": 0.5706
+  },
+  {
+    "gem_id": "EE700277",
+    "country_id": "EE",
+    "name": "Kaiu",
+    "shareBB": 0.6617,
+    "shareCircle": 0.5365
+  },
+  {
+    "gem_id": "EE700292",
+    "country_id": "EE",
+    "name": "Kehtna",
+    "shareBB": 0.5711,
+    "shareCircle": 0.3953
+  },
+  {
+    "gem_id": "EE700317",
+    "country_id": "EE",
+    "name": "Kohila",
+    "shareBB": 0.581,
+    "shareCircle": 0.4961
+  },
+  {
+    "gem_id": "EE700375",
+    "country_id": "EE",
+    "name": "Käru",
+    "shareBB": 0.7019,
+    "shareCircle": 0.442
+  },
+  {
+    "gem_id": "EE700504",
+    "country_id": "EE",
+    "name": "Märjamaa",
+    "shareBB": 0.5105,
+    "shareCircle": 0.5231
+  },
+  {
+    "gem_id": "EE700654",
+    "country_id": "EE",
+    "name": "Raikküla",
+    "shareBB": 0.569,
+    "shareCircle": 0.416
+  },
+  {
+    "gem_id": "EE700669",
+    "country_id": "EE",
+    "name": "Rapla",
+    "shareBB": 0.6207,
+    "shareCircle": 0.6069
+  },
+  {
+    "gem_id": "EE700884",
+    "country_id": "EE",
+    "name": "Vigala",
+    "shareBB": 0.689,
+    "shareCircle": 0.5755
+  },
+  {
+    "gem_id": "EE740301",
+    "country_id": "EE",
+    "name": "Kihelkonna",
+    "shareBB": 0.4383,
+    "shareCircle": 0.4166
+  },
+  {
+    "gem_id": "EE740349",
+    "country_id": "EE",
+    "name": "Kuressaare",
+    "shareBB": 0.5116,
+    "shareCircle": 0.4412
+  },
+  {
+    "gem_id": "EE740386",
+    "country_id": "EE",
+    "name": "Laimjala",
+    "shareBB": 0.5918,
+    "shareCircle": 0.6002
+  },
+  {
+    "gem_id": "EE740403",
+    "country_id": "EE",
+    "name": "Leisi",
+    "shareBB": 0.5739,
+    "shareCircle": 0.5798
+  },
+  {
+    "gem_id": "EE740433",
+    "country_id": "EE",
+    "name": "Lääne-Saare",
+    "shareBB": 0.3913,
+    "shareCircle": 0.3644
+  },
+  {
+    "gem_id": "EE740478",
+    "country_id": "EE",
+    "name": "Muhu",
+    "shareBB": 0.5187,
+    "shareCircle": 0.4761
+  },
+  {
+    "gem_id": "EE740483",
+    "country_id": "EE",
+    "name": "Mustjala",
+    "shareBB": 0.5485,
+    "shareCircle": 0.5298
+  },
+  {
+    "gem_id": "EE740550",
+    "country_id": "EE",
+    "name": "Orissaare",
+    "shareBB": 0.3862,
+    "shareCircle": 0.4081
+  },
+  {
+    "gem_id": "EE740592",
+    "country_id": "EE",
+    "name": "Pihtla",
+    "shareBB": 0.4692,
+    "shareCircle": 0.3943
+  },
+  {
+    "gem_id": "EE740634",
+    "country_id": "EE",
+    "name": "Pöide",
+    "shareBB": 0.4684,
+    "shareCircle": 0.27
+  },
+  {
+    "gem_id": "EE740689",
+    "country_id": "EE",
+    "name": "Ruhnu",
+    "shareBB": 0.6472,
+    "shareCircle": 0.5239
+  },
+  {
+    "gem_id": "EE740721",
+    "country_id": "EE",
+    "name": "Salme",
+    "shareBB": 0.3743,
+    "shareCircle": 0.2724
+  },
+  {
+    "gem_id": "EE740807",
+    "country_id": "EE",
+    "name": "Torgu",
+    "shareBB": 0.5785,
+    "shareCircle": 0.5088
+  },
+  {
+    "gem_id": "EE740858",
+    "country_id": "EE",
+    "name": "Valjala",
+    "shareBB": 0.4914,
+    "shareCircle": 0.467
+  },
+  {
+    "gem_id": "EE780126",
+    "country_id": "EE",
+    "name": "Alatskivi",
+    "shareBB": 0.5542,
+    "shareCircle": 0.601
+  },
+  {
+    "gem_id": "EE780170",
+    "country_id": "EE",
+    "name": "Elva",
+    "shareBB": 0.6175,
+    "shareCircle": 0.454
+  },
+  {
+    "gem_id": "EE780185",
+    "country_id": "EE",
+    "name": "Haaslava",
+    "shareBB": 0.5181,
+    "shareCircle": 0.5485
+  },
+  {
+    "gem_id": "EE780279",
+    "country_id": "EE",
+    "name": "Kallaste",
+    "shareBB": 0.5071,
+    "shareCircle": 0.4603
+  },
+  {
+    "gem_id": "EE780282",
+    "country_id": "EE",
+    "name": "Kambja",
+    "shareBB": 0.486,
+    "shareCircle": 0.5327
+  },
+  {
+    "gem_id": "EE780331",
+    "country_id": "EE",
+    "name": "Konguta",
+    "shareBB": 0.583,
+    "shareCircle": 0.5487
+  },
+  {
+    "gem_id": "EE780383",
+    "country_id": "EE",
+    "name": "Laeva",
+    "shareBB": 0.5963,
+    "shareCircle": 0.4879
+  },
+  {
+    "gem_id": "EE780432",
+    "country_id": "EE",
+    "name": "Luunja",
+    "shareBB": 0.4059,
+    "shareCircle": 0.3206
+  },
+  {
+    "gem_id": "EE780454",
+    "country_id": "EE",
+    "name": "Meeksi",
+    "shareBB": 0.4091,
+    "shareCircle": 0.2642
+  },
+  {
+    "gem_id": "EE780501",
+    "country_id": "EE",
+    "name": "Mäksa",
+    "shareBB": 0.3327,
+    "shareCircle": 0.2706
+  },
+  {
+    "gem_id": "EE780528",
+    "country_id": "EE",
+    "name": "Nõo",
+    "shareBB": 0.5649,
+    "shareCircle": 0.3825
+  },
+  {
+    "gem_id": "EE780587",
+    "country_id": "EE",
+    "name": "Peipsiääre",
+    "shareBB": 0.3941,
+    "shareCircle": 0.3491
+  },
+  {
+    "gem_id": "EE780595",
+    "country_id": "EE",
+    "name": "Piirissaare",
+    "shareBB": 0.5486,
+    "shareCircle": 0.5229
+  },
+  {
+    "gem_id": "EE780605",
+    "country_id": "EE",
+    "name": "Puhja",
+    "shareBB": 0.5949,
+    "shareCircle": 0.491
+  },
+  {
+    "gem_id": "EE780666",
+    "country_id": "EE",
+    "name": "Rannu",
+    "shareBB": 0.5061,
+    "shareCircle": 0.3342
+  },
+  {
+    "gem_id": "EE780694",
+    "country_id": "EE",
+    "name": "Rõngu",
+    "shareBB": 0.5479,
+    "shareCircle": 0.4075
+  },
+  {
+    "gem_id": "EE780794",
+    "country_id": "EE",
+    "name": "Tartu",
+    "shareBB": 0.4781,
+    "shareCircle": 0.369
+  },
+  {
+    "gem_id": "EE780795",
+    "country_id": "EE",
+    "name": "Tartu",
+    "shareBB": 0.6119,
+    "shareCircle": 0.502
+  },
+  {
+    "gem_id": "EE780831",
+    "country_id": "EE",
+    "name": "Tähtvere",
+    "shareBB": 0.6244,
+    "shareCircle": 0.556
+  },
+  {
+    "gem_id": "EE780861",
+    "country_id": "EE",
+    "name": "Vara",
+    "shareBB": 0.5077,
+    "shareCircle": 0.366
+  },
+  {
+    "gem_id": "EE780915",
+    "country_id": "EE",
+    "name": "Võnnu",
+    "shareBB": 0.448,
+    "shareCircle": 0.4065
+  },
+  {
+    "gem_id": "EE780949",
+    "country_id": "EE",
+    "name": "Ülenurme",
+    "shareBB": 0.5871,
+    "shareCircle": 0.6121
+  },
+  {
+    "gem_id": "EE820203",
+    "country_id": "EE",
+    "name": "Helme",
+    "shareBB": 0.5722,
+    "shareCircle": 0.4599
+  },
+  {
+    "gem_id": "EE820208",
+    "country_id": "EE",
+    "name": "Hummuli",
+    "shareBB": 0.562,
+    "shareCircle": 0.5714
+  },
+  {
+    "gem_id": "EE820289",
+    "country_id": "EE",
+    "name": "Karula",
+    "shareBB": 0.482,
+    "shareCircle": 0.4003
+  },
+  {
+    "gem_id": "EE820582",
+    "country_id": "EE",
+    "name": "Palupera",
+    "shareBB": 0.4826,
+    "shareCircle": 0.3671
+  },
+  {
+    "gem_id": "EE820608",
+    "country_id": "EE",
+    "name": "Puka",
+    "shareBB": 0.5372,
+    "shareCircle": 0.5004
+  },
+  {
+    "gem_id": "EE820613",
+    "country_id": "EE",
+    "name": "Põdrala",
+    "shareBB": 0.5916,
+    "shareCircle": 0.4769
+  },
+  {
+    "gem_id": "EE820636",
+    "country_id": "EE",
+    "name": "Otepää",
+    "shareBB": 0.6364,
+    "shareCircle": 0.6259
+  },
+  {
+    "gem_id": "EE820724",
+    "country_id": "EE",
+    "name": "Sangaste",
+    "shareBB": 0.5807,
+    "shareCircle": 0.5023
+  },
+  {
+    "gem_id": "EE820779",
+    "country_id": "EE",
+    "name": "Taheva",
+    "shareBB": 0.5149,
+    "shareCircle": 0.4449
+  },
+  {
+    "gem_id": "EE820820",
+    "country_id": "EE",
+    "name": "Tõlliste",
+    "shareBB": 0.4969,
+    "shareCircle": 0.3552
+  },
+  {
+    "gem_id": "EE820823",
+    "country_id": "EE",
+    "name": "Tõrva",
+    "shareBB": 0.6387,
+    "shareCircle": 0.531
+  },
+  {
+    "gem_id": "EE820854",
+    "country_id": "EE",
+    "name": "Valga",
+    "shareBB": 0.553,
+    "shareCircle": 0.5085
+  },
+  {
+    "gem_id": "EE820943",
+    "country_id": "EE",
+    "name": "Õru",
+    "shareBB": 0.5851,
+    "shareCircle": 0.6737
+  },
+  {
+    "gem_id": "EE840105",
+    "country_id": "EE",
+    "name": "Abja",
+    "shareBB": 0.4755,
+    "shareCircle": 0.446
+  },
+  {
+    "gem_id": "EE840192",
+    "country_id": "EE",
+    "name": "Halliste",
+    "shareBB": 0.6644,
+    "shareCircle": 0.652
+  },
+  {
+    "gem_id": "EE840328",
+    "country_id": "EE",
+    "name": "Kolga-Jaani",
+    "shareBB": 0.5057,
+    "shareCircle": 0.4074
+  },
+  {
+    "gem_id": "EE840357",
+    "country_id": "EE",
+    "name": "Kõo",
+    "shareBB": 0.4616,
+    "shareCircle": 0.4519
+  },
+  {
+    "gem_id": "EE840360",
+    "country_id": "EE",
+    "name": "Kõpu",
+    "shareBB": 0.5905,
+    "shareCircle": 0.3845
+  },
+  {
+    "gem_id": "EE840490",
+    "country_id": "EE",
+    "name": "Mõisaküla",
+    "shareBB": 0.618,
+    "shareCircle": 0.6255
+  },
+  {
+    "gem_id": "EE840600",
+    "country_id": "EE",
+    "name": "Karksi",
+    "shareBB": 0.5373,
+    "shareCircle": 0.497
+  },
+  {
+    "gem_id": "EE840758",
+    "country_id": "EE",
+    "name": "Suure-Jaani",
+    "shareBB": 0.5441,
+    "shareCircle": 0.415
+  },
+  {
+    "gem_id": "EE840797",
+    "country_id": "EE",
+    "name": "Tarvastu",
+    "shareBB": 0.4901,
+    "shareCircle": 0.4494
+  },
+  {
+    "gem_id": "EE840897",
+    "country_id": "EE",
+    "name": "Viljandi",
+    "shareBB": 0.5244,
+    "shareCircle": 0.5192
+  },
+  {
+    "gem_id": "EE840898",
+    "country_id": "EE",
+    "name": "Viljandi",
+    "shareBB": 0.5442,
+    "shareCircle": 0.5333
+  },
+  {
+    "gem_id": "EE840912",
+    "country_id": "EE",
+    "name": "Võhma",
+    "shareBB": 0.6648,
+    "shareCircle": 0.7287
+  },
+  {
+    "gem_id": "EE860143",
+    "country_id": "EE",
+    "name": "Antsla",
+    "shareBB": 0.5398,
+    "shareCircle": 0.5337
+  },
+  {
+    "gem_id": "EE860181",
+    "country_id": "EE",
+    "name": "Haanja",
+    "shareBB": 0.548,
+    "shareCircle": 0.4805
+  },
+  {
+    "gem_id": "EE860389",
+    "country_id": "EE",
+    "name": "Lasva",
+    "shareBB": 0.5041,
+    "shareCircle": 0.4928
+  },
+  {
+    "gem_id": "EE860460",
+    "country_id": "EE",
+    "name": "Meremäe",
+    "shareBB": 0.5999,
+    "shareCircle": 0.5367
+  },
+  {
+    "gem_id": "EE860468",
+    "country_id": "EE",
+    "name": "Misso",
+    "shareBB": 0.6219,
+    "shareCircle": 0.5324
+  },
+  {
+    "gem_id": "EE860493",
+    "country_id": "EE",
+    "name": "Mõniste",
+    "shareBB": 0.4647,
+    "shareCircle": 0.5176
+  },
+  {
+    "gem_id": "EE860697",
+    "country_id": "EE",
+    "name": "Rõuge",
+    "shareBB": 0.5846,
+    "shareCircle": 0.5779
+  },
+  {
+    "gem_id": "EE860767",
+    "country_id": "EE",
+    "name": "Sõmerpalu",
+    "shareBB": 0.5911,
+    "shareCircle": 0.5372
+  },
+  {
+    "gem_id": "EE860843",
+    "country_id": "EE",
+    "name": "Urvaste",
+    "shareBB": 0.6101,
+    "shareCircle": 0.4305
+  },
+  {
+    "gem_id": "EE860865",
+    "country_id": "EE",
+    "name": "Varstu",
+    "shareBB": 0.4782,
+    "shareCircle": 0.4972
+  },
+  {
+    "gem_id": "EE860874",
+    "country_id": "EE",
+    "name": "Vastseliina",
+    "shareBB": 0.5616,
+    "shareCircle": 0.5927
+  },
+  {
+    "gem_id": "EE860918",
+    "country_id": "EE",
+    "name": "Võru",
+    "shareBB": 0.5192,
+    "shareCircle": 0.486
+  },
+  {
+    "gem_id": "EE860919",
+    "country_id": "EE",
+    "name": "Võru",
+    "shareBB": 0.4115,
+    "shareCircle": 0.3915
+  }
+]

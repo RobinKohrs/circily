@@ -1,0 +1,520 @@
+[
+  {
+    "gem_id": "IS0001",
+    "country_id": "IS",
+    "name": "Reykjavíkurborg",
+    "shareBB": 0.2593,
+    "shareCircle": 0.2498
+  },
+  {
+    "gem_id": "IS1000",
+    "country_id": "IS",
+    "name": "Kópavogsbær",
+    "shareBB": 0.2209,
+    "shareCircle": 0.193
+  },
+  {
+    "gem_id": "IS1100",
+    "country_id": "IS",
+    "name": "Seltjarnarnesbær",
+    "shareBB": 0.3624,
+    "shareCircle": 0.31
+  },
+  {
+    "gem_id": "IS1300",
+    "country_id": "IS",
+    "name": "Garðabær",
+    "shareBB": 0.2782,
+    "shareCircle": 0.1689
+  },
+  {
+    "gem_id": "IS1400",
+    "country_id": "IS",
+    "name": "Hafnarfjarðarbær",
+    "shareBB": 0.2585,
+    "shareCircle": 0.2105
+  },
+  {
+    "gem_id": "IS1604",
+    "country_id": "IS",
+    "name": "Mosfellsbær",
+    "shareBB": 0.604,
+    "shareCircle": 0.5396
+  },
+  {
+    "gem_id": "IS1606",
+    "country_id": "IS",
+    "name": "Kjósarhreppur",
+    "shareBB": 0.5412,
+    "shareCircle": 0.3868
+  },
+  {
+    "gem_id": "IS2000",
+    "country_id": "IS",
+    "name": "Reykjanesbær",
+    "shareBB": 0.3546,
+    "shareCircle": 0.2741
+  },
+  {
+    "gem_id": "IS2300",
+    "country_id": "IS",
+    "name": "Grindavíkurbær",
+    "shareBB": 0.3674,
+    "shareCircle": 0.1956
+  },
+  {
+    "gem_id": "IS2503",
+    "country_id": "IS",
+    "name": "Sandgerðisbær",
+    "shareBB": 0.5099,
+    "shareCircle": 0.3531
+  },
+  {
+    "gem_id": "IS2504",
+    "country_id": "IS",
+    "name": "Sveitarfélagið Garður",
+    "shareBB": 0.4476,
+    "shareCircle": 0.2064
+  },
+  {
+    "gem_id": "IS2506",
+    "country_id": "IS",
+    "name": "Sveitarfélagið Vogar",
+    "shareBB": 0.6737,
+    "shareCircle": 0.4864
+  },
+  {
+    "gem_id": "IS3000",
+    "country_id": "IS",
+    "name": "Akraneskaupstaður",
+    "shareBB": 0.4452,
+    "shareCircle": 0.2981
+  },
+  {
+    "gem_id": "IS3506",
+    "country_id": "IS",
+    "name": "Skorradalshreppur",
+    "shareBB": 0.3106,
+    "shareCircle": 0.252
+  },
+  {
+    "gem_id": "IS3511",
+    "country_id": "IS",
+    "name": "Hvalfjarðarsveit",
+    "shareBB": 0.3134,
+    "shareCircle": 0.2624
+  },
+  {
+    "gem_id": "IS3609",
+    "country_id": "IS",
+    "name": "Borgarbyggð",
+    "shareBB": 0.4809,
+    "shareCircle": 0.3638
+  },
+  {
+    "gem_id": "IS3709",
+    "country_id": "IS",
+    "name": "Grundarfjarðarbær",
+    "shareBB": 0.4413,
+    "shareCircle": 0.3584
+  },
+  {
+    "gem_id": "IS3710",
+    "country_id": "IS",
+    "name": "Helgafellssveit",
+    "shareBB": 0.4772,
+    "shareCircle": 0.419
+  },
+  {
+    "gem_id": "IS3711",
+    "country_id": "IS",
+    "name": "Stykkishólmsbær",
+    "shareBB": 0.0727,
+    "shareCircle": 0.0626
+  },
+  {
+    "gem_id": "IS3713",
+    "country_id": "IS",
+    "name": "Eyja- og Miklaholtshreppur",
+    "shareBB": 0.4633,
+    "shareCircle": 0.4367
+  },
+  {
+    "gem_id": "IS3714",
+    "country_id": "IS",
+    "name": "Snæfellsbær",
+    "shareBB": 0.3599,
+    "shareCircle": 0.2452
+  },
+  {
+    "gem_id": "IS3811",
+    "country_id": "IS",
+    "name": "Dalabyggð",
+    "shareBB": 0.5234,
+    "shareCircle": 0.4672
+  },
+  {
+    "gem_id": "IS4100",
+    "country_id": "IS",
+    "name": "Bolungarvíkurkaupstaður",
+    "shareBB": 0.5223,
+    "shareCircle": 0.4175
+  },
+  {
+    "gem_id": "IS4200",
+    "country_id": "IS",
+    "name": "Ísafjarðarbær",
+    "shareBB": 0.3311,
+    "shareCircle": 0.3056
+  },
+  {
+    "gem_id": "IS4502",
+    "country_id": "IS",
+    "name": "Reykhólahreppur",
+    "shareBB": 0.2898,
+    "shareCircle": 0.26
+  },
+  {
+    "gem_id": "IS4604",
+    "country_id": "IS",
+    "name": "Tálknafjarðarhreppur",
+    "shareBB": 0.4558,
+    "shareCircle": 0.2987
+  },
+  {
+    "gem_id": "IS4607",
+    "country_id": "IS",
+    "name": "Vesturbyggð",
+    "shareBB": 0.3455,
+    "shareCircle": 0.279
+  },
+  {
+    "gem_id": "IS4803",
+    "country_id": "IS",
+    "name": "Súðavíkurhreppur",
+    "shareBB": 0.5841,
+    "shareCircle": 0.5688
+  },
+  {
+    "gem_id": "IS4901",
+    "country_id": "IS",
+    "name": "Árneshreppur",
+    "shareBB": 0.4347,
+    "shareCircle": 0.3463
+  },
+  {
+    "gem_id": "IS4902",
+    "country_id": "IS",
+    "name": "Kaldrananeshreppur",
+    "shareBB": 0.4719,
+    "shareCircle": 0.4104
+  },
+  {
+    "gem_id": "IS4911",
+    "country_id": "IS",
+    "name": "Strandabyggð",
+    "shareBB": 0.3725,
+    "shareCircle": 0.243
+  },
+  {
+    "gem_id": "IS5200",
+    "country_id": "IS",
+    "name": "Sveitarfélagið Skagafjörður",
+    "shareBB": 0.4255,
+    "shareCircle": 0.2222
+  },
+  {
+    "gem_id": "IS5508",
+    "country_id": "IS",
+    "name": "Húnaþing vestra",
+    "shareBB": 0.5931,
+    "shareCircle": 0.4858
+  },
+  {
+    "gem_id": "IS5604",
+    "country_id": "IS",
+    "name": "Blönduósbær",
+    "shareBB": 0.4852,
+    "shareCircle": 0.4163
+  },
+  {
+    "gem_id": "IS5609",
+    "country_id": "IS",
+    "name": "Sveitarfélagið Skagaströnd",
+    "shareBB": 0.5393,
+    "shareCircle": 0.2979
+  },
+  {
+    "gem_id": "IS5611",
+    "country_id": "IS",
+    "name": "Skagabyggð",
+    "shareBB": 0.3975,
+    "shareCircle": 0.2445
+  },
+  {
+    "gem_id": "IS5612",
+    "country_id": "IS",
+    "name": "Húnavatnshreppur",
+    "shareBB": 0.6658,
+    "shareCircle": 0.363
+  },
+  {
+    "gem_id": "IS5706",
+    "country_id": "IS",
+    "name": "Akrahreppur",
+    "shareBB": 0.3369,
+    "shareCircle": 0.1728
+  },
+  {
+    "gem_id": "IS6000",
+    "country_id": "IS",
+    "name": "Akureyrarkaupstaður",
+    "shareBB": 0.0216,
+    "shareCircle": 0.0131
+  },
+  {
+    "gem_id": "IS6100",
+    "country_id": "IS",
+    "name": "Norðurþing",
+    "shareBB": 0.373,
+    "shareCircle": 0.3375
+  },
+  {
+    "gem_id": "IS6250",
+    "country_id": "IS",
+    "name": "Fjallabyggð",
+    "shareBB": 0.5335,
+    "shareCircle": 0.3962
+  },
+  {
+    "gem_id": "IS6400",
+    "country_id": "IS",
+    "name": "Dalvíkurbyggð",
+    "shareBB": 0.475,
+    "shareCircle": 0.353
+  },
+  {
+    "gem_id": "IS6513",
+    "country_id": "IS",
+    "name": "Eyjafjarðarsveit",
+    "shareBB": 0.3435,
+    "shareCircle": 0.2079
+  },
+  {
+    "gem_id": "IS6515",
+    "country_id": "IS",
+    "name": "Hörgársveit",
+    "shareBB": 0.4523,
+    "shareCircle": 0.3048
+  },
+  {
+    "gem_id": "IS6601",
+    "country_id": "IS",
+    "name": "Svalbarðsstrandarhreppur",
+    "shareBB": 0.5139,
+    "shareCircle": 0.333
+  },
+  {
+    "gem_id": "IS6602",
+    "country_id": "IS",
+    "name": "Grýtubakkahreppur",
+    "shareBB": 0.5667,
+    "shareCircle": 0.2888
+  },
+  {
+    "gem_id": "IS6607",
+    "country_id": "IS",
+    "name": "Skútustaðahreppur",
+    "shareBB": 0.4051,
+    "shareCircle": 0.2863
+  },
+  {
+    "gem_id": "IS6611",
+    "country_id": "IS",
+    "name": "Tjörneshreppur",
+    "shareBB": 0.4477,
+    "shareCircle": 0.4379
+  },
+  {
+    "gem_id": "IS6612",
+    "country_id": "IS",
+    "name": "Þingeyjarsveit",
+    "shareBB": 0.2576,
+    "shareCircle": 0.1919
+  },
+  {
+    "gem_id": "IS6706",
+    "country_id": "IS",
+    "name": "Svalbarðshreppur",
+    "shareBB": 0.4834,
+    "shareCircle": 0.261
+  },
+  {
+    "gem_id": "IS6709",
+    "country_id": "IS",
+    "name": "Langanesbyggð",
+    "shareBB": 0.3355,
+    "shareCircle": 0.2235
+  },
+  {
+    "gem_id": "IS7000",
+    "country_id": "IS",
+    "name": "Seyðisfjarðarkaupstaður",
+    "shareBB": 0.4991,
+    "shareCircle": 0.3409
+  },
+  {
+    "gem_id": "IS7300",
+    "country_id": "IS",
+    "name": "Fjarðabyggð",
+    "shareBB": 0.4806,
+    "shareCircle": 0.4475
+  },
+  {
+    "gem_id": "IS7502",
+    "country_id": "IS",
+    "name": "Vopnafjarðarhreppur",
+    "shareBB": 0.5642,
+    "shareCircle": 0.4764
+  },
+  {
+    "gem_id": "IS7505",
+    "country_id": "IS",
+    "name": "Fljótsdalshreppur",
+    "shareBB": 0.2839,
+    "shareCircle": 0.1759
+  },
+  {
+    "gem_id": "IS7509",
+    "country_id": "IS",
+    "name": "Borgarfjarðarhreppur",
+    "shareBB": 0.4534,
+    "shareCircle": 0.4522
+  },
+  {
+    "gem_id": "IS7613",
+    "country_id": "IS",
+    "name": "Breiðdalshreppur",
+    "shareBB": 0.4875,
+    "shareCircle": 0.4525
+  },
+  {
+    "gem_id": "IS7617",
+    "country_id": "IS",
+    "name": "Djúpavogshreppur",
+    "shareBB": 0.5153,
+    "shareCircle": 0.551
+  },
+  {
+    "gem_id": "IS7620",
+    "country_id": "IS",
+    "name": "Fljótsdalshérað",
+    "shareBB": 0.435,
+    "shareCircle": 0.3045
+  },
+  {
+    "gem_id": "IS7708",
+    "country_id": "IS",
+    "name": "Sveitarfélagið Hornafjörður",
+    "shareBB": 0.5334,
+    "shareCircle": 0.3131
+  },
+  {
+    "gem_id": "IS8000",
+    "country_id": "IS",
+    "name": "Vestmannaeyjabær",
+    "shareBB": 0.0617,
+    "shareCircle": 0.0233
+  },
+  {
+    "gem_id": "IS8200",
+    "country_id": "IS",
+    "name": "Sveitarfélagið Árborg",
+    "shareBB": 0.6277,
+    "shareCircle": 0.547
+  },
+  {
+    "gem_id": "IS8508",
+    "country_id": "IS",
+    "name": "Mýrdalshreppur",
+    "shareBB": 0.572,
+    "shareCircle": 0.584
+  },
+  {
+    "gem_id": "IS8509",
+    "country_id": "IS",
+    "name": "Skaftárhreppur",
+    "shareBB": 0.5172,
+    "shareCircle": 0.3883
+  },
+  {
+    "gem_id": "IS8610",
+    "country_id": "IS",
+    "name": "Ásahreppur",
+    "shareBB": 0.2849,
+    "shareCircle": 0.1174
+  },
+  {
+    "gem_id": "IS8613",
+    "country_id": "IS",
+    "name": "Rangárþing eystra",
+    "shareBB": 0.5012,
+    "shareCircle": 0.4337
+  },
+  {
+    "gem_id": "IS8614",
+    "country_id": "IS",
+    "name": "Rangárþing ytra",
+    "shareBB": 0.445,
+    "shareCircle": 0.2681
+  },
+  {
+    "gem_id": "IS8710",
+    "country_id": "IS",
+    "name": "Hrunamannahreppur",
+    "shareBB": 0.266,
+    "shareCircle": 0.1306
+  },
+  {
+    "gem_id": "IS8716",
+    "country_id": "IS",
+    "name": "Hveragerðisbær",
+    "shareBB": 0.5316,
+    "shareCircle": 0.3941
+  },
+  {
+    "gem_id": "IS8717",
+    "country_id": "IS",
+    "name": "Sveitarfélagið Ölfus",
+    "shareBB": 0.4724,
+    "shareCircle": 0.3832
+  },
+  {
+    "gem_id": "IS8719",
+    "country_id": "IS",
+    "name": "Grímsnes- og Grafningshreppur",
+    "shareBB": 0.2026,
+    "shareCircle": 0.1792
+  },
+  {
+    "gem_id": "IS8720",
+    "country_id": "IS",
+    "name": "Skeiða- og Gnúpverjahreppur",
+    "shareBB": 0.276,
+    "shareCircle": 0.1268
+  },
+  {
+    "gem_id": "IS8721",
+    "country_id": "IS",
+    "name": "Bláskógabyggð",
+    "shareBB": 0.3498,
+    "shareCircle": 0.2096
+  },
+  {
+    "gem_id": "IS8722",
+    "country_id": "IS",
+    "name": "Flóahreppur",
+    "shareBB": 0.5161,
+    "shareCircle": 0.5206
+  }
+]

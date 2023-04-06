@@ -1,0 +1,79 @@
+[
+  {
+    "gem_id": "LI7001",
+    "country_id": "LI",
+    "name": "Vaduz",
+    "shareBB": 0.1609,
+    "shareCircle": 0.1071
+  },
+  {
+    "gem_id": "LI7002",
+    "country_id": "LI",
+    "name": "Triesen",
+    "shareBB": 0.4559,
+    "shareCircle": 0.3754
+  },
+  {
+    "gem_id": "LI7003",
+    "country_id": "LI",
+    "name": "Balzers",
+    "shareBB": 0.1279,
+    "shareCircle": 0.1039
+  },
+  {
+    "gem_id": "LI7004",
+    "country_id": "LI",
+    "name": "Triesenberg",
+    "shareBB": 0.3843,
+    "shareCircle": 0.3278
+  },
+  {
+    "gem_id": "LI7005",
+    "country_id": "LI",
+    "name": "Schaan",
+    "shareBB": 0.1727,
+    "shareCircle": 0.1183
+  },
+  {
+    "gem_id": "LI7006",
+    "country_id": "LI",
+    "name": "Planken",
+    "shareBB": 0.2492,
+    "shareCircle": 0.175
+  },
+  {
+    "gem_id": "LI7007",
+    "country_id": "LI",
+    "name": "Eschen",
+    "shareBB": 0.3228,
+    "shareCircle": 0.2627
+  },
+  {
+    "gem_id": "LI7008",
+    "country_id": "LI",
+    "name": "Mauren",
+    "shareBB": 0.4549,
+    "shareCircle": 0.4625
+  },
+  {
+    "gem_id": "LI7009",
+    "country_id": "LI",
+    "name": "Gamprin",
+    "shareBB": 0.2285,
+    "shareCircle": 0.1993
+  },
+  {
+    "gem_id": "LI7010",
+    "country_id": "LI",
+    "name": "Ruggell",
+    "shareBB": 0.4369,
+    "shareCircle": 0.3873
+  },
+  {
+    "gem_id": "LI7011",
+    "country_id": "LI",
+    "name": "Schellenberg",
+    "shareBB": 0.3985,
+    "shareCircle": 0.3273
+  }
+]

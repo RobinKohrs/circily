@@ -9,6 +9,7 @@
   // custom components
   import Search from "$lib/Search.svelte";
   import miniMap from "$lib/miniMap.svelte";
+  import PromiseWrapper from "$lib/PromiseWrapper.svelte";
 
   // import data overview
   import countries from "../assets/data/countries.json";
@@ -55,8 +56,7 @@
     selectCountry("AT");
   });
 
-  let currentJson;
-  $: console.log("currentJson: ", currentJson);
+  let promise;
   async function queryData(gem) {
     let { gem_id, country_id } = gem;
 
@@ -64,54 +64,67 @@
     let url = `https://raw.githubusercontent.com/RobinKohrs/geocrappy/main/data_raw/gemeinden/${country_id}/${gem_id}.geojson`;
 
     // fetch data
+    let result;
     try {
       let raw_data = await fetch(url);
       let json = await raw_data.json();
-      currentJson = json;
+      result = json;
     } catch (error) {
       currentJson = null;
+      result = undefined;
     }
+
+    // add delay
+    // await new Promise((resolve) => setTimeout(resolve, 1000));
+
+    return result;
   }
 
   function handleSelect(e) {
-    queryData(e.detail);
+    promise = queryData(e.detail);
   }
+
+  let width, height;
 </script>
 
-<div class="container-app">
-  <div class="container-countries flex gap-3 justify-center flex-wrap">
-    <button
-      class="p-2 rounded-md mr-auto bg-slate-400"
-      on:click={() => selectCountry("All")}
-    >
-      {#if selectedCountries.length === countries.length}
-        None
-      {:else}
-        All
-      {/if}
-    </button>
-    {#each countries as c, i}
+<div class="container-app" bind:clientWidth={width} bind:clientHeight={height}>
+  <PromiseWrapper {promise} let:state let:response>
+    <div class="container-countries flex gap-3 justify-center flex-wrap">
       <button
-        style:background-color={selectedCountries.includes(c.country_id)
-          ? "var(--btn-color)"
-          : "var(--btn-color-select)"}
-        class="p-2 rounded-md"
-        on:click={() => selectCountry(c.country_id)}
+        class="p-2 rounded-md mr-auto bg-slate-400"
+        on:click={() => selectCountry("All")}
       >
-        {c.country_id}
+        {#if selectedCountries.length === countries.length}
+          None
+        {:else}
+          All
+        {/if}
       </button>
-    {/each}
-  </div>
+      {#each countries as c, i}
+        <button
+          style:background-color={selectedCountries.includes(c.country_id)
+            ? "var(--btn-color)"
+            : "var(--btn-color-select)"}
+          class="p-2 rounded-md"
+          on:click={() => selectCountry(c.country_id)}
+        >
+          {c.country_id}
+        </button>
+      {/each}
+    </div>
 
-  <Search
-    searchable={selectedGemeinden}
-    options={{ keys: ["name"] }}
-    on:select={handleSelect}
-  />
+    <Search
+      searchable={selectedGemeinden}
+      options={{ keys: ["name"] }}
+      on:select={handleSelect}
+    />
 
-  {#if currentJson}
-    <MiniMap />
-  {/if}
+    <div slot="loading">loading</div>
+    <div slot="resolved" class="h-full">
+      <MiniMap gemeinde={response} {width} {height} />
+    </div>
+    <div slot="error">Error</div>
+  </PromiseWrapper>
 </div>
 
 <!-- <Search options={{ keys: ["gem_id"] }} /> -->
