@@ -18,26 +18,29 @@
   // variables
   let selectedCountries = [];
   let selectedGemeinden = [];
-  function selectCountry(country) {
-    if (country === "All") {
-      if (selectedCountries.length === countries.length) {
-        selectedCountries = [];
-        return;
-      } else {
-        selectedCountries = countries.map((e) => e.country_id);
-      }
-    } else {
-      if (selectedCountries.includes(country)) {
-        selectedCountries = selectedCountries.filter((c) => c !== country);
-        return;
-      } else {
-        selectedCountries = [...selectedCountries, country];
-      }
-    }
-  }
+
+  // function selectCountry(country) {
+  //   if (country === "All") {
+  //     if (selectedCountries.length === countries.length) {
+  //       selectedCountries = [];
+  //       return;
+  //     } else {
+  //       selectedCountries = countries.map((e) => e.country_id);
+  //     }
+  //   } else {
+  //     if (selectedCountries.includes(country)) {
+  //       selectedCountries = selectedCountries.filter((c) => c !== country);
+  //       return;
+  //     } else {
+  //       selectedCountries = [...selectedCountries, country];
+  //     }
+  //   }
+  // }
 
   async function loadCountries() {
-    let promises = selectedCountries.map(async (c) => {
+    let countryIDs = countries.map((e) => e.country_id);
+    // console.log("countries", countries);
+    let promises = countryIDs.map(async (c) => {
       const raw = await fetch("/data/" + c + ".json");
       const json = await raw.json();
       return { [c]: json };
@@ -48,12 +51,9 @@
     });
   }
 
-  $: if (selectedCountries) {
-    loadCountries();
-  }
-
   onMount(() => {
-    selectCountry("AT");
+    // selectCountry("AT");
+    loadCountries();
   });
 
   let promise;
@@ -89,7 +89,7 @@
 
 <div class="container-app" bind:clientWidth={width} bind:clientHeight={height}>
   <PromiseWrapper {promise} let:state let:response>
-    <div class="container-countries flex gap-3 justify-center flex-wrap">
+    <!-- <div class="container-countries flex gap-3 justify-center flex-wrap">
       <button
         class="p-2 rounded-md mr-auto bg-slate-400"
         on:click={() => selectCountry("All")}
@@ -100,6 +100,7 @@
           All
         {/if}
       </button>
+
       {#each countries as c, i}
         <button
           style:background-color={selectedCountries.includes(c.country_id)
@@ -111,7 +112,7 @@
           {c.country_id}
         </button>
       {/each}
-    </div>
+    </div> -->
 
     <Search
       searchable={selectedGemeinden}

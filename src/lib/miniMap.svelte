@@ -1,5 +1,6 @@
 <script>
   import { geoMercator, geoPath, geoAlbers } from "d3-geo";
+  import { draw } from "svelte/transition";
   export let width;
   export let height;
   export let gemeinde;
@@ -11,6 +12,7 @@
   let projection;
   let path;
   let features = [];
+  let show = false;
 
   $: if (gemeinde && width && height) {
     let gemeindeToFit = gemeinde.features.find(
@@ -34,6 +36,7 @@
         },
       ];
     });
+    show = true;
   }
 </script>
 
@@ -42,14 +45,18 @@
     <svg {width} {height} viewBox="0 0  {width} {height}">
       <g>
         {#each features as feature}
-          <!-- {#if feature.properties.type == "circle"} -->
-          <path
-            d={feature.path}
-            stroke="white"
-            fill="transparent"
-            stroke-width="2"
-          />
-          <!-- {/if} -->
+          {#if feature.properties.type == "gem"}
+            {#if show}
+              <path
+                in:draw={{ delay: 1000, duration: 1000 }}
+                out:draw={{ duration: 500 }}
+                d={feature.path}
+                stroke="white"
+                fill="transparent"
+                stroke-width="2"
+              />
+            {/if}
+          {/if}
         {/each}
       </g>
     </svg>
