@@ -87,51 +87,27 @@
   let width, height;
 </script>
 
-<div class="container-app" bind:clientWidth={width} bind:clientHeight={height}>
-  <PromiseWrapper {promise} let:state let:response>
-    <!-- <div class="container-countries flex gap-3 justify-center flex-wrap">
-      <button
-        class="p-2 rounded-md mr-auto bg-slate-400"
-        on:click={() => selectCountry("All")}
-      >
-        {#if selectedCountries.length === countries.length}
-          None
-        {:else}
-          All
-        {/if}
-      </button>
+<div class="container-app flex flex-col h-screen" bind:clientWidth={width}>
+  <Search
+    searchable={selectedGemeinden}
+    options={{ keys: ["name"] }}
+    on:select={handleSelect}
+  />
 
-      {#each countries as c, i}
-        <button
-          style:background-color={selectedCountries.includes(c.country_id)
-            ? "var(--btn-color)"
-            : "var(--btn-color-select)"}
-          class="p-2 rounded-md"
-          on:click={() => selectCountry(c.country_id)}
-        >
-          {c.country_id}
-        </button>
-      {/each}
-    </div> -->
-
-    <Search
-      searchable={selectedGemeinden}
-      options={{ keys: ["name"] }}
-      on:select={handleSelect}
-    />
-
-    <div slot="loading">loading</div>
-    <div slot="resolved" class="h-full">
-      <MiniMap gemeinde={response} {width} {height} />
-    </div>
-    <div slot="error">Error</div>
-  </PromiseWrapper>
+  <div class="minimap-container grow text-white" bind:clientHeight={height}>
+    {#if promise}
+      {#await promise}
+        loading
+      {:then result}
+        <MiniMap gemeinde={result} {width} {height} />
+      {/await}
+    {/if}
+  </div>
 </div>
 
 <!-- <Search options={{ keys: ["gem_id"] }} /> -->
 <style lang="scss">
   .container-app {
-    height: 100%;
     max-width: 650px;
     margin: 0 auto;
     position: relative;

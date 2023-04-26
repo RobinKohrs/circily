@@ -1,13 +1,14 @@
 <script>
   import { geoMercator, geoPath, geoAlbers } from "d3-geo";
   import { draw } from "svelte/transition";
+  import { onMount } from "svelte";
   export let width;
   export let height;
   export let gemeinde;
-  $: console.log("gemeinde", gemeinde);
-  $: console.log("width | height", width, " | ", height);
 
-  // gemeinde.features = gemeinde.features;
+  onMount(() => {
+    console.log("gemeinde: ", gemeinde);
+  });
 
   let projection;
   let path;
@@ -21,7 +22,7 @@
     projection = geoMercator().fitSize([width, height], gemeindeToFit);
     path = geoPath().projection(projection);
 
-    gemeinde.features.forEach((f) => {
+    gemeinde.features.forEach((f, i) => {
       features = [
         ...features,
         {
@@ -40,11 +41,11 @@
   }
 </script>
 
-<div class="result w-full h-full">
+<div class="svg-container">
   {#if gemeinde && path && projection}
     <svg {width} {height} viewBox="0 0  {width} {height}">
       <g>
-        {#each features as feature}
+        {#each features as feature, i}
           {#if feature.properties.type == "gem"}
             {#if show}
               <path
@@ -62,25 +63,6 @@
     </svg>
   {/if}
 </div>
-
-<!-- <div class="result w-full h-full">
-  {#if features.length > 0 && path && projection}
-    <svg {width} {height} viewBox="0 0  {width} {height}">
-      <g>
-        {#each features as feature}
-          {#if feature.properties.type == "circle"}
-            <path
-              d={feature.path}
-              stroke="white"
-              fill="transparent"
-              stroke-width="2"
-            />
-          {/if}
-        {/each}
-      </g>
-    </svg>
-  {/if}
-</div> -->
 
 <style lang="scss">
 </style>

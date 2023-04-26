@@ -4,7 +4,7 @@
 
 <slot><!-- optional fallback --></slot>
 {#if promise}
-  <div class="promisewrapper text-white h-full">
+  <div class="promisewrapper text-white">
     {#await promise}
       <slot state="loading" name="loading" />
     {:then response}
