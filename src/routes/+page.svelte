@@ -38,7 +38,7 @@
   // }
 
   async function loadCountries() {
-    let countryIDs = countries.map((e) => e.country_id);
+    let countryIDs = countries.slice(1, 2).map((e) => e.country_id);
     // console.log("countries", countries);
     let promises = countryIDs.map(async (c) => {
       const raw = await fetch("/data/" + c + ".json");

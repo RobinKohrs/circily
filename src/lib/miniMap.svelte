@@ -1,43 +1,45 @@
 <script>
   import { geoMercator, geoPath, geoAlbers } from "d3-geo";
   import { draw } from "svelte/transition";
-  import { onMount } from "svelte";
+  import { onMount, onDestroy } from "svelte";
+  import { feature } from "topojson-client";
   export let width;
   export let height;
   export let gemeinde;
-
-  onMount(() => {
-    console.log("gemeinde: ", gemeinde);
-  });
 
   let projection;
   let path;
   let features = [];
   let show = false;
 
-  $: if (gemeinde && width && height) {
+  async function getFeature(gemeinde) {
+    features = gemeinde.features.map((f) => {
+      let newF = {
+        type: "Feature",
+        geometry: f.geometry,
+        path: path(f),
+        properties: {
+          name: f.properties.comm_name,
+          id: f.properties.id,
+          type: f.properties.type,
+        },
+      };
+
+      return newF;
+    });
+
+    show = true;
+  }
+
+  $: if (gemeinde) {
     let gemeindeToFit = gemeinde.features.find(
       (f) => f.properties.type == "all"
     );
+
     projection = geoMercator().fitSize([width, height], gemeindeToFit);
     path = geoPath().projection(projection);
 
-    gemeinde.features.forEach((f, i) => {
-      features = [
-        ...features,
-        {
-          type: "Feature",
-          geometry: f.geometry,
-          path: path(f),
-          properties: {
-            name: f.properties.comm_name,
-            id: f.properties.id,
-            type: f.properties.type,
-          },
-        },
-      ];
-    });
-    show = true;
+    getFeature(gemeinde);
   }
 </script>
 
@@ -47,16 +49,13 @@
       <g>
         {#each features as feature, i}
           {#if feature.properties.type == "gem"}
-            {#if show}
-              <path
-                in:draw={{ delay: 1000, duration: 1000 }}
-                out:draw={{ duration: 500 }}
-                d={feature.path}
-                stroke="white"
-                fill="transparent"
-                stroke-width="2"
-              />
-            {/if}
+            <path
+              in:draw={{ delay: 2, duration: 1000 }}
+              d={feature.path}
+              stroke="white"
+              fill="transparent"
+              stroke-width="2"
+            />
           {/if}
         {/each}
       </g>
